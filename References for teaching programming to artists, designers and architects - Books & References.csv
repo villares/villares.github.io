@@ -1,4 +1,3 @@
-Table II - Books & Other References,,,,"[check the ""About"" tab]",Make a small donation!,,,"by Alexandre B A VIllares, CC-BY-SA-4.0 License",Revision 16.04.28
 ID,Card,Media,Title,Authors,Edition,Keywords,Language,Where to find,Notable Licenses
 01,yes,"book, PDF",10 print chr$(205.5+rnd(1)) :goto 10,"BAUDOIN, Patsy; REAS, Casey; MARINO, Mark C.; DOUGLASS, Jeremy; BELL, John; SAMPLE, Mark; BOGOST, Ian; MONTFORT, Nick.","Cambridge, Mass.: MIT Press, 2013.","Digital literacy, art",English,[PDF disponível] 10print.org,Creative Commons BY-NC-SA 3.0
 02,no,PDF,Arduino 101 Oficina para principiantes,"RAMALHO, Luciano.",-,"Arduino, indtrodutório",português,[PDF disponível] speakerdeck.com/ramalho/arduino-101,Creative Commons BY-SA
