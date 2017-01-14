@@ -3,17 +3,17 @@
 /* Addapted from https://github.com/edwardtufte/tufte-css/blob/gh-pages/tufte.css
     */
 @font-face { font-family: "Open Sans";
-             src: url(" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
+             src: url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
              font-weight: normal;
              font-style: normal; }
 
 @font-face { font-family: "Open Sans";
-             src: url(" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
+             src: url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
              font-weight: normal;
              font-style: italic; }
 
 @font-face { font-family: "Open Sans";
-             src: url(" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
+             src: url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
              font-weight: bold;
              font-style: normal; }
 
