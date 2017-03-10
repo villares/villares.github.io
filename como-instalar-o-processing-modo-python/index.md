@@ -14,31 +14,26 @@ existem dois outros projetos importantes da Fundação Processing:
 O P5\*JS tem um IDE próprio que pode ser baixado separadamente, mas
 ambos podem ser adicionados ao IDE tradicional.
 
-Entre na parte de downloads do site do Processing
-(<http://www.processing.org/download>) Escolha se vai fazer uma doação
-para ajudar o projeto (não é obrigatório, mas é uma boa ideia) e clique
-para baixar.\
+Entre na parte de downloads do site do Processing (<http://www.processing.org/download>) Escolha se vai fazer uma doação
+para ajudar o projeto (não é obrigatório, mas é uma boa ideia) e clique para baixar.
+
 [![](https://i2.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passoX.png?resize=604%2C368)
 
-Escolha o seu sistema operacional e baixe.\
+Escolha o seu sistema operacional e baixe.
+
 ![passo1](https://i0.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo1-e1476547173613.png?resize=604%2C340)
 
-Saiba que não há um instalador, basta descomprimir, mova a pasta como um
-todo para onde preferir (não tire o executável da pasta) e abra o IDE.\
-Veja como fica no Windows:
+Saiba que não há um instalador, basta descomprimir, mova a pasta como um todo para onde preferir (não tire o executável da pasta) e abra o IDE. Veja como fica no Windows:
 
 ![passo2](https://i2.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo2.png?resize=604%2C401)
 
-No Mac OS é praticamente a mesma coisa, e no Linux, abra um terminal na
-pasta do Processing e digite *./processing*
+No Mac OS é praticamente a mesma coisa, e no Linux, abra um terminal na pasta do Processing e digite *./processing*
 
-</div>
+Lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…*
 
-Lançado o IDE do Processing, procure no menu de modos o item *Adicionar
-modo…*![passo3](https://i0.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo3.png?resize=604%2C423)
+![passo3](https://i0.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo3.png?resize=604%2C423)
 
-Peça para instalar o modo Python \[Se esta etapa falhar, veja as
-observações mais abaixo\]
+Peça para instalar o modo Python \[Se esta etapa falhar, veja as observações mais abaixo.
 
 ![passo4](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo4.png?resize=604%2C551)
  
@@ -46,17 +41,14 @@ observações mais abaixo\]
 Note que na pasta *Documentos* do usuário será criada uma pasta
 *Processing*, onde ficarão seus *sketches* (programas), ferramentas,
 modos e bibliotecas. Este é o estado final quando a instalação
-terminou:\
+terminou:
+
 ![passo5](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo5.png?resize=604%2C416)
 
-</div>
-
-Observações: Caso não seja possível instalar o modo Python de dentro do
-IDE (redes com filtros ou proxies restritivas) você pode baixar,
-deszipar
-[PyhtonMode.zip](https://drive.google.com/open?id=0B1vJ6aH--6MJOFY4Y0ltVzgzZjA)
-e colocar manualmente (no Windows e Mac OS) em *Documentos &gt;
-Processing &gt; modes &gt;* PythonMode.
+Observações: Caso não seja possível instalar o modo Python de dentro do IDE (redes com filtros ou proxies restritivas) você pode baixar, deszipar [PyhtonMode.zip](https://drive.google.com/open?id=0B1vJ6aH--6MJOFY4Y0ltVzgzZjA) e colocar manualmente (no Windows e Mac OS) em *Documentos &gt; Processing &gt; modes &gt;* PythonMode.
 
 PS: Que tal um programinha para testar?
-<https://github.com/villares/py.processing-play>[![](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-15-at-5.45.19-PM.png?resize=604%2C304)
+
+<https://github.com/villares/py.processing-play>
+
+[![](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-15-at-5.45.19-PM.png?resize=604%2C304)
