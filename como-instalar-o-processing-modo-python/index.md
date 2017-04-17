@@ -16,6 +16,7 @@ ambos podem ser adicionados ao IDE tradicional.
 
 Entre na parte de downloads do site do Processing (<http://www.processing.org/download>) Escolha se vai fazer uma doação
 para ajudar o projeto (não é obrigatório, mas é uma boa ideia) e clique para baixar.
+# Como instalar o Processing modo Python
 
 [![](https://i2.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passoX.png?resize=604%2C368)
 
@@ -33,7 +34,7 @@ Lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…
 
 ![passo3](https://i0.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo3.png?resize=604%2C423)
 
-Peça para instalar o modo Python \[Se esta etapa falhar, veja as observações mais abaixo.
+Peça para instalar o modo Python \[Se esta etapa falhar, veja as observações mais abaixo].
 
 ![passo4](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo4.png?resize=604%2C551)
  
@@ -51,4 +52,4 @@ PS: Que tal um programinha para testar?
 
 <https://github.com/villares/py.processing-play>
 
-[![](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-15-at-5.45.19-PM.png?resize=604%2C304)
+![fim](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-15-at-5.45.19-PM.png?resize=604%2C304)
