@@ -51,6 +51,9 @@ Observações: Caso não seja possível instalar o modo Python de dentro do IDE 
 
 PS: Que tal um programinha para testar?
 
-<https://github.com/villares/py.processing-play>
+[github.com/villares/py.processing-play](https://github.com/villares/py.processing-play)
 
 ![fim](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-15-at-5.45.19-PM.png?resize=604%2C304)
+
+**Alexandre B A Villares**
+[github.com/villares](https://github.com/villares)
