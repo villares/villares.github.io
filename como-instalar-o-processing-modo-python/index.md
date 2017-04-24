@@ -16,12 +16,7 @@ existem dois outros projetos importantes da Fundação Processing:
 O P5\*JS tem um IDE próprio que pode ser baixado separadamente, mas
 ambos podem ser adicionados ao IDE tradicional.
 
-Entre na parte de downloads do site do Processing (<http://www.processing.org/download>) Escolha se vai fazer uma doação
-para ajudar o projeto (não é obrigatório, mas é uma boa ideia) e clique para baixar.
-
-[![](https://i2.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passoX.png?resize=604%2C368)
-
-Escolha o seu sistema operacional e baixe.
+Entre na parte de downloads do site do Processing (<http://www.processing.org/download>), escolha o seu sistema operacional e baixe.
 
 ![passo1](https://i0.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo1-e1476547173613.png?resize=604%2C340)
 
