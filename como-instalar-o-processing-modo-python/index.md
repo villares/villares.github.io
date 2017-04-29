@@ -13,8 +13,7 @@ existem dois outros projetos importantes da Fundação Processing:
 -   [Processing **Python** Mode](https://py.processing.org/) (baseado em
     Jython).
 
-O P5\*JS tem um IDE próprio que pode ser baixado separadamente, mas
-ambos podem ser adicionados ao IDE tradicional.
+Ambos podem ser adicionados ao IDE tradicional. Veja a seguir como instalar o Processing Modo Python.
 
 Entre na parte de downloads do site do Processing (<http://www.processing.org/download>), escolha o seu sistema operacional e baixe.
 
