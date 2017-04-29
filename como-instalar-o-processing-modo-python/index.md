@@ -49,5 +49,5 @@ PS: Que tal um programinha para testar?
 
 ![fim](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-15-at-5.45.19-PM.png?resize=604%2C304)
 
-by Alexandre B A Villares, [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[github.com/villares](https://github.com/villares)
+by Alexandre B A Villares ([github.com/villares](https://github.com/villares))
+, [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
