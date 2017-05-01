@@ -8,9 +8,7 @@ Tenho experiência  em  palestras e cursos de curta ou longa duração em muitos
 
 Sou membro associado do [Garoa Hacker Clube](https://garoa.net.br), que é um ótimo local de encontro e aprendizado, onde co-coordeno a [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing), atividade mensal sobre arte e programação criativa.
 
-Quer aprender a programar? Pergunte-me como!
-
-twitter.com/villares
-github.com/villares
-villares.garoa.club
-arteprog.space
+twitter.com/villares<br>
+github.com/villares<br>
+villares.garoa.club<br>
+arteprog.space<br>
