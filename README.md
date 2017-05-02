@@ -18,3 +18,7 @@ Frequento o [Garoa Hacker Clube](https://garoa.net.br), que é um ótimo local d
 ### originalmente em abav.lugaralgum.com
 <hr>
 [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/)
+
+[Recursos para o ensino de programação para artistas, designers e arquitetos](https://github.com/villares/Recursos-para-o-ensino-de-programacao)
+
+[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)
