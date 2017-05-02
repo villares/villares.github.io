@@ -13,8 +13,8 @@ Trabalho com temas desde fabricação digital ao ensino de programação para ar
 Tenho experiência  em  palestras e cursos de curta ou longa duração em muitos lugares, mais recentemente no The Developers Conference 2016 (Oficina TDC4Kids, Processing + Python, com [Luciano Ramalho](https://github.com/ramalho), IA-UNESP (Arduino e Processing + Python ),  IED (Modelagem 3D, VR e AR, programação com P5JS) e diversas unidades do SESC ([Arte digital e programação](http://artepro.space), com [Monica Rizzolli](https://github.com/monicarizzolli)).
 
 Frequento o [Garoa Hacker Clube](https://garoa.net.br), que é um ótimo local de encontro e aprendizado, onde co-coordeno a [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing), atividade mensal sobre arte e programação.
-<hr>
+
 
 ### originalmente em abav.lugaralgum.com
-
+<hr>
 [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/)
