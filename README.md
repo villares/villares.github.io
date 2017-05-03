@@ -26,3 +26,4 @@ Frequento o [Garoa Hacker Clube](https://garoa.net.br) onde co-coordeno a [Noite
 [Recursos para o ensino de programação para artistas, designers e arquitetos](https://github.com/villares/Recursos-para-o-ensino-de-programacao)
 
 *[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)*
+
