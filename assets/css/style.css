@@ -1,4 +1,5 @@
 /*! style.css v1.0.0-alpha-8 | ISC License | https://github.com/ungoldman/style.css */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @font-face { font-family: "Open Sans";
              src: url("https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700");
              font-weight: normal;
