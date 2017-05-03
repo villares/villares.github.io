@@ -10,9 +10,13 @@ Sou professor e me dedico a exploração de ferramentas digitais. Após a gradua
 
 Trabalho com temas desde fabricação digital ao ensino de programação para arquitetos, designers, artistas visuais, crianças, jovens  e interessados em geral. Iniciei em 2017 os estudos para o mestrado na FEC/Unicamp.
 
-Tenho experiência  em ministrar palestras e cursos de curta ou longa duração. Mais recentemente: The Developers Conference 2016 (Oficina TDC4Kids, Processing + Python, com [Luciano Ramalho](https://github.com/ramalho), IA-UNESP (Arduino e Processing + Python),  IED (Modelagem 3D, VR/AR e programação com P5JS) e em diversas unidades do SESC ([Arte digital e programação](http://arteprog.space), com [Monica Rizzolli](https://github.com/monicarizzolli)).
+Tenho experiência  em ministrar palestras e cursos de curta ou longa duração. Mais recentemente:
+* The Developers Conference 2016 (Oficina TDC4Kids, Processing + Python, com [Luciano Ramalho](https://github.com/ramalho));
+* IA-UNESP - Zonas de Compensação 2016 (Arduino e Processing + Python);
+* IED - 2016 e 2017 (Modelagem 3D, VR/AR e programação com P5JS);
+* SESC - 2016 e 2017 ([Arte digital e programação](http://arteprog.space), com [Monica Rizzolli](https://github.com/monicarizzolli)).
 
-Frequento o [Garoa Hacker Clube](https://garoa.net.br), que é um ótimo local de encontro e aprendizado, onde co-coordeno a [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing), atividade mensal sobre arte e programação.
+Frequento o [Garoa Hacker Clube](https://garoa.net.br) onde co-coordeno a [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing), atividade mensal sobre arte e programação.
 
 
 ### originalmente em abav.lugaralgum.com
@@ -21,4 +25,4 @@ Frequento o [Garoa Hacker Clube](https://garoa.net.br), que é um ótimo local d
 
 [Recursos para o ensino de programação para artistas, designers e arquitetos](https://github.com/villares/Recursos-para-o-ensino-de-programacao)
 
-[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)
+*[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)*
