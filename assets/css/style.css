@@ -1,7 +1,7 @@
 /*! style.css v1.0.0-alpha-8 | ISC License | https://github.com/ungoldman/style.css */
-@import url('https://fonts.googleapis.com/css?family=Source+Sans');
-@font-face { font-family: "Source Sans";
-             src: url("https://fonts.googleapis.com/css?family=Source+Sans");
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@font-face { font-family: "Source Sans Pro";
+             src: url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
              font-weight: normal;
 font-style: normal; }
 html {
@@ -11,7 +11,7 @@ html {
   color: #303030;
   background-color: white;
   box-sizing: border-box;
-  font-family: "Source Sans", sans-serif;
+  font-family: "Source Sans Pro", "Open Sans", sans-serif;
   font-size: calc(16px + 0.25vw);
   line-height: 1.4;
   -webkit-font-kerning: normal;
