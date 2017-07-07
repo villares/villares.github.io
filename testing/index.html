@@ -1,101 +1,25 @@
 
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-      <!-- adaptado de https://gist.github.com/marwinxxii/3359d7b3023473a23b66 -->
-      <script src="http://yastatic.net/raphael/2.1.0/raphael.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.4/sequence-diagram-min.js"></script>
-
-      <style type="text/css">
-      .text {
-        font-size: 12px !important;
-      }
-      .rect[stroke-width="2"] {
-        stroke-width: 1px !important;
-      }
-      /*signal*/
-      .path[marker-end] {
-      }
-      </style>
-
-      <script>
-String.prototype.replaceAll = function(find, replace) {
-  return this.split(find).join(replace);
-};
-function setPaperProxyForClass(funcName) {
-  var drawFunc = Raphael._Paper.prototype[funcName];
-  Raphael._Paper.prototype[funcName] = function() {
-    var res = drawFunc.apply(this, arguments);
-    res.node.setAttribute('class', funcName);
-    return res;
-  };
-}
-['text', 'rect', 'path'].forEach(setPaperProxyForClass);
-function getSource() {
-  return document.getElementById('diagram_source').value;
-}
-function getActorsFromSequence(action, sequence) {
-  return sequence.split(':').shift().split(action);
-}
-function createResponseSequence(action, sequence) {
-  var actors = getActorsFromSequence(action, sequence);
-  return [actors[1], action, actors[0], ':'].join('');
-}
-function preProcessSource(source) {
-  return source.replaceAll(' -[ ', '-[')
-    .replaceAll(' --[ ', '--[')
-    .replaceAll(' =[ ', '=>')
-    .replaceAll('-[', '->')
-    .split('\n')
-    .map(function(line, index, arr) {
-      if (line.indexOf('=>') > 0) {
-        line = line.replace('=>', '->');
-        return [line, createResponseSequence('->', line)].join('\n');
-      }
-      return line;
-    })
-    .join('\n');
-}
-function drawDiagram(elementId, sourceCode) {
-  var diagram = Diagram.parse(preProcessSource(sourceCode));
-  diagram.drawSVG(elementId, {theme: 'simple'});
-}
-function onDrawDiagram(event) {
-  drawDiagram('diagram', getSource());
-}
-function onShowSource(event) {
-  document.getElementById('source_container').style.display = 'block';
-  document.getElementById('show_source').style.display = 'none';
-}
-      </script>
-
-    <title>Add project diagram</title>
-
-  </head>
-  <body onload="onDrawDiagram(event);">
-    <div id="diagram"></div>
-    <button id="show_source" onclick="onShowSource(event);">Show source</button>
-    <div id="source_container" style="display:none">
-      <textarea id="diagram_source" rows="15" cols ="75">
+<script src="{{ bower directory }}/bower-webfontloader/webfont.js" />
+<script src="{{ bower directory }}/snap.svg/dist/snap.svg-min.js" />
+<script src="{{ bower directory }}/underscore/underscore-min.js" />
+<script src="{{ bower directory }}/js-sequence-diagrams/dist/sequence-diagram-min.js" />
 
 
-Alice -] Beto: Oi Beto, how are you?
+
+<script src="{{ bower directory }}/jquery/dist/jquery.min.js" />
+<div class="diagram">
+Alice -> Beto: Oi Beto, how are you?
 Note right of Beto: Beto pensa
-Beto --] Alice: Tudo bem...
-Beto --]Carlos: Huh?
-Alice -] Carlos: Sai daqui!
-Carlos -] Beto: what?
+Beto --> Alice: Tudo bem...
+Beto --> Carlos: Huh?
+Alice -> Carlos: Sai daqui!
+Carlos -> Beto: what?
 Note right of Carlos: Carlos leaves the room
-
-
-</textarea>
-      <br/>
-      <button onclick="onDrawDiagram(event);">Draw</button>
-    </div>
-  </body>
-</html>
-
+       
+        </div>
+<script>
+  var options = {theme: 'simple'};
+  $(".diagram").sequenceDiagram(options);
+</script>
 
 
