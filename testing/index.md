@@ -1,9 +1,10 @@
-```sequence
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
-Bob-->Claire: Huh?
-Alice->Claire: Get out!
+
+![](https://get-diagram.herokuapp.com/sequence?
+Alice->Beto: Oi Beto, how are you?
+Note right of Beto: Beto pensa
+Beto-->Alice: Tudo bem...
+Beto-->Carlos: Huh?
+Alice->Carlos: Sai daqui!
 Claire->Bob: what?
 Note right of Claire: Claire leaves the room
-```
+)
