@@ -1,9 +1,9 @@
-
-     <script src="http://yastatic.net/raphael/2.1.0/raphael.min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.4/sequence-diagram-min.js"></script>
-<script src="https://code.jquery.com/" />
-<div class="diagram">
+<script src="http://yastatic.net/raphael/2.1.0/raphael.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.4/sequence-diagram-min.js"></script>
+<div id="diagram">Diagram will be placed here</div>
+<script> 
+  var d = Diagram.parse(`
 Alice -> Beto: Oi Beto, how are you?
 Note right of Beto: Beto pensa
 Beto --> Alice: Tudo bem...
@@ -11,11 +11,7 @@ Beto --> Carlos: Huh?
 Alice -> Carlos: Sai daqui!
 Carlos -> Beto: what?
 Note right of Carlos: Carlos leaves the room
-       
-        </div>
-<script>
+`);
   var options = {theme: 'simple'};
-  $(".diagram").sequenceDiagram(options);
+  d.drawSVG('diagram', options);
 </script>
-
-
