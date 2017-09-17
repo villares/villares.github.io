@@ -13,7 +13,7 @@ Tenho experiência em ministrar palestras e cursos de curta ou longa duração. 
 * The Developers Conference 2016 (Oficina TDC4Kids, Processing + Python, com [Luciano Ramalho](https://github.com/ramalho));
 * IA-UNESP - Zonas de Compensação 2016 (Arduino e Processing + Python);
 * IED - 2016 e 2017 (Modelagem 3D, VR/AR e programação com P5JS);
-* SESC - 2016 e 2017 ([Programação criativa e arte argoritmica](http://arteprog.space), com [Monica Rizzolli](https://github.com/monicarizzolli)).
+* SESC - 2016 e 2017 ([Programação criativa e arte argorítmica](http://arteprog.space), com [Monica Rizzolli](https://github.com/monicarizzolli)).
 
 ### mais alguns links
 <hr>
