@@ -16,7 +16,7 @@ O ensino de programação nos cursos de design e arquitetura tem avançado rapid
 
 **Palavras-chave:** Processing, Python, ensino, programação, programação-criativa 
 
-## Code
+## Code / Código
 
 [https://github.com/villares/mestrado/tree/master/bandeirinhas](https://github.com/villares/mestrado/tree/master/bandeirinhas)
 
