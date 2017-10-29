@@ -18,8 +18,8 @@ O ensino de programação nos cursos de design e arquitetura tem avançado rapid
 
 ## Code
 
-https://github.com/villares/mestrado/tree/master/bandeirinhas
+[https://github.com/villares/mestrado/tree/master/bandeirinhas]
 
-## English language ativity write up [in progress]
+## English language activity write up [in progress]
 
-https://medium.com/@villares/object-orientation-with-bandeirinhas-part-1-7-7765ab596d95
+[https://medium.com/@villares/object-orientation-with-bandeirinhas-part-1-7-7765ab596d95]
