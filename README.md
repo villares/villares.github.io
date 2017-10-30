@@ -1,9 +1,9 @@
 ------
 
+[**contato**](http://contato.lugaralgum.com) | 
 [github.com/villares](http://github.com/villares) | 
 [arteprog.space](http://arteprog.space) | 
-[twitter.com/villares](http://twitter.com/villares) | 
-[**contato**](http://contato.lugaralgum.com)
+[twitter.com/villares](http://twitter.com/villares)
 
 ------
 
@@ -20,9 +20,9 @@ Tenho experiência em ministrar palestras e cursos de curta ou longa duração. 
 ### mais alguns links
 ------
 
-VILLARES, A. B. A.; MOREIRA, D. de C.; GOMES, M. R. [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](villares.github.io/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017.
+VILLARES, A. B. A.; MOREIRA, D. de C.; GOMES, M. R. [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017.
 
-VILLARES, A. B. A.; MOREIRA, D. DE C. [Python on the Landscape of Programming Tools for Design and Architectural Education](villares.github.io/VILLARES_MOREIRA_SIGRADI_2017)[to be] Presented at the SIGRADI 2017, Concepcíon, Chile.
+VILLARES, A. B. A.; MOREIRA, D. DE C. [Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/VILLARES_MOREIRA_SIGRADI_2017)[to be] Presented at the SIGRADI 2017, Concepcíon, Chile.
 
 [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/)
 
