@@ -1,8 +1,8 @@
 ------
 
-[github.com/villares](http://github.com/villares)</br>
-[arteprog.space](http://arteprog.space)</br>
-[twitter.com/villares](http://twitter.com/villares)</br>
+[github.com/villares](http://github.com/villares) </br>
+[arteprog.space](http://arteprog.space) </br>
+[twitter.com/villares](http://twitter.com/villares) </br>
 [**contato**](http://contato.lugaralgum.com)
 
 ------
