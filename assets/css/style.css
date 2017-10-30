@@ -76,14 +76,6 @@ small {
   font-size: 80%;
 }
 
-.h0 {
-  font-size: 2em;
-  line-height: 1.0em;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
-  position: relative;
-}
-
 h1,
 h2,
 h3,
@@ -110,7 +102,7 @@ h6 small {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 h2 {
