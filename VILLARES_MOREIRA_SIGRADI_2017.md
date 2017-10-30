@@ -1,3 +1,5 @@
+----
+
 # Python on the Landscape of Programming Tools for Design and Architectural Education
 
 Alexandre Barrozo do Amaral Villares; Daniel de Carvalho Moreira.
@@ -10,3 +12,9 @@ Currently most professional modeling and computer graphics software packages emb
 ## Raw data
 
 [https://github.com/villares/Resources-for-teaching-programming](https://github.com/villares/Resources-for-teaching-programming)
+
+----
+
+VILLARES, A. B. A.; MORREIRA, D. C. **Python on the Landscape of Programming Tools for Design and Architectural Education**. [to be] Presented at the SIGRADI 2017, Concepcíon, Chile. 1017.
+
+----
