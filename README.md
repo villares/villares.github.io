@@ -1,4 +1,3 @@
-## Alexandre B A Villares
 <hr>
 [github.com/villares](http://github.com/villares)<br>
 [arteprog.space](http://arteprog.space)<br>
@@ -17,6 +16,8 @@ Tenho experiência em ministrar palestras e cursos de curta ou longa duração. 
 
 ### mais alguns links
 <hr>
+VILLARES, A. B. A.; MOREIRA, D. DE C.; GOMES, M. R. [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017.
+
 [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/)
 
 [Recursos para o ensino de programação para artistas, designers e arquitetos](https://github.com/villares/Recursos-para-o-ensino-de-programacao)
