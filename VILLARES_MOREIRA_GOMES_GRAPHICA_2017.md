@@ -1,6 +1,8 @@
+----
+
 # Ensino de programação em um contexto de exploração gráfica com Processing modo Python
 
-> VILLARES, A. B. A.; MOREIRA, D. DE C.; GOMES, M. R. Ensino de programação em um contexto de exploração gráfica com Processing modo Python. GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017.
+Alexandre B. A. Villares; Daniel de Carvalho Moreira; Monica Rizzolli Gomes.
 
 **A link to the full paper will be posted here! Um link para o artigo completo será postado aqui**
 
@@ -23,3 +25,9 @@ O ensino de programação nos cursos de design e arquitetura tem avançado rapid
 ## English language activity write up [in progress]
 
 [https://medium.com/@villares/object-orientation-with-bandeirinhas-part-1-7-7765ab596d95](https://medium.com/@villares/object-orientation-with-bandeirinhas-part-1-7-7765ab596d95)
+
+----
+
+VILLARES, A. B. A.; MOREIRA, D. DE C.; GOMES, M. R. **Ensino de programação em um contexto de exploração gráfica com Processing modo Python.** GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017.
+
+----
