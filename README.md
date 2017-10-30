@@ -20,6 +20,10 @@ Tenho experiência em ministrar palestras e cursos de curta ou longa duração. 
 ### mais alguns links
 ------
 
+VILLARES, A. B. A.; MOREIRA, D. de C.; GOMES, M. R. [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](villares.github.io/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017.
+
+VILLARES, A. B. A.; MOREIRA, D. DE C. [Python on the Landscape of Programming Tools for Design and Architectural Education](villares.github.io/VILLARES_MOREIRA_SIGRADI_2017)[to be] Presented at the SIGRADI 2017, Concepcíon, Chile.
+
 [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/)
 
 [Recursos para o ensino de programação para artistas, designers e arquitetos](https://github.com/villares/Recursos-para-o-ensino-de-programacao)
