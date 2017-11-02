@@ -43,7 +43,7 @@ terminou:
 
 ![passo5](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo5.png?resize=604%2C416)
 
-Observações: Caso não seja possível instalar o modo Python de dentro do IDE (redes com filtros ou proxies restritivas) você pode baixar, deszipar [PyhtonMode.zip](https://drive.google.com/open?id=0B1vJ6aH--6MJOFY4Y0ltVzgzZjA) e colocar manualmente (no Windows e Mac OS) em *Documentos &gt; Processing &gt; modes &gt;* PythonMode.
+Observações: Caso não seja possível instalar o modo Python de dentro do IDE (redes com filtros ou proxies restritivas) você pode baixar, deszipar [PyhtonMode.zip](http://py.processing.org/3/PythonMode.zip) e colocar manualmente (no Windows e Mac OS) em *Documentos &gt; Processing &gt; modes &gt;* PythonMode.
 
 PS: Que tal um programinha para testar?
 
