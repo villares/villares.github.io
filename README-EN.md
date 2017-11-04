@@ -1,14 +1,10 @@
-
-I work with themes ranging from digital manufacturing to programming for architects, designers, visual artists, children, young people and the general pubic. I started in 2017 my studies for a master's degree at FEC / Unicamp. I have experience in presenting lectures, teaching short and long duration courses. 
-
-
-
 ----
 
 [**contact**](http://contato.lugaralgum.com)
  | [github.com/villares](http://github.com/villares)
  | [twitter.com/villares](http://twitter.com/villares)
  | [**em português**](README.md)
+
 ----
 
 Architect (FAU-USP, 2000). Formerly a partner at TI Lab / ProBooks (from 2000 to 2015). Teacher at Escola da Cidade (architectural school in São Paulo) since 2005. Currently enrolled on ATC FEC/Unicamp master's program, researching computer programming teaching on a visual context. Processing Foundation [member](https://processingfoundation.org/members) and Garoa Hacker Clube [associate](http://villares.garoa.club). Co-criator of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) and [**arteprog** arte e programação](http://arteprog.space).
