@@ -7,17 +7,17 @@
 
 ----
 
-Arquiteto e urbanista pela FAU-USP (2000). Foi sócio entre 2000 e 2015 de TI Lab / ProBooks editora. Professor na Escola da Cidade (associação de ensino de arquitetura e urbanismo em São Paulo) desde 2005, atualmente na sequência de meios digitais. Inscrito em 2017 no programa de pós-graduação ATC FEC/Unicamp, mestrando, pesquisa ensino de programação num contexto visual. Membro da [Processing Foundation](https://processingfoundation.org/members),  [associado](http://villares.garoa.club) do Garoa Hacker Clube. Co-criador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e de [**arteprog** arte e programação](http://arteprog.space).
+Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / ProBooks editora. Professor na Escola da Cidade (associação de ensino de arquitetura e urbanismo em São Paulo) desde 2005, atualmente na sequência de meios digitais. Mestrando do programa de pós-graduação ATC FEC/Unicamp, pesquisa ensino de programação em um contexto visual. [Membro](https://processingfoundation.org/members) da Processing Foundation e [associado](http://villares.garoa.club) do Garoa Hacker Clube. Co-criador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e de [**arteprog** arte e programação](http://arteprog.space).
 
 ## atividades recentes
 
 ----
 
- Colaborador do portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
+ Colaborador do [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
 
  [Revista Amarello](http://www.amarello.com.br) #27: Editor convidado
 
-### artigos e outros recursos educacionais</br>
+### artigos e outros recursos educacionais
 
 - [Processando Processing](http://arteprog.space/processando-processing) e [Curso Programação Criativa](http://arteprog.space/programacao-criativa) [com Monica Rizzolli]
 - [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017
