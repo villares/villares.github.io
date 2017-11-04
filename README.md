@@ -12,33 +12,24 @@ Arquiteto e urbanista pela FAU-USP (2000). Foi sócio entre 2000 e 2015 de TI La
 
 ----
 
-Colaborador do portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
+ Colaborador do portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
 
-[Revista Amarello #26](http://www.amarello.com.br), editor convidado
+ Revista Amarello #26](http://www.amarello.com.br): Editor convidado
 
 ### artigos e  recursos educacionais</br>
 
-[Curso Programação Criativa](github.com/arteprog/programacao-criativa) [com Monica Rizzolli]
-
-[Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017
-[com Daniel de Carvalho Moreira e Monica Rizzolli]
-
-*[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) To be presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
-
-[Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/) 
-
-[Recursos para o ensino de programação para artistas, designers e arquitetos](https://github.com/villares/Recursos-para-o-ensino-de-programacao) 
-
-*[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)*
+- [Processando Processing](github.com/arteprog/processando-processing) e [Curso Programação Criativa](github.com/arteprog/programacao-criativa) [com Monica Rizzolli]
+- [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017
+  [com Daniel de Carvalho Moreira e Monica Rizzolli]
+- *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) To be presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
+- [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/) 
+- [Recursos para o ensino de programação para artistas, designers e arquitetos](https://github.com/villares/Recursos-para-o-ensino-de-programacao) 
+- *[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)*
 
 ### apresentações, cursos e oficinas
 
-- SESC - 2016 e 2017 ([Programação criativa e arte argorítmica](http://arteprog.space), com [Monica Rizzolli](https://github.com/monicarizzolli)).
-- Atividades com [Estúdio Hacker](estudiohacker.io), 2017, Inauguração SESC 24 de maio, Estúdio Hacker Day, eletrônica lúdica e computação desplugada.
-- IED - 2016 e 2017 (Modelagem 3D, VR/AR e programação com P5JS);
-
-* The Developers Conference 2016 (Oficina TDC4Kids, Processing + Python, com [Luciano Ramalho](https://github.com/ramalho));
-* IA-UNESP - Zonas de Compensação 2016 (Arduino e Processing + Python);
-
-  ​
-
+- SESC - 2016 e 2017 ([Programação criativa e arte argorítmica](http://arteprog.space), com [Monica Rizzolli](https://github.com/monicarizzolli))
+- Atividades com [Estúdio Hacker](estudiohacker.io), 2017, Inauguração SESC 24 de maio, Estúdio Hacker Day, eletrônica lúdica e computação desplugada
+- IED - 2016 e 2017 (Modelagem 3D, VR/AR e programação com P5JS)
+- The Developers Conference 2016 (Oficina TDC4Kids, Processing + Python, com [Luciano Ramalho](https://github.com/ramalho))
+- IA-UNESP - Zonas de Compensação 2016 (Arduino e Processing + Python)
