@@ -7,7 +7,7 @@
 
 ----
 
-Architect (FAU-USP, 2000). Formerly a partner at TI Lab / ProBooks (from 2000 to 2015). Teacher at Escola da Cidade (architectural school in São Paulo) since 2005. Currently enrolled on ATC FEC/Unicamp master's program, researching computer programming teaching on a visual context. Processing Foundation [member](https://processingfoundation.org/members) and Garoa Hacker Clube [associate](http://villares.garoa.club). Co-criator of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) and [**arteprog** arte e programação](http://arteprog.space).
+Architect (FAU-USP, 2000). Formerly a partner at TI Lab / ProBooks (from 2000 to 2015). Teacher at Escola da Cidade (architectural school in São Paulo) since 2005. Currently enrolled on ATC FEC/Unicamp master's program, researching computer programming teaching on a visual context. Processing Foundation [member](https://processingfoundation.org/members) and Garoa Hacker Clube [associate](http://villares.garoa.club). Co-creator of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) and [**arteprog** arte e programação](http://arteprog.space).
 
 ## recent activities
 
@@ -19,9 +19,8 @@ Revista Amarello #27 (http://www.amarello.com.br): Guest editor
 
 ### articles and other educational resourees
 
-- [Processando Processing](http://arteprog.space/processando-processing) e [Curso Programação Criativa](http://arteprog.space/programacao-criativa) [with Monica Rizzolli]
-- [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017
-  [with Daniel de Carvalho Moreira e Monica Rizzolli]
+- [Processando Processing](http://arteprog.space/processando-processing) and [Curso Programação Criativa](http://arteprog.space/programacao-criativa) [with Monica Rizzolli]
+- [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017 [with Daniel de Carvalho Moreira e Monica Rizzolli]
 - *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) To be presented at SIGRADI 2017, Concepcíon, Chile.* [with Daniel de Carvalho Moreira]
 - [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/) 
 - [Recursos para o ensino de programação para artistas, designers e arquitetos](https://github.com/villares/Recursos-para-o-ensino-de-programacao) 
