@@ -14,7 +14,7 @@ Arquiteto e urbanista pela FAU-USP (2000). Foi sócio entre 2000 e 2015 de TI La
 
  Colaborador do portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
 
- Revista Amarello #26](http://www.amarello.com.br): Editor convidado
+ [Revista Amarello](http://www.amarello.com.br) #27: Editor convidado
 
 ### artigos e recursos educacionais</br>
 
