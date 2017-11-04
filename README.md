@@ -3,7 +3,7 @@
 [**contato**](http://contato.lugaralgum.com)
  | [github.com/villares](http://github.com/villares)
  | [twitter.com/villares](http://twitter.com/villares)
- | [English version](http://villares.github.io/README-EN.md)
+ | [English version](http://villares.github.io/README-EN)
 
 ----
 
