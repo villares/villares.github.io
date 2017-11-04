@@ -19,7 +19,7 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 ### artigos e outros recursos educacionais
 
-- [Processando Processing](http://arteprog.space/processando-processing) e [Curso Programação Criativa](http://arteprog.space/programacao-criativa) [com Monica Rizzolli]
+- [Processando Processing](http://arteprog.space/Processando-Processing) e [Curso Programação Criativa](http://arteprog.space/programacao-criativa) [com Monica Rizzolli]
 - [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017
   [com Daniel de Carvalho Moreira e Monica Rizzolli]
 - *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) To be presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
