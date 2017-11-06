@@ -3,7 +3,7 @@
 [**contact**](http://contato.lugaralgum.com)
  | [github.com/villares](http://github.com/villares)
  | [twitter.com/villares](http://twitter.com/villares)
- | [**em português**](README.md)
+ | [versão em português](README.md)
 
 ----
 
@@ -15,9 +15,9 @@ Architect (FAU-USP, 2000). Formerly a partner at TI Lab / ProBooks (from 2000 to
 
 Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
 
-Revista Amarello #27 (http://www.amarello.com.br): Guest editor
+[Revista Amarello](http://www.amarello.com.br) #27: Guest editor
 
-### articles and other educational resourees
+### articles and other educational resources
 
 - [Processando Processing](http://arteprog.space/processando-processing) and [Curso Programação Criativa](http://arteprog.space/programacao-criativa) [with Monica Rizzolli]
 - [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017 [with Daniel de Carvalho Moreira e Monica Rizzolli]
