@@ -25,6 +25,7 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
   [com Daniel de Carvalho Moreira e Monica Rizzolli]
 - *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) To be presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
 - [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/) 
+- [BeerPaint: Tutorial básico de MIT App Inventor](https://gumroad.com/l/kXiHW)
 - [Recursos para o ensino de programação para artistas, designers e arquitetos](https://github.com/villares/Recursos-para-o-ensino-de-programacao) 
 - *[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)*
 
