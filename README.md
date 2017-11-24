@@ -20,14 +20,16 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 ### artigos e outros recursos educacionais
 
+- *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
 - [Processando Processing](http://arteprog.space/Processando-Processing) e [Curso Programação Criativa](http://arteprog.space/programacao-criativa) [com Monica Rizzolli]
 - [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017
   [com Daniel de Carvalho Moreira e Monica Rizzolli]
-- *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) To be presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
-- [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/) 
+- [Como instalar o Processing Modo Python](https://villares.github.io/como-instalar-o-processing-modo-python/) 
+- *[Resources for teaching programming for artists, designers and architects](https://villares.github.io/Resources-for-teaching-programming/)*
+- [Recursos para o ensino de programação para artistas, designers e arquitetos](https://villares.github.io/Recursos-para-o-ensino-de-programacao) 
 - [BeerPaint: Tutorial básico de MIT App Inventor](https://gumroad.com/l/kXiHW)
-- [Recursos para o ensino de programação para artistas, designers e arquitetos](https://github.com/villares/Recursos-para-o-ensino-de-programacao) 
-- *[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)*
+
+
 
 ### apresentações, cursos e oficinas
 
