@@ -33,7 +33,11 @@ Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with
 ### presentations, courses and workshops
 
 - SESC - 2016 e 2017 ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criative), com [Monica Rizzolli](https://github.com/monicarizzolli))
+
 - [Estúdio Hacker](estudiohacker.io) activities in 2017, SESC 24 de maio inauguration, Estúdio Hacker Day, playful electronics and computer science unplugged
+
 - IED - 2016 e 2017 (3D Modeling, VR/AR and P5JS programming)
+
 - The Developers Conference 2016 (TDC4Kids workshop, Processing + Python, with [Luciano Ramalho](https://github.com/ramalho))
+
 - IA-UNESP - Zonas de Compensação 2016 (Arduino & Processing + Python)
