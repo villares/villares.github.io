@@ -10,6 +10,17 @@
 
 Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / ProBooks editora. Professor na Escola da Cidade (associação de ensino de arquitetura e urbanismo em São Paulo) desde 2005, atualmente na sequência de meios digitais. Mestrando do programa de pós-graduação ATC FEC/Unicamp, pesquisa ensino de programação em um contexto visual. [Membro](https://processingfoundation.org/members) da Processing Foundation e [associado](http://villares.garoa.club) do Garoa Hacker Clube. Co-criador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e de [**arteprog** arte e programação](http://arteprog.space).
 
+
+
+## janeiro de 2018
+----
+[**arteprog**](http://arteprog.space) no SESC 24 de maio e SESC Carmo
+
+Atividades com [Estúdio Hacker](http://estúdiohacker.io)
+
+
+
+
 ## atividades recentes
 
 ----
@@ -20,9 +31,9 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 ### artigos e outros recursos educacionais
 
-- *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
+- Projetos  [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
-- [Processando Processing](http://arteprog.space/Processando-Processing) e [Curso Programação Criativa](http://arteprog.space/programacao-criativa) [com Monica Rizzolli]
+- *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
 
 - [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017
   [com Daniel de Carvalho Moreira e Monica Rizzolli]
