@@ -16,7 +16,7 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 ----
 [**arteprog**](http://arteprog.space) no SESC 24 de maio e SESC Carmo
 
-Atividades com [Estúdio Hacker](http://estúdiohacker.io)
+Atividades com [Estúdio Hacker](http://estudiohacker.io)
 
 
 
