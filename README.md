@@ -15,13 +15,17 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 ----
 
-[**arteprog**](http://arteprog.space) - em janeiro de 2018 no SESC 24 de maio e SESC Carmo
+### [**arteprog**](http://arteprog.space) 
 
-[Estúdio Hacker](http://estudiohacker.io) - em janeiro de 2018 na Biblioteca São Paulo e SESC São Caetano
-
-### publicações e recursos educacionais
+- Oficinas em janeiro de 2018 no SESC 24 de maio e SESC Carmo
 
 - Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
+
+### [Estúdio Hacker](http://estudiohacker.io)
+
+- Oficinas em janeiro de 2018 na Biblioteca São Paulo e SESC São Caetano
+
+### publicações e recursos educacionais
 
 - Colaborações para o portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
 
@@ -44,7 +48,7 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 - SESC - 2016 e 2017 ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli))
 
-- Atividades com [Estúdio Hacker](estudiohacker.io), 2017, Inauguração SESC 24 de maio, Estúdio Hacker Day, eletrônica lúdica e computação desplugada
+- Inauguração do SESC 24 de maio, Estúdio Hacker Day 2017, diversas atividades de eletrônica lúdica e computação desplugada, com [Estúdio Hacker](http://estudiohacker.io)
 
 - IED - 2016 e 2017 (Modelagem 3D, VR/AR e programação com P5JS)
 
