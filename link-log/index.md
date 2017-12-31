@@ -4,27 +4,28 @@
 
 <script src="https://villares.github.io/link-log/sketch.js"></script>
 
-----
-[**contact**](http://contato.lugaralgum.com)
- | [arteprog.space](http://arteprog.space)
- | [github.com/villares](http://github.com/villares)
- | [twitter.com/villares](http://twitter.com/villares)
- | [about](http://villares.github.io/README-EN)
-
----
 # link-log
+----
+[se quiser receber por email links de tempos em tempos | *subscribe to get links from time to time*](http://contato.lugaralgum.com) não mais que uma vez por semana | not more than once a week
+----
 
 ## 2018
 
-### janeiro
+---
+
+## Feliz 2018!
+
+### previsão para janeiro
 
 Oficinas [**arteprog**](http://arteprog.space) no SESC 24 de maio e SESC Carmo 
 
-Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
-
 Oficinas [Estúdio Hacker](http://estudiohacker.io) na Biblioteca São Paulo e SESC São Caetano
 
+Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
+
+
 ## 2017
+---
 
 SESC Pompeia ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli))
 
@@ -45,6 +46,8 @@ Updated *[Resources for teaching programming for artists, designers and architec
 Updated [Recursos para o ensino de programação para artistas, designers e arquitetos](https://villares.github.io/Recursos-para-o-ensino-de-programacao) 
 
 ## 2016
+
+---
 
 [Como instalar o Processing Modo Python](https://villares.github.io/como-instalar-o-processing-modo-python/) 
 
