@@ -1,3 +1,5 @@
+**Feliz 2018!** o código está em [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/p5.js"></script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/addons/p5.dom.js"></script>
@@ -12,8 +14,6 @@ para receber links por email (± uma vez por semana) [escreva-me aqui](http://co
 ## 2018
 
 ---
-
-**Feliz 2018!** o código está em https://github.com/villares/p5js-play/tree/master/newYearStars
 
 ### previsão para janeiro
 
