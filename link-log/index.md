@@ -10,8 +10,6 @@
 
 para receber links por email (± uma vez por semana) [escreva-me aqui](http://contato.lugaralgum.com) / *to get links by email (about once a week) [ask here](http://contato.lugaralgum.com)*
 
-----
-
 ### 2018
 
 ----
@@ -46,9 +44,9 @@ Updated *[Resources for teaching programming for artists, designers and architec
 
 Updated [Recursos para o ensino de programação para artistas, designers e arquitetos](https://villares.github.io/Recursos-para-o-ensino-de-programacao) 
 
-## 2016
+### 2016
 
----
+----
 
 [Como instalar o Processing Modo Python](https://villares.github.io/como-instalar-o-processing-modo-python/) 
 
