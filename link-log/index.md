@@ -6,7 +6,9 @@
 
 # link-log
 ----
-[se quiser receber por email links de tempos em tempos | *subscribe to get links from time to time*](http://contato.lugaralgum.com) não mais que uma vez por semana | not more than once a week
+se quiser receber links por email (cerca de uma vez por semana) [escreva-me aqui(http://contato.lugaralgum.com)
+
+if you'd like to get links by email (about once a week) [ask here](http://contato.lugaralgum.com) 
 ----
 
 ## 2018
