@@ -11,11 +11,11 @@ para receber links por email (± uma vez por semana) [escreva-me aqui](http://co
 # link-log
 ----
 
-## 2018
+### 2018
 
 ---
 
-### breve / *comming soon*
+#### breve / *comming soon*
 
 Oficinas [**arteprog**](http://arteprog.space) em janeiro no SESC 24 de maio e SESC Carmo 
 
@@ -24,7 +24,7 @@ Oficinas [Estúdio Hacker](http://estudiohacker.io) em janeiro na Biblioteca Sã
 Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
 
-## 2017
+### 2017
 ---
 
 [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), em diversas unidades do SESC, com [Monica Rizzolli](https://github.com/monicarizzolli))
