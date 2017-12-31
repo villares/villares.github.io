@@ -6,10 +6,10 @@
 
 # link-log
 ----
-se quiser receber links por email (cerca de uma vez por semana) [escreva-me aqui(http://contato.lugaralgum.com)
+se quiser receber links por email (cerca de uma vez por semana) [escreva-me aqui](http://contato.lugaralgum.com)
 
 if you'd like to get links by email (about once a week) [ask here](http://contato.lugaralgum.com) 
-----
+
 
 ## 2018
 
