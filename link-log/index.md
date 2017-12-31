@@ -7,6 +7,7 @@
 <script src="https://villares.github.io/p5js-play/newYearStars/newYearStars_white_bg.js"></script>
 
 # link-log
+
 para receber links por email (± uma vez por semana) [escreva-me aqui](http://contato.lugaralgum.com) / *to get links by email (about once a week) [ask here](http://contato.lugaralgum.com)*
 ----
 
