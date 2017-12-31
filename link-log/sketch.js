@@ -6,7 +6,9 @@
 var starList = [];
 var params;
 function setup() {
-  createCanvas(windowWidth, windowHeight);
+  canvas = createCanvas(windowWidth, windowHeight);
+  canvas.position(0, 0);
+  //canvas.style('z-index', '-1');
   params = getURLParams(); 
   noStroke();
   for (var i = 0; i < 200; i++) {
@@ -19,7 +21,7 @@ function setup() {
 }
 
 function draw() {
-  background(255);
+  clear();
   textFont("monospace");
   fill(255,200);
   if (params && params.frase) {
