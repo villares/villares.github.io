@@ -1,5 +1,3 @@
-para receber links por email (± uma vez por semana) [escreva-me aqui](http://contato.lugaralgum.com) / *to get links by email (about once a week) [ask here](http://contato.lugaralgum.com)*
-
 ### Feliz 2018! *Happy 2018!* código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/p5.js"></script>
@@ -9,6 +7,7 @@ para receber links por email (± uma vez por semana) [escreva-me aqui](http://co
 <script src="https://villares.github.io/p5js-play/newYearStars/newYearStars_white_bg.js"></script>
 
 # link-log
+para receber links por email (± uma vez por semana) [escreva-me aqui](http://contato.lugaralgum.com) / *to get links by email (about once a week) [ask here](http://contato.lugaralgum.com)*
 ----
 
 ### 2018
