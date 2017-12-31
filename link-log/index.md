@@ -9,11 +9,12 @@
 # link-log
 
 para receber links por email (± uma vez por semana) [escreva-me aqui](http://contato.lugaralgum.com) / *to get links by email (about once a week) [ask here](http://contato.lugaralgum.com)*
+
 ----
 
 ### 2018
 
----
+----
 
 #### breve / *comming soon*
 
