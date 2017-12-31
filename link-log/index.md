@@ -2,7 +2,7 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/addons/p5.dom.js"></script>
 
-<script src="https://villares.github.io/link-log/sketch.js"></script>
+<script src="https://villares.github.io/p5js-play/newYearStars/newYearStars_white_bg.js"></script>
 
 # link-log
 ----
@@ -15,7 +15,7 @@ if you'd like to get links by email (about once a week) [ask here](http://contat
 
 ---
 
-## Feliz 2018!
+**Feliz 2018!** o código está em https://villares.github.io/link-log/sketch.js%22%3E%3C/script
 
 ### previsão para janeiro
 
