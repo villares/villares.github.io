@@ -6,14 +6,14 @@
 
 # link-log
 ----
-receba links por email (± uma vez por semana) [escreva-me aqui](http://contato.lugaralgum.com) | *get links by email (about once a week) [ask here](http://contato.lugaralgum.com)*
+para receber links por email (± uma vez por semana) [escreva-me aqui](http://contato.lugaralgum.com) | *to get links by email (about once a week) [ask here](http://contato.lugaralgum.com)*
 
 
 ## 2018
 
 ---
 
-**Feliz 2018!** o código está em https://villares.github.io/link-log/sketch.js%22%3E%3C/script
+**Feliz 2018!** o código está em https://github.com/villares/p5js-play/tree/master/newYearStars
 
 ### previsão para janeiro
 
