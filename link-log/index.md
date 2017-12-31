@@ -1,4 +1,4 @@
-<script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.8/p5.js"></script> <script src="sketch.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.8/p5.js"></script> <script src="/sketch.js"></script>
 
 ----
 [**contact**](http://contato.lugaralgum.com)
