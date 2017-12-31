@@ -1,7 +1,7 @@
   <!-- PLEASE NO CHANGES BELOW THIS LINE (UNTIL I SAY SO) -->
   <script language="javascript" type="text/javascript" src="https://villares.github.io/p5js-play/newYearStars/libraries/p5.js"></script>
   <script language="javascript" type="text/javascript" src="https://villares.github.io/p5js-play/newYearStars/libraries/p5.dom.js"></script>
-  <script language="javascript" type="text/javascript" src="https://villares.github.io/p5js-play/newYearStars/newYearStars_white_bg.js"></script>
+  <script language="javascript" type="text/javascript" src="https://raw.githubusercontent.com/villares/p5js-play/master/newYearStars/newYerStars_white_bg.js"></script>
 <!-- OK, YOU CAN MAKE CHANGES BELOW THIS LINE AGAIN -->
 
 ----
