@@ -1,3 +1,28 @@
+<style type="text/css>
+.parent
+{
+ position: relative;
+}
+.content {
+    margin-right: 300px;
+}
+.sidebar {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 300px;
+}
+/* Responsive bit*/
+@media only screen and (max-width: 320px) {
+.content {
+    margin-right: 0px;
+}
+.sidebar {
+    position: relative;
+    width: 100%;
+}
+}
+</style>
 <div class="parent">
 <div class='content'>
 
@@ -69,28 +94,4 @@ IA-UNESP - Zonas de Compensação 2016 ([Coding Dojo com Arduino](https://garoa.
 </div>
 </div>
 
-<style type="text/css>
-.parent
-{
- position: relative;
-}
-.content {
-    margin-right: 300px;
-}
-.sidebar {
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    width: 300px;
-}
-/* Responsive bit*/
-@media only screen and (max-width: 320px) {
-.content {
-    margin-right: 0px;
-}
-.sidebar {
-    position: relative;
-    width: 100%;
-}
-}
-</style>
+
