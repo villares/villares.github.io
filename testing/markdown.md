@@ -15,6 +15,6 @@ Oi
 </p>
 
 <p class="image-right"> 
-<a class="twitter-grid" data-limit="20" data-width="300" data-dnt="true" href="https://twitter.com/villares?ref_src=twsrc%5Etfw">National Park Tweets</a>
+<a class="twitter-grid" data-limit="20" data-width="300" data-dnt="true" href="https://twitter.com/villares?ref_src=twsrc%5Etfw">@villares</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
