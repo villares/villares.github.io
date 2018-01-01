@@ -87,11 +87,11 @@ The Developers Conference 2016 - Oficina TDC4Kids - [Processing + Python](https:
 IA-UNESP - Zonas de Compensação 2016 ([Coding Dojo com Arduino](https://garoa.net.br/wiki/Coding_Dojo_com_Arduino) e [Processing + Python](https://villares.github.io/como-instalar-o-processing-modo-python/))
 
 </div>
-<div class='sidebar'>
-<a class="twitter-grid" data-width="300" data-partner="tweetdeck" href="https://twitter.com/villares/timelines/947946408581136384?ref_src=twsrc%5Etfw">link-log</a>
+<p class='sidebar'>
+<a class="twitter-grid" data-width="200" data-partner="tweetdeck" href="https://twitter.com/villares/timelines/947946408581136384?ref_src=twsrc%5Etfw">link-log</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button image-right" data-show-count="false">Follow @villares</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+</p>
 </div>
 
 
