@@ -1,5 +1,4 @@
 
-
 ### Feliz 2018! *Happy 2018!* código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/p5.js"></script>
@@ -63,7 +62,3 @@ IED-SP, Modelagem 3D, VR/AR e [Programação com P5JS](https://github.com/villar
 The Developers Conference 2016 - Oficina TDC4Kids - [Processing + Python](https://villares.github.io/como-instalar-o-processing-modo-python/) com [Luciano Ramalho](https://github.com/ramalho)
 
 IA-UNESP - Zonas de Compensação 2016 ([Coding Dojo com Arduino](https://garoa.net.br/wiki/Coding_Dojo_com_Arduino) e [Processing + Python](https://villares.github.io/como-instalar-o-processing-modo-python/))
-
-
-
-
