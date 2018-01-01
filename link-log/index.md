@@ -4,8 +4,7 @@
   margin-left: auto;
   margin-right: auto;
   float: right;
-}
-</style>
+}</style>
 
 <p class="image-right"> 
 <a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button image-right" data-show-count="false">Follow @villares</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
