@@ -9,8 +9,9 @@
 <p class="image-right"> 
 <a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button image-right" data-show-count="false">Follow @villares</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<a class="twitter-timeline image-right" data-width="300" data-height="1500" data-dnt="true" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/villares?ref_src=twsrc%5Etfw">Tweets by @villares</a>
+<a class="twitter-grid" data-width="300" data-partner="tweetdeck" href="https://twitter.com/villares/timelines/947946408581136384?ref_src=twsrc%5Etfw">link-log</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </p>
 
 ### Feliz 2018! *Happy 2018!* código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
