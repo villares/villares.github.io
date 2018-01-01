@@ -15,8 +15,6 @@ Oi
 </p>
 
 <p class="image-right"> 
-<a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @villares</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a class="twitter-timeline" data-width="300" data-dnt="true" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/villares?ref_src=twsrc%5Etfw">Tweets by villares</a>
+<a class="twitter-grid" data-limit="20" data-width="300" data-dnt="true" href="https://twitter.com/villares?ref_src=twsrc%5Etfw">National Park Tweets</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
