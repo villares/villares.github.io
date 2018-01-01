@@ -1,6 +1,4 @@
 
-<!-- div class="parent"-->
-<!-- p class='content'-->
 
 ### Feliz 2018! *Happy 2018!* código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
 
@@ -13,6 +11,10 @@
 # link-log
 
 para receber links por email (± uma vez por semana) [escreva-me aqui](http://contato.lugaralgum.com) / *to get links by email (about once a week) [ask here](http://contato.lugaralgum.com)*
+
+<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/villares/timelines/947946408581136384?ref_src=twsrc%5Etfw">link-log</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button image-right" data-show-count="false">Follow @villares</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2018
 
@@ -62,11 +64,6 @@ The Developers Conference 2016 - Oficina TDC4Kids - [Processing + Python](https:
 
 IA-UNESP - Zonas de Compensação 2016 ([Coding Dojo com Arduino](https://garoa.net.br/wiki/Coding_Dojo_com_Arduino) e [Processing + Python](https://villares.github.io/como-instalar-o-processing-modo-python/))
 
-</p>
-<p class='sidebar'>
-<a class="twitter-grid" data-width="200" data-partner="tweetdeck" href="https://twitter.com/villares/timelines/947946408581136384?ref_src=twsrc%5Etfw">link-log</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button image-right" data-show-count="false">Follow @villares</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
+
 
 
