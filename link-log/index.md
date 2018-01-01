@@ -24,7 +24,7 @@
 }
 </style>
 <!-- div class="parent"-->
-<p class='content'>
+<!-- p class='content'-->
 
 ### Feliz 2018! *Happy 2018!* código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
 
