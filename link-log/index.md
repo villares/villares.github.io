@@ -69,7 +69,7 @@ IA-UNESP - Zonas de Compensação 2016 ([Coding Dojo com Arduino](https://garoa.
 </div>
 </div>
 
-<style tyme="text/css>
+<style type="text/css>
 .parent
 {
  position: relative;
