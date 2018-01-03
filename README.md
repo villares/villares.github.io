@@ -21,7 +21,7 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 - Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
-### [Estúdio Hacker](http://estudiohacker.io)
+### [estúdio hacker](http://estudiohacker.io)
 
 - Oficinas em janeiro de 2018 na Biblioteca São Paulo e SESC São Caetano
 
