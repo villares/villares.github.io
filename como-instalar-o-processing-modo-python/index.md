@@ -2,6 +2,8 @@
 
 # Como instalar o Processing modo Python
 
+[[English version](/index-EN.md)]
+
 [**Processing**](http://processsing.org) é uma plataforma livre/aberta
 de programação criada em 2001 por Casey Reas e Ben Fry, largamente
 utilizada por artistas e para o ensino de programação num contexto
@@ -34,7 +36,7 @@ Lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…
 Peça para instalar o modo Python \[Se esta etapa falhar, veja as observações mais abaixo].
 
 ![passo4](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo4.png?resize=604%2C551)
- 
+
 
 Note que na pasta *Documentos* do usuário será criada uma pasta
 *Processing*, onde ficarão seus *sketches* (programas), ferramentas,
