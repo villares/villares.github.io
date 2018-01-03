@@ -14,11 +14,17 @@ Architect (FAU-USP, 2000). Formerly a partner at TI Lab / ProBooks (from 2000 to
 
 ----
 
-Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
+### [**arteprog**](http://arteprog.space) 
 
-[Revista Amarello](http://www.amarello.com.br) #27: Guest editor
+- [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
-### articles and other educational resources
+### [estúdio hacker](http://estudiohacker.io)
+
+### publications and educational resources
+
+- Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
+
+- [Amarello](http://www.amarello.com.br) #27: Guest editor
 
 - *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) presented at SIGRADI 2017, Concepcíon, Chile.* [with Daniel de Carvalho Moreira]
 
