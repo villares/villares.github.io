@@ -1,21 +1,13 @@
-
-### Feliz 2018! *Happy 2018!* código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/p5.js"></script>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.16/addons/p5.dom.js"></script>
-
-<script src="https://villares.github.io/p5js-play/newYearStars/newYearStars_white_bg.js"></script>
-
+----
 # link-log
 
 para receber links por email (± uma vez por semana) [escreva-me aqui](http://contato.lugaralgum.com) / *to get links by email (about once a week) [ask here](http://contato.lugaralgum.com)*
 
-<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/villares/timelines/947946408581136384?ref_src=twsrc%5Etfw">link-log</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button image-right" data-show-count="false">Follow @villares</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ### 2018
+
+- *[sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)* Um programa visual por dia!
+
+- Feliz 2018! *Happy 2018!* código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
 
 ----
 
@@ -27,6 +19,10 @@ Oficinas [Estúdio Hacker](http://estudiohacker.io) em janeiro na Biblioteca Sã
 
 Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
+
+<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/villares/timelines/947946408581136384?ref_src=twsrc%5Etfw">link-log</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button image-right" data-show-count="false">Follow @villares</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2017
 ---
