@@ -7,7 +7,8 @@ para receber links por email (± uma vez por semana) [escreva-me aqui](http://co
 
 - *[sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)* Um programa visual por dia!
 
-- Feliz 2018! *Happy 2018!* código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
+- [Feliz 2018! *Happy 2018!*](https://villares.github.io/p5js-play/newYearStars/?frase=Season%20greetings!%3BAlexandre)
+> código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
 
 ----
 
