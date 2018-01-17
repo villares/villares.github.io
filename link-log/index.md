@@ -21,9 +21,9 @@ Oficinas [Estúdio Hacker](http://estudiohacker.io) em janeiro na Biblioteca Sã
 Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
 
-<!— a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/villares/timelines/947946408581136384?ref_src=twsrc%5Etfw">link-log</a>
+<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/villares/timelines/947946408581136384?ref_src=twsrc%5Etfw">link-log</a>
 < script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button image-right" data-show-count="false">Follow @villares</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script -->
+<a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button image-right" data-show-count="false">Follow @villares</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2017
 ---
