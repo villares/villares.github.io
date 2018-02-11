@@ -16,11 +16,6 @@ para receber links por email (± uma vez por semana) [escreva-me aqui](http://co
 - [Feliz 2018! *Happy 2018!*](https://villares.github.io/p5js-play/newYearStars/?frase=Season%20greetings!%3BAlexandre)
 > código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
 
-<a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/villares/timelines/947946408581136384?ref_src=twsrc%5Etfw">link-log</a>
-< script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/villares?ref_src=twsrc%5Etfw" class="twitter-follow-button image-right" data-show-count="false">Follow @villares</a> 
-< script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ### 2017
 ---
 
