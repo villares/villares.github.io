@@ -4,20 +4,16 @@
 
 [[English version](/index-EN.md)]
 
-[**Processing**](http://processsing.org) é uma plataforma livre/aberta
-de programação criada em 2001 por Casey Reas e Ben Fry, largamente
-utilizada por artistas e para o ensino de programação num contexto
-visual. O Processing IDE (da sigla em inglês para ambiente integrado de
+[**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação criada em 2001 por Casey Reas e Ben Fry, largamente utilizada por artistas e para o ensino de programação num contexto visual. O Processing IDE (da sigla em inglês para ambiente integrado de
 desenvolvimento), simplificando, é um editor de texto para código.
 
-A versão ‘standard’ do Processing é baseada em **Java**, mas hoje
-existem dois outros projetos importantes da Fundação Processing:
+A versão ‘standard’ do Processing é baseada em **Java**, mas hoje existem dois outros projetos importantes da Fundação Processing que você pode querer conhecer:
 
 -   [P5\*JS](https://p5js.org/) (baseado em **JavaScript)**;
 -   [Processing **Python** Mode](https://py.processing.org/) (baseado em
     Jython).
 
-Ambos podem ser adicionados ao IDE tradicional. Veja a seguir como instalar o Processing Modo Python.
+Ambos podem ser adicionados ao IDE tradicional. Vejamos a seguir **como instalar o Processing Modo Python**, que é o assunto desta página.
 
 Entre na parte de downloads do site do Processing (<http://www.processing.org/download>), escolha o seu sistema operacional e baixe.
 
@@ -27,7 +23,7 @@ Saiba que não há um instalador, basta descomprimir, mova a pasta como um todo 
 
 ![passo2](https://i2.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo2.png?resize=604%2C401)
 
-No Mac OS é praticamente a mesma coisa, e no Linux, abra um terminal na pasta do Processing e digite *./processing*
+No Mac OS é praticamente a mesma coisa, e no Linux, abra um terminal na pasta descomprimida do Processing e digite *./processing* (você pode querer executar também o *install.sh* que deve criar um atalho no desktop)
 
 Lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…*
 
