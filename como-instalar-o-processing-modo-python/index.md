@@ -25,7 +25,7 @@ Saiba que não há um instalador, basta descomprimir, mova a pasta como um todo 
 
 No Mac OS é praticamente a mesma coisa, e no Linux, abra um terminal na pasta descomprimida do Processing e digite *./processing* (você pode querer executar também o *install.sh* que deve criar um atalho no desktop)
 
-Lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…*
+Lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…* (ou *Add mode…* se estiver em inglês)
 
 ![passo3](https://i0.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo3.png?resize=604%2C423)
 
@@ -34,10 +34,8 @@ Peça para instalar o modo Python \[Se esta etapa falhar, veja as observações 
 ![passo4](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo4.png?resize=604%2C551)
 
 
-Note que na pasta *Documentos* do usuário será criada uma pasta
-*Processing*, onde ficarão seus *sketches* (programas), ferramentas,
-modos e bibliotecas. Este é o estado final quando a instalação
-terminou:
+Note que na pasta *Documentos* do usuário será criada uma pasta *Processing*, onde ficarão seus *sketches* (programas), ferramentas,
+modos e bibliotecas. Este é o estado final quando a instalação terminou:
 
 ![passo5](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo5.png?resize=604%2C416)
 
