@@ -17,13 +17,12 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 ### [**arteprog**](http://arteprog.space) 
 
-- Oficinas em janeiro de 2018 no SESC 24 de maio e SESC Carmo
+- Programação para artistas e curiosos no SESC 24 de maio [em andamento]
 
 - Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
 ### [estúdio hacker](http://estudiohacker.io)
 
-- Oficinas em janeiro de 2018 na Biblioteca São Paulo e SESC São Caetano
 
 ### publicações e recursos educacionais
 
