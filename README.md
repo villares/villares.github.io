@@ -23,7 +23,9 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 ### [estúdio hacker](https://estudiohacker.io)
 
-- SESC Osasaco 17 e 24 de março; Circuito SESC 2018 (diversas cidades)
+- SESC Osasaco, 17 e 24 de março
+
+- Circuito SESC 2018, diversas cidades, abril
 
 
 ### publicações e recursos educacionais
