@@ -15,13 +15,15 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 ----
 
-### [**arteprog**](http://arteprog.space) 
+### [**arteprog**](https://arteprog.space) 
 
-- Programação para artistas e curiosos no SESC 24 de maio [em andamento]
+- Projeto [Processando Processing](https://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
-- Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
+### [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
 
-### [estúdio hacker](http://estudiohacker.io)
+### [estúdio hacker](https://estudiohacker.io)
+
+- SESC Osasaco 17 e 24 de março; Circuito SESC 2018 (diversas cidades)
 
 
 ### publicações e recursos educacionais
@@ -45,7 +47,7 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 ### apresentações, cursos e oficinas
 
-- SESC - 2016 e 2017 ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli))
+- SESC - 2016, 2017 e 2018 ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli))
 
 - Inauguração do SESC 24 de maio, Estúdio Hacker Day 2017, diversas atividades de eletrônica lúdica e computação desplugada, com [Estúdio Hacker](http://estudiohacker.io)
 
