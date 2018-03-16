@@ -8,7 +8,7 @@
 
 ----
 
-Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / ProBooks editora. Professor na Escola da Cidade (associação de ensino de arquitetura e urbanismo em São Paulo) desde 2005, atualmente na sequência de meios digitais. Mestrando do programa de pós-graduação ATC FEC/Unicamp, pesquisa ensino de programação em um contexto visual. [Membro](https://processingfoundation.org/members) da Processing Foundation e [associado](http://villares.garoa.club) do Garoa Hacker Clube. Co-criador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e de [**arteprog** arte e programação](http://arteprog.space).
+Arquiteto e urbanista (FAU-USP, 2000). Professor na Escola da Cidade (associação de ensino de arquitetura e urbanismo em São Paulo) desde 2005, atualmente na sequência de meios digitais. Foi sócio entre 2000 e 2015 de TI Lab / ProBooks editora.  Mestrando do programa de pós-graduação ATC FEC/Unicamp, pesquisa ensino de programação em um contexto visual. [Membro](https://processingfoundation.org/members) da Processing Foundation e [associado](http://villares.garoa.club) do Garoa Hacker Clube. Co-criador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e de [**arteprog** arte e programação](http://arteprog.space).
 
 
 ## atividades
@@ -23,7 +23,7 @@ Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / 
 
 ### [estúdio hacker](https://estudiohacker.io)
 
-- SESC Osasaco, 17 e 24 de março
+- SESC Osaco, 17 e 24 de março
 
 - Circuito SESC 2018, diversas cidades, abril
 
