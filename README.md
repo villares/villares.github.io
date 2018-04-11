@@ -10,13 +10,16 @@
 
 Arquiteto e urbanista (FAU-USP, 2000), co-criador de [**arteprog** arte e programação](http://arteprog.space), co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing).  [Membro](https://processingfoundation.org/members) da Processing Foundation e [associado](http://villares.garoa.club) do Garoa Hacker Clube. Pesquisa ensino de programação em um contexto visual, no mestrado do programa de pós-graduação ATC FEC/Unicamp. Professor na Escola da Cidade e no IED-SP. Educador de tecnologias e artes no SESC Paulista.
 
+
 ----
 
-### [**arteprog**](http://arteprog.space)
+### [**arteprog**](https://arteprog.space) 
 
-- Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
+- Projeto [Processando Processing](https://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
-### [estúdio hacker](http://estudiohacker.io)
+### [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
+
+### [estúdio hacker](https://estudiohacker.io)
 
 ### [sketch-a-day](abav.lugaralgum.com/sketch-a-day)
 
@@ -41,7 +44,7 @@ Arquiteto e urbanista (FAU-USP, 2000), co-criador de [**arteprog** arte e progra
 
 ### apresentações, cursos e oficinas
 
-- SESC - 2016 e 2017 ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli))
+- SESC - 2016, 2017 e 2018 ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli))
 
 - Inauguração do SESC 24 de maio, Estúdio Hacker Day 2017, diversas atividades de eletrônica lúdica e computação desplugada, com [Estúdio Hacker](http://estudiohacker.io)
 
