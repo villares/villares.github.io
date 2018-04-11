@@ -8,8 +8,7 @@
 
 ----
 
-Arquiteto e urbanista (FAU-USP, 2000), co-criador de [**arteprog** arte e programação](http://arteprog.space), co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing).  [Membro](https://processingfoundation.org/members) da Processing Foundation e [associado](http://villares.garoa.club) do Garoa Hacker Clube. Pesquisa ensino de programação em um contexto visual, no mestrado do programa de pós-graduação ATC FEC/Unicamp. Professor na Escola da Cidade e no IED-SP. Educador de tecnologias e artes no SESC Paulista.
-
+Arquiteto e urbanista (FAU-USP, 2000), co-criador de [**arteprog** arte e programação.](http://arteprog.space) Pesquisa ensino de programação em um contexto visual, no mestrado do programa de pós-graduação ATC FEC/Unicamp. [Membro](https://processingfoundation.org/members) da Processing Foundation e [associado](http://villares.garoa.club) do Garoa Hacker Clube, onde co-organiza a [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing). Professor na Escola da Cidade e no IED-SP. Educador de tecnologias e artes no SESC Paulista.
 
 ----
 
@@ -20,8 +19,6 @@ Arquiteto e urbanista (FAU-USP, 2000), co-criador de [**arteprog** arte e progra
 ### [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
 
 ### [estúdio hacker](https://estudiohacker.io)
-
-### [sketch-a-day](abav.lugaralgum.com/sketch-a-day)
 
 ### publicações e recursos educacionais
 
