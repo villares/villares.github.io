@@ -1,28 +1,24 @@
 ----
 
 [**contato**](http://contato.lugaralgum.com)
- | [link-log](/link-log)
+ | [arteprog.space](https://arteprog.space)
  | [github.com/villares](http://github.com/villares)
  | [twitter.com/villares](http://twitter.com/villares)
  | [English version](http://villares.github.io/README-EN)
 
 ----
 
-Arquiteto e urbanista (FAU-USP, 2000). Foi sócio entre 2000 e 2015 de TI Lab / ProBooks editora. Professor na Escola da Cidade (associação de ensino de arquitetura e urbanismo em São Paulo) desde 2005, atualmente na sequência de meios digitais. Mestrando do programa de pós-graduação ATC FEC/Unicamp, pesquisa ensino de programação em um contexto visual. [Membro](https://processingfoundation.org/members) da Processing Foundation e [associado](http://villares.garoa.club) do Garoa Hacker Clube. Co-criador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e de [**arteprog** arte e programação](http://arteprog.space).
-
-
-## atividades
+Arquiteto e urbanista (FAU-USP, 2000), co-criador de [**arteprog** arte e programação](http://arteprog.space), co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing).  [Membro](https://processingfoundation.org/members) da Processing Foundation e [associado](http://villares.garoa.club) do Garoa Hacker Clube. Pesquisa ensino de programação em um contexto visual, no mestrado do programa de pós-graduação ATC FEC/Unicamp. Professor na Escola da Cidade e no IED-SP. Educador de tecnologias e artes no SESC Paulista.
 
 ----
 
-### [**arteprog**](http://arteprog.space) 
-
-- Programação para artistas e curiosos no SESC 24 de maio [em andamento]
+### [**arteprog**](http://arteprog.space)
 
 - Projeto [Processando Processing](http://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
 ### [estúdio hacker](http://estudiohacker.io)
 
+### [sketch-a-day](abav.lugaralgum.com/sketch-a-day)
 
 ### publicações e recursos educacionais
 

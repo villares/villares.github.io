@@ -8,7 +8,7 @@
 
 ----
 
-Architect (FAU-USP, 2000). Formerly a partner at TI Lab / ProBooks (from 2000 to 2015). Teacher at Escola da Cidade (architectural school in São Paulo) since 2005. Currently enrolled on ATC FEC/Unicamp master's program, researching computer programming teaching on a visual context. Processing Foundation [member](https://processingfoundation.org/members), co-creator of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) at Garoa Hacker Clube. Partner at [**arteprog** arte e programação](http://arteprog.space).
+Architect (FAU-USP, 2000). ). Partner at [**arteprog** arte e programação](http://arteprog.space). Currently enrolled on ATC FEC/Unicamp master's program, researching computer programming teaching on a visual context. Processing Foundation [member](https://processingfoundation.org/members), co-creator of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) at Garoa Hacker Clube. Teacher at Escola da Cidade and at IED-SP. Educator at SESC Paulista. 
 
 ## recent activities
 
@@ -19,6 +19,8 @@ Architect (FAU-USP, 2000). Formerly a partner at TI Lab / ProBooks (from 2000 to
 - [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
 ### [estúdio hacker](http://estudiohacker.io)
+
+### [sketch-a-day](abav.lugaralgum.com/sketch-a-day)
 
 ### publications and educational resources
 
