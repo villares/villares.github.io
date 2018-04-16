@@ -4,7 +4,9 @@
 
 [[English version](/index-EN.md)]
 
-[**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação criada em 2001 por Casey Reas e Ben Fry, largamente utilizada por artistas e para o ensino de programação num contexto visual. O Processing IDE (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código e que permite executar seus projetos em Processing, conhecidos como *sketches*.
+[**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação criada em 2001 por Casey Reas e Ben Fry, largamente utilizada por artistas e para o ensino de programação num contexto visual. O Processing IDE (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que permite executar programas escritos por você, conhecidos como *sketches*.
+
+Processing permite não só criar programas que produzem imagens e eventualmente as exportam como bitmaps (PNG, JPG) ou arquivos vetoriais 2D e 3D (PDF, SVG e DXF entre outros), mas mais do que isso permite gerar executáveis autônomos (e interativos) "empacotados" para Linux, macOS ou Windows. Desfruta de uma rico ecossistema de pessoas que produzem recursos como bibliotecas livremente compartilhadas.
 
 A versão ‘standard’ do Processing é baseada em **Java**, mas hoje existem dois outros projetos importantes da [Fundação Processing](https://processing.org) que você pode querer conhecer:
 
@@ -22,7 +24,7 @@ Saiba que não há um instalador, basta descomprimir, mova a pasta como um todo 
 
 ![passo2](https://i2.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo2.png?resize=604%2C401)
 
-No Mac OS é praticamente a mesma coisa, e no Linux, abra um terminal na pasta descomprimida do Processing e digite *./processing* (você pode querer executar também o *install.sh* que deve criar um atalho no desktop)
+No macOS é praticamente a mesma coisa. No Linux, abra um terminal apontado para a pasta descomprimida do Processing e digite *./processing* (você pode querer executar também o *install.sh* que deve criar um atalho no desktop)
 
 Lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…* (ou *Add mode…* se estiver em inglês)
 
@@ -44,8 +46,6 @@ PS: Que tal um programinha para testar?
 [github.com/villares/py.processing-play](https://github.com/villares/py.processing-play)
 
 ![fim](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-15-at-5.45.19-PM.png?resize=604%2C304)
-
-PPS: O Processing permite não só exportar imagens bitmap, como também arquivo vetoriais 2D e 3D (PDF, SVG e DXF entre outros), mas mais do que isso permite gerar executáveis autônomos "empacotados" para Linux, Mac ou Windows!
 
 ----
 
