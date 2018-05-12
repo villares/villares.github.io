@@ -4,10 +4,11 @@
 
 [[English version](/index-EN.md)]
 
-[**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação criada em 2001 por Casey Reas e Ben Fry, largamente utilizada por artistas e para o ensino de programação num contexto visual. O Processing IDE (da sigla em inglês para ambiente integrado de
-desenvolvimento), simplificando, é um editor de texto para código.
+[**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação criada em 2001 por Casey Reas e Ben Fry, largamente utilizada por artistas e para o ensino de programação num contexto visual. O Processing IDE (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que permite executar programas escritos por você, conhecidos como *sketches*.
 
-A versão ‘standard’ do Processing é baseada em **Java**, mas hoje existem dois outros projetos importantes da Fundação Processing que você pode querer conhecer:
+Processing permite não só criar programas que produzem imagens e eventualmente as exportar como bitmaps (PNG, JPG) ou arquivos vetoriais 2D e 3D (PDF, SVG e DXF entre outros), mas mais do que isso permite gerar executáveis autônomos (e interativos) "empacotados" para Linux, macOS ou Windows. Desfruta de uma rico ecossistema de pessoas que produzem recursos como bibliotecas livremente compartilhadas.
+
+A versão ‘standard’ do Processing é baseada em **Java**, mas hoje existem dois outros projetos importantes da [Fundação Processing](https://processing.org) que você pode querer conhecer:
 
 -   [P5\*JS](https://p5js.org/) (baseado em **JavaScript)**;
 -   [Processing **Python** Mode](https://py.processing.org/) (baseado em
@@ -23,7 +24,7 @@ Saiba que não há um instalador, basta descomprimir, mova a pasta como um todo 
 
 ![passo2](https://i2.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo2.png?resize=604%2C401)
 
-No Mac OS é praticamente a mesma coisa, e no Linux, abra um terminal na pasta descomprimida do Processing e digite *./processing* (você pode querer executar também o *install.sh* que deve criar um atalho no desktop)
+No macOS é praticamente a mesma coisa. No Linux, abra um terminal apontado para a pasta descomprimida do Processing e digite *./processing* (você pode querer executar também o *install.sh* que deve criar um atalho no desktop)
 
 Lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…* (ou *Add mode…* se estiver em inglês)
 
@@ -34,12 +35,11 @@ Peça para instalar o modo Python \[Se esta etapa falhar, veja as observações 
 ![passo4](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo4.png?resize=604%2C551)
 
 
-Note que na pasta *Documentos* do usuário será criada uma pasta *Processing*, onde ficarão seus *sketches* (programas), ferramentas,
-modos e bibliotecas. Este é o estado final quando a instalação terminou:
+Note que na pasta *Documentos* do usuário será criada uma pasta *Processing*, onde ficarão seus *sketches* (programas), ferramentas, modos e bibliotecas. No Linux a pasta criada se chama *sketchbook*. Este é o estado final quando a instalação terminou:
 
 ![passo5](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo5.png?resize=604%2C416)
 
-Observações: Caso não seja possível instalar o modo Python de dentro do IDE (redes com filtros ou proxies restritivas) você pode baixar, deszipar [PyhtonMode.zip](http://py.processing.org/3/PythonMode.zip) e colocar manualmente (no Windows e Mac OS) em *Documentos &gt; Processing &gt; modes &gt;* PythonMode.
+Observações: Caso não seja possível instalar o modo Python de dentro do IDE (redes com filtros ou proxies restritivas) você pode baixar, deszipar [PyhtonMode.zip](http://py.processing.org/3/PythonMode.zip) e colocar manualmente (no Windows e Mac OS) em *Documentos &gt; Processing &gt; modes &gt;* PythonMode. São dois problemas conhecidos: nomes de usuário com caracteres não-ASCII e firewalls podem atrapalhar o funcionamento do IDE.
 
 PS: Que tal um programinha para testar?
 

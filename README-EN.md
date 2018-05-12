@@ -8,7 +8,7 @@
 
 ----
 
-Architect (FAU-USP, 2000). ). Partner at [**arteprog** arte e programação](http://arteprog.space). Currently enrolled on ATC FEC/Unicamp master's program, researching computer programming teaching on a visual context. Processing Foundation [member](https://processingfoundation.org/members), co-creator of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) at Garoa Hacker Clube. Teacher at Escola da Cidade architectural school and at IED-SP. Educator at SESC Paulista. 
+Architect (FAU-USP, 2000). ). Partner at [**arteprog** arte e programação](http://arteprog.space). Currently enrolled on ATC FEC/Unicamp master's program, researching computer programming teaching on a visual context. Processing Foundation [member](https://processingfoundation.org/members), co-organizer of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) at Garoa Hacker Clube. Teacher at Escola da Cidade architectural school and at IED-SP. Educator at SESC Avenida Paulista. 
 
 ----
 
