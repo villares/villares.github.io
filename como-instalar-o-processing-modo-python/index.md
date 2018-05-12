@@ -18,34 +18,35 @@ Ambos podem ser adicionados ao IDE tradicional. Vejamos a seguir **como instalar
 
 Entre na parte de downloads do site do Processing (<http://www.processing.org/download>), escolha o seu sistema operacional e baixe.
 
-![passo1](https://i0.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo1-e1476547173613.png?resize=604%2C340)
+![passo1](images/passo1.png)
 
 Saiba que não há um instalador, basta descomprimir, mova a pasta como um todo para onde preferir (não tire o executável da pasta) e abra o IDE. Veja como fica no Windows:
 
-![passo2](https://i2.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo2.png?resize=604%2C401)
+![passo2](images/passo2.png)
 
 No macOS é praticamente a mesma coisa. No Linux, abra um terminal apontado para a pasta descomprimida do Processing e digite *./processing* (você pode querer executar também o *install.sh* que deve criar um atalho no desktop)
 
 Lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…* (ou *Add mode…* se estiver em inglês)
 
-![passo3](https://i0.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo3.png?resize=604%2C423)
+![passo3](images/passo3.png)
 
 Peça para instalar o modo Python \[Se esta etapa falhar, veja as observações mais abaixo].
 
-![passo4](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo4.png?resize=604%2C551)
-
+![passo4](images/passo4.png)
 
 Note que na pasta *Documentos* do usuário será criada uma pasta *Processing*, onde ficarão seus *sketches* (programas), ferramentas, modos e bibliotecas. No Linux a pasta criada se chama *sketchbook*. Este é o estado final quando a instalação terminou:
 
-![passo5](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/passo5.png?resize=604%2C416)
+![passo5](images/passo5.png)
 
 Observações: Caso não seja possível instalar o modo Python de dentro do IDE (redes com filtros ou proxies restritivas) você pode baixar, deszipar [PyhtonMode.zip](http://py.processing.org/3/PythonMode.zip) e colocar manualmente (no Windows e Mac OS) em *Documentos &gt; Processing &gt; modes &gt;* PythonMode. São dois problemas conhecidos: nomes de usuário com caracteres não-ASCII e firewalls podem atrapalhar o funcionamento do IDE.
 
 PS: Que tal um programinha para testar?
 
+![hello garoa sketch](images/hellogaroa.png)
+
 [github.com/villares/py.processing-play](https://github.com/villares/py.processing-play)
 
-![fim](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-15-at-5.45.19-PM.png?resize=604%2C304)
+   
 
 ----
 
