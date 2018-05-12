@@ -41,7 +41,7 @@ PS: How about a sketch to test it?
 
 [github.com/villares/py.processing-play](https://github.com/villares/py.processing-play)
 
-![end](https://i1.wp.com/abav.lugaralgum.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-15-at-5.45.19-PM.png?resize=604%2C304)
+![hello garoa sketch](images/hellogaroa.png)
 
 ----
 
