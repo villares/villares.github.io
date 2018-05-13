@@ -44,9 +44,7 @@ PS: Que tal um programinha para testar?
 
 ![hello garoa sketch](images/hellogaroa.png)
 
-[github.com/villares/py.processing-play](https://github.com/villares/py.processing-play)
-
-   
+[github.com/villares/py.processing-play](https://github.com/villares/py.processing-play)   
 
 ----
 

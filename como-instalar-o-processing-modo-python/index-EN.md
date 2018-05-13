@@ -21,17 +21,17 @@ There is no installer, you just unzip/extract a folder. This is how it looks on 
 
 ![step2](images/passo2.png)
 
-On Mac OS it's almost the same, and on Linux, you can fire a Terminal window on the decompressed downloaded folder and type *./processing* (you may also want to execute *install.sh* and that should create a nice desktop shortcut to Processing)
+On macOS it's almost the same, and on Linux, you can open a Terminal window, point it to the decompressed downloaded folder and type *./processing* (you may also want to execute *install.sh* and that should create a nice desktop shortcut to Processing)
 
-Once the Processing is launched, look for the modes menu on the top right corner and select *Add mode…*
+Once the Processing IDE is launched, look for the modes menu on the top right corner and select *Add mode…*
 
 ![step3](images/passo3.png)
 
-Press *Install* to get the Python Mode \[If this fails, see more instructions down below].
+Select the Python Mode on the list and click *Install* to get it. \[If this fails, see more instructions down below].
 
 ![step4](images/passo4.png)
 
-A *Processing* folder will be created under the user's *Documents* on Windows and MacOs (On Linux the folder is called *sketchbook*), there you'll find your *sketches* (programms), tools, modes and libraries. This is how it looks when you've finished:
+A *Processing* folder will be created under the user's *Documents* on Windows and macOS (On Linux the folder is called *sketchbook*), there you'll find your *sketches* (programms), tools, modes and libraries. This is how it looks when you've finished:
 
 ![step5](images/passo5.png)
 
