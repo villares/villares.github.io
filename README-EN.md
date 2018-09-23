@@ -14,13 +14,17 @@ Architect (FAU-USP, 2000). ). Partner at [**arteprog** arte e programação](htt
 
 ## recent activities
 
-### [**arteprog**](http://arteprog.space)
+### [**arteprog**](http://arteprog.space) art and programming
 
 - [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
+### [sketch-a-day](abav.lugaralgum.com/sketch-a-day)
+
+> One visual idea a day, using code
+
 ### [estúdio hacker](http://estudiohacker.io)
 
-### [sketch-a-day](abav.lugaralgum.com/sketch-a-day)
+> An educational colaboration 
 
 ### publications and educational resources
 
