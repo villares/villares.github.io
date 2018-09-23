@@ -12,17 +12,17 @@ Arquiteto e urbanista (FAU-USP, 2000), co-criador de [**arteprog** arte e progra
 
 ----
 
-### [**arteprog**](https://arteprog.space) 
+### [**arteprog**](https://arteprog.space) arte e programação
 
 - Projeto [Processando Processing](https://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
 ### [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
 
-- Uma ideia visual por dia, usando programação
+> Uma ideia visual por dia, usando programação
 
 ### [estúdio hacker](https://estudiohacker.io)
 
-- Grupo multidisciplinar para atividades educacionais, tecnológicas e artísticas
+> Grupo multidisciplinar para atividades educacionais, tecnológicas e artísticas
 
 ### publicações e recursos educacionais
 
