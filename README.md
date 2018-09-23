@@ -18,7 +18,11 @@ Arquiteto e urbanista (FAU-USP, 2000), co-criador de [**arteprog** arte e progra
 
 ### [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
 
+- Uma ideia visual por dia, usando programação
+
 ### [estúdio hacker](https://estudiohacker.io)
+
+- Grupo multidisciplinar para atividades educacionais, tecnológicas e artísticas
 
 ### publicações e recursos educacionais
 
