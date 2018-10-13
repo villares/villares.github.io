@@ -54,3 +54,6 @@ Arquiteto e urbanista (FAU-USP, 2000), co-criador de [**arteprog** arte e progra
 - The Developers Conference 2016 (Oficina TDC4Kids, Processing + Python, com [Luciano Ramalho](https://github.com/ramalho))
 
 - IA-UNESP - Zonas de Compensação 2016 (Arduino e Processing + Python)
+
+
+<a rel="me" href="https://mastodon.social/@villares"> </a>
