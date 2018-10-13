@@ -1,10 +1,10 @@
 ----
 
+ | [Versão em português](README.md)
 [**contact**](http://contato.lugaralgum.com)
  | [arteprog.space](http://arteprog.space)
  | [github.com/villares](http://github.com/villares)
  | [twitter.com/villares](http://twitter.com/villares)
- | [versão em português](README.md)
 
 ----
 
