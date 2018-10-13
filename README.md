@@ -1,10 +1,10 @@
 ----
 
+ | [English version](http://villares.github.io/README-EN)
 [**contato**](http://contato.lugaralgum.com)
  | [arteprog.space](https://arteprog.space)
  | [github.com/villares](http://github.com/villares)
  | [twitter.com/villares](http://twitter.com/villares)
- | [English version](http://villares.github.io/README-EN)
 
 ----
 
