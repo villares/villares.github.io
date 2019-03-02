@@ -8,19 +8,23 @@
 
 ----
 
-Architect (FAU-USP, 2000). ). Partner at [**arteprog** arte e programação](http://arteprog.space). Currently enrolled on ATC FEC/Unicamp master's program, researching computer programming teaching on a visual context. Processing Foundation [member](https://processingfoundation.org/members), co-organizer of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) at Garoa Hacker Clube. Teacher at Escola da Cidade architectural school and at IED-SP. Educator at SESC Avenida Paulista. 
+Architect (FAU-USP, 2000) researching computer programming teaching on a visual context. Processing Foundation [member](https://processingfoundation.org/members), co-organizer of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) at Garoa Hacker Clube. Teacher at Escola da Cidade architectural school and at IED-SP. Educator at SESC Avenida Paulista. 
 
 ----
 
 ## recent activities
 
-### [**arteprog**](http://arteprog.space) art and programming
+### [sketch-mail](http://tinyletter.com/villares)
 
-- [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
+> Almost weekly updates on my computational art / creative coding and education work
 
 ### [sketch-a-day](abav.lugaralgum.com/sketch-a-day)
 
 > One visual idea a day, using code
+
+### [**arteprog**](http://arteprog.space) art and programming
+
+> [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
 ### [estúdio hacker](http://estudiohacker.io)
 
