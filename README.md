@@ -12,13 +12,18 @@ Arquiteto e urbanista (FAU-USP, 2000), pesquisa ensino de programação em um co
 
 ----
 
-### [**arteprog**](https://arteprog.space) arte e programação
+### [sketch-mail](http://tinyletter.com/villares)
 
-- Projeto [Processando Processing](https://arteprog.space/Processando-Processing) e [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa) **[apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]**
+> Mensagens quasi-semanais sobre o meu trabalho em arte computacional / programação criativa e educação. 
 
 ### [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
 
 > Uma ideia visual por dia, usando programação
+
+### [**arteprog**](https://arteprog.space) arte e programação
+
+> [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing) e outros projetos. [Apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]
+
 
 ### [estúdio hacker](https://estudiohacker.io)
 
