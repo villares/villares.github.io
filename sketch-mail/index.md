@@ -7,7 +7,7 @@ para receber atualizações por email (± uma vez por semana) / *to get updates 
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/villares" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/villares', 'popupwindow', 'scrollbars=yes,width=600,height=300');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
 
 ### archive
-
+<!--
 ---
 
 # link-log
@@ -62,3 +62,5 @@ IED-SP, Modelagem 3D, VR/AR e [Programação com P5JS](https://github.com/villar
 The Developers Conference 2016 - Oficina TDC4Kids - [Processing + Python](https://villares.github.io/como-instalar-o-processing-modo-python/) com [Luciano Ramalho](https://github.com/ramalho)
 
 IA-UNESP - Zonas de Compensação 2016 ([Coding Dojo com Arduino](https://garoa.net.br/wiki/Coding_Dojo_com_Arduino) e [Processing + Python](https://villares.github.io/como-instalar-o-processing-modo-python/))
+
+-->
