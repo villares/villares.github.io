@@ -9,9 +9,11 @@ para receber atualizações por email (± uma vez por semana) / *to get updates 
 ### archive
 
 ---
+
 # link-log
 
 ---
+
 ### 2018
 
 - *[sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)* Um programa visual por dia!
@@ -26,6 +28,7 @@ para receber atualizações por email (± uma vez por semana) / *to get updates 
 > código em/*code at* [github.com/villares/p5js-play/newYearStars](https://github.com/villares/p5js-play/tree/master/newYearStars)
 
 ### 2017
+
 ---
 
 [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), em diversas unidades do SESC, com [Monica Rizzolli](https://github.com/monicarizzolli))
