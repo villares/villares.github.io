@@ -12,7 +12,7 @@ Arquiteto e urbanista (FAU-USP, 2000), pesquisa ensino de programação em um co
 
 ----
 
-### [sketch-mail](http://tinyletter.com/villares)
+### [sketch-mail](http://villares.org/sketch-mail)
 
 > Mensagens quasi-semanais sobre o meu trabalho em arte computacional / programação criativa e educação. 
 
