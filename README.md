@@ -31,6 +31,8 @@ Arquiteto e urbanista (FAU-USP, 2000), pesquisa ensino de programação em um co
 
 ### publicações e recursos educacionais
 
+- BREVE AQUI: [taxonomia de temas para ensino de programação em contexto visual](https://abav.lugaralgum.com/mestrado)
+
 - Colaborações para o portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
 
 - [Revista Amarello](http://www.amarello.com.br) #27: Editor convidado
