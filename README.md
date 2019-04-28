@@ -8,7 +8,7 @@
 
 ----
 
-Arquiteto e urbanista (FAU-USP, 2000), pesquisa ensino de programação em um contexto visual. [Membro](https://processingfoundation.org/members) da Processing Foundation, co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing). Professor universitário e  educador de tecnologias e artes.
+Professor universitário, educador, artista visual e consultor em novas mídias. Arquiteto pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019), pesquisa o ensino de programação em um contexto visual. [Membro](https://processingfoundation.org/members) da Processing Foundation, co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing). 
 
 ----
 
