@@ -31,9 +31,9 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 
 ### outras atividades
 
-- Escola da Cidade, disciplinas de meios digitais
-- IED-SP, 
-
+- Professor no Escola da Cidade
+- Professor no IED-SP
+- Educador de tecnologias e artes no Sesc Avenida Paulista
 
 ### publicações e recursos educacionais
 
