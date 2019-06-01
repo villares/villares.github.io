@@ -31,7 +31,7 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 
 ### outras atividades
 
-- Professor no Escola da Cidade
+- Professor na Escola da Cidade
 - Professor no IED-SP
 - Educador de tecnologias e artes no Sesc Avenida Paulista
 
@@ -58,7 +58,7 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 
 ### apresentações, cursos e oficinas
 
-- SESC - 2016, 2017 e 2018 ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli))
+- [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli)) - SESC-SP (diversas unidades) 2016, 2017, 2018 e Casa Plana 2019.
 
 - Inauguração do SESC 24 de maio, Estúdio Hacker Day 2017, diversas atividades de eletrônica lúdica e computação desplugada, com [Estúdio Hacker](http://estudiohacker.io)
 
