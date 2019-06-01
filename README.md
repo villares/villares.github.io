@@ -58,7 +58,7 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 
 ### apresentações, cursos e oficinas
 
-- [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli)) - SESC-SP (diversas unidades) 2016, 2017, 2018 e Casa Plana 2019.
+- [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli) - SESC-SP (diversas unidades) 2016, 2017, 2018 e Casa Plana 2019.
 
 - Inauguração do SESC 24 de maio, Estúdio Hacker Day 2017, diversas atividades de eletrônica lúdica e computação desplugada, com [Estúdio Hacker](http://estudiohacker.io)
 
