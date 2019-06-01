@@ -8,7 +8,7 @@
 
 ----
 
-Professor universitário, educador, artista visual e consultor em novas mídias. Arquiteto pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019),pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em um contexto visual. [Membro](https://processingfoundation.org/members) da Processing Foundation, co-organizador, desde 2016, da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. 
+Professor, artista visual, consultor em novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em um contexto visual. Arquiteto pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). [Membro](https://processingfoundation.org/members) da Processing Foundation, co-organizador, da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. 
 
 ----
 
@@ -29,9 +29,15 @@ Professor universitário, educador, artista visual e consultor em novas mídias.
 
 > Grupo multidisciplinar para atividades educacionais, tecnológicas e artísticas
 
+### outras atividades
+
+- Escola da Cidade, disciplinas de meios digitais
+- IED-SP, 
+
+
 ### publicações e recursos educacionais
 
-- BREVE AQUI: [taxonomia de temas para ensino de programação em contexto visual](https://abav.lugaralgum.com/mestrado)
+- Mestrado: [Taxonomia de temas para ensino de programação em contexto visual](https://abav.lugaralgum.com/mestrado)
 
 - Colaborações para o portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
 
@@ -56,7 +62,7 @@ Professor universitário, educador, artista visual e consultor em novas mídias.
 
 - Inauguração do SESC 24 de maio, Estúdio Hacker Day 2017, diversas atividades de eletrônica lúdica e computação desplugada, com [Estúdio Hacker](http://estudiohacker.io)
 
-- IED - 2016 e 2017 (Modelagem 3D, VR/AR e programação com P5JS)
+- IED - 2016, 2017 e 2018 Modelagem 3D, VR/AR e programação com P5JS)
 
 - The Developers Conference 2016 (Oficina TDC4Kids, Processing + Python, com [Luciano Ramalho](https://github.com/ramalho))
 
