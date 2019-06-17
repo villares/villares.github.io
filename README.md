@@ -24,18 +24,11 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 
 > [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing) e outros projetos. [Apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]
 
-
 ### [estúdio hacker](https://estudiohacker.io)
 
 > Grupo multidisciplinar para atividades educacionais, tecnológicas e artísticas
 
-### outras atividades
-
-- Professor na Escola da Cidade
-- Professor no IED-SP
-- Educador de tecnologias e artes no Sesc Avenida Paulista
-
-### publicações e recursos educacionais
+### outras publicações e recursos educacionais
 
 - Mestrado: [Taxonomia de temas para ensino de programação em contexto visual](https://abav.lugaralgum.com/mestrado)
 
@@ -56,7 +49,11 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 - [BeerPaint: Tutorial básico de MIT App Inventor](https://gumroad.com/l/kXiHW)
 
 
-### apresentações, cursos e oficinas
+### outras atividades, apresentações, cursos e oficinas
+
+- Professor na Escola da Cidade, desde 2005
+
+- Educador de tecnologias e artes no Sesc Avenida Paulista, desde 2018
 
 - [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), com [Monica Rizzolli](https://github.com/monicarizzolli) - SESC-SP (diversas unidades) 2016, 2017, 2018 e Casa Plana 2019.
 
