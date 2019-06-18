@@ -9,9 +9,9 @@ I can't remeber where I heard it first, but I've been using an analogy between l
 
 - To learn a second foreign language can often be easier than to learn the first one. Some languages are more useful in specific contexts, for a certain specialty, and even in a language you know, you need to learn special vocabulary for a domain.
 
-- Allen Downey in **Think Python** compares and contrasts [formal and natural languges](http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec11)
+- Allen Downey in **Think Python** compares and contrasts [formal and natural languages](http://greenteapress.com/thinkpython2/html/thinkpython2002.html#sec11)
 
-- Patricia Oakim highlighted a gem by Casey Reas, quoting Alan Kay on "software literacy" for artists: [Code the language of our time](http://90.146.8.18/en/archives/festival_archive/festival_catalogs/festival_artikel.asp?iProjectID=12322).
+- Patricia Oakim highlighted a gem by Casey Reas, as he quotes Alan Kay on what it means for an artist to be "software literate": [Code the language of our time](http://90.146.8.18/en/archives/festival_archive/festival_catalogs/festival_artikel.asp?iProjectID=12322).
 
 - And I'd like to end with this great video of Mark Guzdial: [21st Century Literacy includes Computing for Everyone](http://youtu.be/mGc6clf_Wt4).
 </i>
@@ -30,6 +30,6 @@ Não lembro mais onde ouvi primeiro, mas faz um bom tempo que uso a analogia ent
 
 - Allen Downey no *Pense em Python* compara e contrasta [linguagens formais e naturais](https://penseallen.github.io/PensePython2e/01-jornada.html#16---linguagens-formais-e-naturais).
 
-- Gosto do trecho selecionado e traduzido pela Patricia Oakim, do Casey Reas, co-criador do Processing, que fala do artista ser "alfabetizado em software" e menciona o Alan Kay (já transcrevi uma vez no newsletter). (No [original](http://90.146.8.18/en/archives/festival_archive/festival_catalogs/festival_artikel.asp?iProjectID=12322) e tradução [aqui também](http://abav.lugaralgum.com/mestrado/citacoes))
+- Gosto do trecho selecionado e traduzido pela Patricia Oakim, do Casey Reas, co-criador do Processing, mencionando Alan Kay e "alfabetização em software" (no [original](http://90.146.8.18/en/archives/festival_archive/festival_catalogs/festival_artikel.asp?iProjectID=12322) e na tradução [aqui também](http://abav.lugaralgum.com/mestrado/citacoes))
 
 - Para finalizar vídeo ótimo do Guzdial mostrando como a "alfabetização" em computação é essencial neste século: [21st Century Literacy includes Computing for Everyone](http://youtu.be/mGc6clf_Wt4)
