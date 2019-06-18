@@ -30,13 +30,7 @@ Teacher, educator, visual artist and new media consultant. Researches computatio
 
 > An educational colaboration 
 
-### other activities
-
-- Teacher at Escola da Cidade, architectural school 
-- Teacher at IED-SP
-- Art and technology educator at SESC Avenida Paulista
-
-### publications and educational resources
+### other publications and educational resources
 
 - Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
 
@@ -52,13 +46,17 @@ Teacher, educator, visual artist and new media consultant. Researches computatio
 
 - [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/) 
 
-### presentations, courses and workshops
+### other activities presentations, courses and workshops
+
+- Teacher at Escola da Cidade, architectural school 
+
+- Art and technology educator at SESC Avenida Paulista
 
 - SESC - 2016 e 2017 ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criative), com [Monica Rizzolli](https://github.com/monicarizzolli))
 
 - [Estúdio Hacker](estudiohacker.io) activities in 2017, SESC 24 de maio inauguration, Estúdio Hacker Day, playful electronics and computer science unplugged
 
-- IED - 2016 e 2017 (3D Modeling, VR/AR and P5JS programming)
+- Instituto Europeo di Design - São Paulo - IED-SP - 2016, 2017 and 2018 (3D Modeling, VR/AR and P5JS programming)
 
 - The Developers Conference 2016 (TDC4Kids workshop, Processing + Python, with [Luciano Ramalho](https://github.com/ramalho))
 
