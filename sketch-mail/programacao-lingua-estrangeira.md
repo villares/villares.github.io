@@ -1,4 +1,3 @@
----
 <i>
 I can't remeber where I heard it first, but I've been using an analogy between learning to program and learning a foreign language. I will list some points that make sense to me, and some quotes I like. Everyone, with the right motivation and resources, can learn a foreign languae, or programming.
 
@@ -16,6 +15,7 @@ I can't remeber where I heard it first, but I've been using an analogy between l
 
 - And I'd like to end with this great video of Mark Guzdial: [21st Century Literacy includes Computing for Everyone](http://youtu.be/mGc6clf_Wt4).
 </i>
+
 ---
 
 Não lembro mais onde ouvi primeiro, mas faz um bom tempo que uso a analogia entre aprender a programar e aprender uma língua estrangeira. Vou listar alguns pontos que para mim fazem sentido, e algumas citações de que gosto. Todo mundo, com a motivação e os recursos adequados, pode aprender uma língua estrangeira, ou programação.
