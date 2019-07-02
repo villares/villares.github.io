@@ -28,7 +28,7 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 
 > Grupo multidisciplinar para atividades educacionais, tecnológicas e artísticas
 
-### outras publicações e recursos educacionais
+### publicações e recursos educacionais
 
 - Mestrado: [Taxonomia de temas para ensino de programação em contexto visual](https://abav.lugaralgum.com/mestrado)
 
@@ -49,7 +49,7 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 - [BeerPaint: Tutorial básico de MIT App Inventor](https://gumroad.com/l/kXiHW)
 
 
-### outras atividades, apresentações, cursos e oficinas
+### atividades educacionais
 
 - Professor na Escola da Cidade, desde 2005
 
