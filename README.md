@@ -22,7 +22,8 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 
 ### [**arteprog**](https://arteprog.space) arte e programação
 
-> [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos. [Apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]
+> [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos.
+> [Apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]
 
 ### [estúdio hacker](https://estudiohacker.io)
 
