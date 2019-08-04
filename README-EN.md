@@ -12,11 +12,11 @@ Teacher, educator, visual artist and new media consultant. Researches computatio
 
 ----
 
-### [sketch-mail](http://tinyletter.com/villares)
+### [sketch-mail](https://abav.lugaralgum.com/sketch-mail)
 
 > Almost weekly updates on my computational art / creative coding and education work
 
-### [sketch-a-day](abav.lugaralgum.com/sketch-a-day)
+### [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
 
 > One visual idea a day, using code
 
