@@ -85,12 +85,7 @@ small {
   margin-bottom: 0.5rem;
   position: relative;
 }
-h1 {
-  font-weight:normal;
-  a:link {  color: black !important; }
-} 
-
-
+h1,
 h2,
 h3,
 h4,
