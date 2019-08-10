@@ -6,13 +6,12 @@
 
 [**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação criada em 2001 por Casey Reas e Ben Fry, largamente utilizada por artistas e para o ensino de programação num contexto visual. O Processing IDE (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que permite executar programas escritos por você, conhecidos como *sketches*.
 
-Processing permite não só criar programas que produzem imagens e eventualmente as exportar como bitmaps (PNG, JPG) ou arquivos vetoriais 2D e 3D (PDF, SVG e DXF entre outros), mas mais do que isso permite gerar executáveis autônomos (e interativos) "empacotados" para Linux, macOS ou Windows. Desfruta de uma rico ecossistema de pessoas que produzem recursos como bibliotecas livremente compartilhadas.
+Processing permite não só criar programas que produzem imagens e eventualmente as exportar como bitmaps (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF, SVG e DXF entre outros), mas mais do que isso permite gerar executáveis, aplicativos autônomos e interativos, "empacotados" para Linux, macOS ou Windows. A comunidade desfruta de uma rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
 
-A versão ‘standard’ do Processing é baseada em **Java**, mas hoje existem dois outros projetos importantes da [Fundação Processing](https://processing.org) que você pode querer conhecer:
+A versão ‘standard’ do Processing é baseada na linguagem de programação **Java**, mas hoje existem dois outros projetos importantes da [Fundação Processing](https://processing.org) que você pode querer conhecer:
 
--   [P5\*JS](https://p5js.org/) (baseado em **JavaScript)**;
--   [Processing **Python** Mode](https://py.processing.org/) (baseado em
-    Jython).
+-   [P5\*JS](https://p5js.org/) (baseado na linguagem **JavaScript)**;
+-   [Processing **Python** Mode](https://py.processing.org/) (baseado em Jython, uma implementação de Python para JVM).
 
 Ambos podem ser adicionados ao IDE tradicional. Vejamos a seguir **como instalar o Processing Modo Python**, que é o assunto desta página.
 
