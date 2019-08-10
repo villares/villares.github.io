@@ -11,7 +11,7 @@ Processing permite não só criar programas que produzem imagens e eventualmente
 A versão ‘standard’ do Processing é baseada na linguagem de programação **Java**, mas hoje existem dois outros projetos importantes da [Fundação Processing](https://processing.org) que você pode querer conhecer:
 
 -   [P5\*JS](https://p5js.org/) (baseado na linguagem **JavaScript)**;
--   [Processing **Python** Mode](https://py.processing.org/) (baseado em Jython, uma implementação de Python para JVM).
+-   [Processing Python Mode](https://py.processing.org/) (baseado em Jython, implementação da linguagem **Python** na JVM).
 
 Ambos podem ser adicionados ao IDE tradicional. Vejamos a seguir **como instalar o Processing Modo Python**, que é o assunto desta página.
 
