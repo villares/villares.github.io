@@ -14,7 +14,7 @@ Teacher, educator, visual artist and new media consultant. Researches computatio
 
 ### [sketch-mail](https://abav.lugaralgum.com/sketch-mail)
 
-> Almost weekly updates on my computational art / creative coding and education work
+> Updates on my computational art / creative coding and education work, about every two weeks.
 
 ### [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
 
