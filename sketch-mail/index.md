@@ -7,6 +7,7 @@
 
 <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
 
+
 - [2019-27](https://abav.lugaralgum.com/sketch-mail/2019-27)
 - [2019-25](https://abav.lugaralgum.com/sketch-mail/2019-25)
 - [2019-24](https://abav.lugaralgum.com/sketch-mail/2019-24)
