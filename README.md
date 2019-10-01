@@ -14,7 +14,7 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 
 ### [sketch-mail](http://villares.org/sketch-mail)
 
-> Mensagens quasi-semanais sobre o meu trabalho em arte computacional / programação criativa e educação. 
+> Mensagens sobre o meu trabalho em arte computacional / programação criativa e educação (mais ou menos a cada duas semanas). 
 
 ### [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
 
