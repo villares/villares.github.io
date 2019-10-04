@@ -32,7 +32,7 @@ Teacher, educator, visual artist and new media consultant. Researches computatio
 
 - Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
 
-- [Amarello](http://www.amarello.com.br) #27: Guest editor
+- [Amarello](http://www.amarello.com.br) #27: Guest editor ([opening text](https://github.com/villares/villares.github.io/blob/master/assets/editorial_Amarello%2327.pdf))
 
 - *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) presented at SIGRADI 2017, Concepcíon, Chile.* [with Daniel de Carvalho Moreira]
 
