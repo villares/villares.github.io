@@ -35,7 +35,7 @@ Professor, artista visual, consultor em novas mídias. Pesquisa práticas artís
 
 - Colaborações para o portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
 
-- [Revista Amarello](http://www.amarello.com.br) #27: Editor convidado
+- [Revista Amarello](http://www.amarello.com.br) #27: Editor convidado ([texto de abertura](https://github.com/villares/villares.github.io/blob/master/assets/editorial_Amarello%2327.pdf))
 
 - *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
 
