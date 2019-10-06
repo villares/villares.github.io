@@ -9,10 +9,13 @@
 
 
 - [2019-27](https://abav.lugaralgum.com/sketch-mail/2019-27)
+- [2019-26](https://abav.lugaralgum.com/sketch-mail/2019-26)
 - [2019-25](https://abav.lugaralgum.com/sketch-mail/2019-25)
 - [2019-24](https://abav.lugaralgum.com/sketch-mail/2019-24)
 - [2019-23](https://abav.lugaralgum.com/sketch-mail/2019-23)
 - [2019-23](https://abav.lugaralgum.com/sketch-mail/2019-22)
 - [2019-21](https://abav.lugaralgum.com/sketch-mail/2019-21)
 - [2019-20](https://abav.lugaralgum.com/sketch-mail/2019-20)
-- [2019-19](https://abav.lugaralgum.com/sketch-mail/2019-20)
+- [2019-19](https://abav.lugaralgum.com/sketch-mail/2019-19)
+- [2019-18](https://abav.lugaralgum.com/sketch-mail/2019-18)
+- [2019-17](https://abav.lugaralgum.com/sketch-mail/2019-17)
