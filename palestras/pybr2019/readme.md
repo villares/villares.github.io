@@ -5,6 +5,10 @@
 
 # [slides_PyBR2019.pdf](slides_PyBR2019.pdf)
 
+### Sobre o zine/fôlder distribuido
+
+# [`desenho() #0_out_2019`](http://desenho.lugaralgum.com/)
+
 ### código da árvore recursiva
 
 ```python
@@ -32,3 +36,5 @@ def galho(tamanho):
         translate(0, tamanho)
     
 ```
+
+
