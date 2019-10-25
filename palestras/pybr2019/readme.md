@@ -7,7 +7,7 @@
 
 ### Sobre o zine/fôlder distribuido
 
-# [`desenho() #0_out_2019`](http://desenho.lugaralgum.com/)
+# [desenho() #0_out_2019](http://desenho.lugaralgum.com/)
 
 ### código da árvore recursiva
 
