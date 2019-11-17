@@ -13,7 +13,7 @@ A versão ‘standard’ do Processing é baseada na linguagem de programação 
 -   [P5\*JS](https://p5js.org/) (baseado na linguagem **JavaScript)**;
 -   [Processing Python Mode](https://py.processing.org/) (baseado em Jython, implementação da linguagem **Python** na JVM).
 
-Ambos podem ser adicionados ao IDE tradicional. Vejamos a seguir **como instalar o Processing Modo Python**, que é o assunto desta página.
+Ambos podem ser adicionados ao Processing IDE tradicional. Vejamos a seguir **como instalar o Processing Modo Python**, que é o assunto desta página.
 
 Entre na parte de downloads do site do Processing (<http://www.processing.org/download>), escolha o seu sistema operacional e baixe.
 
