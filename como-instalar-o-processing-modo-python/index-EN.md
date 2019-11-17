@@ -6,12 +6,14 @@
 
 [**Processing**](http://processsing.org) is a Free and Open Source (FLOSS) programming platform started in 2001 by Casey Reas e Ben Fry, widely used by artists and  to teach coding in a visual context. The Processing IDE is a text editor for code that can quickly execute your programs, called *sketches*.
 
-Standard Processing is **Java** based and there are two other projects supported by the Processing Foundation that you might want to try:
+With Processing you can not only generate raster and vector graphics, but interactive applications running on Linux, macOS or Windows. It's community benefits from a rich ecossystem of people creating and sharing educational resources and code libraries.
+
+Standard Processing is based on the **Java** programming language but there are two other projects supported by the Processing Foundation that you might want to try:
 
 -   [P5\*JS](https://p5js.org/) (a **JavaScript** library );
--   [Processing **Python** Mode](https://py.processing.org/) (Jython based).
+-   [Processing Python Mode](https://py.processing.org/) (based on Jython, a **Python** implementation running on the JVM).
 
-Both can be added to the traditional IDE. So let's see **how to install Processing Python Mode** (which hopefully is the reason you are reading this).
+Both can be added to the traditional Processing IDE. So let's see **how to install Processing Python Mode** (which hopefully is the reason you are reading this).
 
 Visit downloads at the Processing site (<http://www.processing.org/download>), and choose your OS.
 
