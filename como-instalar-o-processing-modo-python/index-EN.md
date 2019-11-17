@@ -1,6 +1,6 @@
 ----
 
-# How to install o Processing Python Mode
+# How to install Processing Python Mode
 
 [[Portuguese-language version](/index.md)]
 
