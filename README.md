@@ -19,7 +19,7 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 - [**arteprog**](https://arteprog.space) arte e programação
 
-> [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos com Monica Rizzolli. [Apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]
+  - [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos com Monica Rizzolli. [Apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]
 
 - Mestrado: [Taxonomia de temas para ensino de programação em contexto visual](https://abav.lugaralgum.com/mestrado)
 
