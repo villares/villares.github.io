@@ -2,7 +2,6 @@
 
  [Versão em português](README.md)
  | [**contact**](http://contato.lugaralgum.com)
- | [arteprog.space](http://arteprog.space)
  | [github.com/villares](http://github.com/villares)
  | [twitter.com/villares](http://twitter.com/villares)
 
@@ -12,23 +11,14 @@ Teacher, educator, visual artist and new media consultant. Researches computatio
 
 ----
 
-### [sketch-mail](https://abav.lugaralgum.com/sketch-mail)
+### current research, educational resources and publications
 
-> Updates on my computational art / creative coding and education work, about every two weeks.
+- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Updates on my computational art / creative coding and education work
 
-### [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day)
+- [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) One visual idea a day, using code
 
-> One visual idea a day, using code
-
-### [**arteprog**](http://arteprog.space) art and programming
-
-> [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
-
-### [estúdio hacker](http://estudiohacker.io)
-
-> An educational colaboration 
-
-### publications and educational resources
+- [**arteprog**](http://arteprog.space) art and programming
+ - [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
 - Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
 
@@ -50,7 +40,9 @@ Teacher, educator, visual artist and new media consultant. Researches computatio
 
 - Art and technology educator at SESC Avenida Paulista
 
-- ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criative), com [Monica Rizzolli](https://github.com/monicarizzolli)), SESC-SP 2016, 2017 and 2018, Casa Plana 2019.
+- [arteprog](http://arteprog.space) art and programming, with [Monica Rizzolli](https://github.com/monicarizzolli))
+
+ - ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criative), SESC-SP 2016, 2017 and 2018, Casa Plana 2019.
 
 - [Estúdio Hacker](estudiohacker.io) activities in 2017, SESC 24 de maio inauguration, Estúdio Hacker Day, playful electronics and computer science unplugged
 
