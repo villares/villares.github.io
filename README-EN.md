@@ -37,21 +37,22 @@ Teacher, educator, visual artist and new media consultant. Researches computatio
 
 ### teaching activities
 
-- Teacher at Escola da Cidade, architectural school,since 2005
+- Teacher at Escola da Cidade, architectural school, since 2005
 
 - Art and technology educator at SESC Avenida Paulista, since 2018
 
 - Teacher at Belas Artes, since 2019
+  - Scripting culture (Processing Python Mode) for the Digital Architecture and Parametric Design course
 
 - Teacher at Escola Britânica de Artes Criativas - EBAC, since 2019
+  - Creative coding for the Art & Media course
 
 - Teacher at Instituto Europeo di Design - São Paulo - IED-SP, since 2019
   - Creative Coding 
   - 3D Modeling, VR/AR
   
 - [arteprog](http://arteprog.space) art and programming, with [Monica Rizzolli](https://github.com/monicarizzolli))
-
- - ([Programação criativa e arte argorítmica](http://arteprog.space/programacao-criative), SESC-SP 2016, 2017 and 2018, Casa Plana 2019.
+  - [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criative), SESC-SP 2016, 2017 and 2018, Casa Plana 2019.
 
 - [Estúdio Hacker](estudiohacker.io) activities in 2017, SESC 24 de maio inauguration, Estúdio Hacker Day, playful electronics and computer science unplugged
   
