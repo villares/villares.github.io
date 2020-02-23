@@ -18,7 +18,8 @@ Teacher, educator, visual artist and new media consultant. Researches computatio
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) One visual idea a day, using code
 
 - [**arteprog**](http://arteprog.space) art and programming
- - [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
+
+  - [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
 - Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
 
