@@ -17,9 +17,9 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) Uma ideia visual por dia, usando programação
 
-- [**arteprog**](https://arteprog.space) arte e programação
+- [**arteprog**](https://arteprog.space) arte e programação [Apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]
 
-  - [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos com Monica Rizzolli. [Apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]
+  - [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos com Monica Rizzolli. 
 
 - Mestrado: [Taxonomia de temas para ensino de programação em contexto visual](https://abav.lugaralgum.com/mestrado)
 
@@ -42,20 +42,28 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 ### atividades educacionais
 
-- Professor na Escola da Cidade, desde 2005
+- Professor na Escola Britânica de Artes Criativas - EBAC, desde 2019
+  - Programação criativa para o curso Arte e Mídias Digitais
+
+- Professor no Centro Universitário Belas Artes de São Paulo, desde 2019
+  - Cultura do Script (Processing Python Mode) - Pós-graduação Arquitetura Digital e Design Paramétrico
 
 - Educador de tecnologias e artes no Sesc Avenida Paulista, desde 2018
 
-- [arteprog](http://arteprog.space) arte e programação - com [Monica Rizzolli](https://github.com/monicarizzolli)
-  - [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), SESC-SP (diversas unidades) 2016, 2017, 2018 e Casa Plana 2019.
+- Professor no Instituto Europeo di Design - São Paulo - IED-SP, desde 2016
+  - Programação Criativa - Pós-graduação em design de interação
+  - Modelagem 3D, VR/AR - Tópicos especiais
+
+- Professor na Escola da Cidade, desde 2005
+  - Meios Digitais (Modelagem 3D, fabricação digital e temas diversos)
+  
+- [arteprog](http://arteprog.space) arte e programação
+  - [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa) com [Monica Rizzolli](https://github.com/monicarizzolli), SESC-SP (diversas unidades) 2016, 2017, 2018 e Casa Plana 2019.
 
 - [Estúdio Hacker](https://estudiohacker.io) Grupo multidisciplinar para atividades educacionais, tecnológicas e artísticas
-
   - Inauguração do SESC 24 de maio
   - Estúdio Hacker Day 2017
   - Diversas atividades de eletrônica lúdica e computação desplugada
-
-- IED - 2016, 2017 e 2018 Modelagem 3D, VR/AR e programação com P5JS)
 
 - The Developers Conference 2016 (Oficina TDC4Kids, Processing + Python, com [Luciano Ramalho](https://github.com/ramalho))
 
