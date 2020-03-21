@@ -28,7 +28,7 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 - Contribuindo com exemplos de [**Processing (Java e Python) no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) - [baixe o pacote no Processing IDE!](https://github.com/jeremydouglass/rosetta_examples_p5)
 
 
-### 2019
+#### 2019
 
 - [**Taxonomia de temas para ensino de programação em contexto visual**](https://abav.lugaralgum.com/mestrado) Dissertação de mestrado apresentada na FEC-UNICAMP em fevereiro de 2019.
 
