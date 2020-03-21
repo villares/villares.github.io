@@ -11,7 +11,9 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 ----
 
-### pesquisas em andamento, recursos educacionais e publicações
+### pesquisas, recursos educacionais e publicações
+
+#### em andamento
 
 - [**sketch-mail**](http://villares.org/sketch-mail) Boletim por email sobre o meu trabalho em arte computacional / programação criativa e educação. 
 
@@ -25,7 +27,14 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 - Contribuindo com exemplos de [**Processing (Java e Python) no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) - [baixe o pacote no Processing IDE!](https://github.com/jeremydouglass/rosetta_examples_p5)
 
-- Mestrado: [Taxonomia de temas para ensino de programação em contexto visual](https://abav.lugaralgum.com/mestrado)
+
+### 2019
+
+- [**Taxonomia de temas para ensino de programação em contexto visual**](https://abav.lugaralgum.com/mestrado) Dissertação de mestrado apresentada na FEC-UNICAMP em fevereiro de 2019.
+
+- [Paper objects with Processing and Python](https://github.com/villares/Paper-objects-with-Processing-and-Python) Repositório com estudos de fabricação digital com programação.
+
+#### 2017 - 2018
 
 - Colaborações para o portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
 
@@ -34,6 +43,8 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 - *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
 
 - [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017 [com Daniel de Carvalho Moreira e Monica Rizzolli]
+
+#### 2015 - 2016
 
 - [Como instalar o Processing Modo Python](https://villares.github.io/como-instalar-o-processing-modo-python/) 
 
