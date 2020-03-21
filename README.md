@@ -21,11 +21,15 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
   - [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos com Monica Rizzolli. 
 
+- [**material-aulas**](https://abav.lugaralgum.com/material-aulas) material didático aberto para Processing modo Python 
+
+- Contribuindo com exemplos de [**Processing (Java e Python) no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) - [baixe o pacote no Processing IDE!](https://github.com/jeremydouglass/rosetta_examples_p5)
+
 - Mestrado: [Taxonomia de temas para ensino de programação em contexto visual](https://abav.lugaralgum.com/mestrado)
 
 - Colaborações para o portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
 
-- [Revista Amarello](http://www.amarello.com.br) #27: Editor convidado ([texto de abertura](https://github.com/villares/villares.github.io/blob/master/assets/editorial_Amarello%2327.pdf))
+- [Revista Amarello](http://www.amarello.com.br) #27: Editor convidado ([texto de abertura](https://github.com/villares/villares.github.io/blob/master/assets/editorial_Amarello%2327.pdf)) 
 
 - *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) presented at SIGRADI 2017, Concepcíon, Chile.* [com Daniel de Carvalho Moreira]
 
