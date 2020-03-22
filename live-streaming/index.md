@@ -8,4 +8,4 @@
 
 #### Terça-feira 31 de março de 2020 - Noite de Processing
 
-- Lucas Mendoça - Técnicas de Shaders com OpenGL<br>acesso: [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing)
+- Lucas Mendoça - Técnicas de Shaders com OpenGL<br>acesso: [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing) ou [twitch.tv/luuchowl](https://www.twitch.tv/luuchowl)
