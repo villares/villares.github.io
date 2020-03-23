@@ -11,9 +11,9 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 ----
 
-- [**live-streaming**](https://abav.lugaralgum.com/live-streaming) Apresentações ao vivo.
+### apresentações, pesquisas, recursos educacionais e publicações
 
-### pesquisas, recursos educacionais e publicações
+- [**live-streaming**](https://abav.lugaralgum.com/live-streaming) Apresentações ao vivo.
 
 - [**sketch-mail**](http://villares.org/sketch-mail) Boletim por email sobre o meu trabalho em arte computacional / programação criativa e educação. 
 
@@ -25,10 +25,13 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 - [**material-aulas**](https://abav.lugaralgum.com/material-aulas) material didático aberto para Processing modo Python 
 
-- Contribuindo com exemplos de [**Processing (Java e Python) no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) - [baixe o pacote no Processing IDE!](https://github.com/jeremydouglass/rosetta_examples_p5)
-
+- Contribuindo com [[**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) para Processing (Java e Python) - [baixe o pacote no Processing IDE!](https://github.com/jeremydouglass/rosetta_examples_p5)
 
 #### 2019
+
+- **Python Brasil 2019** - Ribeirão Preto
+   - Slides da palestra [Aprendendo e ensinando Python para "programadores alternativos"](https://abav.lugaralgum.com/palestras/pybr2019/).Slides da palestra.
+   - [**desenho() #0_out_2019**](http://desenho.lugaralgum.com/) fanzine & poster.
 
 - [**Taxonomia de temas para ensino de programação em contexto visual**](https://abav.lugaralgum.com/mestrado) Dissertação de mestrado apresentada na FEC-UNICAMP em fevereiro de 2019.
 
