@@ -15,7 +15,7 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 - [**live-streaming**](https://abav.lugaralgum.com/live-streaming) Apresentações ao vivo.
 
-- [**sketch-mail**](http://villares.org/sketch-mail) Boletim por email sobre o meu trabalho em arte computacional / programação criativa e educação. 
+- [**sketch-mail**](http://villares.org/sketch-mail) Boletim por email sobre arte computacional / programação criativa e educação. 
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) Uma ideia visual por dia, usando programação.
 
