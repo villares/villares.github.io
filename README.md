@@ -30,8 +30,9 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 #### 2019
 
 - **Python Brasil 2019** - Ribeirão Preto
-   - [slides da palestra](https://abav.lugaralgum.com/palestras/pybr2019/) Aprendendo e ensinando Python para "programadores alternativos"
+   - [**Aprendendo e ensinando Python para "programadores alternativos"**](https://abav.lugaralgum.com/palestras/pybr2019/) slides da palestra
    - [**desenho() #0_out_2019**](http://desenho.lugaralgum.com/) fanzine & poster.
+
 
 - [**Taxonomia de temas para ensino de programação em contexto visual**](https://abav.lugaralgum.com/mestrado) Dissertação de mestrado apresentada na FEC-UNICAMP em fevereiro de 2019.
 
