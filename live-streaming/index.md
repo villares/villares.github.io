@@ -12,6 +12,6 @@
 
 #### Terça-feira 24 de março de 2020 - 15:00 - Processing_Python
 
-- Alexandre Villares - Programação criativa com Processng + Python - Duração estimada de 1h (aprox.)<br>gravação: **[`YouTube NEW LINK`](https://youtu.be/-kROsOpXxS0)**</br>código: [live_2020_03_24.pyde](https://gist.github.com/villares/1dcabd2587066474a977547812679fd5)
+- Alexandre Villares - Programação criativa com Processng + Python - Duração estimada de 1h (aprox.)<br>gravação: **[`YouTube`](https://youtu.be/-kROsOpXxS0)**</br>código: [live_2020_03_24.pyde](https://gist.github.com/villares/1dcabd2587066474a977547812679fd5)
 
 ![image](https://user-images.githubusercontent.com/3694604/77466157-c2c5ff80-6e01-11ea-950e-0c19da876b82.png)
