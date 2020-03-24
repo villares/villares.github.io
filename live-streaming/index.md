@@ -8,6 +8,8 @@
 
 - Lucas Mendoça - Técnicas de Shaders com OpenGL<br>acesso: [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing) ou [twitch.tv/luuchowl](https://www.twitch.tv/luuchowl)
 
+![image](https://user-images.githubusercontent.com/3694604/77477760-bc8d4e80-6e14-11ea-8eca-1509b22f2ed2.png)
+
 ### passadas
 
 #### Terça-feira 24 de março de 2020 - 15:00 - Processing_Python
