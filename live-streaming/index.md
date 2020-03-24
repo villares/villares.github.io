@@ -4,7 +4,7 @@
 
 #### Terça-feira 24 de março de 2020 - 15:00 - Processing_Python
 
-- Alexandre Villares - Programação criativa com Processng + Python<br>acesso: **`Link aqui em breve!`**
+- Alexandre Villares - Programação criativa com Processng + Python<br>acesso: **[`YouTube`](https://youtu.be/c5l2ufcW7yE) ou [`meet.jit.si/processing_python`](http://meet.jit.si/processing_python)  `**
 
 #### Terça-feira 31 de março de 2020 - 19:30 - Noite de Processing
 
