@@ -96,7 +96,6 @@ h6 {
   margin-bottom: 0.5rem;
   font-weight: 600;
   position: relative;
-  color: #000 !important;
 }
 
 h1 small,
@@ -108,32 +107,36 @@ h6 small {
   font-weight: 400;
   font-size: 0.7em;
   margin-left: 0.5em;
-  color: #000 !important;
 }
 
 h1 {
   font-size: 1.3em;
+  color: #000 !important;
 }
 
 h2 {
   font-size: 1.3em;
+  color: #000 !important;
 }
 
 h3 {
   font-size: 1.2em;
+  color: #000 !important;
 }
 
 h4 {
   font-size: 1em;
+  color: #000 !important;
 }
 
 h5 {
   font-size: 0.9em;
+  color: #000 !important;
 }
 
 h6 {
   font-size: 0.8em;
-  color: #575757;
+  color: #575757 !important;
 }
 
 p {
