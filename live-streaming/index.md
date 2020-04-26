@@ -6,7 +6,11 @@
 
 ### próximas
 
- `TBD`
+#### Terça-feira 28 de abril de 2020 - 19:30 - Noite de Processing
+ 
+- Carlos de Oliveira Junior - Encontros Digitais: construindo uma comunidade de arte e tecnologia
+
+![ndp2020-04](https://garoa.net.br/w/images/NdP04-2020.png)
  
 ---
 
@@ -16,7 +20,7 @@
 
 - Lucas Mendoça - Técnicas de Shaders com OpenGL<br>acesso: [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing) ou [twitch.tv/luuchowl](https://www.twitch.tv/luuchowl)
 
-![image](https://user-images.githubusercontent.com/3694604/77477760-bc8d4e80-6e14-11ea-8eca-1509b22f2ed2.png)
+![ndp2020-03](https://user-images.githubusercontent.com/3694604/77477760-bc8d4e80-6e14-11ea-8eca-1509b22f2ed2.png)
 
 
 #### Terça-feira 24 de março de 2020 - 15:00 - Processing_Python
