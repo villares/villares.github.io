@@ -7,7 +7,7 @@
 
 ----
 
-Teacher, educator, visual artist and new media consultant. Researches computational art procedures and creative coding as well as computer programming teaching on a visual context. Architect (FAU-USP, 2000) with a master's degree from FEC-Unicamp (2019). Processing Foundation [member](https://processingfoundation.org/members), co-organizer of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) in São Paulo.
+Educator, visual artist and new media consultant. Researches computational art procedures and creative coding as well as computer programming teaching on a visual context. Architect (FAU-USP, 2000) with a master's degree from FEC-Unicamp (2019). Processing Foundation [member](https://processingfoundation.org/members), co-organizer of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) in São Paulo.
 
 ----
 
