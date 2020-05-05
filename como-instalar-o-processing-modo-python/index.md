@@ -43,8 +43,9 @@ PS: Que tal um programinha para testar?
 
 ![hello garoa sketch](images/hellogaroa.png)
 
-[github.com/villares/py.processing-play](https://github.com/villares/py.processing-play)   
-
+ 
+ [Material didático aberto sobre o Processing modo Python](https://abav.lugaralgum.com/material-aulas/)
+ 
 ----
 
 Alexandre B A Villares ([abav.lugaralgum.com](https://abav.lugaralgum.com)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
