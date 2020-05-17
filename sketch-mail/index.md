@@ -7,6 +7,8 @@ Mensagens sobre o meu trabalho em arte computacional / programação criativa e 
 
 <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
 
+- [2020-04](https://abav.lugaralgum.com/sketch-mail/2020-04)
+
 - [2020-03](https://abav.lugaralgum.com/sketch-mail/2020-03)
 
 - [2020-02](https://abav.lugaralgum.com/sketch-mail/2020-02)
