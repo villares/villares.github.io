@@ -1,12 +1,8 @@
 
-<div align="center">
 <h1>Linux Compose Key Sequences</h1>
-From Internet Archive: updated  8 September 2007
+> [From Internet Archive: updated  8 September 2007](https://web.archive.org/web/20140412090608/http://www.hermit.org/Linux/ComposeKeys.html)
 
-https://web.archive.org/web/20140412090608/http://www.hermit.org/Linux/ComposeKeys.html
-
-<p><hr/></p>
-
+<small>
 <p>This table shows the compose key sequences which can be used to enter
 accented and other non-standard characters in Linux.</p>
 <p>To use these, you will first need to set up a compose key.  Details may
@@ -19,7 +15,7 @@ vary depending on your Linux setup, but it should be something like this:
 <li>Select which key you would like to use as a compose key.  The
 menu key works well for me.</li>
 </ul></p>
-
+</small>
 <p>Once you've set that up, you should be able to use the compose key sequences
 below by pressing Compose and the elements of the sequence.  For example,
 to enter a Euro sign, you would type
