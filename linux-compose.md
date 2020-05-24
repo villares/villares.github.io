@@ -1,28 +1,24 @@
 
 <h1>Linux Compose Key Sequences</h1>
 > [From Internet Archive: updated  8 September 2007](https://web.archive.org/web/20140412090608/http://www.hermit.org/Linux/ComposeKeys.html)
+> This table shows the compose key sequences which can be used to enter accented and other non-standard characters in Linux. To use these, you will first need to set up a compose key.  Details may vary depending on your Linux setup, but it should be something like this:
+>
+> <ul>
+> <li>Open the Control Centre / desktop configuration tool.</li>
+> <li>Select "Regional / Keyboard Layout".</li>
+> <li>Select "Xkb Options".</li>
+> <li>Scroll down to "Compose Key Position".</li>
+> <li>Select which key you would like to use as a compose key. The menu key works well for me.</li>
+> </ul>
+> Once you've set that up, you should be able to use the compose key sequences
+> below by pressing Compose and the elements of the sequence.  For example,
+> to enter a Euro sign, you would type
+>
+> <pre>
+>     <i>&lt;Compose&gt;</i> <b>= C</b>
+> </div>
+> (the Compose key, then the equals sign, then a capital C).
 
-<small>
-<p>This table shows the compose key sequences which can be used to enter
-accented and other non-standard characters in Linux.</p>
-<p>To use these, you will first need to set up a compose key.  Details may
-vary depending on your Linux setup, but it should be something like this:
-<ul>
-<li>Open the Control Centre / desktop configuration tool.</li>
-<li>Select "Regional / Keyboard Layout".</li>
-<li>Select "Xkb Options".</li>
-<li>Scroll down to "Compose Key Position".</li>
-<li>Select which key you would like to use as a compose key.  The
-menu key works well for me.</li>
-</ul></p>
-</small>
-<p>Once you've set that up, you should be able to use the compose key sequences
-below by pressing Compose and the elements of the sequence.  For example,
-to enter a Euro sign, you would type
-<pre>
-    <i>&lt;Compose&gt;</i> <b>= C</b>
-</div>
-(the Compose key, then the equals sign, then a capital C).</p>
 <p><table width="100%" border="1">
   <tr>
    <th>Unicode</th>
