@@ -1,5 +1,8 @@
+## Ubuntu help: GtkComposeTable
 
-<h1>Linux Compose Key Sequences</h1>
+https://help.ubuntu.com/community/GtkComposeTable
+
+## Linux Compose Key Sequences
 > [From Internet Archive: updated  8 September 2007](https://web.archive.org/web/20140412090608/http://www.hermit.org/Linux/ComposeKeys.html)
 >
 > This table shows the compose key sequences which can be used to enter accented and other non-standard characters in Linux. To use these, you will first need to set up a compose key.  Details may vary depending on your Linux setup, but it should be something like this:
