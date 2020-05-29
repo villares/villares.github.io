@@ -1,7 +1,9 @@
 # palestras
 
-### OpenCourseWare no contexto do Software Livre & Creative Commons, São Paulo, 2019
-- [slides](https://speakerdeck.com/villares/opencourseware-no-contexto-do-software-livre-and-creative-commons) São Paulo, 2015
+### OpenCourseWare no contexto do Software Livre & Creative Commons
+Escola da Cidade, São Paulo, 2015
+- [slides](https://speakerdeck.com/villares/opencourseware-no-contexto-do-software-livre-and-creative-commons)
 
-### Python Brasil 2019 - Ribeirão Preto, 2019
+### Aprendendo e ensinando Python para "programadores alternativos"
+Python Brasil 2019, Ribeirão Preto
 - [slides](2019)
