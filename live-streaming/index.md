@@ -6,15 +6,24 @@
 
 ### próximas
 
-#### Terça-feira 28 de abril de 2020 - 19:30 - Noite de Processing
- 
-- Carlos de Oliveira Junior - Encontros Digitais: construindo uma comunidade de arte e tecnologia
 
-![ndp2020-04](https://garoa.net.br/w/images/NdP04-2020.png)
- 
 ---
 
 ### passadas
+
+#### Terça-feira 26 de maio de 2020 - 19:30 - Noite de Processing
+ 
+- Joao Antonio de F. P. e Ferreira - Explorações e experimentos com simulação de fluidos [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing)
+
+![ndp2020-04](https://garoa.net.br/w/images/NdP05-2020.png)
+
+
+#### Terça-feira 28 de abril de 2020 - 19:30 - Noite de Processing
+ 
+- Carlos de Oliveira Junior - Encontros Digitais: construindo uma comunidade de arte e tecnologia [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing)
+
+![ndp2020-04](https://garoa.net.br/w/images/NdP04-2020.png)
+ 
 
 #### Terça-feira 31 de março de 2020 - 19:30 - Noite de Processing
 
