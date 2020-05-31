@@ -41,7 +41,7 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 #### 2017 - 2018
 
 - Colaborações para o portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
-  - [A nova tendência de construir em grupos, WikLab e os tijolos da era digital(http://www.esquina.net.br/2018/01/22/a-nova-tendencia-de-construir-em-grupos-wiklab-e-os-tijolos-da-era-digital/)
+  - [A nova tendência de construir em grupos, WikLab e os tijolos da era digital](http://www.esquina.net.br/2018/01/22/a-nova-tendencia-de-construir-em-grupos-wiklab-e-os-tijolos-da-era-digital/)
   - [Como o geoprocessamento pode nos ajudar a ocupar a cidade](http://www.esquina.net.br/2017/10/23/como-o-geoprocessamento-pode-nos-ajudar-a-ocupar-a-cidade/)
 
 - [Revista Amarello](http://www.amarello.com.br) #27: Editor convidado ([texto de abertura](https://github.com/villares/villares.github.io/blob/master/assets/editorial_Amarello%2327.pdf)) 
