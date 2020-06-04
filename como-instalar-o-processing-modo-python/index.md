@@ -47,9 +47,9 @@ Pode ser preciso fechar e abrir o Processing em alguns casos. Note que na pasta 
 
 ![passo5](images/passo5.png)
 
-**Observações:** Caso não seja possível instalar o modo Python de dentro do IDE (redes com filtros ou proxies restritivas) você pode baixar, deszipar [PyhtonMode.zip](http://py.processing.org/3/PythonMode.zip) e colocar manualmente (no Windows e Mac OS) em *Documentos &gt; Processing &gt; modes &gt;* PythonMode.
-
-**São dois problemas conhecidos:** nomes de usuário com caracteres não-ASCII e firewalls podem atrapalhar o funcionamento do IDE.
+**Observações:** 
+- Caso não seja possível instalar o modo Python de dentro do IDE (redes com filtros ou proxies restritivas) você pode baixar, deszipar [PyhtonMode.zip](http://py.processing.org/3/PythonMode.zip) e colocar manualmente (no Windows e Mac OS) em *Documentos &gt; Processing &gt; modes &gt;* PythonMode.
+- Nomes de usuário com caracteres não-ASCII e firewalls podem atrapalhar o funcionamento do IDE.
 
 #### Que tal um programinha para testar?
 
