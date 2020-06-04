@@ -38,13 +38,16 @@ On macOS it's almost the same, and on Linux, you can open a Terminal window, poi
 ![step4](images/passo4.png)
 > \[If this fails, see more instructions down below].
 
-#### 5. Select "Python" at the modes menu
+#### 5. Check if installation has finished with a green mark and select "Python" at the modes menu!
 
 You might need to close and open again the Processing IDE. A *Processing* folder will be created under the user's *Documents* on Windows and macOS (On Linux the folder is called *sketchbook*), there you'll find your *sketches* (programms), tools, modes and libraries. This is how it looks when you've finished:
 
 ![step5](images/passo5.png)
 
-Note: If you are under some restrictive proxy our without Internet acess you can download [PyhtonMode.zip](http://py.processing.org/3/PythonMode.zip) and manualy copy it (on Windows & Mac OS) under *Documentos &gt; Processing &gt; modes &gt;* PythonMode. On Linux, under your *sketchbook* folder/material-aulas. Firewalls may disturb Python Mode as there is a helper process that tries to connect online. Another known issue is working with non-ASCII OS usernames & paths.
+**Notes:**
+- If you are under some restrictive proxy our without Internet acess you can download [PyhtonMode.zip](http://py.processing.org/3/PythonMode.zip) and manualy copy it (on Windows & Mac OS) under *Documentos &gt; Processing &gt; modes &gt;* PythonMode. On Linux, under your *sketchbook* folder/material-aulas. 
+- Firewalls may disturb Python Mode as there is a helper process that tries to connect online. 
+- Another known issue is working with non-ASCII OS usernames & paths.
 
 #### How about a sketch to test it?
 
