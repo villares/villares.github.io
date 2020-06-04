@@ -23,13 +23,13 @@ Ambos podem ser adicionados ao Processing IDE tradicional. Vejamos a seguir **co
 
 ![passo1](images/passo1.png)
 
-2. Saiba que não há um instalador, você precisa descomprimir a pasta que baixou (deszipar e se quiser pode mover a pasta como um todo (mas não tire o arquivo executável da pasta). No Windows e no MacOS  abra o Processing IDE com um duplo clique. Veja como fica no Windows:
+2. Saiba que não há um instalador, você precisa descomprimir a pasta que baixou (deszipar) e se quiser pode mover a pasta como um todo, mas não tire o arquivo executável da pasta. No Windows e no MacOS você abre o Processing IDE com um duplo clique. Veja como fica no Windows (no macOS é praticamente a mesma coisa):
 
 ![passo2](images/passo2.png)
 
-No macOS é praticamente a mesma coisa. No Linux, abra um terminal apontado para a pasta descomprimida do Processing e digite *./processing* (você pode querer executar também o *install.sh* que deve criar um atalho no desktop).
+No Linux, para lançar o Processing, abra um terminal apontado para a pasta descomprimida e digite *./processing* (você pode querer executar também o *install.sh* que cria um atalho que pode ser duplo-clicado no desktop).
 
-3. Lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…* (ou *Add mode…* se estiver em inglês) 
+3. Uma vez lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…* (ou *Add mode…* se estiver em inglês). 
 
 ![passo3](images/passo3.png)
 
