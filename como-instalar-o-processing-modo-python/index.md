@@ -1,6 +1,6 @@
 ----
 
-[[English version](/index-EN.md)]
+[[English version](index-EN.md)]
 
 # Como instalar o Processing modo Python 
 
