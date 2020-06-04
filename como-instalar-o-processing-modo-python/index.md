@@ -19,41 +19,41 @@ Ambos podem ser adicionados ao Processing IDE tradicional. Vejamos a seguir **co
 
 ### Passos para instalar
 
-1. Entre na parte de downloads do site do Processing (<http://www.processing.org/download>), escolha o seu sistema operacional e baixe.
+#### 1. Entre na parte de downloads do site do Processing (<http://www.processing.org/download>), escolha o seu sistema operacional e baixe.
 
 ![passo1](images/passo1.png)
 
-2. Saiba que não há um instalador, você precisa descomprimir a pasta que baixou (deszipar) e se quiser pode mover a pasta como um todo, mas não tire o arquivo executável da pasta. No Windows e no MacOS você abre o Processing IDE com um duplo clique. Veja como fica no Windows (no macOS é praticamente a mesma coisa):
+#### 2. Saiba que não há um instalador, você precisa descomprimir a pasta que baixou (deszipar) e se quiser pode mover a pasta como um todo, mas não tire o arquivo executável da pasta.
+
+No Windows e no MacOS você abre o Processing IDE com um duplo clique. No Linux, para lançar o Processing, abra um terminal apontado para a pasta descomprimida e digite *./processing* (você pode executar o *install.sh* que cria um atalho que pode ser duplo-clicado no desktop).
+
+Veja como fica no Windows (no macOS é praticamente a mesma coisa)
 
 ![passo2](images/passo2.png)
 
-No Linux, para lançar o Processing, abra um terminal apontado para a pasta descomprimida e digite *./processing* (você pode querer executar também o *install.sh* que cria um atalho que pode ser duplo-clicado no desktop).
 
-3. Uma vez lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…* (ou *Add mode…* se estiver em inglês). 
+#### 3. Uma vez lançado o IDE do Processing, procure no menu de modos o item *Adicionar modo…* (ou *Add mode…* se estiver em inglês). 
 
 ![passo3](images/passo3.png)
 
-4. Peça para instalar o modo Python.
+#### 4. Peça para instalar o modo Python.
 
 ![passo4](images/passo4.png)
 > \[Se esta etapa falhar, veja as observações mais abaixo].
 
-5. Mude no menu de modos para o modo Python!
+#### 5. Mude no menu de modos para o modo Python!
 
-(Pode ser preciso fechar e abrir o Processing em alguns casos)
-
-Note que na pasta *Documentos* do usuário será criada uma pasta *Processing*, onde ficarão seus *sketches* (programas), ferramentas, modos e bibliotecas. No Linux a pasta criada se chama *sketchbook*. Este é o estado final quando a instalação terminou:
+Pode ser preciso fechar e abrir o Processing em alguns casos. Note que na pasta *Documentos* do usuário será criada uma pasta *Processing*, onde ficarão seus *sketches* (programas), ferramentas, modos e bibliotecas. No Linux a pasta criada se chama *sketchbook*. Este é o estado final quando a instalação terminou:
 
 ![passo5](images/passo5.png)
 
 Observações: Caso não seja possível instalar o modo Python de dentro do IDE (redes com filtros ou proxies restritivas) você pode baixar, deszipar [PyhtonMode.zip](http://py.processing.org/3/PythonMode.zip) e colocar manualmente (no Windows e Mac OS) em *Documentos &gt; Processing &gt; modes &gt;* PythonMode. São dois problemas conhecidos: nomes de usuário com caracteres não-ASCII e firewalls podem atrapalhar o funcionamento do IDE.
 
-PS: Que tal um programinha para testar?
+#### Que tal um programinha para testar?
 
 ![hello garoa sketch](images/hellogaroa.png)
 
- 
- [Material didático aberto sobre o Processing modo Python](https://abav.lugaralgum.com/material-aulas/)
+#### [Material didático aberto sobre o Processing modo Python](https://abav.lugaralgum.com/material-aulas/)
  
 ----
 
