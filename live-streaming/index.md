@@ -1,29 +1,37 @@
-
 ---
 
 # <span style='font-family: monospace;'>[abav.lugaralgum.com/live-streaming](https://abav.lugaralgum.com/live-streaming)</span>
+
 ## apresentações remotas ao vivo (*live streaming*)
 
 ### próximas
 
+#### Terça-feira 30 de junho de 2020 - 19:30 - Noite de Processing
+
+O encontro começa 19h e a apresentação 19h30.
+
+- **つぶやきProcessing** é a hashtag criada por @Hau_kun e utilizada pela comunidade japonesa de programação criativa, reunindo no Twitter sketches cujo código cabe em apenas um tweet.
+  Alexandre Villares apresenta alguns dos autores desses tweets e explorar com os participanres o código de alguns deles. [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing)
+
+![ndp2020-06](https://garoa.net.br/w/images/NdP2020_06.gif)
 
 ---
 
 ### passadas
 
 #### Terça-feira 26 de maio de 2020 - 19:30 - Noite de Processing
- 
+
 - Joao Antonio de F. P. e Ferreira - Explorações e experimentos com simulação de fluidos [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing)
 
-![ndp2020-04](https://garoa.net.br/w/images/NdP05-2020.png)
+![ndp2020-05](https://garoa.net.br/w/images/NdP05-2020.png)
 
 
 #### Terça-feira 28 de abril de 2020 - 19:30 - Noite de Processing
- 
+
 - Carlos de Oliveira Junior - Encontros Digitais: construindo uma comunidade de arte e tecnologia [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing)
 
 ![ndp2020-04](https://garoa.net.br/w/images/NdP04-2020.png)
- 
+
 
 #### Terça-feira 31 de março de 2020 - 19:30 - Noite de Processing
 
@@ -46,6 +54,7 @@
     - não teve gravação
     - código: [live_2020-03-18.pyde](https://gist.github.com/villares/229bae8e9b3db9431865eb278af594e2)
     
+
 ![Captura de tela_2020-03-18_16-23-17](https://user-images.githubusercontent.com/3694604/76999475-96683a00-694e-11ea-88d7-51de75ab6f95.png)
 
 
