@@ -19,7 +19,7 @@ Educator, visual artist and new media consultant. Researches computational art p
 
 - [**arteprog**](http://arteprog.space) art and programming
   - [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
-
+- - [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), work published in *Internet e Sociedade,* journal by InternetLab.
 - Master's degree dissetation: [A taxonomy of themes for teaching programming in a visual context](https://abav.lugaralgum.com/mestrado/)
 
 - Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
@@ -34,7 +34,7 @@ Educator, visual artist and new media consultant. Researches computational art p
 
 - *[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)*
 
-- [Como instalar o Processing Modo Python](http://villares.github.io/como-instalar-o-processing-modo-python/) 
+- [How to install Processing Python Mode](http://villares.github.io/como-instalar-o-processing-modo-python/index-EN) 
 
 ### teaching activities
 
