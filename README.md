@@ -14,20 +14,17 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 ### apresentações, pesquisas, recursos educacionais e publicações
 
 - [**live-streaming**](https://abav.lugaralgum.com/live-streaming) Apresentações ao vivo.
-
 - [**sketch-mail**](http://villares.org/sketch-mail) Boletim por email sobre arte computacional / programação criativa e educação. 
-
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) Uma ideia visual por dia, usando programação.
-
 - [**arteprog**](https://arteprog.space) arte e programação [Apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]
 
   - [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos com Monica Rizzolli. 
-
 - [**material-aulas**](https://abav.lugaralgum.com/material-aulas) material didático aberto para Processing modo Python 
-
 - Contribuindo com [**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) para Processing (Java e Python) - [baixe o pacote no Processing IDE!](https://github.com/jeremydouglass/rosetta_examples_p5)
 
 #### 2019
+
+-- [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), obra publicada na revista *Internet e Sociedade,* do InternetLab.
 
 - **Python Brasil 2019** - Ribeirão Preto
    - [**Aprendendo e ensinando Python para "programadores alternativos"**](https://abav.lugaralgum.com/palestras/pybr2019/) slides da palestra
