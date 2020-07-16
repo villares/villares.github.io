@@ -16,11 +16,11 @@
 
 ### s328 series, 2018—2020
 
-> <img src="assets/s328_photo.jpg" style="height:500px" />
+> ![](assets/s328_photo.jpg)
 >
 > a328_2020 (photographic print)
 
-> <img src="assets/penplotter328.jpg" style="height:500px"/>
+> ![](assets/penplotter328.jpg)
 >
 > s328 + S (simplified variation for  pen plotter )
 
@@ -61,7 +61,7 @@ code at  **[abav.lugaralgum.com/sketch-a-day](http://abav.lugaralgum.com)**.
 
 Código e instruções de montagem em [**abav.lugaralgum.com/lousa-magica**](https://abav.lugaralgum.com/lousa-magica/).
 
-<img src="assets/exemplos_lousa.png" style="height:400px">
+![](assets/exemplos_lousa.png)
 
 > Amostra dos desenhos produzidos pelo público (principalmente crianças).
 
