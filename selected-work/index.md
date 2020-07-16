@@ -2,7 +2,7 @@
 ----
 
 ## trabalhos selecionados
-
+ [English version](index-EN.md)
 ---
 
 ### *2850 Triangle Interpolations v3*, 2019
@@ -11,7 +11,7 @@
 >
 > "Uma obra de artes visuais no domínio das novas mídias, pode também  ser descrita como uma obra algorítmica. Executada no contexto da  exploração gráfica da combinatória de elementos por meio da  programação. Reflete também preocupações do autor com o  compartilhamento do conhecimento, licenciamento de artefatos culturais,  uso de ferramentas livres, acesso ao código fonte e desmistificação  dos procedimentos algorítmicos."
 
-**2850  interpolações de triângulos v3** é uma obra publicada na revista *Internet & Sociedade*, n. 1 , v. 1 , janeiro de 2020, p. 340 a 344, acessível em **[revista.internetlab.org](http://revista.internetlab.org)**.
+**2850  interpolações de triângulos v3** é uma obra publicada na revista *Internet & Sociedade*, n. 1 , v. 1 , janeiro de 2020, p. 340 a 344, acessível em **[revista.internetlab.org](https://revista.internetlab.org)**.
 
 ---
 
@@ -35,13 +35,13 @@ As impressões em papel fotográfico são sempre únicas, utilizando uma semente
 
 ### desenho(), 2019
 
-> ![gif animado com amostras da publicação](http://desenho.lugaralgum.com/assets/amostra-desenho0.gif)
+> ![gif animado com amostras da publicação](https://desenho.lugaralgum.com/assets/amostra-desenho0.gif)
 >
 > Uma mistura de fanzine, fôlder e pôster, cada exemplar é único.
 
 **desenho()**,  ou *desenho sem argumentos*,  é uma publicação independente de desenho e programação. Em sua primeira edição (`desenho() #0 outubro 2019`), foram impressos inicialmente 200 exemplares,  graças a um financiamento coletivo, distribuídos gratuitamente na conferência  Python Brasil 2019, en Ribeirão Preto.
 
-Agradecimentos e mais informações em **[desenho.lugaralgum.com](http://desenho.lugaralgum.com:).** 
+Agradecimentos e mais informações em **[desenho.lugaralgum.com](https://desenho.lugaralgum.com:).** 
 
 ---
 
@@ -60,7 +60,7 @@ Impressão em risografia de um *sketch*, tiragem de 30 exemplares. Inclui o cód
 > <img src="assets/sketch-a-day3.png " style="height:400px">
 > Amostra de *sketches* em 2019
 
-Neste experimento artístico iniciado em janeiro de 2018, são publicados esboços, *sketches*, ideias visuais expressadas por meio de programação diariamente, sempre acompanhados do código fonte em **[abav.lugaralgum.com/sketch-a-day](http://abav.lugaralgum.com)**.
+Neste experimento artístico iniciado em janeiro de 2018, são publicados esboços, *sketches*, ideias visuais expressadas por meio de programação diariamente, sempre acompanhados do código fonte em **[abav.lugaralgum.com/sketch-a-day](https://abav.lugaralgum.com)**.
 
 ---
 
@@ -70,7 +70,7 @@ Neste experimento artístico iniciado em janeiro de 2018, são publicados esboç
 >
 > Vídeo da Lousa mágina no Sesc 24 de maio - crédito: [João Adriano Freitas](https://github.com/jaafreitas)
 
-A *Lousa mágica* foi apresentada inicialmente em conjunto com as atividades do [Estúdio Hacker](http://estudiohacker.io) na inauguração do Sesc 24 de Maio, em agosto de 2017 (vídeo acima).  Usando 6 potenciômetros, permitia desenhar e o desenho podia ser apagado tombando a caixa de controle. No evento, era possível também postar *tweets* com o desenho.
+A *Lousa mágica* foi apresentada inicialmente em conjunto com as atividades do [Estúdio Hacker](https://estudiohacker.io) na inauguração do Sesc 24 de Maio, em agosto de 2017 (vídeo acima).  Usando 6 potenciômetros, permitia desenhar e o desenho podia ser apagado tombando a caixa de controle. No evento, era possível também postar *tweets* com o desenho.
 
 Para o Circuito Sesc de Artes, em 2018, foram feitas montagens com 4 potenciômetros com uma variante do software da *Lousa mágica* e uma versão nova chamada *Lousa paramétrica* com um desenho paramétrico recursivo de uma árvore. Que foram apresentadas ao público por Monica Rizzolli e João Adriano Freitas no contexto das atividades *Máquinas de Desenhar no Circuito SESC de Artes 2018.* 
 
