@@ -8,11 +8,11 @@
 
 ### *2850 Triangle Interpolations v3*, 2019
 
+**2850  interpolações de triângulos v3** é uma obra publicada na revista *Internet & Sociedade*, n. 1 , v. 1 , janeiro de 2020, p. 340 a 344, acessível em **[revista.internetlab.org](https://revista.internetlab.org)**.
+
 > ![](assets/Triangle-Interpolations.jpg)
 >
 > "Uma obra de artes visuais no domínio das novas mídias, pode também  ser descrita como uma obra algorítmica. Executada no contexto da  exploração gráfica da combinatória de elementos por meio da  programação. Reflete também preocupações do autor com o  compartilhamento do conhecimento, licenciamento de artefatos culturais,  uso de ferramentas livres, acesso ao código fonte e desmistificação  dos procedimentos algorítmicos."
-
-**2850  interpolações de triângulos v3** é uma obra publicada na revista *Internet & Sociedade*, n. 1 , v. 1 , janeiro de 2020, p. 340 a 344, acessível em **[revista.internetlab.org](https://revista.internetlab.org)**.
 
 ---
 
