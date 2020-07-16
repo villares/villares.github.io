@@ -15,39 +15,43 @@
 
 ### Série s328, 2018—2020
 
-Série de obras com início nos estudos diários do projeto *sketch-a-day* em 2018, cujos desobramentos foram variantes em movimento, desenhos realizados com plotter de caneta e impressões únicas em papel fotográfico.
+Série de obras algorítmicas, ou comptacionais, com origem nos estudos diários do projeto *sketch-a-day* em 2018, e cujos desobramentos permitiram variantes em movimento, desenhos realizados com plotter de caneta e impressões únicas em papel fotográfico.
 
-###### a328_2020 (photographic prints)
+Têm como princíplio uma sequência de procedimentos que deformam duas grades de quadrados com múltiplas subdivisões, interpolando grades intermediárias, produzindo estruturas gráficas de leitura tridimensional.
+
+###### a328_2020 (impressões em papel fotográfico, diversas dimensões)
 
 As impressões em papel fotográfico são sempre únicas, utilizando uma semente pseudo-aleatória anotada, para evitar duplicações.
 
 <img src="assets/s328_photo.jpg" style="height:400px" />
 
-###### s328 + S (simplified pen plotter variation)
+###### s328 + S (variante simplificada para pen plotter )
 
 <img src="assets/penplotter328.jpg" style="height:400px"/>
 
 ### desenho() <br>*ou desenho sem argumentos*, 2019
 
-[desenho.lugaralgum.com](http://desenho.lugaralgum.com:)
+Publicação independente de desenho e programação, uma mistura de fanzine, fôlder e pôster, cada exemplar é único.
 
-Publicação independente de desenho e programação, teve sua primeira edição (`desenho() #0 outubro 2019`) distribuída gratuitamente na conferência  Python Brasil 2019. Uma mistura de fanzine, fôlder e pôster, cada exemplar é único. Foram impressos inicialmente 200.
+Foram impressos inicialmente 200 em sua primeira edição (`desenho() #0 outubro 2019`) distribuída gratuitamente na conferência  Python Brasil 2019, graças a um financiamento coletivo. Agradecimentos e mais informações em [desenho.lugaralgum.com](http://desenho.lugaralgum.com:). 
 
 ![gif animado com amostras da publicação](http://desenho.lugaralgum.com/assets/amostra-desenho0.gif)
 
 ### Projeto *sketch-a-day* , 2018—em curso
 
-Neste experimento artístico ainda em curso, são publicados esboços diários de ideias visuais expressadas por meio de programação no site 
-[abav.lugaralgum.com/sketch-a-day](/http://abav.lugaralgum.com), sempre acompanhados do código fonte.
+**[abav.lugaralgum.com/sketch-a-day](http://abav.lugaralgum.com)**
 
-<img src="assets/sketch-a-day3.png " style="height:400px">
+Neste experimento artístico ainda em curso, iniciado em janeiro de 2018, são publicados esboços, *sketches*, ideias visuais expressadas por meio de programação diariamente, sempre acompanhados do código fonte.  
+
+**<img src="assets/sketch-a-day3.png " style="height:400px">**
 
 ### Lousa mágica e Lousa paramétrica, 2017—2018
 
-- [Vídeo de 2017](https://www.youtube.com/watch?v=D5Ha1bhqBuQ)
-- [Repositório do projeto](https://abav.lugaralgum.com/lousa-magica/)
+[**abav.lugaralgum.com/lousa-magica**](https://abav.lugaralgum.com/lousa-magica/)
 
 ![Vídeo da lousa mágica](https://camo.githubusercontent.com/24628b40caf9943f12bdb845bcfcf161b55d4370/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f44354861316268714275512f302e6a7067)
+
+- [vídeo de 2017](https://www.youtube.com/watch?v=D5Ha1bhqBuQ)
 
 A *Lousa mágica* foi apresentada inicialmente em conjunto com as atividades do [Estúdio Hacker](http://estudiohacker.io) na inauguração do Sesc 24 de Maio, em agosto de 2017 (vídeo acima).  Usando 6 potenciômetros, permitia desenhar e o desenho podia ser apagado tombando a caixa de controle. No evento, era possível também postar *tweets* com o desenho.
 
