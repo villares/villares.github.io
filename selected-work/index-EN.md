@@ -2,7 +2,7 @@
 ---
 
 ## selected work
-> [versão em português](index.md))
+> [versão em português](index.md)
 
 ---
 
