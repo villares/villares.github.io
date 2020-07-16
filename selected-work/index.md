@@ -2,7 +2,8 @@
 ----
 
 ## trabalhos selecionados
- [English version](index-EN.md)
+> [English version](index-EN.md)
+
 ---
 
 ### *2850 Triangle Interpolations v3*, 2019
