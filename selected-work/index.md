@@ -41,6 +41,15 @@ Agradecimentos e mais informações em **[desenho.lugaralgum.com](http://desenho
 
 ---
 
+### sketch 190514c, 2019
+
+> ![](assets/sketch_riso.jpg)
+> Poster 190414c impresso em risografia
+
+Impressão em risografia de um *sketch*, tiragem de 30 exemplares. Inclui o código que produz a imagem. 
+
+---
+
 ### Projeto *sketch-a-day* , 2018—em curso
 
 > <img src="assets/sketch-a-day3.png " style="height:400px">
