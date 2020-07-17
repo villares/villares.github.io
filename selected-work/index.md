@@ -1,7 +1,7 @@
 
 ----
 
-## trabalhos selecionados
+## obras selecionadas
 > [English version](index-EN.md)
 
 ---
