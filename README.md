@@ -15,8 +15,6 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 - [**obras selecionadas**](selected-work/index.md) Seleção de produções publicada ou expostas.
 
-- [**sketch-mail**](http://villares.org/sketch-mail) Boletim por email sobre arte computacional / programação criativa e educação. 
-
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) Uma ideia visual por dia, usando programação.
 
 - [**material-aulas**](https://abav.lugaralgum.com/material-aulas) material didático aberto para Processing modo Python.
@@ -26,9 +24,11 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 - [**live-streaming**](https://abav.lugaralgum.com/live-streaming) Apresentações ao vivo.
 
+- [**sketch-mail**](http://villares.org/sketch-mail) Boletim com atualizações sobre  arte computacional / programação criativa e educação.
+
 #### 2019 - 2020
 
-- Fiz algumas contribuições para o site  [**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) na categoria Processing (Java e Python) - com desdobramentos no  [**Pacote de exemplos para o Processing IDE**](https://github.com/jeremydouglass/rosetta_examples_p5) mantido por Jeremy Douglass. Baixe no seu IDE!
+- Fiz  contribuições para o site  [**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) na categoria Processing (Java e Python), com desdobramentos no  [**pacote de exemplos Rosetta para o Processing IDE**](https://github.com/jeremydouglass/rosetta_examples_p5) mantido por Jeremy Douglass. Baixe no seu IDE!
  
 - [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), obra publicada na revista *Internet e Sociedade,* do InternetLab.
 
