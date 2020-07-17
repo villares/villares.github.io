@@ -13,23 +13,28 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 ### apresentações, pesquisas, recursos educacionais e publicações
 
-- [**material-aulas**](https://abav.lugaralgum.com/material-aulas) material didático aberto para Processing modo Python.
+- [**obras selecionadas**](selected-work/index.md) Seleção de produções publicada ou expostas.
+
 - [**sketch-mail**](http://villares.org/sketch-mail) Boletim por email sobre arte computacional / programação criativa e educação. 
+
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) Uma ideia visual por dia, usando programação.
-- [**arteprog**](https://arteprog.space) arte e programação [Apoie em [patreon.com/arteprog](https://patreon.com/arteprog)!]
+
+- [**material-aulas**](https://abav.lugaralgum.com/material-aulas) material didático aberto para Processing modo Python.
+
+- [**arteprog**](https://arteprog.space) arte e programação
   - [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos com Monica Rizzolli. 
-- Contribuindo com [**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) para Processing (Java e Python) - [baixe o pacote no Processing IDE!](https://github.com/jeremydouglass/rosetta_examples_p5)
+
 - [**live-streaming**](https://abav.lugaralgum.com/live-streaming) Apresentações ao vivo.
-- [**trabalho selecionados**](selected-work/index.md)
 
 #### 2019 - 2020
 
+- Fiz algumas contribuições para o site  [**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) na categoria Processing (Java e Python) - com desdobramentos no  [**Pacote de exemplos para o Processing IDE**](https://github.com/jeremydouglass/rosetta_examples_p5) mantido por Jeremy Douglass. Baixe no seu IDE!
+ 
 - [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), obra publicada na revista *Internet e Sociedade,* do InternetLab.
 
 - **Python Brasil 2019** - Ribeirão Preto
    - [**Aprendendo e ensinando Python para "programadores alternativos"**](https://abav.lugaralgum.com/palestras/pybr2019/) slides da palestra
    - [**desenho() #0_out_2019**](http://desenho.lugaralgum.com/) fanzine & poster.
-
 
 - [**Taxonomia de temas para ensino de programação em contexto visual**](https://abav.lugaralgum.com/mestrado) Dissertação de mestrado apresentada na FEC-UNICAMP em fevereiro de 2019.
 
