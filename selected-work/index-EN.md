@@ -46,10 +46,10 @@ Acknoledgments and more information at **desenho.lugaralgum.com](http://desenho.
 
 ### *sketch-a-day*  project, 2018—ongoing
 
-> <img src="assets/sketch-a-day3.png " style="height:400px">
-> Amostra de *sketches* em 2019
+![2018](assets/2018.gif)
+![2019](assets/2019.gif)
 
-code at  **[abav.lugaralgum.com/sketch-a-day](http://abav.lugaralgum.com)**.
+An artistic experiment that began in January 2018, publishing daily sketches, visual ideas expressed with code at  **[abav.lugaralgum.com/sketch-a-day](http://abav.lugaralgum.com)**.
 
 ---
 

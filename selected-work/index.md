@@ -58,9 +58,9 @@ Impressão em risografia de um *sketch*, tiragem de 30 exemplares. Inclui o cód
 
 ### Projeto *sketch-a-day* , 2018—em curso
 
-> <img src="assets/sketch-a-day3.png " style="height:400px">
->
-> Amostra de *sketches* em 2019
+
+![2018](assets/2018.gif)
+![2019](assets/2019.gif)
 
 Neste experimento artístico iniciado em janeiro de 2018, são publicados esboços, *sketches*, ideias visuais expressadas por meio de programação diariamente, sempre acompanhados do código fonte em **[abav.lugaralgum.com/sketch-a-day](https://abav.lugaralgum.com)**.
 
