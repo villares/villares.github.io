@@ -17,20 +17,20 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) Uma ideia visual por dia, usando programação.
 
-- [**material-aulas**](https://abav.lugaralgum.com/material-aulas) material didático aberto para Processing modo Python.
+- [**material-aulas**](https://abav.lugaralgum.com/material-aulas) Material didático aberto para Processing modo Python.
 
-- [**arteprog**](https://arteprog.space) arte e programação
+- [**arteprog**](https://arteprog.space) arte e programação
   - [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos com Monica Rizzolli. 
 
-- [**live-streaming**](https://abav.lugaralgum.com/live-streaming) Apresentações ao vivo.
+- [**live-streaming**](https://abav.lugaralgum.com/live-streaming)  Apresentações ao vivo.
 
-- [**sketch-mail**](http://villares.org/sketch-mail) Boletim com atualizações sobre  arte computacional / programação criativa e educação.
+- [**sketch-mail**](http://villares.org/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
 
 #### 2019 - 2020
 
-- Fiz  contribuições para o site  [**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) na categoria Processing (Java e Python), com desdobramentos no  [**pacote de exemplos Rosetta para o Processing IDE**](https://github.com/jeremydouglass/rosetta_examples_p5) mantido por Jeremy Douglass. Baixe no seu IDE!
- 
-- [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), obra publicada na revista *Internet e Sociedade,* do InternetLab.
+- Contribuições para o site  [**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) na categoria Processing (Java e Python), com desdobramentos no  [**pacote de exemplos Rosetta para o Processing IDE**](https://github.com/jeremydouglass/rosetta_examples_p5) mantido por Jeremy Douglass. Baixe no seu IDE!
+
+- [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), obra publicada na revista *Internet e Sociedade,* n.1, v.1, do InternetLab.
 
 - **Python Brasil 2019** - Ribeirão Preto
    - [**Aprendendo e ensinando Python para "programadores alternativos"**](https://abav.lugaralgum.com/palestras/pybr2019/) slides da palestra
@@ -74,7 +74,7 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
 
 - Educador de tecnologias e artes no Sesc Avenida Paulista, desde 2018
 
-- Professor no Instituto Europeo di Design - São Paulo - IED-SP, desde 2016
+- Professor no Instituto Europeo di Design - São Paulo - IED-SP,  2016—2019
   - Programação Criativa - Pós-graduação em design de interação
   - Modelagem 3D, VR/AR - Tópicos especiais
 
