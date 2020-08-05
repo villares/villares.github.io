@@ -61,10 +61,11 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
           return "<a href='http://" + link + "' target='_blank'>" + link + "</a>";
         else
           return "";
-      }
+      } // 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS0IB7kWbfC6RD2pLGdOJWqAc5qYFY6XuyEvXYDDZ_B6Wglvfi0BwgOC_MlgjPic-Hf4N7SZOD8IRSN/pub?output=csv'
 
       CsvToHtmlTable.init({
-        csv_path: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS0IB7kWbfC6RD2pLGdOJWqAc5qYFY6XuyEvXYDDZ_B6Wglvfi0BwgOC_MlgjPic-Hf4N7SZOD8IRSN/pub?output=csv',
+        csv_path: 'https://raw.githubusercontent.com/villares/Resources-for-teaching-programming/master/II%20-%20Books%20%26%20References.csv',
+        element: 'table-container',
         element: 'table-container', 
         allow_download: true,
         csv_options: {separator: ',', delimiter: '"'},
