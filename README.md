@@ -7,7 +7,7 @@
 
 ----
 
-Professor, artista visual e consultor em novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em um contexto visual. Arquiteto pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). [Membro](https://processingfoundation.org/members) da Processing Foundation e co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. 
+Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arqutetura e urbanismo pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). [Membro](https://processingfoundation.org/members) da Processing Foundation e co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. Ministra cursos na graduação e na pós-graduação de diversas instituições, ou como educador de tecnologias e artes, desenvolve também cursos e oficinas independentes.
 
 ----
 
@@ -70,7 +70,7 @@ Professor, artista visual e consultor em novas mídias. Pesquisa práticas artí
   - Programação criativa para o curso Arte e Mídias Digitais
 
 - Professor no Centro Universitário Belas Artes de São Paulo, desde 2019
-  - Cultura do Script (Processing Python Mode) - Pós-graduação Arquitetura Digital e Design Paramétrico
+  - Cultura do Script (Python) - Pós-graduação Arquitetura Digital e Design Paramétrico
 
 - Educador de tecnologias e artes no Sesc Avenida Paulista, desde 2018
 
