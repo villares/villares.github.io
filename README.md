@@ -13,7 +13,7 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 ### apresentações, pesquisas, recursos educacionais e publicações
 
-- [**obras selecionadas**](selected-work/index.md) Seleção de produções publicada ou expostas.
+- [**obras selecionadas**](selected-work/index.md) Seleção de produções publicadas ou expostas.
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) Uma ideia visual por dia, usando programação.
 
