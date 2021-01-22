@@ -6,7 +6,7 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sketch_2020_12_31a</title>
+    <title>Grade recursiva PCD Porto 2021 - Alexandre B A Villares</title>
     <style> body, html, canvas {padding: 0; margin: 0; overflow: hidden;} </style>
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/default.min.css">
@@ -28,20 +28,20 @@
         html {
           overflow-y: scroll;
           overflow-x: scroll;
+
         }
 
         .demoContainer {
           display: flex;
           align-items: center;
           justify-content: center;
+          margin-top: 10px;
+          margin-bottom: 10px;
+          margin-right: 150px;
+          margin-left: 150px;    
         }
 
-        #text-editor {
-            width: 700px;
-            height: 600px;
-            float: left;
-            margin-bottom:1em;
-        }
+
 
         .display-none {display:none;}
     </style>
@@ -58,11 +58,16 @@
             <input disabled id="executeBtn" class="btn rounded py1 px2 mb1" type="submit" value="Execute">
             <input id="clearBtn" class="btn rounded py1 px2 mb1" type="submit" value="Clear">
           </div> -->
-      </div>
+      </div class="demoContainer">
 
-      <div id="sketch-holder">
+      <div id="sketch-holder" >
         <!-- You sketch will go here! -->
       </div>
+
+      <p style="font-family: 'sans'; font-size:18px"><br>
+        <b>Grade recursiva PCD Porto 2021</b>, by <a href="http://abav.lugaralgum.com">Alexandre B A Villares</a> was created for PCD Porto 2021 exhibition,
+        but it is also part of a series started at <a href="https://abav.lugaralgum.com/sketch-a-day/">sketch-a-day</a> project, running on your browser thanks to <a href="https://github.com/berinhard/pyp5js">pyp5js</a> pyodide mode.
+        </p>
     </div>
   </body>
   <script type="text/javascript">
@@ -72,15 +77,16 @@ let sketchCode = `
 
 def setup():
     global grid
-    size(1024, 512)
+    size(1024 - 128, 1024 - 128)
+    pixelDensity(2)
     rectMode(CENTER)
     colorMode(HSB)
     noSmooth()
-    grid = Cell(0, 0, width, height, 8, 4, deep=True)
+    grid = Cell(0, 0, width, height, 8, 8, deep=True)
 
 def draw():
     global f
-    f = frameCount / 20.0
+    f = millis() / 5000.0
     background(0)
     translate(width / 2, height / 2)
     grid.plot()
@@ -100,12 +106,16 @@ class Cell():
                 c.parent = self
 
     def plot(self):
+        # self.x += 1
+        # if self.x > 512:
+        #     self.x -= width
         if not self.children:
             noFill()
-            t = 0.5 + cos(PI - f + self.x / 320.0) / 2.0
+            t = 1 + cos(PI - f + self.x / 1200.0) #/ 2
             self.lerp_cell(t)
         else:
             for c in self.children:
+
                 c.plot()
 
     def lerp_cell(self, t):
@@ -113,15 +123,17 @@ class Cell():
         xb, yb = self.parent.x, self.parent.y
         cwa, cha = self.cw, self.ch
         cwb, chb = self.parent.cw, self.parent.ch
-        rb, ra = 0, self.parent.cw / 4
-        # t = map(mouseX, 0, width, 0, 2)
+        rb, ra = self.parent.cw / 4.0, 0 
         xc, yc, cwc, chc, rc = [lerp(a, b, t) for a, b in ((xa, xb),
                                                            (ya, yb),
                                                            (cwa, cwb),
-                                                           (cha, chb),
+                                                    (cha, chb),
                                                            (ra, rb))]
-        stroke(8 + 2 * (cwc + 2) - rc, 255, 255)
-        rect(xc, yc, cwc, cwc, rc)
+        transp = constrain(260 - rc * 4, 0, 255) / 255.0
+        stroke(8 + 2 * (cwc + 2) - rc, 255, 255, transp)
+        # stroke(0)
+        strokeWeight(constrain(0.5 + rc / 4, 1, 100))
+        rect(xc, yc, cwc, cwc, constrain(rc, 0, 100))
 
     @classmethod
     def rec_grid(cls, x, y, tw, th, cols, rows, deep=False):
@@ -1697,7 +1709,5 @@ def add_library(lib_name):
     // $("#clearBtn").on("click", () => {$("#sketch-holder").html("")});
   </script>
 
-<p style="font-family: 'sans'; font-size:18px"><br>
-<b>sketch_2020_12_31c</b>, part of <a href="https://abav.lugaralgum.com/sketch-a-day/">sketch-a-day</a> project, running on your browser with <a href="https://github.com/berinhard/pyp5js">pyp5js</a> pyodide mode.
-</p>
+
 </html>
