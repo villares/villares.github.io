@@ -77,12 +77,12 @@ let sketchCode = `
 
 def setup():
     global grid
-    size(1024 - 128, 1024 - 128)
+    size(1024, 1024)
     pixelDensity(2)
     rectMode(CENTER)
     colorMode(HSB)
     noSmooth()
-    grid = Cell(0, 0, width, height, 8, 8, deep=True)
+    grid = Cell(0, 0, width  - 128, height -  - 128, 8, 8, deep=True)
 
 def draw():
     global f
