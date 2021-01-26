@@ -5,7 +5,19 @@
 
 ## apresentações remotas ao vivo (*live streaming*)
 
-### próximas
+---
+
+#### Terça-feira 26 de janeiro de 2021 - 19:30 - Noite de Processing
+
+   A videocoferência será transmitida no canal https://www.twitch.tv/pixotosco
+
+Um experimento que toma como ponto de partida o exercício do designer Armin Hofmann em seu livro Graphic Design Manual, em que ele propõe uma maneira de criar formas. A partir do exercício de Hoffmann, foi criado um sketch no Processing para geração de mais de 160.000 formas diferentes.
+
+Leopoldo Leal é doutor em design pela FAUUSP. Atua como professor na pós-graduação do Senac e na EBAC. Com mais de 20 anos de experiência, trabalhou como designer na Landor, Interbrand, Futurebrand e GAD’ Branding. Conquistou prêmios nacionais e internacionais por sua tese Pandemonium com a qual obteve o 1º lugar no Prêmio do Museu da Casa Brasileira e que foi selecionada para o Type Directors Club de Nova Iorque (TDC66) assim como para a 13º Bienal da ADG. Em 2020 sua tese foi publicada como livro pela editora Senac. 
+
+![ndp2020-06](https://garoa.net.br/w/images/NDP21Jan.png)
+
+---
 
 #### Terça-feira 30 de junho de 2020 - 19:30 - Noite de Processing
 
@@ -17,28 +29,6 @@ O encontro começa 19h e a apresentação 19h30.
 ![ndp2020-06](https://garoa.net.br/w/images/NdP2020_06.gif)
 
 ---
-
-### passadas
-
-#### Terça-feira 26 de maio de 2020 - 19:30 - Noite de Processing
-
-- Joao Antonio de F. P. e Ferreira - Explorações e experimentos com simulação de fluidos [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing)
-
-![ndp2020-05](https://garoa.net.br/w/images/NdP05-2020.png)
-
-
-#### Terça-feira 28 de abril de 2020 - 19:30 - Noite de Processing
-
-- Carlos de Oliveira Junior - Encontros Digitais: construindo uma comunidade de arte e tecnologia [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing)
-
-![ndp2020-04](https://garoa.net.br/w/images/NdP04-2020.png)
-
-
-#### Terça-feira 31 de março de 2020 - 19:30 - Noite de Processing
-
-- Lucas Mendoça - Técnicas de Shaders com OpenGL<br>acesso: [garoa.net.br/wiki/Noite_de_Processing](https://garoa.net.br/wiki/Noite_de_Processing) ou [twitch.tv/luuchowl](https://www.twitch.tv/luuchowl)
-
-![ndp2020-03](https://user-images.githubusercontent.com/3694604/77477760-bc8d4e80-6e14-11ea-8eca-1509b22f2ed2.png)
 
 
 #### Terça-feira 24 de março de 2020 - 15:00 - Processing_Python
