@@ -1,9 +1,12 @@
+&nbsp;
+---
+
 ## Unicode entry
 
 `ctrl` + `shift` + `u` + <mark>XXXX</mark>
 
-π -> <mark>3c0</mark>
-Π -> <mark>3a0</mark>
+- `ctrl` + `shift` + `u` + <mark>3c0</mark> → **π**
+- `ctrl` + `shift` + `u` + <mark>3a0</mark> → **Π**
 
 ## GtkComposeTable & XCOMM UTF-8 (Unicode) compose sequence
 
