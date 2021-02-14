@@ -1,9 +1,9 @@
 """
-Recursive grid PCD Porto 2021 / Grade recursiva PCD Porto 2021
+Recursive grid 2021-01-21 / Grade recursiva 2021-01-21
 Alexandre B A Villares - https://abav.lugaralgum.com/
 
 This work started by exploring a series of recursive grids from my sketch-a-day project, 
-and this variation is offered to the PCD Porto exhibition.
+and this variation was subimted to the PCD Porto exhibition, unfortunately it was not accepted.
 
 The recursive grid theme/structure has been a favourite of mine since I learned it from 
 Japanese creative coder Takawo Shunsuke (https://twitter.com/takawo) in 2019.
