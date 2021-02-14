@@ -1,4 +1,4 @@
-&nbsp;
+
 ---
 
 ## Unicode entry
