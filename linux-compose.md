@@ -1,4 +1,3 @@
-
 ---
 
 ## Unicode entry
@@ -31,9 +30,9 @@
 > below by pressing Compose and the elements of the sequence.  For example,
 > to enter a Euro sign, you would type
 > 
-> <pre><i><Compose></i> <b>= C</b></pre>
+> **Compose = C** 
 > 
-> (the Compose key, then the equals sign, then a capital C).
+> (the Compose key [or key combination], then the equals sign, then a capital C).
 
 <p><table width="100%" border="1">
   <tr>
