@@ -1,12 +1,22 @@
-## Ubuntu help: GtkComposeTable
+## Unicode entry
 
-https://help.ubuntu.com/community/GtkComposeTable
+<key>ctrl</key> + <key>shift</key> + <key>u</key> + <mark>XXXX</mark>
+
+π -> <mark>`3c0`</mark>
+Π -> <mark>`3a0`</mark>
+
+## GtkComposeTable & XCOMM UTF-8 (Unicode) compose sequence
+
+[help.ubuntu.com/community/GtkComposeTable](https://help.ubuntu.com/community/GtkComposeTable)
+
+[cgit.freedesktop.org/xorg/lib/libX11/plain/nls/en_US.UTF-8/Compose.pre](https://cgit.freedesktop.org/xorg/lib/libX11/plain/nls/en_US.UTF-8/Compose.pre)
 
 ## Linux Compose Key Sequences
+
 > [From Internet Archive: updated  8 September 2007](https://web.archive.org/web/20140412090608/http://www.hermit.org/Linux/ComposeKeys.html)
->
+> 
 > This table shows the compose key sequences which can be used to enter accented and other non-standard characters in Linux. To use these, you will first need to set up a compose key.  Details may vary depending on your Linux setup, but it should be something like this:
->
+> 
 > <ul>
 > <li>Open the Control Centre / desktop configuration tool.</li>
 > <li>Select "Regional / Keyboard Layout".</li>
@@ -17,8 +27,9 @@ https://help.ubuntu.com/community/GtkComposeTable
 > Once you've set that up, you should be able to use the compose key sequences
 > below by pressing Compose and the elements of the sequence.  For example,
 > to enter a Euro sign, you would type
->
-> <pre><i>&lt;Compose&gt;</i> <b>= C</b></pre>
+> 
+> <pre><i><Compose></i> <b>= C</b></pre>
+> 
 > (the Compose key, then the equals sign, then a capital C).
 
 <p><table width="100%" border="1">
@@ -91,7 +102,7 @@ https://help.ubuntu.com/community/GtkComposeTable
   <tr>
    <td>U00ab</td>
    <td align="center"><code><b>«</b></code></td>
-   <td><code>"&lt;&lt;"</code></td>
+   <td><code>"<<"</code></td>
    <td>guillemotleft # LEFT-POINTING DOUBLE ANGLE QUOTATION MARK</td>
   </tr>
   <tr>
@@ -169,7 +180,7 @@ https://help.ubuntu.com/community/GtkComposeTable
   <tr>
    <td>U00bb</td>
    <td align="center"><code><b>»</b></code></td>
-   <td><code>"&gt;&gt;"</code></td>
+   <td><code>">>"</code></td>
    <td>guillemotright # RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK</td>
   </tr>
   <tr>
@@ -1693,13 +1704,13 @@ https://help.ubuntu.com/community/GtkComposeTable
   <tr>
    <td>U2018</td>
    <td align="center"><code><b>‘</b></code></td>
-   <td><code>"&lt;'" "'&lt;"</code></td>
+   <td><code>"<'" "'<"</code></td>
    <td>LEFT SINGLE QUOTATION MARK</td>
   </tr>
   <tr>
    <td>U2019</td>
    <td align="center"><code><b>’</b></code></td>
-   <td><code>"&gt;'" "'&gt;"</code></td>
+   <td><code>">'" "'>"</code></td>
    <td>RIGHT SINGLE QUOTATION MARK</td>
   </tr>
   <tr>
@@ -1711,13 +1722,13 @@ https://help.ubuntu.com/community/GtkComposeTable
   <tr>
    <td>U201c</td>
    <td align="center"><code><b>“</b></code></td>
-   <td><code>"&lt;"" ""&lt;"</code></td>
+   <td><code>"<"" ""<"</code></td>
    <td>LEFT DOUBLE QUOTATION MARK</td>
   </tr>
   <tr>
    <td>U201d</td>
    <td align="center"><code><b>”</b></code></td>
-   <td><code>"&gt;"" ""&gt;"</code></td>
+   <td><code>">"" "">"</code></td>
    <td>RIGHT DOUBLE QUOTATION MARK</td>
   </tr>
   <tr>
@@ -1735,13 +1746,13 @@ https://help.ubuntu.com/community/GtkComposeTable
   <tr>
    <td>U2039</td>
    <td align="center"><code><b>‹</b></code></td>
-   <td><code>".&lt;"</code></td>
+   <td><code>".<"</code></td>
    <td>SINGLE LEFT-POINTING ANGLE QUOTATION MARK</td>
   </tr>
   <tr>
    <td>U203a</td>
    <td align="center"><code><b>›</b></code></td>
-   <td><code>".&gt;"</code></td>
+   <td><code>".>"</code></td>
    <td>SINGLE RIGHT-POINTING ANGLE QUOTATION MARK</td>
   </tr>
   <tr>
@@ -2004,8 +2015,8 @@ https://help.ubuntu.com/community/GtkComposeTable
   </tr>
 </table></p>
 
-
 <!-- FILE ARCHIVED ON 09:06:08 Apr 12, 2014 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 14:51:57 May 24, 2020.
 -->
+
 -
