@@ -25,6 +25,11 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - [**sketch-mail**](http://villares.org/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
 
+#### 2021
+
+- [Oficina desenhando caminhos aleatórios com programação](https://www.youtube.com/watch?v=frwHqc5SBGc) -  Multiverso.cc 2021
+- Oficina Processing Community Day @ Porto, Portugal (online)
+
 #### 2019 - 2020
 
 - Contribuições para o site  [**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) na categoria Processing (Java e Python), com desdobramentos no  [**pacote de exemplos Rosetta para o Processing IDE**](https://github.com/jeremydouglass/rosetta_examples_p5) mantido por Jeremy Douglass. Baixe no seu IDE!
