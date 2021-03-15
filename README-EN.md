@@ -7,7 +7,7 @@
 
 ----
 
-Educator, visual artist and new media consultant. Researches computational art procedures, generative design, creative coding and how to teach computer programming in a visual context. Architect (FAU-USP, 2000) with a master's degree from FEC-Unicamp (2019). Processing Foundation [supporter](https://processingfoundation.org/donate), co-organizer of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) and Processing Community Day in São Paulo.
+Educator, visual artist and new media consultant. Researches computational art procedures, generative design, creative coding and how to teach computer programming in a visual context. Architect (FAU-USP, 2000) with a master's degree from FEC-Unicamp (2019). Co-organizer of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) and Processing Community Day in São Paulo.
 
 ----
 
@@ -21,7 +21,8 @@ Educator, visual artist and new media consultant. Researches computational art p
 
 - [**arteprog**](http://arteprog.space) art and programming
   - [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
-- - [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), work published in *Internet e Sociedade,* journal by InternetLab.
+
+- [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), work published in *Internet e Sociedade,* journal by InternetLab.
 - Master's degree dissetation: [A taxonomy of themes for teaching programming in a visual context](https://abav.lugaralgum.com/mestrado/)
 
 - Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
@@ -40,15 +41,19 @@ Educator, visual artist and new media consultant. Researches computational art p
 
 ### teaching activities
 
+- As a PhD student at FEC-Unicamp, teaching with my supervisor (Daniel Moreira) an elective discipline in the first semester of 2021.
+
+- Teaching at Fábrica Escola de Humanidades (high school), since 2020
+
 - Teacher at Belas Artes, since 2019
   - Scripting culture (Processing Python Mode) for the Digital Architecture and Parametric Design course
 
-- Teacher at Escola Britânica de Artes Criativas - EBAC, since 2019
+- Teacher at Escola Britânica de Artes Criativas - EBAC, 2019
   - Creative coding for the Art & Digital Media course
 
 - Art and technology educator at SESC Avenida Paulista, since 2018
 
-- Teacher at Instituto Europeo di Design - São Paulo - IED-SP, since 2016
+- Teacher at Instituto Europeo di Design - São Paulo - IED-SP, 2016—2019
   - Creative Coding 
   - 3D Modeling, VR/AR
   
