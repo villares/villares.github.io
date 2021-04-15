@@ -27,7 +27,11 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 #### 2021
 
+- Processing Community Day Brasil 2021
+    - [Oficina de introdução ao Processing modo Python](https://youtu.be/Lhk3huuxs3g) - 
+   
 - [Oficina desenhando caminhos aleatórios com programação](https://www.youtube.com/watch?v=frwHqc5SBGc) -  Multiverso.cc 2021
+
 - Oficina Processing Community Day @ Porto, Portugal (online)
 
 #### 2019 - 2020
