@@ -65,9 +65,86 @@
       </div>     
     </div>
 
- <p style="font-family: 'sans'; font-size:18px; color:white"><br>
-        <b>LCCRMY_v2021_04_30 </b> by <a href="http://abav.lugaralgum.com">Alexandre B A Villares</a> <!--is part of a series started at <a href="https://abav.lugaralgum.com/sketch-a-day/">sketch-a-day</a> project, running on your browser thanks to <a href="https://github.com/berinhard/pyp5js">pyp5js</a> pyodide mode. Presented at the  <a href="https://pcd.encontrosdigitais.com.br/galeria/">Processsing Community Day Brasil 2021 Exhibition</a>-->
-        </p>
+ <p style="font-family: 'sans'; font-size:18px; color:grey"><!--<br>
+        <b>LCCRMY_v2021_04_30 </b> by <a href="http://abav.lugaralgum.com">Alexandre B A Villares</a> is part of a series started at <a href="https://abav.lugaralgum.com/sketch-a-day/">sketch-a-day</a> project, running on your browser thanks to <a href="https://github.com/berinhard/pyp5js">pyp5js</a> pyodide mode. Presented at the  <a href="https://pcd.encontrosdigitais.com.br/galeria/">Processsing Community Day Brasil 2021 Exhibition</a>-->
+
+<pre style="color:grey; font-size:10px">
+# LCCRMY_v2021_04_30 - Alexandre B A Villares
+# Drag the mouse to rotate. Press SPACE to generate a new one.
+
+from random import choice
+elements = []
+r = 0
+
+def setup():
+    size(800, 800, P3D)
+    generate()
+
+def generate(n=500):
+    pegs = (-20, -10, 0, 0, 10, 20)
+    elements[:] = [(choice('LCCRMY'),
+                   (choice(pegs), choice(pegs)),
+                   choice((1, 3)),)
+                   for _ in range(n)]
+
+def draw():
+    background(240, 240, 220)
+    # translate(width / 2, height / 2, -400)  # for Processing Python mode
+    translate(0, 0, -400)  # for pyp5js
+    rotateY(r)
+    draw_e(elements)
+
+
+def draw_e(els):
+    for i, e in enumerate(els):
+        stroke(0)
+        t, v, w = e
+        strokeWeight(w)
+        if t == 'Y':
+            if i % 2:
+                rotateX(QUARTER_PI)
+            else:
+                rotateY(QUARTER_PI)
+        if t == 'L':
+            line_e(v)
+        if t == 'C':
+            line_e(v, c=w)
+        if t == 'M' and i > 1:
+            for _ in range(3):
+                line_e(v)
+                pushMatrix()
+                scale(.5)
+                draw_e(els[i - 5:i])
+                popMatrix()
+        if t == 'R' and i > 1:
+            for _ in range(3):
+                line_e(v)
+                line_e((v[1] / 2, -v[0] / 2))
+                draw_e([els[i - 1]])
+
+
+def line_e(v, c=None):
+    x, y = v
+    line(0, 0, x, y)
+    if c is not None:
+        d = sqrt(x * x + y * y)
+        if c != 1:
+            fill(0)
+            square(0, 0, d / 9)
+        else:
+            fill(255, 0, 0)
+            circle(0, 0, d)
+    translate(x, y)
+
+def mouseDragged():
+    global r
+    r += (mouseX - pmouseX) / 200.0
+
+def keyReleased():
+    if key == ' ':
+        generate()
+</pre>
+</p>
   </body>
   <script type="text/javascript">
 
@@ -80,7 +157,7 @@ elements = []
 r = 0
 
 def setup():
-    createCanvas(800, 800, WEBGL)
+    size(800, 800, P3D)
     generate()
 
 def generate(n=500):
@@ -92,8 +169,8 @@ def generate(n=500):
 
 def draw():
     background(240, 240, 220)
-    # translate(width / 2, height / 2, -100)
-    translate(0, 0, -100)
+    # translate(width / 2, height / 2, -400)
+    translate(0, 0, -400)
     rotateY(r)
     draw_e(elements)
 
@@ -148,8 +225,14 @@ def keyReleased():
         generate()
 
 `
-
 let wrapper_content = `
+class PythonFunctions: pass
+
+setattr(PythonFunctions, 'map', map)
+setattr(PythonFunctions, 'filter', filter)
+setattr(PythonFunctions, 'set', set)
+
+
 _P5_INSTANCE = None
 
 _CTX_MIDDLE = None
@@ -341,9 +424,7 @@ def background(*args):
     return _P5_INSTANCE.background(*args)
 
 def clear(*args):
-    __pragma__('noalias', 'clear')
     p5_clear = _P5_INSTANCE.clear(*args)
-    __pragma__('alias', 'clear', 'py_clear')
     return p5_clear
 
 def erase(*args):
@@ -718,7 +799,6 @@ def filter(*args):
     else:
         return _P5_INSTANCE.filter(*args)
 
-
 def get(*args):
     return _P5_INSTANCE.get(*args)
 
@@ -730,7 +810,6 @@ def set(*args):
         return PythonFunctions.set(*args)
     else:
         return _P5_INSTANCE.set(*args)
-
 
 def updatePixels(*args):
     return _P5_INSTANCE.updatePixels(*args)
@@ -830,7 +909,6 @@ def map(*args):
         return PythonFunctions.map(*args)
     else:
         return _P5_INSTANCE.map(*args)
-
 
 def max(*args):
     return _P5_INSTANCE.max(*args)
@@ -1075,11 +1153,126 @@ def createCanvas(*args):
 
     return canvas
 
+# Thanks to Luca Damasco for also helping us to
+# figure out how to bind events functions.
+def _bind_event_function(func, *args, **kwargs):
+    func = global_p5_injection(_P5_INSTANCE)(func)
+    try:
+      func(*args, **kwargs)  # try to execute passing parameters
+    except TypeError:
+      func()  # execute without parameters (are opitional)
+
+def __deviceMoved(e):
+  try:
+    _bind_event_function(deviceMoved, e)
+  except NameError:
+    pass
+
+def __deviceTurned(e):
+  try:
+    _bind_event_function(deviceTurned, e)
+  except NameError:
+    pass
+
+def __deviceShaken(e):
+  try:
+    _bind_event_function(deviceShaken, e)
+  except NameError:
+    pass
+
+def __touchEnded(e):
+  try:
+    _bind_event_function(deviceShaken, e)
+  except NameError:
+    pass
+
+def __touchStarted(e):
+  try:
+    _bind_event_function(touchStarted, e)
+  except NameError:
+    pass
+
+def __windowResized(e):
+  try:
+    _bind_event_function(windowResized, e)
+  except NameError:
+    pass
+
+def __touchMoved(e):
+  try:
+    _bind_event_function(touchMoved, e)
+  except NameError:
+    pass
+
+def __mouseMoved(e):
+  try:
+    _bind_event_function(mouseMoved, e)
+  except NameError:
+    pass
+
+def __mouseDragged(e):
+  try:
+    _bind_event_function(mouseDragged, e)
+  except NameError:
+      pass
+
+def __mousePressed(e):
+  try:
+    _bind_event_function(mousePressed, e)
+  except NameError:
+    pass
+
+def __mouseReleased(e):
+  try:
+    _bind_event_function(mouseReleased, e)
+  except NameError:
+    pass
+
+def __mouseClicked(e):
+  try:
+    _bind_event_function(mouseClicked, e)
+  except NameError:
+    pass
+
+def __doubleClicked(e):
+  try:
+    _bind_event_function(doubleClicked, e)
+  except NameError:
+    pass
+
+def __mouseWheel(e):
+  try:
+    _bind_event_function(mouseWheel, e)
+  except NameError:
+    pass
+
+def __keyPressed(e):
+  try:
+    _bind_event_function(keyPressed, e)
+  except NameError:
+    pass
+    keyPressed = keyIsPressed
+
+def __keyReleased(e):
+  try:
+    _bind_event_function(keyReleased, e)
+  except NameError:
+    pass
+
+def __keyTyped(e):
+  try:
+    _bind_event_function(keyTyped, e)
+  except NameError:
+    pass
+
+def __keyIsDown(e):
+  try:
+    _bind_event_function(keyIsDown, e)
+  except NameError:
+    pass
 
 def pop(*args):
-    __pragma__('noalias', 'pop')
     p5_pop = _P5_INSTANCE.pop(*args)
-    __pragma__('alias', 'pop', 'py_pop')
     return p5_pop
 
 
@@ -1089,6 +1282,9 @@ popMatrix = pop
 popStyle = pop
 pushMatrix = push
 pushStyle = push
+
+
+
 
 # PVector is a wrapper/helper class for p5.Vector objets
 # providing names similar to Processing Python or Java modes
@@ -1411,7 +1607,8 @@ class PVector:
         self.__vector.rem(*args)
         return self
 
-def pre_draw(p5_instance, draw_func):
+
+def pre_draw(p5_instance, draw_func, *args, **kwargs):
     """
     We need to run this before the actual draw to insert and update p5 env variables
     """
@@ -1422,8 +1619,8 @@ def pre_draw(p5_instance, draw_func):
     global DEG_TO_RAD, DEGREES, DELETE, DIFFERENCE, DILATE, DODGE, DOWN_ARROW, ENTER, ERODE, ESCAPE, EXCLUSION
     global FILL, GRAY, GRID, HALF_PI, HAND, HARD_LIGHT, HSB, HSL, IMAGE, IMMEDIATE, INVERT, ITALIC, LANDSCAPE
     global LEFT, LEFT_ARROW, LIGHTEST, LINE_LOOP, LINE_STRIP, LINEAR, LINES, MIRROR, MITER, MOVE, MULTIPLY, NEAREST
-    global NORMAL, OPAQUE, OPEN, OPTION, OVERLAY, P2D, PI, PIE, POINTS, PORTRAIT, POSTERIZE, PROJECT, QUAD_STRIP, QUADRATIC
-    global QUADS, QUARTER_PI, RAD_TO_DEG, RADIANS, RADIUS, REPEAT, REPLACE, RETURN, RGB, RIGHT, RIGHT_ARROW
+    global NORMAL, OPAQUE, OPEN, OPTION, OVERLAY, P2D, P3D, PI, PIE, POINTS, PORTRAIT, POSTERIZE, PROJECT, QUAD_STRIP
+    global QUADRATIC, QUADS, QUARTER_PI, RAD_TO_DEG, RADIANS, RADIUS, REPEAT, REPLACE, RETURN, RGB, RIGHT, RIGHT_ARROW
     global ROUND, SCREEN, SHIFT, SOFT_LIGHT, SQUARE, STROKE, SUBTRACT, TAB, TAU, TEXT, TEXTURE, THRESHOLD, TOP
     global TRIANGLE_FAN, TRIANGLE_STRIP, TRIANGLES, TWO_PI, UP_ARROW, VIDEO, WAIT, WEBGL
 
@@ -1432,6 +1629,7 @@ def pre_draw(p5_instance, draw_func):
     global pAccelerationX, pAccelerationY, pAccelerationZ, rotationX, rotationY, rotationZ
     global pRotationX, pRotationY, pRotationZ, turnAxis, keyIsPressed, key, keyCode, mouseX, mouseY, pmouseX, pmouseY
     global winMouseX, winMouseY, pwinMouseX, pwinMouseY, mouseButton, mouseIsPressed, touches, pixels
+    global mousePressed, keyPressed
 
     _CTX_MIDDLE = p5_instance._CTX_MIDDLE
     _DEFAULT_FILL = p5_instance._DEFAULT_FILL
@@ -1583,11 +1781,10 @@ def pre_draw(p5_instance, draw_func):
     pwinMouseX = p5_instance.pwinMouseX
     pwinMouseY = p5_instance.pwinMouseY
     mouseButton = p5_instance.mouseButton
-    mouseIsPressed = p5_instance.mouseIsPressed
     touches = p5_instance.touches
     pixels = p5_instance.pixels
 
-    return draw_func()
+    return draw_func(*args, **kwargs)
 
 
 def global_p5_injection(p5_sketch):
@@ -1595,11 +1792,11 @@ def global_p5_injection(p5_sketch):
     Injects the p5js's skecth instance as a global variable to setup and draw functions
     """
 
-    def decorator(f):
-        def wrapper():
+    def decorator(f, *args, **kwargs):
+        def wrapper(*args, **kwargs):
             global _P5_INSTANCE
             _P5_INSTANCE = p5_sketch
-            return pre_draw(_P5_INSTANCE, f)
+            return pre_draw(_P5_INSTANCE, f, *args, **kwargs)
 
 
         return wrapper
@@ -1621,44 +1818,35 @@ def start_p5(setup_func, draw_func, event_functions):
     """
 
     def sketch_setup(p5_sketch):
+        """
+        Callback function called to configure new p5 instance
+        """
         p5_sketch.setup = global_p5_injection(p5_sketch)(setup_func)
         p5_sketch.draw = global_p5_injection(p5_sketch)(draw_func)
+        # Register event functions
+        p5_sketch.mouseDragged = lambda e: __mouseDragged(e)
+        p5_sketch.deviceMoved= lambda e: __deviceMoved(e)
+        p5_sketch.deviceTurned= lambda e: __deviceTurned(e)
+        p5_sketch.deviceShaken= lambda e: __deviceShaken(e)
+        p5_sketch.touchStarted= lambda e: __touchStarted(e)
+        p5_sketch.touchMoved= lambda e: __touchMoved(e)
+        p5_sketch.touchEnded= lambda e: __touchEnded(e)
+        p5_sketch.windowResized = lambda e: __windowResized (e)
+        p5_sketch.mouseMoved = lambda e: __mouseMoved(e)
+        p5_sketch.mouseDragged = lambda e: __mouseDragged(e)
+        p5_sketch.mousePressed = lambda e: __mousePressed(e)
+        p5_sketch.mouseReleased = lambda e: __mouseReleased(e)
+        p5_sketch.mouseClicked = lambda e: __mouseClicked(e)
+        p5_sketch.doubleClicked = lambda e: __doubleClicked(e)
+        p5_sketch.mouseWheel = lambda e: __mouseWheel(e)
+        p5_sketch.keyTyped = lambda e: __keyTyped(e)
+        p5_sketch.keyPressed = lambda e: __keyPressed(e)
+        p5_sketch.keyReleased = lambda e: __keyReleased(e)
+        p5_sketch.keyIsDown = lambda e: __keyIsDown(e)  # TODO review this func
 
 
     window.instance = p5.new(sketch_setup, 'sketch-holder')
-
-    # inject event functions into p5
-    event_function_names = (
-        "deviceMoved", "deviceTurned", "deviceShaken", "windowResized",
-        "keyPressed", "keyReleased", "keyTyped",
-        "mousePressed", "mouseReleased", "mouseClicked", "doubleClicked",
-        "mouseMoved", "mouseDragged", "mouseWheel",
-        "touchStarted", "touchMoved", "touchEnded"
-    )
-
-    for f_name in [f for f in event_function_names if event_functions.get(f, None)]:
-        func = event_functions[f_name]
-        event_func = global_p5_injection(instance)(func)
-        setattr(instance, f_name, event_func)
-
-
-def logOnloaded():
-    console.log("Lib loaded!")
-
-
-def add_library(lib_name):
-    # placeholder for https://github.com/berinhard/pyp5js/issues/31
-    src = ''
-
-    return console.log("Lib name is not valid:", lib_name)
-
-    console.log("Importing:", src)
-
-    script = document.createElement("script")
-    script.onload = logOnloaded
-    script.src = src
-    document.head.appendChild(script)
-`
+`;
 
 
     languagePluginLoader.then(() => {
