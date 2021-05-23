@@ -38,6 +38,8 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
       
 - [**LCCRMY: A RECURSIVE RANDOM WALKER**](https://abav.lugaralgum.com/selected-work/LCCRMY_v2021_04_30/) - Obra em [Homeostasis Lab](https://homeostasislab.org/)
 
+- [**blaqstart**](https://www.lugaralgum.com/hamsatrio/blaqstar/)- Obra no [Festival Perfídia 2021](https://www.plataformaperfidia.com/perfidia-online-2021) com [Hamsá Trio](https://hamsatrio.lugaralgum.com)
+
 - [Multiverso 2021](https://multiverso.cc)
      - [**Oficina desenhando caminhos aleatórios com programação** (gravação)](https://www.youtube.com/watch?v=frwHqc5SBGc)
      - **S140_S141_S142_V2020** - Obra na publicação [Multiverso, 2020](https://multiverso-docs.s3-sa-east-1.amazonaws.com/multiverso-1a-edicao.pdf)
