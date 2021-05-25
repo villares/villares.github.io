@@ -7,7 +7,7 @@
 
 ----
 
-Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). Co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. Ministra cursos na graduação e na pós-graduação de diversas instituições, desenvolve também cursos, oficinas independentes e como educador de tecnologias e artes no Sesc-SP. 
+Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). Co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. Ministra cursos na graduação e na pós-graduação de diversas instituições, desenvolve também cursos e oficinas independentes ou como educador de tecnologias e artes no Sesc-SP. 
 
 ----
 
@@ -42,7 +42,7 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - [Multiverso 2021](https://multiverso.cc)
      - [**Oficina desenhando caminhos aleatórios com programação** (gravação)](https://www.youtube.com/watch?v=frwHqc5SBGc)
-     - **S140_S141_S142_V2020** - Obra na publicação [Multiverso, 2020](https://multiverso-docs.s3-sa-east-1.amazonaws.com/multiverso-1a-edicao.pdf)
+     - [**s140_s141_s142_V2020**](https://abav.lugaralgum.com/selected-work/s140_s141_s142_v2020) - Obra na publicação [Multiverso, 2020](https://multiverso-docs.s3-sa-east-1.amazonaws.com/multiverso-1a-edicao.pdf)
 
 - Curso [Programação para designers com Processing modo Python](https://plato.studio/Programacao-para-designers), de 19 de abril a 20 de maio de 2021 no [Platô](https://plato.studio)
 
