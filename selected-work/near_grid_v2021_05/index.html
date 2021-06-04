@@ -44,9 +44,11 @@
 
  <p style="font-family: 'sans'; font-size:18px; color:grey">
 
-<pre style="color:grey; font-size:10px" title="'Near Grid', ou em português, 'próximo a grade'. O título brinca com o fato dos desenhos produzidos serem quase uma grade, mas também por se constituir de linhas desenhadas apenas dentro de um limite de distância. Os arranjos são animados por uma transição para novos arranjos, mas as regras de construção são sempre as mesmas: os 12 pares de pontos (24 portanto, de uma grade 5 por 5 de 25 pontos) definem od 'elementos', objetos virtualmente subdivididos em 16 pontos e cada um destes pontos pode ser ligado a outro desde de que dentro da distância limite (a mesma do espaçamento da grade). O código que produz e anima o desenho é mostrado junto ao desenho, faz parte da obra.
+<pre style="color:grey; font-size:10px" title="Linhas desenhadas dinamicamente entre pontos em um limite de aproximação formam uma quase grade.
+Arranjos randômicos de pontos são animados por transições para novos arranjos seguindo sempre a mesma regra de construção: 12 pares de pontos (de uma grade 5 por 5 de 25 pontos) definem os objetos, virtualmente subdivididos em 16 pontos, e cada um destes objetos deve ser ligado a outros quando seus pontos estão dentro da distância limite, a mesma do espaçamento da grade. O código que produz e anima o desenho integra a visualização da obra
 ">
-# Near Grid (v2021_05) - Alexandre B A Villares
+# Near Grid / Quase grade (v2021_05) - Alexandre B A Villares
+# Running on Processing Python mode, or pyp5js/pyodide in the browser
 
 from itertools import product
 from random import sample
@@ -64,7 +66,8 @@ def setup():
 def draw():
     global change_b
     background(240)
-    t = sigmoid_easing((1 - cos(radians(millis() / 100 % 360) )) / 2)
+    t = brutal_sigmoid(radians(millis() / 100 % 360))
+    
     points = iter(lerp_tuple(points_a, points_b, t))        
     for e in Element.elements:
         e_start, e_end = next(points), next(points)
@@ -79,11 +82,6 @@ def draw():
         points_a[:] = sample(grid, 24)
         change_b = True
  
-def lerp_tuple(a, b, t):   
-    return tuple(lerp_tuple(ca, cb, t) if isinstance(ca, tuple)
-                 else lerp(ca, cb, t)             
-                 for ca, cb in zip(a, b))
-
 class Element:
 
     elements = []
@@ -108,9 +106,14 @@ class Element:
             fill(0)
             noStroke()
             circle(self_p[0], self_p[1], 4)
-   
-def sigmoid_easing(p):
-    m = lerp(-10, 10, p)
+       
+def lerp_tuple(a, b, t):   
+    return tuple(lerp_tuple(ca, cb, t) if isinstance(ca, tuple)
+                 else lerp(ca, cb, t)             
+                 for ca, cb in zip(a, b))
+
+def brutal_sigmoid(angle):
+    m = cos(angle) * 10
     r = 1 / (1 + exp(-m))            
     if r < 0.001: return 0
     elif r > 0.999: return 1
@@ -122,8 +125,8 @@ def sigmoid_easing(p):
 
 ////////////////////////// HERE!
 let sketchCode = `
-
-# Lines on grid: v2021_05_01
+# Near Grid / Quase grade (v2021_05) - Alexandre B A Villares
+# Running on Processing Python mode, or pyp5js/pyodide in the browser
 
 from itertools import product
 from random import sample
@@ -141,7 +144,8 @@ def setup():
 def draw():
     global change_b
     background(240)
-    t = sigmoid_easing((1 - cos(radians(millis() / 100 % 360) )) / 2)
+    t = brutal_sigmoid(radians(millis() / 100 % 360))
+    
     points = iter(lerp_tuple(points_a, points_b, t))        
     for e in Element.elements:
         e_start, e_end = next(points), next(points)
@@ -156,11 +160,6 @@ def draw():
         points_a[:] = sample(grid, 24)
         change_b = True
  
-def lerp_tuple(a, b, t):   
-    return tuple(lerp_tuple(ca, cb, t) if isinstance(ca, tuple)
-                 else lerp(ca, cb, t)             
-                 for ca, cb in zip(a, b))
-
 class Element:
 
     elements = []
@@ -185,9 +184,14 @@ class Element:
             fill(0)
             noStroke()
             circle(self_p[0], self_p[1], 4)
-   
-def sigmoid_easing(p):
-    m = lerp(-10, 10, p)
+       
+def lerp_tuple(a, b, t):   
+    return tuple(lerp_tuple(ca, cb, t) if isinstance(ca, tuple)
+                 else lerp(ca, cb, t)             
+                 for ca, cb in zip(a, b))
+
+def brutal_sigmoid(angle):
+    m = cos(angle) * 10
     r = 1 / (1 + exp(-m))            
     if r < 0.001: return 0
     elif r > 0.999: return 1
