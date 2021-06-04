@@ -24,8 +24,8 @@
           justify-content: center;
           margin-top: 10px;
           margin-bottom: 10px;
-          margin-right: 150px;
-          margin-left: 150px;    
+          margin-right: 50px;
+          margin-left: 50px;    
         }
 
 
@@ -42,9 +42,9 @@
       </div>     
     </div>
 
- <p style="font-family: 'sans'; font-size:18px; color:grey">
+ <p>
 
-<pre style="color:grey; font-size:10px" title="Da mesma forma com que muitos pintores sentem necessidade de produzir a própria tinta, artistas que produzem obras em meios digitais escrevem código, tem o software como meio. 'LCCRMY: a recursive random walker' explora duas ideias recorrentes neste meio, os caminhantes aleatórios (random walkers) e a recursividade, gerando estruturas tridimensionais com elementos repetidos em ritmos e escalas diversas. A estratégia adotada tem influência dos Sistemas de Lindenmayer (L-Systems) na composição de uma sequência de símbolos que é executada na forma de desenho, mas não  se trata de um L-System, como pode ser verificado no código-fonte que é apresentado simultaneamente à sua execução no navegador.
+<pre style="color:white; font-size:9px" title="Da mesma forma com que muitos pintores sentem necessidade de produzir a própria tinta, artistas que produzem obras em meios digitais escrevem código, tem o software como meio. 'LCCRMY: a recursive random walker' explora duas ideias recorrentes neste meio, os caminhantes aleatórios (random walkers) e a recursividade, gerando estruturas tridimensionais com elementos repetidos em ritmos e escalas diversas. A estratégia adotada tem influência dos Sistemas de Lindenmayer (L-Systems) na composição de uma sequência de símbolos que é executada na forma de desenho, mas não  se trata de um L-System, como pode ser verificado no código-fonte que é apresentado simultaneamente à sua execução no navegador.
 
 
 In the same way that many painters feel the need to produce their own paint, artists who produce works in digital media write code, using software as a medium. 'LCCRMY: a recursive random walker' explores two recurring ideas in this medium, random walkers and recursion, generating three-dimensional structures with repeating elements in different rhythms and scales. The adopted strategy has influence from the Lindenmayer Systems (L-Systems) in the composition of a sequence of symbols that is executed in the form of a drawing, but it is not an L-System, as can be seen in the source code that is presented simultaneously to its running in the browser. 
@@ -69,8 +69,9 @@ def generate(n=500):
 
 def draw():
     background(240, 240, 220)
-    # translate(width / 2, height / 2, -400)  # for Processing Python mode
-    translate(0, 0, -400)  # for pyp5js
+    # for Processing Python mode, use this:
+    # translate(width / 2, height / 2, -400)  
+    translate(0, 0, -400)  # this for pyp5js
     rotateY(r)
     draw_e(elements)
 
