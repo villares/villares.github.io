@@ -7,7 +7,7 @@
 
 ----
 
-Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). Co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. Ministra cursos na graduação e na pós-graduação de diversas instituições, desenvolve também cursos, oficinas independentes e como educador de tecnologias e artes no Sesc-SP. 
+Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). Co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. Ministra cursos na graduação e na pós-graduação de diversas instituições, desenvolve também cursos e oficinas independentes ou como educador de tecnologias e artes no Sesc-SP. 
 
 ----
 
@@ -27,13 +27,28 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 #### 2021
 
-- Processing Community Day Brasil 2021
-    - [Oficina de introdução ao Processing modo Python](https://youtu.be/Lhk3huuxs3g) - 
-   
-- [Oficina desenhando caminhos aleatórios com programação](https://www.youtube.com/watch?v=frwHqc5SBGc) -  Multiverso.cc 2021
+- [Sesc São Paulo](https://sescsp.org.br)
+     -  Hackeando o Almanaque FestA!: [**Live Coding de Brinquedo Óptico** (gravação)](https://www.youtube.com/watch?v=olSL2MdzKNk) com Maraiza Adami
+     -  LIVE FestA! Sesc Santana: [**Conversando sobre programação criativa** (gravação)](https://www.youtube.com/watch?v=tUqXdc9SJCs) com Monica Rizzolli, mediação de Cristiano Tito
+     -  Modificando o projeto [Pycomic](http://github.com/webtiras) - Para o curso de quadrinhos e programação com Aline Yuri, Daniel Seda e Maraiza Adami,  
 
-- Oficina Processing Community Day @ Porto, Portugal (online)
+- [Processing Community Day Brasil 2021](https://pcd.encontrosdigitais.com.br)
+    - [**Oficina de introdução ao Processing modo Python** (vídeo da oficina)](https://youtu.be/Lhk3huuxs3g) 
+    - [**Grade recursiva 2021_01_21**](https://abav.lugaralgum.com/selected-work/recursive-grid/) - Obra na [Galeria Virtual do PCD Brasil 2021](https://pcd.encontrosdigitais.com.br/galeria/) 
+      
+- [**LCCRMY: A RECURSIVE RANDOM WALKER**](https://abav.lugaralgum.com/selected-work/LCCRMY_v2021_04_30/) - Obra em [Homeostasis Lab](https://homeostasislab.org/)
 
+- [**blaqstart**](https://www.lugaralgum.com/hamsatrio/blaqstar/)- Obra no [Festival Perfídia 2021](https://www.plataformaperfidia.com/perfidia-online-2021) com [Hamsá Trio](https://hamsatrio.lugaralgum.com)
+
+- [Multiverso 2021](https://multiverso.cc)
+     - [**Oficina desenhando caminhos aleatórios com programação** (gravação)](https://www.youtube.com/watch?v=frwHqc5SBGc)
+     - [**s140_s141_s142_V2020**](https://abav.lugaralgum.com/selected-work/s140_s141_s142_v2020) - Obra na publicação [Multiverso, 2020](https://multiverso-docs.s3-sa-east-1.amazonaws.com/multiverso-1a-edicao.pdf)
+
+- Curso [Programação para designers com Processing modo Python](https://plato.studio/Programacao-para-designers), de 19 de abril a 20 de maio de 2021 no [Platô](https://plato.studio)
+
+- [Processing Community Day @ Porto, Portugal, 2021](https://pcd.fba.up.pt/2021/) - Oficina de introdução ao Processing modo Python (online)
+ 
+ 
 #### 2019 - 2020
 
 - Contribuições para o site  [**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) na categoria Processing (Java e Python), com desdobramentos no  [**pacote de exemplos Rosetta para o Processing IDE**](https://github.com/jeremydouglass/rosetta_examples_p5) mantido por Jeremy Douglass. Baixe no seu IDE!
@@ -75,6 +90,8 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 - [BeerPaint: Tutorial básico de MIT App Inventor](https://gumroad.com/l/kXiHW)
 
 ### atividades educacionais
+
+- [Instrutor certificado](https://carpentries.org/instructors/) do projeto [The Carpentries](https://carpentries.org/)
 
 - Estágio docente durante o doutorado no programa ATC FEC-Unicamp, 2021
   
