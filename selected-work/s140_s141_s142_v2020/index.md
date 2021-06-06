@@ -1,16 +1,14 @@
-
 ---
 
 ## s140_s141_s142_v2020
 
-![](assets/s140_s141_s142_v2020.png)
+![SVG version](s140_s141_s142_v2020.svg)
 
 Esta obra é uma exploração da combinação de duas ideias frequentes na arte algorítmica. A primeira ideia é a recursividade, quando se tem funções que chamam a elas mesmas, até um certo limite, o caso base. Dessa maneira é possível, com muito pouco código, alcançar produtos visuais intrincados que se assemelham a formas fractais. Nos vértices de polígonos regulares foram desenhados outros polígonos e assim sucessivamente em cinco níveis.
 
 A segunda ideia é a introdução de perturbações, ruído, com o uso de valores pseudo-aleatórios. Essas variações remetem a fenômenos naturais e podem propiciar surpresa, variedade, bem como singularidade ao produzir imagens sem repetição. Tornam-se possíveis “múltiplos únicos”, por meio de impressões digitais. Nesta composição a magnitude do efeito da função *random()* na posição dos vértices dos elementos se reduz a zero nas quatro colunas do meio, intensificada nas bordas.
 
 Trata-se de um desdobramento de estudos produzidos no contexto do experimento artístico iniciado em janeiro de 2018, e em curso, em que são publicados diariamente esboços, *sketches*, ideias visuais expressadas por meio de programação, sempre acompanhados do código fonte, de forma que o código aqui apresentado é parte integrante do trabalho.
-
 
 ```python
 """
@@ -71,7 +69,6 @@ def poly_shape(x, y, n, rnd, gen, scaling):
                 pv = ps.getVertex(i)  # gets vertex as a PVector
                 # recusively call poly_shape with a smaller gen
                 poly_shape(pv.x, pv.y, n, rnd, gen - 1, scaling)
-
 ```
 
 
