@@ -2,7 +2,7 @@
 
 ## s140_s141_s142_v2020
 
-<img style="position:fixed; top:0; left:0; height:100%; width:100%" src="s140_s141_s142_v2020.svg">
+<img src="s140_s141_s142_v2020.svgz">
 
 Esta obra é uma exploração da combinação de duas ideias frequentes na arte algorítmica. A primeira ideia é a recursividade, quando se tem funções que chamam a elas mesmas, até um certo limite, o caso base. Dessa maneira é possível, com muito pouco código, alcançar produtos visuais intrincados que se assemelham a formas fractais. Nos vértices de polígonos regulares foram desenhados outros polígonos e assim sucessivamente em cinco níveis.
 
