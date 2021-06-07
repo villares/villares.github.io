@@ -2,7 +2,9 @@
 
 ## s140_s141_s142_v2020
 
-<img src="s140_s141_s142_v2020.svgz">
+<img src="s140_s141_s142_v2020.svg">
+
+> Publicado em ANDRADE, Gisele (org.); [Multiverso](https://multiverso-docs.s3-sa-east-1.amazonaws.com/multiverso-1a-edicao.pdf), Rio de Janeiro, RJ : Barleu Edições, 2020. 
 
 Esta obra é uma exploração da combinação de duas ideias frequentes na arte algorítmica. A primeira ideia é a recursividade, quando se tem funções que chamam a elas mesmas, até um certo limite, o caso base. Dessa maneira é possível, com muito pouco código, alcançar produtos visuais intrincados que se assemelham a formas fractais. Nos vértices de polígonos regulares foram desenhados outros polígonos e assim sucessivamente em cinco níveis.
 
