@@ -27,6 +27,8 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 #### 2021
 
+- [Near Grid / quase grade](https://emmeio13.medialab.unb.br/near-grid/) - Obra na web-exposição EmMeio#13: Contaminações do MediaLab UnB, 2021 
+ 
 - [Sesc São Paulo](https://sescsp.org.br)
      -  Hackeando o Almanaque FestA!: [**Live Coding de Brinquedo Óptico** (gravação)](https://www.youtube.com/watch?v=olSL2MdzKNk) com Maraiza Adami
      -  LIVE FestA! Sesc Santana: [**Conversando sobre programação criativa** (gravação)](https://www.youtube.com/watch?v=tUqXdc9SJCs) com Monica Rizzolli, mediação de Cristiano Tito
@@ -38,7 +40,7 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
       
 - [**LCCRMY: A RECURSIVE RANDOM WALKER**](https://abav.lugaralgum.com/selected-work/LCCRMY_v2021_04_30/) - Obra em [Homeostasis Lab](https://homeostasislab.org/)
 
-- [**blaqstart**](https://www.lugaralgum.com/hamsatrio/blaqstar/)- Obra no [Festival Perfídia 2021](https://www.plataformaperfidia.com/perfidia-online-2021) com [Hamsá Trio](https://hamsatrio.lugaralgum.com)
+- [**blaqstart**](https://www.lugaralgum.com/hamsatrio/blaqstar/)- Obra com [Hamsá Trio](https://hamsatrio.lugaralgum.com) no [Festival Perfídia 2021](https://www.plataformaperfidia.com/perfidia-online-2021)
 
 - [Multiverso 2021](https://multiverso.cc)
      - [**Oficina desenhando caminhos aleatórios com programação** (gravação)](https://www.youtube.com/watch?v=frwHqc5SBGc)
