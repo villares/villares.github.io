@@ -95,7 +95,7 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - Estágio docente durante o doutorado no programa ATC FEC-Unicamp, 2021
   
-  - Disciplina eletiva de introdução à pogramação com Python na graduação do curso de arquitetura e urbanismo da FEC-Unicamp, primeiro semestre de 2020
+  - Disciplina eletiva de introdução à pogramação com Python na graduação do curso de arquitetura e urbanismo da FEC-Unicamp, primeiro semestre de 2021
 
 - Professor na Fábrica Escola de Humanidades, desde 2020
   
