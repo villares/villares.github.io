@@ -23,6 +23,8 @@ Ambos podem ser adicionados ao Processing IDE tradicional. Vejamos a seguir **co
 
 Entre na parte de downloads do site do Processing (<http://www.processing.org/download>), escolha o seu sistema operacional e baixe.
 
+# Evite ainda o Processing 4 que está em testes, use por enquanto o Processing 3.5.4!
+
 ![passo1](images/passo1.png)
 
 #### 2. Descomprimir/deszipar e abrir o IDE
