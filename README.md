@@ -27,12 +27,17 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 #### 2021
 
+- Zonas de Compensação 8.0
+      - Obra na galeria virtual: *Num apartamento perdido na cidade: colors*, com Hamsá Trio
+      - Apresentação *Programação Criativa:  abordagens educacionais, ferramentas e colaboração artística*
+
 - [Near Grid / quase grade](https://emmeio13.medialab.unb.br/near-grid/) - Obra na web-exposição EmMeio#13: Contaminações do MediaLab UnB, 2021 
  
 - [Sesc São Paulo](https://sescsp.org.br)
-     -  Hackeando o Almanaque FestA!: [**Live Coding de Brinquedo Óptico** (gravação)](https://www.youtube.com/watch?v=olSL2MdzKNk) com Maraiza Adami
-     -  LIVE FestA! Sesc Santana: [**Conversando sobre programação criativa** (gravação)](https://www.youtube.com/watch?v=tUqXdc9SJCs) com Monica Rizzolli, mediação de Cristiano Tito
-     -  Modificando o projeto [Pycomic](http://github.com/webtiras) - Para o curso de quadrinhos e programação com Aline Yuri, Daniel Seda e Maraiza Adami,  
+     -  Curso *design utilitário com papel e papelão*, com Daniel Seda
+     -  Hackeando o Almanaque FestA!: [**Live Coding de Brinquedo Óptico** (gravação)](https://www.youtube.com/watch?v=olSL2MdzKNk), com Maraiza Adami
+     -  LIVE FestA! Sesc Santana: [**Conversando sobre programação criativa** (gravação)](https://www.youtube.com/watch?v=tUqXdc9SJCs), com Monica Rizzolli, mediação de Cristiano Tito
+     -  Modificando o projeto [Pycomic](http://github.com/webtiras) - Para o curso de quadrinhos e programação com Aline Yuri, Daniel Seda e Maraiza Adami.  
 
 - [Processing Community Day Brasil 2021](https://pcd.encontrosdigitais.com.br)
     - [**Oficina de introdução ao Processing modo Python** (vídeo da oficina)](https://youtu.be/Lhk3huuxs3g) 
