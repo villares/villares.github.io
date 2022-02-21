@@ -48,6 +48,8 @@ Acknoledgments and more information at **desenho.lugaralgum.com](http://desenho.
 
 ![2018](assets/2018.gif)
 ![2019](assets/2019.gif)
+![2020](assets/2020.gif)
+![2021](assets/2021.gif)
 
 An artistic experiment that began in January 2018, publishing daily sketches, visual ideas expressed with code at  **[abav.lugaralgum.com/sketch-a-day](http://abav.lugaralgum.com)**.
 
