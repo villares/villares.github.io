@@ -42,7 +42,7 @@ Educator, visual artist and new media consultant. Researches computational art p
 - [**blaqstart**](https://www.lugaralgum.com/hamsatrio/blaqstar/)- Obra no [Festival Perfídia 2021](https://www.plataformaperfidia.com/perfidia-online-2021) with [Hamsá Trio](https://hamsatrio.lugaralgum.com)
 
 - [Multiverso 2021](https://multiverso.cc)
-     - **Random walkert workshop** ([PT, recording](https://www.youtube.com/watch?v=frwHqc5SBGc))
+     - **Random walker workshop** ([PT, recording](https://www.youtube.com/watch?v=frwHqc5SBGc))
      - [**s140_s141_s142_V2020**](https://abav.lugaralgum.com/selected-work/s140_s141_s142_v2020) - Published at [Multiverso, 2020](https://multiverso-docs.s3-sa-east-1.amazonaws.com/multiverso-1a-edicao.pdf)
 
 - [[Processing Python mode for designers](https://plato.studio/Programacao-para-designers), April-May 2021 "at" [Platô](https://plato.studio)
