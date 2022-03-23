@@ -22,7 +22,8 @@ Educator, visual artist and new media consultant. Researches computational art p
 - [**arteprog**](http://arteprog.space) art and programming
   - [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
-
+- [**Escolas no Brasil**](https://revista.internetlab.org.br/escolas-no-brasil/), work published at *Internet e Sociedade,* n.2, v.2, do InternetLab. Dezembro de 2021.
+ 
 - [Near Grid / quase grade](https://emmeio13.medialab.unb.br/near-grid/) - Work shown at web-exhibition EmMeio#13: Contaminações do MediaLab UnB, 2021 
 
 - [Sesc São Paulo](https://sescsp.org.br)
