@@ -25,8 +25,10 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - [**sketch-mail**](http://villares.org/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
 
-#### 2021
+#### 2021 - 2022
 
+- [**Escolas no Brasil**](https://revista.internetlab.org.br/escolas-no-brasil/), obra publicada na revista *Internet e Sociedade,* n.2, v.2, do InternetLab. Dezembro de 2021.
+ 
 - Zonas de Compensação 8.0
       - Obra na galeria virtual: *Num apartamento perdido na cidade: colors*, com Hamsá Trio
       - Apresentação *Programação Criativa:  abordagens educacionais, ferramentas e colaboração artística*
@@ -60,7 +62,7 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - Contribuições para o site  [**exemplos no *Rosetta Code***](http://rosettacode.org/wiki/Category:Processing) na categoria Processing (Java e Python), com desdobramentos no  [**pacote de exemplos Rosetta para o Processing IDE**](https://github.com/jeremydouglass/rosetta_examples_p5) mantido por Jeremy Douglass. Baixe no seu IDE!
 
-- [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), obra publicada na revista *Internet e Sociedade,* n.1, v.1, do InternetLab.
+- [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), obra publicada na revista *Internet e Sociedade,* n.1, v.1, do InternetLab. Fevereiro de 2020.
 
 - **Python Brasil 2019** - Ribeirão Preto
   
