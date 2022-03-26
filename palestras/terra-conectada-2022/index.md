@@ -1,6 +1,6 @@
 - ###### Quem sou eu?
   
-  - Arquiteto, que se interessa por programação faz muito tempo  passou a trabalhar com ensino  mudou para ensino de programação e educação em arte e tecnologia  uma entradas pra essa mudança dos últimos 7 anos na carreira foi o Arduino  http://abav.lugaralgum.com
+  - Formado em arquitetura, me interesso por programação faz muito tempo, passei a trabalhar com ensino em vez de projeto e  mudei mais recentemente o foco para ensino de programação e educação em arte e tecnologia. Uma das entradas pra essa mudança dos últimos 7 anos foi o contato com tecnologias livres, o Processing e o Arduino. https://abav.lugaralgum.com
 
 - ###### Arduino é Wiring:
   
