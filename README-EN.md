@@ -22,7 +22,10 @@ Educator, visual artist and new media consultant. Researches computational art p
 - [**arteprog**](http://arteprog.space) art and programming
   - [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
 
+### 2021 - 2022
 
+- [**Escolas no Brasil**](https://revista.internetlab.org.br/escolas-no-brasil/), work published at *Internet e Sociedade,* n.2, v.2, do InternetLab. Dezembro de 2021.
+ 
 - [Near Grid / quase grade](https://emmeio13.medialab.unb.br/near-grid/) - Work shown at web-exhibition EmMeio#13: Contaminações do MediaLab UnB, 2021 
 
 - [Sesc São Paulo](https://sescsp.org.br)
@@ -39,16 +42,27 @@ Educator, visual artist and new media consultant. Researches computational art p
 - [**blaqstart**](https://www.lugaralgum.com/hamsatrio/blaqstar/)- Obra no [Festival Perfídia 2021](https://www.plataformaperfidia.com/perfidia-online-2021) with [Hamsá Trio](https://hamsatrio.lugaralgum.com)
 
 - [Multiverso 2021](https://multiverso.cc)
-     - **Random walkert workshop** ([PT, recording](https://www.youtube.com/watch?v=frwHqc5SBGc))
+     - **Random walker workshop** ([PT, recording](https://www.youtube.com/watch?v=frwHqc5SBGc))
      - [**s140_s141_s142_V2020**](https://abav.lugaralgum.com/selected-work/s140_s141_s142_v2020) - Published at [Multiverso, 2020](https://multiverso-docs.s3-sa-east-1.amazonaws.com/multiverso-1a-edicao.pdf)
 
 - [[Processing Python mode for designers](https://plato.studio/Programacao-para-designers), April-May 2021 "at" [Platô](https://plato.studio)
 
 - [Processing Community Day @ Porto, Portugal, 2021](https://pcd.fba.up.pt/2021/) - Online Processing Python mode introductory workshop (PT).
  
+#### 2019 - 2020
+
+- Python Brasil 2019 - Ribeirão Preto (Brazilian PyCon)
+
+    - Talk: Aprendendo e ensinando Python para “programadores alternativos” slides da palestra
+    - [desenho() #0_out_2019](https://desenho.lugaralgum.com) zine & poster.
 
 - [**2850 Triangle Interpolations v3**](https://revista.internetlab.org.br/2850-interpolações-de-triângulos-v3/), work published in *Internet e Sociedade,* journal by InternetLab.
+
 - Master's degree dissetation: [A taxonomy of themes for teaching programming in a visual context](https://abav.lugaralgum.com/mestrado/)
+
+- Contributions to [Rosetta Code](https://rosettacode.org/wiki/Category:Processin) [Processing examples](https://github.com/jeremydouglass/rosetta_examples_p5) organized by Jeremy Douglass
+
+#### 2017 - 2018
 
 - Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
 
@@ -59,6 +73,8 @@ Educator, visual artist and new media consultant. Researches computational art p
 - [Processando Processing Project](http://arteprog.space/processando-processing) and [Creative Coding Course](http://arteprog.space/programacao-criativa) [with Monica Rizzolli]
 
 - [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017 [with Daniel de Carvalho Moreira e Monica Rizzolli]
+
+#### 2015 - 2016
 
 - *[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)*
 
