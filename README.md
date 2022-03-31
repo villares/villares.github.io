@@ -75,7 +75,7 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 #### 2017 - 2018
 
-- Colaborações para o portal [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
+- Colaborações para o portal [Esquina](https://web.archive.org/web/20201128041827/https://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
   
   - [A nova tendência de construir em grupos, WikLab e os tijolos da era digital](http://www.esquina.net.br/2018/01/22/a-nova-tendencia-de-construir-em-grupos-wiklab-e-os-tijolos-da-era-digital/)
   - [Como o geoprocessamento pode nos ajudar a ocupar a cidade](http://www.esquina.net.br/2017/10/23/como-o-geoprocessamento-pode-nos-ajudar-a-ocupar-a-cidade/)
