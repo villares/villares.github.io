@@ -6,18 +6,18 @@
 <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
       </head>
       <body>
-      <h2>Start of SVG output area: </h2>
+      <h2>Bellow this a SVG circle should appear:</h2>
 <div id='mydiv'></div>          
 <py-script>  
 mykey = str(1)    
 svgNS = "http://w3.org/2000/svg"     
 # svgelement = document.createElement('svg')
-svgelement = document.createElement('svg')    
+svgelement = document.createElementNS(svgNS, 'svg')    
 svgelement.setAttributeNS(None,"width","400px")   
 svgelement.setAttributeNS(None,"height","400px")
 svgelement.setAttributeNS(None,"key",mykey)    
 # create SVG DOM        
-myCircle = document.createElement("circle")
+myCircle = document.createElementNS(svgNS, "circle")
 myCircle.setAttributeNS(None,"id","mycircle")
 myCircle.setAttributeNS(None,"cx",100)
 myCircle.setAttributeNS(None,"cy",100)
