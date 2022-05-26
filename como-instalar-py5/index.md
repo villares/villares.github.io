@@ -6,7 +6,7 @@
 
 ### O que é isso?
 
-[**py5**](https://py5.ixora.io) é uma biblioteca que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
+[**py5**](https://github.com/py5coding) é uma biblioteca que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
 
 [**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. Permite permite gerar softwares interativos com os mais diversos propósitos e as mais diversas interfaces visuais, assim como exportar imagens bitmap (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade desfruta de um rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
 
@@ -109,9 +109,9 @@ py5.run_sketch()
 ## Referências úteis para usar o py5
 
 * [py5 cheatsheet](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/py5_cc.pdf)
-* [py5 discussions/forum](https://github.com/hx2A/py5generator/discussions)
+* [py5 discussions/forum](https://github.com/py5coding/py5generator/discussions)
 * [py5 documentation](http://py5.ixora.io/)
-* [py5 examples](https://github.com/hx2A/py5examples)
+* [py5 examples](https://github.com/py5coding/py5examples)
 * [Processing forum](https://discourse.processing.org/)
 
 ### Agradecimentos
