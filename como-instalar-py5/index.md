@@ -75,15 +75,19 @@ Se tiver problemas para executar, lembre-se de parar com o botão *stop* vermelh
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)
 
-**Atenção:** Quando a opção do menu *py5 > Imported mode for py5* está ligada, o Thonny vai executar o seu código usando a ferramenta *run_sketch* do *py5* ...
+**Atenção:** Quando a opção do menu *py5 > Imported mode for py5* está ligada, o Thonny vai sempre executar o seu código usando uma ferramenta especial *run_sketch* do *py5* ...
 
-Neste modo o vocabulário da biblioteca *py5*, isto é, funções, constantes e variáveis, estão disponíveis sem prefixo algum, e o seu programa vai ser executado por um  "sketch runner" da biblioteca *py5*.  **Isto não é apropriado para executar código Python que não faça uso de *py5***.
+**Isto não é apropriado para executar código Python que não faça uso da biblioteca *py5***.
 
-Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade permitidas pela função `draw()`.
+Neste modo o vocabulário da biblioteca *py5*, isto é, funções, constantes e variáveis, estão disponíveis sem prefixo algum, e o seu programa vai ser executado por um  "sketch runner" da biblioteca *py5*. 
+
+Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade permitidas pela declaração de uma função `draw()`.
 
 #### O que é o *module mode*?
 
-Quando você desativa a opção *imported mode* no menu *py5*, você devolve o Thonny ao comportamento normal para executar qualquer código Python. Neste caso, você pode então usar a biblioteca *py5* no [module mode](https://py5.ixora.io/content/py5_modes.html#module-mode) que é parecido com o que se faz com a maior parte das bibliotecas Python que você vai encontrar.
+Quando você desativa a opção *imported mode* no menu *py5*, você devolve o Thonny ao comportamento normal para executar qualquer código Python.
+
+Neste caso, você pode então usar a biblioteca *py5* no [module mode](https://py5.ixora.io/content/py5_modes.html#module-mode) que é parecido com o que se faz com a maior parte das bibliotecas Python que você vai encontrar, importando a bibloteca no começo.
 
 ```python
 import py5
