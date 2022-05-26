@@ -116,7 +116,7 @@ py5.run_sketch()
 
 ### Agradecimentos
 
-Agradecimentos muito especiais ao ao [Jim](twitter.com/py5coding) que criou o *py5*, aos mantenedores do [Thonny](http://twitter.com/thonnyIDE), e ao [tabreturn](https://twitter.com/tabreturn) que fez o plug-in *thonny-py5mode*, que facilita demais a instalação e uso do *py5*, e também cujas instruções em inglês são o ponto de partida destas instruções e fonte das imagens todas!
+Agradecimentos muito especiais ao criador do *py5*, [Jim](twitter.com/py5coding), aos mantenedores do IDE [Thonny](http://twitter.com/thonnyIDE), e ao [tabreturn](https://twitter.com/tabreturn) que fez o plug-in *thonny-py5mode*, que facilita demais a instalação e uso do *py5*, as instruções em inglês dele são o ponto de partida destas instruções e fonte das imagens todas!
 
 ---
 
