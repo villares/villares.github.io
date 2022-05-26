@@ -48,7 +48,9 @@ Você precisa __reiniciar o Thonny depois desta etapa!!!__
 
 Uma vez reiniciado deve aparecer um novo menu *py5* na interface do Thonny, acione a opção  *py5 > Imported mode for py5* e depois clique em OK na janela de diálogo.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
-Quando acionada pela primeira vez esta opção, o plug-in vai baixar, extrair e configurar o JDK-17 para você (no diretório user-config do Thonny). Esse processo pode ser um tanto demorado, dependendo da sua conexão, mas só acontece da primeira vez que você aciona o menu.**A janela do Thonny vai parecer congelada** enquanto ele baixa e configura, não se desespere!
+Quando acionada pela primeira vez esta opção, o plug-in vai baixar, extrair e configurar o JDK-17 para você (no diretório user-config do Thonny). Esse processo pode ser um tanto demorado, dependendo da sua conexão, mas só acontece da primeira vez que você aciona o menu.
+
+**A janela do Thonny vai parecer congelada** enquanto ele baixa e configura, não se desespere!
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.02-download-jdk.png)
 Aparece este aviso quando terminou.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.03-download-jdk-done.png)
