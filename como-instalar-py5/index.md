@@ -2,13 +2,11 @@
 
 # Como instalar o py5
 
+> TL:DR; Para desenhar e trabalhar com programação criativa em Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-intale-o-thonny-ide-vers%C3%A3o-337-alt)
+
 ### O que é isso?
 
 [**py5**](https://py5.ixora.io) é uma biblioteca que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
-
-TL:DR; Para desenhar e trabalhar com programação criativa no Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-intale-o-thonny-ide-vers%C3%A3o-337-alt)
-
-
 
 [**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. Permite permite gerar softwares interativos com os mais diversos propósitos e as mais diversas interfaces visuais, assim como exportar imagens bitmap (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade desfruta de um rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
 
@@ -109,5 +107,7 @@ py5.run_sketch()
 * [py5 documentation](http://py5.ixora.io/)
 * [py5 examples](https://github.com/hx2A/py5examples)
 * [Processing forum](https://discourse.processing.org/)
+
+---
 
 Alexandre B A Villares ([abav.lugaralgum.com](https://abav.lugaralgum.com)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
