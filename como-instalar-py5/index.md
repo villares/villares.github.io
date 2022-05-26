@@ -98,7 +98,7 @@ def draw():
 py5.run_sketch()
 ```
 
- Note que você vai precisar usar a linha `import py5` no começo do seu códifo e a linha `run_sketch()` no final, assim como o prefixo `py5.` para todas as funções, constantes e variáveis oferecidas pela bibliota *py5*.
+ Note que você vai precisar usar a linha `import py5` no começo do seu código, a linha `py5.run_sketch()` no final, assim como o prefixo `py5.` para todas as funções, constantes e variáveis oferecidas pela bibliota *py5*.
 
 ## Referências úteis para usar o py5
 
