@@ -20,14 +20,16 @@ Para usar a py5 você vai precisar:
 
 - Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que permite executar os programas escritos por você.
 
-Uma maneira de obter tudo isso é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar a distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes conda, que vai permitir, por sua vez, instalar o py5 e o Java, mas vamos sugerir aqui um outro campinho que começa por instalar uma versão específica do **IDE Thonny** (que vem com um Python 3.8) e em seguida uma extensão (plug-in), **thonny-py5mode** que instala e configura o jdk-17 para você!
+Uma maneira de obter tudo isso é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar a distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes conda, que vai permitir, por sua vez, instalar o py5 e o Java, mas vamos sugerir aqui um outro caminho que começa por instalar uma versão específica do **IDE Thonny** (que vem com um Python 3.8) e em seguida uma extensão (plug-in), **thonny-py5mode** que instala e configura o jdk-17 para você!
 
 #### 1. Baixe e intale o Thonny IDE, versão 3.3.7-alt
 
 - Para Windows: [thonny-3.3.7-alt.exe](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.exe) 
+
 - Para MacOS: [thonny-3.3.7-alt.pkg](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.pkg) 
+
 - Para Linux: [thonny-3.3.7-x86_64-alt.tar.gz](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-x86_64-alt.tar.gz) 
-   
+  
   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
 #### 2. Instale o plugin *thonny-py5mode*
@@ -37,8 +39,6 @@ Uma vez aberto o Thonny, selecione no menu *Tools > Manage plug-ins...* ou, em p
 Procure o plug-in __thonny-py5mode__ e peça para instalar.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
 Você precisa __reiniciar o Thonny depois desta etapa!!!__ 
-
-
 
 #### 3. Permita que o plug-in baixe o jdk-17 Java
 
@@ -53,49 +53,51 @@ You'll be notified once the download is done --
    ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/05-apply-recommended-settings.png)
 3. When the py5 *Imported mode for py5* option is checked, Thonny will run your code (using py5's run_sketch command line tool) --
    ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
-   
-   
-   
-   
-   #### 4. Teste, aprenda a diferença entre o *imported mode* e o *module mode*, e pronto!
-   
-   Com a opção [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode) acionada no menu *py5*, é possível executar o código a seguir usando o botão com a seta verde ou CTRL+R (ou COMMAND+R no Mac) 
-   
-   ```python
-   def setup():
-       size(300, 200)
-       rect_mode(CENTER)
-   def draw():
-       rect(mouse_x, mouse_y, 10, 10)
-   ```
-   
-   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)
-   NOTA: Isso também serve para o [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode) sketches sem a função `draw()` 
-   NOTA2: Se tiver problemas para executar, lembre de parar com o botão *stop* vermelho alguma execução que ainda esteja rodando.
-   
-   #### Module Mode
-   
-   To run a py5 [module mode](https://py5.ixora.io/content/py5_modes.html#module-mode) sketch, deactivate/uncheck *py5 > Imported mode for py5* first so that Thonny returns to its normal run behaviour (for running any Python script). As an example, you can try this code:
-   
-   ```python
-   import py5
-   def setup():
+
+#### 4. Teste, aprenda a diferença entre o *imported mode* e o *module mode*, e pronto!
+
+ Com a opção [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode) acionada no menu *py5*, é possível executar o código a seguir usando o botão com a seta verde ou CTRL+R (ou COMMAND+R no Mac) .
+
+```python
+def setup():
+    size(300, 200)
+    rect_mode(CENTER)
+
+def draw():
+    rect(mouse_x, mouse_y, 10, 10)
+```
+
+Note que neste modo o vocabulário da biblioteca *py5*, isto é, funções, constantes e variáveis, estão disponíveis sem prefixo algum, e o seu programa vai ser executado pelo "sketch runner". Isto não é apropriado para executar código Python que não faça uso do *py5*.
+
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)O *imported mode* também serve para o [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode) sketches sem a função `draw()` .
+
+Se tiver problemas para executar, lembre de parar com o botão *stop* vermelho alguma execução que ainda esteja rodando.
+
+#### O que é o *module mode*?
+
+Quando você desativa a opção *imported mode* no menu *py5*, você devolve o Thonny ao comportamento normal para executar qualquer código Python. Neste caso, você pode então usar a biblioteca *py5* no [module mode](https://py5.ixora.io/content/py5_modes.html#module-mode) que é parecido com o que se faz com a maior parte das bibliotecas Python que você vai encontrar.
+
+```python
+import py5
+
+def setup():
     py5.size(200, 200)
     py5.rect_mode(py5.CENTER)
-   def draw():
+
+def draw():
     py5.square(py5.mouse_x, py5.mouse_y, 10)
-   py5.run_sketch()
-   ```
-   
-   Note that module mode requires an `import py5` and `run_sketch()` line, and `py5.` prefixes for everything.
-   
-   ## Referências úteis para usar o py5
+
+py5.run_sketch()
+```
+
+ Note que você vai precisar usar a linha `import py5` no começoe e a linha `run_sketch()` no final do código, assim como o prefixo `py5.` para todas as funções, constantes e variáveis oferecidas por* py5*.
+
+## Referências úteis para usar o py5
+
 * [py5 cheatsheet](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/py5_cc.pdf)
 * [py5 discussions/forum](https://github.com/hx2A/py5generator/discussions)
 * [py5 documentation](http://py5.ixora.io/)
 * [py5 examples](https://github.com/hx2A/py5examples)
 * [Processing forum](https://discourse.processing.org/)
-  
-  
 
 Alexandre B A Villares ([abav.lugaralgum.com](https://abav.lugaralgum.com)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
