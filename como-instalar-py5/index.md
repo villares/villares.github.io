@@ -22,7 +22,7 @@ Para usar a py5 você vai precisar:
 
 - Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que permite executar os programas escritos por você.
 
-Vamos sugerir começar por instalar uma versão específica do **IDE Thonny** (que vem com um Python 3.8) e em seguida uma extensão (plug-in), **thonny-py5mode** que instala e configura o jdk-17 para você!
+A sugestão aqui é começar por instalar uma versão específica do **IDE Thonny** (que vem com um Python 3.8) e em seguida uma extensão (plug-in), **thonny-py5mode** que instala e configura o jdk-17 para você!
 
 > Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda* para instalar *py5* e o JDK.
 
@@ -113,6 +113,10 @@ py5.run_sketch()
 * [py5 documentation](http://py5.ixora.io/)
 * [py5 examples](https://github.com/hx2A/py5examples)
 * [Processing forum](https://discourse.processing.org/)
+
+### Agradecimentos
+
+Agradecimentos muito especiais ao ao [Jim](twitter.com/py5coding) que criou o *py5*, aos mantenedores do [Thonny](http://twitter.com/thonnyIDE), e ao [tabreturn](https://twitter.com/tabreturn) que fez o plug-in *thonny-py5mode*, que facilita demais a instalação e uso do *py5*, e também cujas instruções em inglês são o ponto de partida destas instruções e fonte das imagens todas!
 
 ---
 
