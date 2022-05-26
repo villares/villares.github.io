@@ -2,7 +2,7 @@
 
 # Como instalar o py5
 
-> TL:DR; Para desenhar e trabalhar com programação criativa em Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-intale-o-thonny-ide-vers%C3%A3o-337-alt)
+- TL:DR; Para desenhar e trabalhar com programação criativa em Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-intale-o-thonny-ide-vers%C3%A3o-337-alt)
 
 ### O que é isso?
 
