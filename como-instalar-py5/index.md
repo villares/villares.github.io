@@ -74,11 +74,13 @@ def draw():
     rect(mouse_x, mouse_y, 10, 10)
 ```
 
+Se tiver problemas para executar, lembre-se de parar com o botão *stop* vermelho alguma outra execução que ainda esteja rodando.
+
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)
+
 Note que neste modo o vocabulário da biblioteca *py5*, isto é, funções, constantes e variáveis, estão disponíveis sem prefixo algum, e o seu programa vai ser executado pelo "sketch runner" da biblioteca *py5*. Isto não é apropriado para executar código Python que não faça uso de *py5*.
 
-![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)O *imported mode* também serve para sketch do tipo [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode), isto é aqueles sem a função `draw()` que permite animações e interatividade.
-
-Se tiver problemas para executar, lembre de parar com o botão *stop* vermelho alguma execução que ainda esteja rodando.
+Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade permitidas pela função `draw()`.
 
 #### O que é o *module mode*?
 
@@ -97,7 +99,7 @@ def draw():
 py5.run_sketch()
 ```
 
- Note que você vai precisar usar a linha `import py5` no começoe e a linha `run_sketch()` no final do código, assim como o prefixo `py5.` para todas as funções, constantes e variáveis oferecidas por* py5*.
+ Note que você vai precisar usar a linha `import py5` no começo do seu códifo e a linha `run_sketch()` no final, assim como o prefixo `py5.` para todas as funções, constantes e variáveis oferecidas pela bibliota *py5*.
 
 ## Referências úteis para usar o py5
 
