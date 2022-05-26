@@ -6,21 +6,27 @@
 
 [**py5**](https://py5.ixora.io) é uma biblioteca que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
 
+TL:DR; Para desenhar e trabalhar com programação criativa no Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-intale-o-thonny-ide-vers%C3%A3o-337-alt)
+
+
+
 [**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. Permite permite gerar softwares interativos com os mais diversos propósitos e as mais diversas interfaces visuais, assim como exportar imagens bitmap (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade desfruta de um rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
 
 Processing é baseada originalmente na linguagem de programação Java, mas hoje existem diversos projetos que desenvolvem as ideias do Processing com outras linguagens, como é o caso do p5js com Javascript, e o py5 com Python 3.
 
 Para usar a py5 você vai precisar:
 
-- Ter instalado um interpretador **Python 3** (versão 3.8 ou mais recente);
+- Ter um interpretador **Python 3** (versão 3.8 ou mais recente);
 
-- Ter instalada a biblioteca **py5** e suas dependências (outras bibliotecas das quais ela precisa para funcionar, como o JPype);
+- Instalar a biblioteca **py5** e suas dependências (outras bibliotecas das quais ela precisa para funcionar, como o JPype);
 
-- Ter instalado um **Java (jdk-17)**, que o py5 precisa para acionar a infraestrutura de desenho, e garantir que o seu JPype encontre ele...;
+- Um **Java (JDK-17)**, que o py5 precisa para a infraestrutura de desenho, e o seu JPype precisa saber onde ele está, por meio da variável JAVA-HOME;
 
 - Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que permite executar os programas escritos por você.
 
-Uma maneira de obter tudo isso é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar a distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes conda, que vai permitir, por sua vez, instalar o py5 e o Java, mas vamos sugerir aqui um outro caminho que começa por instalar uma versão específica do **IDE Thonny** (que vem com um Python 3.8) e em seguida uma extensão (plug-in), **thonny-py5mode** que instala e configura o jdk-17 para você!
+Vamos sugerir começar por instalar uma versão específica do **IDE Thonny** (que vem com um Python 3.8) e em seguida uma extensão (plug-in), **thonny-py5mode** que instala e configura o jdk-17 para você!
+
+> Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda* para instalar *py5* e o JDK.
 
 #### 1. Baixe e intale o Thonny IDE, versão 3.3.7-alt
 
@@ -40,7 +46,7 @@ Procure o plug-in __thonny-py5mode__ e peça para instalar.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
 Você precisa __reiniciar o Thonny depois desta etapa!!!__ 
 
-#### 3. Permita que o plug-in baixe o jdk-17 Java
+#### 3. Permita que o plug-in baixe o JavaJDK-17
 
 Uma vez reiniciado deve aparecer um novo menu *py5* na interface do Thonny, clique na opção  *py5 > Imported mode for py5* e OK na janela de diálogo
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
@@ -49,14 +55,15 @@ This will download, extract, and set up JDK-17 for you (if you need to know: the
 You'll be notified once the download is done --
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.03-download-jdk-done.png)
 
-2. *This step is optional.* There are several Thonny settings that I recommend you apply for working with py5 (including a Processing 4 inspired theme, Kyanite). You can apply those settings in one simple step using  *py5 > Apply recommended py5 settings*
-   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/05-apply-recommended-settings.png)
-3. When the py5 *Imported mode for py5* option is checked, Thonny will run your code (using py5's run_sketch command line tool) --
-   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
+Opcional: O comando *Apply recommended py5 settings* faz alguns ajustes no seu IDE, incluindo ativar o tema *Kianite*.
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/05-apply-recommended-settings.png)
 
-#### 4. Teste, aprenda a diferença entre o *imported mode* e o *module mode*, e pronto!
+**Atenção:** Quandoa a opção do menu *py5 > Imported mode for py5* está ligada, o Thonny vai executar o seu código usando a ferramenta *run_sketch* do *py5* ...
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
 
- Com a opção [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode) acionada no menu *py5*, é possível executar o código a seguir usando o botão com a seta verde ou CTRL+R (ou COMMAND+R no Mac) .
+#### 4. Aprenda a diferença entre o *imported mode* e o *module mode*, execute um pequeno exemplo e pronto, terminou!
+
+Com a opção [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode) acionada no menu *py5*, é possível executar o código a seguir usando o botão com a seta verde ou CTRL+R (ou COMMAND+R no Mac) .
 
 ```python
 def setup():
@@ -67,9 +74,9 @@ def draw():
     rect(mouse_x, mouse_y, 10, 10)
 ```
 
-Note que neste modo o vocabulário da biblioteca *py5*, isto é, funções, constantes e variáveis, estão disponíveis sem prefixo algum, e o seu programa vai ser executado pelo "sketch runner". Isto não é apropriado para executar código Python que não faça uso do *py5*.
+Note que neste modo o vocabulário da biblioteca *py5*, isto é, funções, constantes e variáveis, estão disponíveis sem prefixo algum, e o seu programa vai ser executado pelo "sketch runner" da biblioteca *py5*. Isto não é apropriado para executar código Python que não faça uso de *py5*.
 
-![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)O *imported mode* também serve para o [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode) sketches sem a função `draw()` .
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)O *imported mode* também serve para sketch do tipo [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode), isto é aqueles sem a função `draw()` que permite animações e interatividade.
 
 Se tiver problemas para executar, lembre de parar com o botão *stop* vermelho alguma execução que ainda esteja rodando.
 
