@@ -48,17 +48,16 @@ Você precisa __reiniciar o Thonny depois desta etapa!!!__
 
 #### 3. Permita que o plug-in baixe o JavaJDK-17
 
-Uma vez reiniciado deve aparecer um novo menu *py5* na interface do Thonny, clique na opção  *py5 > Imported mode for py5* e OK na janela de diálogo
+Uma vez reiniciado deve aparecer um novo menu *py5* na interface do Thonny, acione a opção  *py5 > Imported mode for py5* e depois clique em OK na janela de diálogo.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
-This will download, extract, and set up JDK-17 for you (if you need to know: the plug-in installs JDK in the Thonny user-config directory). Thonny only needs to download JDK the first time you switch to imported mode. __Thonny will appear to freeze__ for a while when it's downloading JDK (I have plans to develop a proper progress indicator later).
+Quando acionada pela primeira vez esta opção, o plug-in vai baixar, extrair e configurar o JDK-17 para você (no diretório user-config do Thonny). Esse processo pode ser um tanto demorado, dependendo da sua conexão, mas só acontece da primeira vez que você aciona o menu.**A janela do Thonny vai parecer congelada** enquanto ele baixa e configura, não se desespere!
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.02-download-jdk.png)
-You'll be notified once the download is done --
+Aparece este aviso quando terminou.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.03-download-jdk-done.png)
 
-Opcional: O comando *Apply recommended py5 settings* faz alguns ajustes no seu IDE, incluindo ativar o tema *Kianite*.
+Um ajuste opcional: O comando *Apply recommended py5 settings* faz alguns ajustes no seu IDE, incluindo ativar o tema azulzinho *Kianite*.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/05-apply-recommended-settings.png)
 
-**Atenção:** Quandoa a opção do menu *py5 > Imported mode for py5* está ligada, o Thonny vai executar o seu código usando a ferramenta *run_sketch* do *py5* ...
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
 
 #### 4. Aprenda a diferença entre o *imported mode* e o *module mode*, execute um pequeno exemplo e pronto, terminou!
@@ -78,7 +77,9 @@ Se tiver problemas para executar, lembre-se de parar com o botão *stop* vermelh
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)
 
-Note que neste modo o vocabulário da biblioteca *py5*, isto é, funções, constantes e variáveis, estão disponíveis sem prefixo algum, e o seu programa vai ser executado pelo "sketch runner" da biblioteca *py5*. Isto não é apropriado para executar código Python que não faça uso de *py5*.
+**Atenção:** Quando a opção do menu *py5 > Imported mode for py5* está ligada, o Thonny vai executar o seu código usando a ferramenta *run_sketch* do *py5* ...
+
+Neste modo o vocabulário da biblioteca *py5*, isto é, funções, constantes e variáveis, estão disponíveis sem prefixo algum, e o seu programa vai ser executado por um  "sketch runner" da biblioteca *py5*.  **Isto não é apropriado para executar código Python que não faça uso de *py5***.
 
 Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade permitidas pela função `draw()`.
 
