@@ -2,7 +2,7 @@
 
 # Como instalar o py5
 
-- TL:DR; Para desenhar e trabalhar com programação criativa em Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-intale-o-thonny-ide-vers%C3%A3o-337-alt)
+- TL:DR; Para desenhar e trabalhar com programação criativa em Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide-vers%C3%A3o-337-alt)
 
 ### O que é isso?
 
@@ -26,7 +26,7 @@ A sugestão aqui é começar por instalar uma versão específica do **IDE Thonn
 
 > Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda* para instalar *py5* e o JDK.
 
-#### 1. Baixe e intale o Thonny IDE, versão 3.3.7-alt
+#### 1. Baixe e instale o Thonny IDE, versão 3.3.7-alt
 
 - Para Windows: [thonny-3.3.7-alt.exe](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.exe) 
 
@@ -108,11 +108,11 @@ py5.run_sketch()
 
 ## Referências úteis para usar o py5
 
-* [py5 cheatsheet](https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/py5_cc.pdf)
-* [py5 discussions/forum](https://github.com/py5coding/py5generator/discussions)
-* [py5 documentation](http://py5.ixora.io/)
-* [py5 examples](https://github.com/py5coding/py5examples)
-* [Processing forum](https://discourse.processing.org/)
+* [referência rápida do py5]([https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/py5_cc.pdf](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf))
+* [fórum do py5](https://github.com/py5coding/py5generator/discussions)
+* [documentação oficial do py5](http://py5.ixora.io/)
+* [exemplos de py5 em Jupyter Notebooks](https://github.com/py5coding/py5examples)
+* [Fórum da Fundação Processing](https://discourse.processing.org/)
 
 ### Agradecimentos
 
