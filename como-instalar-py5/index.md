@@ -79,9 +79,9 @@ Se tiver problemas para executar, lembre-se de parar com o botão *stop* vermelh
 
 #### O que é o *imported mode*?
 
-Quando a opção do menu *py5 > Imported mode for py5* está ligada, o Thonny vai sempre executar o seu código usando uma ferramenta especial do `py5` chamada *sketch runner* (executor de sketches), que e pode também ser acionada a partir da linha de comando caso você não esteja usando o Thonny.
+Quando a opção do menu *py5 > Imported mode for py5* está ligada, o Thonny vai sempre executar o seu código usando uma ferramenta especial do `py5` chamada *sketch runner* (executor de sketches), que pode também ser acionada a partir da linha de comando caso você não esteja usando o Thonny.
 
-Neste modo o vocabulário da biblioteca *py5*, isto é, funções, constantes e variáveis, estão disponíveis, sem o prefixo `py5.`, e o seu programa vai ser automativamente executado por uma função "run_sketch" da biblioteca *py5*. 
+Neste "modo importado" o vocabulário da biblioteca *py5*, isto é, as funções, constantes e variáveis de sistema (como a posição do mouse), estão disponíveis, sem o prefixo `py5.`, e o seu programa vai ser automativamente executado por uma função "run_sketch" da biblioteca *py5*. 
 
 **Isto não é apropriado para executar código Python que não faça uso da biblioteca *py5***.
 
@@ -91,7 +91,7 @@ Com o *imported mode* ativado, também podem ser executados sketches do tipo [st
 
 Quando você desativa a opção *imported mode* no menu *py5*, você devolve o Thonny ao comportamento normal para executar qualquer código Python.
 
-Neste caso, você pode usar a biblioteca *py5* no [module mode](https://py5.ixora.io/content/py5_modes.html#module-mode) que é como se faz com a maior parte das bibliotecas Python, isto é, importando a bibloteca no começo com a instrução `import`, e chamando suas funções com o nome da biblioteca como prefixo.
+Neste caso, você pode usar a biblioteca *py5* no [module mode](https://py5.ixora.io/content/py5_modes.html#module-mode) que é como se lida com a maior parte das bibliotecas Python, isto é, importando a bibloteca no começo com a instrução `import`, e chamando suas funções com o nome da biblioteca como prefixo.
 
 ```python
 import py5
