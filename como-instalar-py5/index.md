@@ -108,7 +108,7 @@ py5.run_sketch()
 
 ## Referências úteis para usar o py5
 
-* [referência rápida do py5]([https://raw.githubusercontent.com/tabreturn/processing.py-cheat-sheet/master/py5/py5_cc.pdf](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf))
+* [referência rápida do py5 (colinha)](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf)
 * [fórum do py5](https://github.com/py5coding/py5generator/discussions)
 * [documentação oficial do py5](http://py5.ixora.io/)
 * [exemplos de py5 em Jupyter Notebooks](https://github.com/py5coding/py5examples)
