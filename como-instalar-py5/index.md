@@ -60,7 +60,7 @@ Um ajuste opcional: O comando *Apply recommended py5 settings* faz alguns ajuste
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
 
-## 4. Aprenda a diferença entre o *imported mode* e o *module mode*, execute um pequeno exemplo e pronto, terminou!
+## 4. Execute um pequeno exemplo, aprenda a diferença entre o *imported mode* e o *module mode*, e pronto!
 
 Com a opção *imported mode* acionada no menu *py5*, é possível executar o código a seguir usando o botão com a seta verde ou CTRL+R (ou COMMAND+R no Mac) .
 
