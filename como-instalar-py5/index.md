@@ -8,7 +8,7 @@
 
 [**py5**](https://github.com/py5coding) é uma biblioteca que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
 
-[**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. Permite permite gerar softwares interativos com os mais diversos propósitos e as mais diversas interfaces visuais, assim como exportar imagens bitmap (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade desfruta de um rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
+[**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. Permite permite gerar softwares interativos com os mais diversos propósitos e interfaces visuais, assim como exportar imagens bitmap (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade desfruta de um rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
 
 Processing é baseada originalmente na linguagem de programação Java, mas hoje existem diversos projetos que desenvolvem as ideias do Processing com outras linguagens, como é o caso do p5js com Javascript, e o py5 com Python 3.
 
@@ -22,7 +22,7 @@ Para usar a py5 você vai precisar:
 
 - Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que permite executar os programas escritos por você.
 
-A sugestão aqui é começar por instalar uma versão específica do **IDE Thonny** (que vem com um Python 3.8/3.9) e em seguida uma extensão (plug-in), **thonny-py5mode** que instala e configura o jdk-17 para você!
+A sugestão aqui é começar por instalar uma versão específica do **IDE Thonny** (que vem com um Python 3.8/3.9) e em seguida uma extensão (plug-in), **thonny-py5mode** que instala e configura o JDK para você!
 
 > Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda* para instalar *py5* e o JDK.
 
@@ -44,11 +44,11 @@ Procure o plug-in __thonny-py5mode__ e peça para instalar.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
 Você precisa __reiniciar o Thonny depois desta etapa!!!__ 
 
-#### 3. Permita que o plug-in baixe o JavaJDK-17
+#### 3. Permita que o plug-in baixe o JDK
 
 Uma vez reiniciado deve aparecer um novo menu *py5* na interface do Thonny, acione a opção  *py5 > Imported mode for py5* e depois clique em OK na janela de diálogo.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
-Quando acionada pela primeira vez esta opção, o plug-in vai baixar, extrair e configurar o JDK-17 para você (no diretório user-config do Thonny). Esse processo pode ser um tanto demorado, dependendo da sua conexão, mas só acontece da primeira vez que você aciona o menu.
+Quando acionada pela primeira vez esta opção, o plug-in vai baixar, extrair e configurar o JDK para você (no diretório user-config do Thonny). Esse processo pode ser um tanto demorado, dependendo da sua conexão, mas só acontece da primeira vez que você aciona o menu.
 
 **A janela do Thonny vai parecer congelada** enquanto ele baixa e configura, não se desespere!
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.02-download-jdk.png)
@@ -62,7 +62,7 @@ Um ajuste opcional: O comando *Apply recommended py5 settings* faz alguns ajuste
 
 #### 4. Aprenda a diferença entre o *imported mode* e o *module mode*, execute um pequeno exemplo e pronto, terminou!
 
-Com a opção [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode) acionada no menu *py5*, é possível executar o código a seguir usando o botão com a seta verde ou CTRL+R (ou COMMAND+R no Mac) .
+Com a opção *imported mode* acionada no menu *py5*, é possível executar o código a seguir usando o botão com a seta verde ou CTRL+R (ou COMMAND+R no Mac) .
 
 ```python
 def setup():
@@ -79,9 +79,9 @@ Se tiver problemas para executar, lembre-se de parar com o botão *stop* vermelh
 
 #### O que é o *imported mode*?
 
-Quando a opção do menu *py5 > Imported mode for py5* está ligada, o Thonny vai sempre executar o seu código usando uma ferramenta especial do `py5` chamada *sketch runner* (executor de sketches), que pode também ser acionada a partir da linha de comando caso você não esteja usando o Thonny.
+Quando a opção do menu *py5 > Imported mode for py5* está ligada, você pode escrever os seus sketches de uma maneira simplificada, chamada [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode), e o Thonny vai executar o seu código usando o *sketch runner* (executor de sketches), uma ferramenta especial do `py5` que pode também ser acionada a partir da linha de comando, caso você não esteja usando o Thonny.
 
-Neste "modo importado" o vocabulário da biblioteca *py5*, isto é, as funções, constantes e variáveis de sistema (como a posição do mouse), estão disponíveis, sem o prefixo `py5.`, e o seu programa vai ser automativamente executado por uma função "run_sketch" da biblioteca *py5*. 
+Neste "modo importado" o vocabulário da biblioteca *py5*, isto é, os nomes  das funções, constantes e variáveis de sistema (como a posição do mouse), fica disponível sem o prefixo `py5.`, e o seu programa vai ser automativamente executado por uma função "run_sketch" da biblioteca *py5*. 
 
 **Isto não é apropriado para executar código Python que não faça uso da biblioteca *py5***.
 
