@@ -1,18 +1,21 @@
 ----
 
-# Como instalar o py5
+[[English Version](index-EN.md)]
+
+# Como instalar e começar a usar a biblioteca py5
 
 - TL:DR; Para desenhar e experimentar programação criativa com Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide-vers%C3%A3o-337-alt)
 
 ## O que é isso?
 
-[**py5**](https://github.com/py5coding) é uma biblioteca que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
+[**py5**](https://github.com/py5coding) é uma 
+<i title="bibliotecas são pacotes de funções complementares prontas desenvolvidas para auxiliar o desenvolvimento dos seus programas." style="text-decoration:underline; text-decoration-style: dotted;">biblioteca</i> que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
 
 [**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. Permite permite gerar softwares interativos com os mais diversos propósitos e interfaces visuais, assim como exportar imagens bitmap (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade desfruta de um rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
 
-Processing é baseada originalmente na linguagem de programação Java, mas hoje existem diversos projetos que desenvolvem as ideias do Processing com outras linguagens, como é o caso do p5js com Javascript, e o py5 com Python 3.
+Processing é baseada originalmente na linguagem de programação Java, mas hoje existem diversos projetos que desenvolvem as ideias do Processing com outras linguagens, como é o caso do p5js com Javascript, e o py5 com Python 3. 
 
-Para usar a py5 você vai precisar:
+Para usar py5 você vai precisar:
 
 - Ter um interpretador **Python 3** (versão 3.8 ou mais recente);
 
@@ -24,7 +27,7 @@ Para usar a py5 você vai precisar:
 
 A sugestão aqui é começar por instalar uma versão específica do **IDE Thonny** (que vem com um Python 3.8/3.9) e em seguida uma extensão (plug-in), **thonny-py5mode** que instala e configura o JDK para você!
 
-> Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda* para instalar *py5* e o JDK.
+> Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
 
 ## 1. Baixe e instale o Thonny IDE, versão 3.3.7-alt
 
