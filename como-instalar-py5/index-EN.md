@@ -8,11 +8,11 @@
 
 ## What's this?
 
-[py5](https://github.com/py5coding) is a <ins title="Libraries are packages of complementary software functions made by other people to help you develop your own programs" style="text-decoration:underline; text-decoration-style: dotted;">library</ins> that allows us to use of the Processing vocabulary and graphical infrastructure with Python 3.
+[py5](https://github.com/py5coding) is a <ins title="Libraries are packages of complementary software functions made by other people to help you develop your own programs" style="text-decoration:underline; text-decoration-style: dotted;">library</ins> that allows us to use the vocabulary and graphical infrastructure of Processing with the Python programming language (Python 3).
 
-[Processing](http://processsing.org/) is a Free and Open Source (FLOSS) programming platform started in 2001 by Casey Reas e Ben Fry, widely used by artists and designers, as well as for teaching programming in a visual context. It allows you to generate interactive software with the most diverse purposes and visual interfaces, as well as exporting bitmap images (PNG, JPG), animations or 2D and 3D vector files (PDF and SVG, among others). The community enjoys a rich ecosystem of people who produce resources such as teaching examples and freely shared code libraries.
+[Processing](http://processsing.org/) is a Free and Open Source (FLOSS) programming platform started in 2001 by Casey Reas e Ben Fry, widely used by artists and designers, as well as for teaching programming in a visual context. It allows you to generate interactive software with the most diverse purposes and visual interfaces, as well as exporting bitmap/raster images (like PNG and JPG), animations or 2D and 3D vector files (like PDF and SVG, among others). The community enjoys a rich ecosystem of people who produce resources such as teaching examples and freely shared code libraries.
 
-Processing is originally based on the Java programming language, but today there are several projects that develop Processing ideas with other languages, such as *p5js* with Javascript, *Processing Python mode* (inside the Processing IDE) using Jython 2.7, and now *py5* with Python 3. 
+Processing is originally based on the Java programming language, but today there are several projects that develop Processing ideas with other languages, such as *p5js* with Javascript, *Processing Python mode* (inside the Processing IDE) using Python 2.7 (Jython), and now *py5* with Python 3 (CPython).
 
 To use *py5* you will need:
 
