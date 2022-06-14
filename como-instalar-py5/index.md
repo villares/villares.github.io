@@ -9,7 +9,7 @@
 ## O que é isso?
 
 [**py5**](https://github.com/py5coding) é uma 
-<i title="bibliotecas são pacotes de funções complementares prontas desenvolvidas para auxiliar o desenvolvimento dos seus programas." style="text-decoration:underline; text-decoration-style: dotted;">biblioteca</i> que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
+<u title="bibliotecas são pacotes de funções complementares prontas, ou desenvolvidas por outras pessoas, para auxiliar o desenvolvimento de novos programas." style="text-decoration:underline; text-decoration-style: dotted;">biblioteca</u> que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
 
 [**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. Permite permite gerar softwares interativos com os mais diversos propósitos e interfaces visuais, assim como exportar imagens bitmap (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade desfruta de um rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
 
