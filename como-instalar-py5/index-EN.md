@@ -4,7 +4,7 @@
 
 # How to install py5
 
-- TL:DR; To draw and experiment some creative coding with Python [follow the instructions below](/#1-Download-and-install-the-Thonny-IDE).
+- TL:DR; To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html/#1-Download-and-install-the-Thonny-IDE).
 
 ## What's this?
 
