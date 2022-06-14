@@ -8,25 +8,25 @@
 
 ## What's this?
 
-[py5](https://github.com/py5coding) is a <ins title="Libraries are packages of complementary software functions made by other people to help you develop your own programs" style="text-decoration:underline; text-decoration-style: dotted;">library</ins> that allows us to use of the Processing vocabulary and graphical infrastructure with the latest version of the Python programming language.
+[py5](https://github.com/py5coding) is a <ins title="Libraries are packages of complementary software functions made by other people to help you develop your own programs" style="text-decoration:underline; text-decoration-style: dotted;">library</ins> that allows us to use of the Processing vocabulary and graphical infrastructure with Python 3.
 
 [Processing](http://processsing.org/) is a Free and Open Source (FLOSS) programming platform started in 2001 by Casey Reas e Ben Fry, widely used by artists and designers, as well as for teaching programming in a visual context. It allows you to generate interactive software with the most diverse purposes and visual interfaces, as well as exporting bitmap images (PNG, JPG), animations or 2D and 3D vector files (PDF and SVG, among others). The community enjoys a rich ecosystem of people who produce resources such as teaching examples and freely shared code libraries.
 
-Processing is originally based on the Java programming language, but today there are several projects that develop Processing ideas with other languages, such as p5js with Javascript, and py5 with Python 3.
+Processing is originally based on the Java programming language, but today there are several projects that develop Processing ideas with other languages, such as *p5js* with Javascript, *Processing Python mode* (inside the Processing IDE) using Jython 2.7, and now *py5* with Python 3. 
 
-To use py5 you will need:
+To use *py5* you will need:
 
 - A **Python 3** interpreter (version 3.8 or later);
 
-- Install the **py5** library and its dependencies (other libraries it needs to work, such as JPype);
+- Install the **py5 package* and its dependencies (other libraries it needs to work, such as JPype);
 
-- A **Java** (**JDK-17**), which py5 needs for the drawing infrastructure, and your JPype needs to know where it is, using the JAVA-HOME variable;
+- A **Java** (**JDK-17**), which *py5* needs for the drawing infrastructure, and JPype needs to know where it is, looking at the JAVA-HOME environment variable;
 
 - An **IDE** (Integrated Development Environment), simply put, is a code-appropriate text editor that lets you run the programs you write.
 
-The suggestion here is to start by installing a specific version of the **Thonny IDE** (which comes with a Python 3.8/3.9) and then an extension (plug-in), **thonny-py5mod**e that installs and configures the JDK for you!
+The suggestion here is to start by installing a specific version of the **Thonny IDE** (which comes with Python 3.8/3.9) and then an extension (plug-in), **thonny-py5mode** that will install and configure the JDK for you!
 
->  Another way to get everything you need is to follow the instructions at the [py5 documentation](https://py5.ixora.io/content/install.html), starting with installing an Anaconda or miniconda distribution, which comes with Python and the conda package manager to install py5, and the instructions for installing the Java JDK-17.
+>  Another way to get everything you need, if these steps bellow fail, is to follow the instructions at the [py5 documentation](https://py5.ixora.io/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK-17*).
 
 ## 1. Download and install the Thonny IDE
 
