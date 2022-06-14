@@ -18,13 +18,13 @@ To use *py5* you will need:
 
 - A **Python 3** interpreter (version 3.8 or later);
 
-- Install the **py5 package* and its dependencies (other libraries it needs to work, such as JPype);
+- Install the **py5 library package** and its dependencies (other libraries it needs to work, such as JPype);
 
 - A **Java** (**JDK-17**), which *py5* needs for the drawing infrastructure, and JPype needs to know where it is, looking at the JAVA-HOME environment variable;
 
-- An **IDE** (Integrated Development Environment), simply put, is a code-appropriate text editor that lets you run the programs you write.
+- Optionally, an **IDE** (Integrated Development Environment), simply put, a code-appropriate text editor that lets you run the programs you write. Some people like to use *py5* on *Jupyter Notebooks*.
 
-The suggestion here is to start by installing a specific version of the **Thonny IDE** (which comes with Python 3.8/3.9) and then an extension (plug-in), **thonny-py5mode** that will install and configure the JDK for you!
+The suggestion here is to start by installing a specific version of the **Thonny IDE** (which comes with Python 3.8 or greater) and then an extension (plug-in), **thonny-py5mode** that will install and configure the JDK for you!
 
 >  Another way to get everything you need, if these steps bellow fail, is to follow the instructions at the [py5 documentation](https://py5.ixora.io/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK-17*).
 
