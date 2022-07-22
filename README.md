@@ -107,7 +107,8 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
   - Disciplina eletiva de introdução à pogramação com Python na graduação do curso de arquitetura e urbanismo da FEC-Unicamp, primeiro semestre de 2021
 
 - Professor na Fábrica Escola de Humanidades, desde 2020
-  
+
+  - Eixo Ecologia (1⁰ ano), 2022  
   - Eixos Artes (2⁰ ano) e Filosofia (1⁰ ano), 2021
   - Eixo Filosofia (1⁰ ano), 2020
 
