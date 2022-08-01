@@ -84,9 +84,9 @@ Se tiver problemas para executar, lembre-se de parar com o botão *stop* vermelh
 
 Quando a opção do menu *py5 > Imported mode for py5* está ligada, você pode escrever os seus sketches de uma maneira simplificada, chamada [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode), e o Thonny vai executar o seu código usando o *py5 sketch runner* (executor de sketches), uma ferramenta especial que pode também ser acionada a partir da linha de comando, caso você não esteja usando o Thonny.
 
-Neste "modo importado" o vocabulário da biblioteca *py5*, isto é, os nomes das funções, constantes e variáveis de sistema (como a posição do mouse), fica disponível sem o prefixo `py5.`, e o seu programa vai ser automativamente executado por uma função "run_sketch" da biblioteca *py5*. 
+**Atenção:** O *imported mode* não é apropriado para executar código Python que não faça uso da biblioteca *py5*.
 
-**Isto não é apropriado para executar código Python que não faça uso da biblioteca *py5***.
+Neste "modo importado" o vocabulário da biblioteca *py5*, isto é, os nomes das funções, constantes e variáveis de sistema (como a posição do mouse), fica disponível sem o prefixo `py5.`, e o seu programa vai ser automativamente executado por uma função "run_sketch" da biblioteca *py5*. 
 
 Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade pois não tem uma função `draw()` declarada.
 
@@ -121,7 +121,7 @@ Note que você vai precisar usar a linha `import py5` no começo do seu código,
 
 ### Agradecimentos
 
-Agradecimentos muito especiais ao criador do *py5*, [Jim](twitter.com/py5coding), aos mantenedores do IDE [Thonny](http://twitter.com/thonnyIDE), e ao [tabreturn](https://twitter.com/tabreturn) que fez o plug-in *thonny-py5mode*, que facilita demais a instalação e uso do *py5*, as instruções em inglês dele são o ponto de partida destas instruções e fonte das imagens todas!
+Agradecimentos muito especiais ao criador do *py5*, [Jim](https://twitter.com/py5coding), aos mantenedores do IDE [Thonny](https://twitter.com/thonnyIDE), e ao [tabreturn](https://twitter.com/tabreturn) que fez o plug-in *thonny-py5mode*, que facilita demais a instalação e uso do *py5*, as instruções em inglês dele são o ponto de partida destas instruções e fonte das imagens todas!
 
 ---
 
