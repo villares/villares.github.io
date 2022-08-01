@@ -93,11 +93,11 @@ If you have trouble geting your program to execute, try stopping any other execu
 
 When the *py5 > Imported mode for py5* option is on, you can write your sketches in a simplified maner, called [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode), and Thonny will run your code using the *py5 sketch runner*, a special tool that can also be called from the command line if you are not using Thonny.
 
+**Important note:** The *imported mode* is not appropriate for executing Python code that doesn't make use of the py5 library!
+
 In *imported mode* the vocabulary of *py5*, that is, the names of functions, constants and system variables (such as the mouse position), are available without the `py5.` prefix, and your program will be automatically executed by a `run_sketch` function from *py5*.
 
-**This is not appropriate for executing Python code that doesn't make use of the py5 library!**
-
-With imported mode on, you can also run [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode) sketches, that is, programs without animation or interactivity because they do not have a `draw()` function defined.
+With *imported mode* on, you can also run [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode) sketches, that is, programs without animation or interactivity because they do not have a `draw()` function defined.
 
 ### What is *module mode*?
 
@@ -134,7 +134,7 @@ Note that you will need to use `import py5` at the beginning of your code, and `
 
 ### Acknowledgments
 
-Very special thanks to [Jim](twitter.com/py5coding), creator of py5, the maintainers of [Thonny IDE](http://twitter.com/thonnyIDE), and [tabreturn](https://twitter.com/tabreturn) who made the *thonny-py5mode* plugin, which makes installing and using py5 much easier, most of the step-by-step part and all the images came from the installing intructions at his page, I just added some context and comments!
+Very special thanks to [Jim](https://twitter.com/py5coding), creator of py5, the maintainers of [Thonny IDE](https://twitter.com/thonnyIDE), and [tabreturn](https://twitter.com/tabreturn) who made the *thonny-py5mode* plugin, which makes installing and using py5 much easier, most of the step-by-step part and all the images came from the installing intructions at his page, I just added some context and comments!
 
 ---
 
