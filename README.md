@@ -17,11 +17,8 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) Uma ideia visual por dia, usando programação.
 
-- [**material-aulas**](https://abav.lugaralgum.com/material-aulas) Material didático aberto para Processing modo Python.
-
-- [**arteprog**](https://arteprog.space) arte e programação
-  
-  - [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos com Monica Rizzolli. 
+- [**material-aulas**](https://abav.lugaralgum.com/material-aulas) Material didático aberto para introdução à programação
+com Python em um contexto visual.
 
 - [**sketch-mail**](http://villares.org/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
 
@@ -36,11 +33,14 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 - [Near Grid / quase grade](https://emmeio13.medialab.unb.br/near-grid/) - Obra na web-exposição EmMeio#13: Contaminações do MediaLab UnB, 2021 
  
 - [Sesc São Paulo](https://sescsp.org.br)
+     -  Curso simulações físicas 2D com Python (py5 e pymunk) - [pinball-paulista](https://github.com/villares/pymunk-pinball-paulista)
+     -  Gerador de Kirigami com Python - [exemplos](https://gist.github.com/villares/76f574c4eb750c68fbbb360d7f1754bb)
+     -  [Geradores de gráficos vetoriais para uso como estêncil usando Processing e Python](https://github.com/villares/py_estencil)
+     -  Curso fabricando caixas com corte laser e Python
      -  Curso *design utilitário com papel e papelão*, com Daniel Seda
      -  Hackeando o Almanaque FestA!: [**Live Coding de Brinquedo Óptico** (gravação)](https://www.youtube.com/watch?v=olSL2MdzKNk), com Maraiza Adami
      -  LIVE FestA! Sesc Santana: [**Conversando sobre programação criativa** (gravação)](https://www.youtube.com/watch?v=tUqXdc9SJCs), com Monica Rizzolli, mediação de Cristiano Tito
      -  Modificando o projeto [Pycomic](http://github.com/webtiras) - Para o curso de quadrinhos e programação com Aline Yuri, Daniel Seda e Maraiza Adami.  
-
 - [Processing Community Day Brasil 2021](https://pcd.encontrosdigitais.com.br)
     - [**Oficina de introdução ao Processing modo Python** (vídeo da oficina)](https://youtu.be/Lhk3huuxs3g) 
     - [**Grade recursiva 2021_01_21**](https://abav.lugaralgum.com/selected-work/recursive-grid/) - Obra na [Galeria Virtual do PCD Brasil 2021](https://pcd.encontrosdigitais.com.br/galeria/) 
@@ -73,8 +73,10 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - [Paper objects with Processing and Python](https://github.com/villares/Paper-objects-with-Processing-and-Python) Repositório com estudos de fabricação digital com programação.
 
-#### 2017 - 2018
+- [Material aberto do curso Programação Criativa](http://arteprog.space/programacao-criativa), [Processando Processing](https://arteprog.space/Processando-Processing), [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) e outros projetos com Monica Rizzolli. 
 
+#### 2017 - 2018
+  
 - Colaborações para o portal [Esquina](https://web.archive.org/web/20201128041827/https://www.esquina.net.br/author/alexandre-vilares/) [com Monica Rizzolli]
   
   - [A nova tendência de construir em grupos, WikLab e os tijolos da era digital](http://www.esquina.net.br/2018/01/22/a-nova-tendencia-de-construir-em-grupos-wiklab-e-os-tijolos-da-era-digital/)
