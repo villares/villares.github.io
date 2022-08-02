@@ -27,7 +27,7 @@ Educator, visual artist and new media consultant. Researches computational art p
 
 - [Sesc São Paulo](https://sescsp.org.br)
 - [Sesc São Paulo](https://sescsp.org.br)
-     -  2D Physics simulation with Python course(py5 e pymunk) - with João Antonio de F. P. e Ferreira [pinball-paulista](https://github.com/villares/pymunk-pinball-paulista)
+     -  2D Physics simulation with Python course (py5 & pymunk) with João Antonio de F. P. e Ferreira - [pinball-paulista](https://github.com/villares/pymunk-pinball-paulista)
      -  A Kirigami generator with Python - [exemplos](https://gist.github.com/villares/76f574c4eb750c68fbbb360d7f1754bb)
      -  [Generating vecto graphics for stencil making with Processing and Python](https://github.com/villares/py_estencil)
      -  Laser-cutting boxes with Python
