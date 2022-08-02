@@ -19,9 +19,6 @@ Educator, visual artist and new media consultant. Researches computational art p
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) One visual idea a day, using code
 
-- [**arteprog**](http://arteprog.space) art and programming
-  - [Processando Processing](http://arteprog.space/Processando-Processing) project and related [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa) **[support us with [patreon.com/arteprog](https://patreon.com/arteprog)!]**
-
 ### 2021 - 2022
 
 - [**Escolas no Brasil**](https://revista.internetlab.org.br/escolas-no-brasil/), work published at *Internet e Sociedade,* n.2, v.2, do InternetLab. Dezembro de 2021.
@@ -29,6 +26,12 @@ Educator, visual artist and new media consultant. Researches computational art p
 - [Near Grid / quase grade](https://emmeio13.medialab.unb.br/near-grid/) - Work shown at web-exhibition EmMeio#13: Contaminações do MediaLab UnB, 2021 
 
 - [Sesc São Paulo](https://sescsp.org.br)
+- [Sesc São Paulo](https://sescsp.org.br)
+     -  2D Physics simulation with Python course(py5 e pymunk) - with João Antonio de F. P. e Ferreira [pinball-paulista](https://github.com/villares/pymunk-pinball-paulista)
+     -  A Kirigami generator with Python - [exemplos](https://gist.github.com/villares/76f574c4eb750c68fbbb360d7f1754bb)
+     -  [Generating vecto graphics for stencil making with Processing and Python](https://github.com/villares/py_estencil)
+     -  Laser-cutting boxes with Python
+     -  *Utilitary design of paper objects*, with Daniel Seda
      -  **Live Coding a optical toy hack from a Almanaque FestA! activity** [PT, recording](https://www.youtube.com/watch?v=olSL2MdzKNk) com Maraiza Adami
      -  LIVE FestA! Sesc Santana: **Talking about creative coding** ([PT, recording](https://www.youtube.com/watch?v=tUqXdc9SJCs)) with Monica Rizzolli, mediated by Cristiano Tito
      -  Hacking at [Pycomic](http://github.com/webtiras) - for a comics activity with Aline Yuri, Daniel Seda e Maraiza Adami.
@@ -60,7 +63,12 @@ Educator, visual artist and new media consultant. Researches computational art p
 
 - Master's degree dissetation: [A taxonomy of themes for teaching programming in a visual context](https://abav.lugaralgum.com/mestrado/)
 
+- Collaboration at [Escuta Ativa - corpo sonoro](https://grazielelautenschlaeger.com/portfolio/escuta-ativa/) project's 3rd module, with Graziele Lautenschlaeger and Gil Fuser.
+
 - Contributions to [Rosetta Code](https://rosettacode.org/wiki/Category:Processin) [Processing examples](https://github.com/jeremydouglass/rosetta_examples_p5) organized by Jeremy Douglass
+
+- [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa), [Processando Processing](http://arteprog.space/Processando-Processing) project and related projects with Monica Rizzolli
+
 
 #### 2017 - 2018
 
