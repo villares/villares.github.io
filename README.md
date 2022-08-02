@@ -33,7 +33,7 @@ com Python em um contexto visual.
 - [Near Grid / quase grade](https://emmeio13.medialab.unb.br/near-grid/) - Obra na web-exposição EmMeio#13: Contaminações do MediaLab UnB, 2021 
  
 - [Sesc São Paulo](https://sescsp.org.br)
-     -  Curso simulações físicas 2D com Python (py5 e pymunk) - [pinball-paulista](https://github.com/villares/pymunk-pinball-paulista)
+     -  Curso simulações físicas 2D com Python (py5 e pymunk) comJoão Antonio de F. P. e Ferreira - [pinball-paulista](https://github.com/villares/pymunk-pinball-paulista)
      -  Gerador de Kirigami com Python - [exemplos](https://gist.github.com/villares/76f574c4eb750c68fbbb360d7f1754bb)
      -  [Geradores de gráficos vetoriais para uso como estêncil usando Processing e Python](https://github.com/villares/py_estencil)
      -  Curso fabricando caixas com corte laser e Python
@@ -70,6 +70,8 @@ com Python em um contexto visual.
   - [**desenho() #0_out_2019**](http://desenho.lugaralgum.com/) fanzine & poster.
 
 - [**Taxonomia de temas para ensino de programação em contexto visual**](https://abav.lugaralgum.com/mestrado) Dissertação de mestrado apresentada na FEC-UNICAMP em fevereiro de 2019.
+
+- Colaboração no terceiro módulo do projeto [Escuta Ativa - corpo sonoro](https://grazielelautenschlaeger.com/portfolio/escuta-ativa/), com Graziele Lautenschlaeger e Gil Fuser.
 
 - [Paper objects with Processing and Python](https://github.com/villares/Paper-objects-with-Processing-and-Python) Repositório com estudos de fabricação digital com programação.
 
