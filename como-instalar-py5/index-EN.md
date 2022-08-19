@@ -42,13 +42,13 @@ You'll need version 3.3.7-alt (because of the version of Python it comes with).
 
 ## 2. Install the *thonny-py5mode* plug-in
 
-Ppen, select *Tools > Manage plug-ins...* from the menu…
+Open, select *Tools > Manage plug-ins...* from the menu…
 
-![](https://lh5.googleusercontent.com/7QqZEos2zyHAKo_NYdcQsIffMfWX4A7lntYblHuZohfvAje_cjh3MkXKAw4N7H4XmAhB2_czHxsCvbLlQeY3g03hmnH-vBf9KGOlbEPptoZqirNgaAXwNLACdcB-ejhpYbxNacId3FfXv58_rA) 
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.01-manage-plug-ins.png)
 
 Search for **thonny-py5mode** and click on the install button.
 
- ![](https://lh6.googleusercontent.com/Rre5zRvlhX93ZO8zW677ivLiTPUijAMNsew5rE7jZWMo6gyP0Hda9AEbeb_5QiEPuvNe---VuqBAvjpEG9oHupDhe3WGA7BvCd5Nz5OWy5CdxV0NRZiZnt0h-s5tI00EPWC14LivuQJzK7ROww) 
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
 
 You need to __restart Thonny after this step!!!__
 
@@ -56,21 +56,25 @@ You need to __restart Thonny after this step!!!__
 
 Once restarted, a new *py5* menu should appear in Thonny's interface, click on the *py5 > Imported mode for py5* menu option and then click OK in the dialog window that appears.
 
-![](https://lh3.googleusercontent.com/V9EJuIoI6s2qghaj31gRPWidWbz3bv_386mXP_In706KrYfCrJ8UaSGxZOuOUtBORRYMCnOCFanrebCGK5iI-MM4cZz3E846wJY2zi0l8ZggFTvXAuLYOjK75Cy2eackqj3m7ai1ov_IYbGdMg) 
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
 
 When you first select this, the plug-in will download, extract and configure the JDK for you (in Thonny's user-config directory). This process can be quite lengthy depending on your connection, but it only happens the first time you select the menu option.
 
 **Thonny's window will appear frozen** as it downloads and configures the JDK, don't despair!**
 
-![](https://lh5.googleusercontent.com/3cW4nEEMWdwGf3lFSYLOLahmqWBgP7NfuAonN2Rd0IyeH9IH44Fe_aENvHxp_OTwIikhiud41L3nG0Q1KRRFj8Tou7EN9YdMkYmOgQxe2pBS6dRkNZq7AfqqS-b84x-WfDlLJ__ACiMw30tW-A) 
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.02-download-jdk.png)
 
 A message will appear when it is finished.
 
-![](https://lh4.googleusercontent.com/LX3nhpXQSUvBK_VIKwf6gbkOSgSVO30_hi-sNLU6AtxH8scDFpUAcjUa8AuH1OYrQWuOJrMp-f1hViDKNG3wABlOMJHKGV5qzq6jFWkcuVPxLErk3FsBcO-uV-gA6H61wZ-w8oNZ5OQxcM7Bkw)
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.03-download-jdk-done.png)
+
 
 An optional step: The *Apply recommended py5 settings* makes a few configuration tweaks to your IDE, including enabling the blue Kianite theme! 
 
-![](https://lh5.googleusercontent.com/TqdRTzve0Z18jnT-LrdIsK0SHdaynaL1SmDc5c3wx58jeMWk5neiCmvIP3vkHMMew5FCZ0nqBTY3HFdW9T6TFlAhE_TQYsASlIx9yYLGNNr9tbhcQwTrVN4QtmvyEvmzv5jAQ7zsNVrc2Egc4A)
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/05-apply-recommended-settings.png)
+
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
+
 
 ## 4. Run a small example, learn the difference between *imported mode* and *module mode*, that's it!
 
@@ -87,7 +91,7 @@ def draw():
 
 If you have trouble geting your program to execute, try stopping any other execution that is still running.
 
-![](https://lh6.googleusercontent.com/8V821bvVbtGfoqNZq4UNGWtdKS0F1BcXHFwrghG-6FmRWA2XA3N3h5mO6ltWI1J_SCklXJ2Nj1l5142njaf3DVA-U3ICt2zvRcSVy9w1ESm7F_spgfA6yjCLm6bkiosLzN92eo9sT3-fmRcc3Q)
+![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)
 
 ### What is *imported mode*?
 
