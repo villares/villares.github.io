@@ -97,17 +97,17 @@ If you have trouble geting your program to execute, try stopping any other execu
 
 ### 5. (Extra) Learn about the difference between *imported mode* and *module mode*
 
-#### What is *imported mode*?
+#### What is the *imported mode* feature provided by the *thonny-py5mode* plug-in?
 
-When the *py5 > Imported mode for py5* option is on, you can write your sketches in a simplified maner, called [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode), and Thonny will run your code using the *py5 sketch runner*, a special tool that can also be called from the command line if you are not using Thonny.
+The *thonny-py5mode* creates a *py5* menu in the Thonny interface. Inside the *py5* menu, when the *Imported mode for py5* option is on, you can write your sketches in a simplified maner, called [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode), and Thonny will run your code using the *py5 sketch runner*, a special tool that can also be called from the command line if you are not using Thonny.
 
-**Important note:** The *imported mode* is not appropriate for executing Python code that doesn't make use of the py5 library!
+**Important note:** The *imported mode* option is not appropriate for executing Python code that doesn't make use of the py5 library!
 
 In *imported mode* the vocabulary of *py5*, that is, the names of functions, constants and system variables (such as the mouse position), are available without the `py5.` prefix, and your program will be automatically executed by a `run_sketch` function from *py5*.
 
 With *imported mode* on, you can also run [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode) sketches, that is, programs without animation or interactivity because they do not have a `draw()` function defined.
 
-#### What is *module mode*?
+#### What is *module mode* and how can I use it?
 
 When you disable the *imported mode for py5* menu option, you return Thonny to the normal behavior for executing any Python code.
 
