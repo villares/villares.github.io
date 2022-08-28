@@ -2,7 +2,7 @@
 
 [[versão em português](index.md)]
 
-# How to install py5
+# How to install and start using py5
 
 - TL:DR; To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).
 
@@ -17,18 +17,21 @@ Processing is originally based on the Java programming language, but today there
 To use *py5* you will need:
 
 - A **Python 3** interpreter (version 3.8 or later);
+- The **py5 library package** and its dependencies (other libraries it needs to work, such as JPype);
+- A **Java** (**JDK-17**), which *py5* needs for the Processing drawing infrastructure (JPype might look at the JAVA-HOME environment variable to find it);
+- Optionally, an **IDE** (Integrated Development Environment), a code-appropriate text editor that helps you write and run programs. Some people prefer to use *py5* on *Jupyter Notebooks* instead.
 
-- Install the **py5 library package** and its dependencies (other libraries it needs to work, such as JPype);
+To get all these things, I suggest the following steps:
 
-- A **Java** (**JDK-17**), which *py5* needs for the drawing infrastructure, and JPype needs to know where it is, looking at the JAVA-HOME environment variable;
+1. Download and install a version of the **Thonny IDE** with Python 3.8 or greater;
+2. Inside *Thonny*, install the **thonny-py5mode** plug-in (extension); 
+3. Let the *thonny-py5mode* plug-in download and configure the **JDK-17** for you;
+4. Check if everything is working, **run a small example!**
+5. (Extra) Learn about the difference betweeen **imported mode** and **module mode**. 
 
-- Optionally, an **IDE** (Integrated Development Environment), simply put, a code-appropriate text editor that lets you run the programs you write. Some people like to use *py5* on *Jupyter Notebooks*.
+>  Another way to get everything you need, if these steps fail for any reason, is to follow the instructions at the [py5 documentation](https://py5.ixora.io/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK-17*).
 
-The suggestion here is to start by installing a specific version of the **Thonny IDE** (which comes with Python 3.8 or greater) and then an extension (plug-in), **thonny-py5mode** that will install and configure the JDK for you!
-
->  Another way to get everything you need, if these steps bellow fail, is to follow the instructions at the [py5 documentation](https://py5.ixora.io/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK-17*).
-
-## 1. Download and install the Thonny IDE
+### 1. Download and install the Thonny IDE
 
 You'll need version 3.3.7-alt (because of the version of Python it comes with).
 
@@ -40,7 +43,7 @@ You'll need version 3.3.7-alt (because of the version of Python it comes with).
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
-## 2. Install the *thonny-py5mode* plug-in
+### 2. Install the *thonny-py5mode* plug-in
 
 Open, select *Tools > Manage plug-ins...* from the menu…
 
@@ -52,7 +55,7 @@ Search for **thonny-py5mode** and click on the install button.
 
 You need to __restart Thonny after this step!!!__
 
-## 3. Allow the plug-in to download the JDK
+### 3. Allow the *thonny-py5mode* plug-in to download the JDK-17
 
 Once restarted, a new *py5* menu should appear in Thonny's interface, click on the *py5 > Imported mode for py5* menu option and then click OK in the dialog window that appears.
 
@@ -60,7 +63,7 @@ Once restarted, a new *py5* menu should appear in Thonny's interface, click on t
 
 When you first select this, the plug-in will download, extract and configure the JDK for you (in Thonny's user-config directory). This process can be quite lengthy depending on your connection, but it only happens the first time you select the menu option.
 
-**Thonny's window will appear frozen** as it downloads and configures the JDK, don't despair!**
+**Thonny's window may appear frozen** as it downloads and configures the JDK, don't despair!**
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.02-download-jdk.png)
 
@@ -68,15 +71,14 @@ A message will appear when it is finished.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.03-download-jdk-done.png)
 
-
-An optional step: The *Apply recommended py5 settings* makes a few configuration tweaks to your IDE, including enabling the blue Kianite theme! 
+You can *apply recommended py5 settings* to make a few configuration tweaks to your IDE, including enabling the blue Kianite theme! 
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/05-apply-recommended-settings.png)
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
 
 
-## 4. Run a small example, learn the difference between *imported mode* and *module mode*, that's it!
+### 4. Run a small example, to check everything is working!
 
 With the *py5 > imported mode for py5* option on, you can run the following code using the green arrow button or CTRL+R (COMMAND+R on a Mac). Creative coders usually call their programs sketches.
 
@@ -93,7 +95,9 @@ If you have trouble geting your program to execute, try stopping any other execu
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)
 
-### What is *imported mode*?
+### 5. (Extra) Learn about the difference between *imported mode* and *module mode*
+
+#### What is *imported mode*?
 
 When the *py5 > Imported mode for py5* option is on, you can write your sketches in a simplified maner, called [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode), and Thonny will run your code using the *py5 sketch runner*, a special tool that can also be called from the command line if you are not using Thonny.
 
@@ -103,7 +107,7 @@ In *imported mode* the vocabulary of *py5*, that is, the names of functions, con
 
 With *imported mode* on, you can also run [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode) sketches, that is, programs without animation or interactivity because they do not have a `draw()` function defined.
 
-### What is *module mode*?
+#### What is *module mode*?
 
 When you disable the *imported mode for py5* menu option, you return Thonny to the normal behavior for executing any Python code.
 
@@ -124,7 +128,7 @@ py5.run_sketch()
 
 Note that you will need to use `import py5` at the beginning of your code, and `py5.run_sketch()` at the end, as well as the `py5.` prefix for all functions, constants and variables offered by the *py5* library.
 
-## Useful references for using py5
+### Useful references for using py5
 
 - [tabreturn's py5 quick reference](https://github.com/tabreturn/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf)
 
@@ -143,5 +147,3 @@ Very special thanks to [Jim](https://twitter.com/py5coding), creator of py5, the
 ---
 
 Alexandre BA Villares ([abav.lugaralgum.com](https://abav.lugaralgum.com/)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-**
