@@ -25,11 +25,17 @@ Para usar py5 você vai precisar:
 
 - Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que permite executar os programas escritos por você.
 
-A sugestão aqui é começar por instalar uma versão específica do **IDE Thonny** (que vem com um Python 3.8/3.9) e em seguida uma extensão (plug-in), **thonny-py5mode** que instala e configura o JDK para você!
+A sugestão aqui é seguir os seguintes passos: 
+
+1. Baixar e instalar o **Thonny IDE** que vem com um Python 3.8 ou mais recente;
+2. Dentro do *Thonny* instalar a extensão (plug-in), **thonny-py5mode**;
+3. Deixar o plug-in *thonny-py5mode* instalar e configurar o **JDK-17** para você;
+4. Conferir se tudo está funciando **executando um pequeno exemplo!**
+5. (Exta) Aprenda sobre a diferencça entre o **imported mode** e o **module mode**.
 
 > Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
 
-## 1. Baixe e instale o Thonny IDE, versão 3.3.7-alt
+## 1. Baixe e instale o Thonny IDE
 
 - Para Windows: [thonny-3.3.7-alt.exe](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.exe) 
 
@@ -47,13 +53,13 @@ Procure o plug-in __thonny-py5mode__ e peça para instalar.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
 Você precisa __reiniciar o Thonny depois desta etapa!!!__ 
 
-## 3. Permita que o plug-in baixe o JDK
+## 3. Permita que o plug-in baixe o JDK-17
 
 Uma vez reiniciado deve aparecer um novo menu *py5* na interface do Thonny, acione a opção  *py5 > Imported mode for py5* e depois clique em OK na janela de diálogo.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
 Quando acionada pela primeira vez esta opção, o plug-in vai baixar, extrair e configurar o JDK para você (no diretório user-config do Thonny). Esse processo pode ser um tanto demorado, dependendo da sua conexão, mas só acontece da primeira vez que você aciona o menu.
 
-**A janela do Thonny vai parecer congelada** enquanto ele baixa e configura, não se desespere!
+**A janela do Thonny pode parecer congelada** enquanto ele baixa e configura, não se desespere!
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.02-download-jdk.png)
 Aparece este aviso quando terminou.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.03-download-jdk-done.png)
@@ -63,7 +69,7 @@ Um ajuste opcional: O comando *Apply recommended py5 settings* faz alguns ajuste
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
 
-## 4. Execute um pequeno exemplo, aprenda a diferença entre o *imported mode* e o *module mode*, e pronto!
+## 4. Execute um pequeno exemplo! 
 
 Com a opção *imported mode* acionada no menu *py5*, é possível executar o código a seguir usando o botão com a seta verde ou CTRL+R (ou COMMAND+R no Mac) .
 
@@ -80,9 +86,11 @@ Se tiver problemas para executar, lembre-se de parar com o botão *stop* vermelh
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)
 
-### O que é o *imported mode*?
+## 5. Veja a diferença entre o *imported mode* e o *module mode*
 
-Quando a opção do menu *py5 > Imported mode for py5* está ligada, você pode escrever os seus sketches de uma maneira simplificada, chamada [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode), e o Thonny vai executar o seu código usando o *py5 sketch runner* (executor de sketches), uma ferramenta especial que pode também ser acionada a partir da linha de comando, caso você não esteja usando o Thonny.
+### O que é o a função *imported mode* fornecida pelo plug-in *thonny-py5mode*?
+
+Quando a opção do menu *py5 > Imported mode for py5* está ligada, você pode escrever os seus programas (que também chamamos de *sketches*) de uma maneira simplificada, é o [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode). Neste "modo" o Thonny vai executar o seu código usando o *py5 sketch runner* (executor de sketches), uma ferramenta especial que pode também ser acionada a partir da linha de comando, caso você não esteja usando o Thonny.
 
 **Atenção:** O *imported mode* não é apropriado para executar código Python que não faça uso da biblioteca *py5*.
 
@@ -90,7 +98,7 @@ Neste "modo importado" o vocabulário da biblioteca *py5*, isto é, os nomes das
 
 Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade pois não tem uma função `draw()` declarada.
 
-### O que é o *module mode*?
+### O que é o *module mode* e como podemos usá-lo?
 
 Quando você desativa a opção *imported mode* no menu *py5*, você devolve o Thonny ao comportamento normal para executar qualquer código Python.
 
