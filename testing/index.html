@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 
 <!-- pyp5js index.html boilerplate -->
@@ -41,6 +42,60 @@ class="btn btn-primary bg-green rounded py1 px2 mb1">Run</button>
         <div class="text-editor-box">
           <div hidden id="text-editor" class="text-editor"></div>
   </div>
+
+
+
+  <script type="text/javascript">
+
+    // -- button modification
+    // here I make the html button a javascript variable
+    var button = document.getElementById("executeBtn");
+    // here I change the style of the button so it's not visible
+    button.style.display = "none";
+
+    // --- running the processing code 
+    // this is an event catcher listening for the message of when the page's libraries are loaded 
+    window.addEventListener('DOMContentLoaded', function () {
+
+
+        // this is a time-delay for trying to run the processing code 
+        window.setTimeout( ()=>{
+
+          // just a message to know when the delay has ended and the code below starts being executed
+          console.log("--- timeout! ");
+
+          // here is a try/catch statement, 
+          // that tries running the processing code
+          // and if it fails (try{}) then it makes the RUN button appear
+          try {
+
+            // run processing script 
+
+            // this gets a user code from the processing code
+            const userCode = editor.getSession().getValue();
+
+            // (tries to) run the processing code … 
+            window.runSketchCode(userCode);
+          }
+          // in the event that one can't start the processing code with the above, 
+          // the code below is executed, which makes the RUN button appear
+          catch(e){
+
+            // print error message in console 
+            console.log( "well, that didn't work- error :"+e );
+
+            // make the run button visible 
+            button.style.display = "inline";
+          }
+
+          // te 5000 here is the time delay, in milliseconds 
+        }, 5000 );
+    });
+
+
+  </script>
+
+
 </body>
 <script src="afterBody.js"></script>
 
