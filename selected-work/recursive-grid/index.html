@@ -11,7 +11,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/p5@1.0.0/lib/p5.js"></script>
 
-    <script src="https://pyodide-cdn2.iodide.io/v0.15.0/full/pyodide.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.18.1/full/pyodide.js"></script>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=" crossorigin="anonymous"></script>
 
     <style>
@@ -1667,14 +1667,25 @@ def add_library(lib_name):
 `
 
 
-    languagePluginLoader.then(() => {
-        pyodide.runPython(`
-          import io, code, sys
-          from js import pyodide, p5, window, document
-          print(sys.version)
-        `)
-        runCode() 
-    });
+   async function main() {
+            const config = {
+                indexURL : "https://cdn.jsdelivr.net/pyodide/v0.18.1/full/",
+                fullStdLib: false,
+            }
+            window.pyodide = await loadPyodide(config);
+            // Pyodide is now ready to use...
+            console.log(window.pyodide.runPython(`
+                import io, code, sys
+                from js import p5, window, document
+                print(sys.version)
+          `));
+           window.runSketchCode = (code) => {
+              userCode = code;
+              runCode();
+            }
+
+            runCode();
+        };
 
     function runCode() {
         let userCode = $("#id_py_code").html();
@@ -1687,6 +1698,8 @@ def add_library(lib_name):
         console.log("Output da execução:");
         pyodide.runPython(code);
     }
+    // async method
+    main();
 
 
     // var editor = ace.edit("text-editor");
