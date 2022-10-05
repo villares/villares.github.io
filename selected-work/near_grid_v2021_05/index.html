@@ -1819,15 +1819,25 @@ def start_p5(setup_func, draw_func, event_functions):
     window.instance = p5.new(sketch_setup, 'sketch-holder')
 `;
 
+   async function main() {
+            const config = {
+                indexURL : "https://cdn.jsdelivr.net/pyodide/v0.18.1/full/",
+                fullStdLib: false,
+            }
+            window.pyodide = await loadPyodide(config);
+            // Pyodide is now ready to use...
+            console.log(window.pyodide.runPython(`
+                import io, code, sys
+                from js import p5, window, document
+                print(sys.version)
+          `));
+           window.runSketchCode = (code) => {
+              userCode = code;
+              runCode();
+            }
 
-    languagePluginLoader.then(() => {
-        pyodide.runPython(`
-          import io, code, sys
-          from js import pyodide, p5, window, document
-          print(sys.version)
-        `)
-        runCode() 
-    });
+            runCode();
+        };
 
     function runCode() {
         let userCode = $("#id_py_code").html();
@@ -1840,23 +1850,10 @@ def start_p5(setup_func, draw_func, event_functions):
         console.log("Output da execução:");
         pyodide.runPython(code);
     }
+    // async method
+    main();
 
 
-    // var editor = ace.edit("text-editor");
-
-    // editor.setTheme("ace/theme/monokai");
-    // editor.session.setMode("ace/mode/python");
-    // editor.setFontSize(18);
-    // editor.session.setOptions({
-    //   tabSize: 4,
-    // });
-
-    // editor.session.on('change', function(){
-    //   document.getElementById("id_py_code").innerHTML = editor.getSession().getValue();
-    // });
-
-    // $("#executeBtn").on("click", () => {runCode()});
-    // $("#clearBtn").on("click", () => {$("#sketch-holder").html("")});
   </script>
 
 
