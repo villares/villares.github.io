@@ -29,7 +29,7 @@ To get all these things, I suggest the following steps:
 4. Check if everything is working, **run a small example!**
 5. (Extra) Learn about the difference betweeen **imported mode** and **module mode**. 
 
->  Another way to get everything you need, if these steps fail for any reason, is to follow the instructions at the [py5 documentation](https://py5.ixora.io/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK-17*).
+>  Another way to get everything you need, if these steps fail for any reason, is to follow the instructions at the [py5 documentation](https://py5coding.org/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK-17*).
 
 ### 1. Download and install the Thonny IDE
 
@@ -99,19 +99,19 @@ If you have trouble geting your program to execute, try stopping any other execu
 
 #### What is the *imported mode* feature provided by the *thonny-py5mode* plug-in?
 
-The *thonny-py5mode* creates a *py5* menu in the Thonny interface. Inside the *py5* menu, when the *Imported mode for py5* option is on, you can write your sketches in a simplified maner, called [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode), and Thonny will run your code using the *py5 sketch runner*, a special tool that can also be called from the command line if you are not using Thonny.
+The *thonny-py5mode* creates a *py5* menu in the Thonny interface. Inside the *py5* menu, when the *Imported mode for py5* option is on, you can write your sketches in a simplified maner, called [imported mode](https://py5coding.org/content/py5_modes.html#imported-mode), and Thonny will run your code using the *py5 sketch runner*, a special tool that can also be called from the command line if you are not using Thonny.
 
 **Important note:** The *imported mode* option is not appropriate for executing Python code that doesn't make use of the py5 library!
 
 In *imported mode* the vocabulary of *py5*, that is, the names of functions, constants and system variables (such as the mouse position), are available without the `py5.` prefix, and your program will be automatically executed by a `run_sketch` function from *py5*.
 
-With *imported mode* on, you can also run [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode) sketches, that is, programs without animation or interactivity because they do not have a `draw()` function defined.
+With *imported mode* on, you can also run [static mode](https://py5coding.org/content/py5_modes.html#static-mode) sketches, that is, programs without animation or interactivity because they do not have a `draw()` function defined.
 
 #### What is *module mode* and how can I use it?
 
 When you disable the *imported mode for py5* menu option, you return Thonny to the normal behavior for executing any Python code.
 
-In this case, you can use *py5* in [module mode](https://py5.ixora.io/content/py5_modes.html#module-mode), which is how most Python libraries are handled, i.e. importing the library at the beginning of the program with `import`, and calling its functions with the library name as a prefix.
+In this case, you can use *py5* in [module mode](https://py5coding.org/content/py5_modes.html#module-mode), which is how most Python libraries are handled, i.e. importing the library at the beginning of the program with `import`, and calling its functions with the library name as a prefix.
 
 ```python
 import py5
@@ -134,7 +134,7 @@ Note that you will need to use `import py5` at the beginning of your code, and `
 
 - [py5 forum](https://github.com/py5coding/py5generator/discussions)
 
-- [official py5 documentation py5](http://py5.ixora.io/)
+- [official py5 documentation py5](http://py5coding.org/)
 
 - [examples in Jupyter Notebooks](https://github.com/py5coding/py5examples)
 
