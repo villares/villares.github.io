@@ -33,7 +33,7 @@ A sugestão aqui é seguir os seguintes passos:
 4. Conferir se tudo está funciando **executando um pequeno exemplo!**
 5. (Exta) Aprenda sobre a diferencça entre o **imported mode** e o **module mode**.
 
-> Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5.ixora.io/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
+> Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
 
 ## 1. Baixe e instale o Thonny IDE
 
@@ -90,19 +90,19 @@ Se tiver problemas para executar, lembre-se de parar com o botão *stop* vermelh
 
 ### O que é o a função *imported mode* fornecida pelo plug-in *thonny-py5mode*?
 
-Quando a opção do menu *py5 > Imported mode for py5* está ligada, você pode escrever os seus programas (que também chamamos de *sketches*) de uma maneira simplificada, é o [imported mode](https://py5.ixora.io/content/py5_modes.html#imported-mode). Neste "modo" o Thonny vai executar o seu código usando o *py5 sketch runner* (executor de sketches), uma ferramenta especial que pode também ser acionada a partir da linha de comando, caso você não esteja usando o Thonny.
+Quando a opção do menu *py5 > Imported mode for py5* está ligada, você pode escrever os seus programas (que também chamamos de *sketches*) de uma maneira simplificada, é o [imported mode](https://py5coding.org/content/py5_modes.html#imported-mode). Neste "modo" o Thonny vai executar o seu código usando o *py5 sketch runner* (executor de sketches), uma ferramenta especial que pode também ser acionada a partir da linha de comando, caso você não esteja usando o Thonny.
 
 **Atenção:** O *imported mode* não é apropriado para executar código Python que não faça uso da biblioteca *py5*.
 
 Neste "modo importado" o vocabulário da biblioteca *py5*, isto é, os nomes das funções, constantes e variáveis de sistema (como a posição do mouse), fica disponível sem o prefixo `py5.`, e o seu programa vai ser automativamente executado por uma função "run_sketch" da biblioteca *py5*. 
 
-Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5.ixora.io/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade pois não tem uma função `draw()` declarada.
+Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5coding.org/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade pois não tem uma função `draw()` declarada.
 
 ### O que é o *module mode* e como podemos usá-lo?
 
 Quando você desativa a opção *imported mode* no menu *py5*, você devolve o Thonny ao comportamento normal para executar qualquer código Python.
 
-Neste caso, você pode usar a biblioteca *py5* no [module mode](https://py5.ixora.io/content/py5_modes.html#module-mode) que é como se lida com a maior parte das bibliotecas Python, isto é, importando a bibloteca no começo com a instrução `import`, e chamando suas funções com o nome da biblioteca como prefixo.
+Neste caso, você pode usar a biblioteca *py5* no [module mode](https://py5coding.org/content/py5_modes.html#module-mode) que é como se lida com a maior parte das bibliotecas Python, isto é, importando a bibloteca no começo com a instrução `import`, e chamando suas funções com o nome da biblioteca como prefixo.
 
 ```python
 import py5
@@ -123,7 +123,7 @@ Note que você vai precisar usar a linha `import py5` no começo do seu código,
 
 * [referência rápida do py5 (colinha)](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf)
 * [fórum do py5](https://github.com/py5coding/py5generator/discussions)
-* [documentação oficial do py5](http://py5.ixora.io/)
+* [documentação oficial do py5](http://py5coding.org/)
 * [exemplos de py5 em Jupyter Notebooks](https://github.com/py5coding/py5examples)
 * [Fórum da Fundação Processing](https://discourse.processing.org/)
 
