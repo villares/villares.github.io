@@ -11,7 +11,7 @@
 [**py5**](https://github.com/py5coding) é uma 
 <ins title="bibliotecas são pacotes de funções complementares prontas, ou desenvolvidas por outras pessoas, para auxiliar o desenvolvimento de novos programas." style="text-decoration:underline; text-decoration-style: dotted;">biblioteca</ins> que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
 
-[**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. Permite permite gerar softwares interativos com os mais diversos propósitos e interfaces visuais, assim como exportar imagens bitmap (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade desfruta de um rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
+[**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. Com ela é possível escrever softwares interativos com os mais diversos propósitos e interfaces visuais, assim como exportar imagens bitmap (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade desfruta de um rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
 
 Processing é baseada originalmente na linguagem de programação Java, mas hoje existem diversos projetos que desenvolvem as ideias do Processing com outras linguagens, como é o caso do p5js com Javascript, e o py5 com Python 3. 
 
@@ -23,7 +23,7 @@ Para usar py5 você vai precisar:
 
 - Um **Java (JDK-17)**, que o py5 precisa para a infraestrutura de desenho, e o seu JPype precisa saber onde ele está, por meio da variável JAVA-HOME;
 
-- Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que permite executar os programas escritos por você.
+- Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que facilita tamb executar os programas escritos por você.
 
 A sugestão aqui é seguir os seguintes passos: 
 
