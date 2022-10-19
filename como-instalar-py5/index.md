@@ -4,7 +4,10 @@
 
 # Como instalar e começar a usar a biblioteca py5
 
-- TL:DR; Para desenhar e experimentar programação criativa com Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide-vers%C3%A3o-337-alt)
+### TL:DR;
+
+- Para desenhar e experimentar programação criativa com Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide-vers%C3%A3o-337-alt)
+- Se você está no Windos, [baixe e deszipe este arquivo](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0) e pule para o passo 5!
 
 ## O que é isso?
 
@@ -21,7 +24,7 @@ Para usar py5 você vai precisar:
 
 - Instalar a biblioteca **py5** e suas dependências (outras bibliotecas das quais ela precisa para funcionar, como o JPype);
 
-- Um **Java (JDK-17)**, que o py5 precisa para a infraestrutura de desenho, e o seu JPype precisa saber onde ele está, por meio da variável JAVA-HOME;
+- Um **Java (JDK)**, que o py5 precisa para a infraestrutura de desenho, e o seu JPype precisa saber onde ele está, por meio da variável JAVA-HOME;
 
 - Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que facilita tamb executar os programas escritos por você.
 
@@ -29,7 +32,7 @@ A sugestão aqui é seguir os seguintes passos:
 
 1. Baixar e instalar o **Thonny IDE** que vem com um Python 3.8 ou mais recente;
 2. Dentro do *Thonny* instalar a extensão (plug-in), **thonny-py5mode**;
-3. Deixar o plug-in *thonny-py5mode* instalar e configurar o **JDK-17** para você;
+3. Deixar o plug-in *thonny-py5mode* instalar e configurar o **JDK** para você;
 4. Conferir se tudo está funciando **executando um pequeno exemplo!**
 5. (Exta) Aprenda sobre a diferencça entre o **imported mode** e o **module mode**.
 
@@ -37,7 +40,10 @@ A sugestão aqui é seguir os seguintes passos:
 
 ## 1. Baixe e instale o Thonny IDE
 
-- Para Windows: [thonny-3.3.7-alt.exe](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.exe) 
+- Para Windows:
+    - Experimente [baixa e deszipar este arquivo](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-
+    - ou [thonny-3.3.7-alt.exe](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.exe) 
+4-with-py5-windows-portable.zip?dl=0) e pode pular para o passo 5!
 
 - Para MacOS: [thonny-3.3.7-alt.pkg](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.pkg) 
 
@@ -53,7 +59,7 @@ Procure o plug-in __thonny-py5mode__ e peça para instalar.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
 Você precisa __reiniciar o Thonny depois desta etapa!!!__ 
 
-## 3. Permita que o plug-in baixe o JDK-17
+## 3. Permita que o plug-in baixe o JDK
 
 Uma vez reiniciado deve aparecer um novo menu *py5* na interface do Thonny, acione a opção  *py5 > Imported mode for py5* e depois clique em OK na janela de diálogo.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
