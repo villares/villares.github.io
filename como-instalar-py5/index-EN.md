@@ -18,24 +18,25 @@ To use *py5* you will need:
 
 - A **Python 3** interpreter (version 3.8 or later);
 - The **py5 library package** and its dependencies (other libraries it needs to work, such as JPype);
-- A **Java** (**JDK-17**), which *py5* needs for the Processing drawing infrastructure (JPype might look at the JAVA-HOME environment variable to find it);
+- A **Java** (**JDK**), which *py5* needs for the Processing drawing infrastructure (JPype might look at the JAVA-HOME environment variable to find it);
 - Optionally, an **IDE** (Integrated Development Environment), a code-appropriate text editor that helps you write and run programs. Some people prefer to use *py5* on *Jupyter Notebooks* instead.
 
 To get all these things, I suggest the following steps:
 
 1. Download and install a version of the **Thonny IDE** with Python 3.8 or greater;
 2. Inside *Thonny*, install the **thonny-py5mode** plug-in (extension); 
-3. Let the *thonny-py5mode* plug-in download and configure the **JDK-17** for you;
+3. Let the *thonny-py5mode* plug-in download and configure the **JDK** for you;
 4. Check if everything is working, **run a small example!**
 5. (Extra) Learn about the difference betweeen **imported mode** and **module mode**. 
 
->  Another way to get everything you need, if these steps fail for any reason, is to follow the instructions at the [py5 documentation](https://py5coding.org/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK-17*).
+>  Another way to get everything you need, if these steps fail for any reason, is to follow the instructions at the [py5 documentation](https://py5coding.org/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK*).
 
 ### 1. Download and install the Thonny IDE
 
-You'll need version 3.3.7-alt (because of the version of Python it comes with).
 
-- For Windows: [thonny-3.3.7-alt.exe](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.exe)
+- For Windows: 
+        -**Try to [download and unzip this portanble](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0), and skip to step 5!**
+        - or [thonny-3.3.7-alt.exe](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.exe)
 
 - For MacOS: [thonny-3.3.7-alt.pkg](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.pkg)
 
@@ -55,7 +56,7 @@ Search for **thonny-py5mode** and click on the install button.
 
 You need to __restart Thonny after this step!!!__
 
-### 3. Allow the *thonny-py5mode* plug-in to download the JDK-17
+### 3. Allow the *thonny-py5mode* plug-in to download the JDKF
 
 Once restarted, a new *py5* menu should appear in Thonny's interface, click on the *py5 > Imported mode for py5* menu option and then click OK in the dialog window that appears.
 
