@@ -4,7 +4,8 @@
  | [**contact**](http://contato.lugaralgum.com)
  | [github.com/villares](http://github.com/villares)
  | [twitter.com/villares](http://twitter.com/villares)
-
+ | [mastodon.social/@villares](https://mastodon.social/@villares)
+ 
 ----
 
 Educator, visual artist and new media consultant. Researches computational art procedures, generative design, creative coding and how to teach computer programming in a visual context. Architect (FAU-USP, 2000) with a master's degree from FEC-Unicamp (2019). Co-organizer of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) and Processing Community Day in São Paulo.
