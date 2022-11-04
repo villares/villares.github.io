@@ -4,6 +4,7 @@
  | [**contato**](http://contato.lugaralgum.com)
  | [github.com/villares](http://github.com/villares)
  | [twitter.com/villares](http://twitter.com/villares)
+ | <a rel="me" href="https://mastodon.social/@villares">mastodon.social/@villares</a>
 
 ----
 
