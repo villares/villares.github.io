@@ -7,7 +7,7 @@
 ### TL:DR;
 
 - Para desenhar e experimentar programação criativa com Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide-vers%C3%A3o-337-alt)
-- Se você está no Windows, [baixe e deszipe este arquivo](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0) e pule para o passo 5!
+- Se você está no Windows, [baixe e deszipe este arquivo](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0) e pule para o passo 4 (extra)!
 
 ## O que é isso?
 
@@ -33,8 +33,8 @@ A sugestão aqui é seguir os seguintes passos:
 1. Baixar e instalar o **Thonny IDE** que vem com um Python 3.8 ou mais recente;
 2. Dentro do *Thonny* instalar a extensão (plug-in), **thonny-py5mode**;
 3. Deixar o plug-in *thonny-py5mode* instalar e configurar o **JDK** para você;
-4. Conferir se tudo está funciando **executando um pequeno exemplo!**
-5. (Exta) Aprenda sobre a diferencça entre o **imported mode** e o **module mode**.
+4. Confira se tudo está funciando **execute um pequeno exemplo!**
+5. (Extra) Aprenda sobre a diferença entre o **imported mode** e o **module mode**.
 
 > Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
 
