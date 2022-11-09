@@ -7,7 +7,7 @@
 ### TL:DR;
 
 - To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).
-- If you are on Windows, try to [download and unzip this portanble](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0), and skip to step 5!
+- If you are on Windows, try to [download and unzip this portanble](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0), and skip to step 4!
 
 ## What's this?
 
@@ -39,7 +39,7 @@ To get all these things, I suggest the following steps:
 
 - For Windows: 
 
-    - **Try to [download and unzip this portanble](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0), and skip to step 5!**
+    - **Try to [download and unzip this portanble](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0), and skip to step 4!**
     - or [thonny-3.3.7-alt.exe](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.exe)
 
 - For MacOS: [thonny-3.3.7-alt.pkg](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.pkg)
