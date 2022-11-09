@@ -41,7 +41,7 @@ A sugestão aqui é seguir os seguintes passos:
 ## 1. Baixe e instale o Thonny IDE
 
 - Para Windows:
-    - Experimente [baixar e deszipar este arquivo](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0) e pode pular para o passo 5!
+    - Experimente [baixar e deszipar este arquivo](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0) e pode pular para o passo 4!
     - ou use [thonny-3.3.7-alt.exe](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.exe) e continue no passo 2.
 
 - Para MacOS: [thonny-3.3.7-alt.pkg](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.pkg) 
@@ -91,17 +91,17 @@ Se tiver problemas para executar, lembre-se de parar com o botão *stop* vermelh
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)
 
-## 5. Veja a diferença entre o *imported mode* e o *module mode*
+## 5. Aprenda sobre a diferença entre o *imported mode* e o *module mode*
 
 ### O que é o a função *imported mode* fornecida pelo plug-in *thonny-py5mode*?
 
-Quando a opção do menu *py5 > Imported mode for py5* está ligada, você pode escrever os seus programas (que também chamamos de *sketches*) de uma maneira simplificada, é o [imported mode](https://py5coding.org/content/py5_modes.html#imported-mode). Neste "modo" o Thonny vai executar o seu código usando o *py5 sketch runner* (executor de sketches), uma ferramenta especial que pode também ser acionada a partir da linha de comando, caso você não esteja usando o Thonny.
+Quando a opção do menu *py5 > Imported mode for py5* está ligada, você pode escrever os seus programas (que também são chamados de *sketches*) de uma maneira simplificada, é o [imported mode](https://py5coding.org/content/py5_modes.html#imported-mode). Neste "modo" o Thonny vai executar o seu código usando o *py5 sketch runner* (executor de sketches), uma ferramenta especial que pode também ser acionada a partir da linha de comando, caso você não esteja usando o Thonny.
 
 **Atenção:** O *imported mode* não é apropriado para executar código Python que não faça uso da biblioteca *py5*.
 
 Neste "modo importado" o vocabulário da biblioteca *py5*, isto é, os nomes das funções, constantes e variáveis de sistema (como a posição do mouse), fica disponível sem o prefixo `py5.`, e o seu programa vai ser automativamente executado por uma função "run_sketch" da biblioteca *py5*. 
 
-Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5coding.org/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade pois não tem uma função `draw()` declarada.
+Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5coding.org/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade pois não tem uma função `draw()` declarada. Mas estes precisam ter `size()` logo no começo.
 
 ### O que é o *module mode* e como podemos usá-lo?
 
