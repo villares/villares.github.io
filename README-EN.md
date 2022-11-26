@@ -1,7 +1,7 @@
 ----
 
  [Versão em português](README.md)
- | [**contact**](http://contato.lugaralgum.com)
+ | [**contact**](http://abav.lugaralgum.com/contato)
  | [github.com/villares](http://github.com/villares)
  | [twitter.com/villares](http://twitter.com/villares)
  | [mastodon.social/@villares](https://mastodon.social/@villares)
