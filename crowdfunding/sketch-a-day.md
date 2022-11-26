@@ -17,6 +17,6 @@ As of this writing I'd like to thank:
 I'll update this when we get to 10!
 
 ---
-*special thanks because the set recurring contributions!!!
+* special thanks because they set recurring contributions!!!
 
 
