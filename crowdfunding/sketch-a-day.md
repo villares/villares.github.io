@@ -22,6 +22,7 @@ As of this writing I'd like to thank:
 - Shumiski*
 - Stu Axon*
 - Erica Ide
+- Edu Bonini
 
 ---
 \* Special thanks to them, because they set recurring contributions!!!
