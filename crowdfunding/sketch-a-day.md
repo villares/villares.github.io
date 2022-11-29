@@ -20,9 +20,10 @@ As of this writing I'd like to thank:
 <br><sub>Até agora, gostaria de agradecer:</sub>
 
 - Shumiski*
-- Stu Axon*
+- Stu Axon
 - Erica Ide
 - Edu Bonini
+- Monica Rizzolli*
 
 ---
 \* Special thanks to them, because they set recurring contributions!!!
