@@ -3,8 +3,8 @@
  [English version](http://villares.github.io/README-EN)
  | [**contato**](http://abav.lugaralgum.com/contato)
  | [github.com/villares](http://github.com/villares)
- | [twitter.com/villares](http://twitter.com/villares)
- | <a rel="me" href="https://mastodon.social/@villares">mastodon.social/@villares</a>
+ | Mastodon <a rel="me" href="https://ciberlandia.pt/@villares">ciberlandia.pt/@villares</a>
+ | Twiiter [@villares](http://twitter.com/villares)
 
 ----
 
