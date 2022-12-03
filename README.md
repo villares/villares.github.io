@@ -4,7 +4,7 @@
  | [**contato**](http://abav.lugaralgum.com/contato)
  | [github.com/villares](http://github.com/villares)
  | Mastodon <a rel="me" href="https://ciberlandia.pt/@villares">ciberlandia.pt/@villares</a>
- | Twiiter [@villares](http://twitter.com/villares)
+ | Twitter [@villares](http://twitter.com/villares)
 
 ----
 
