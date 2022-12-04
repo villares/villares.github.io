@@ -14,13 +14,13 @@ Educator, visual artist and new media consultant. Researches computational art p
 
 ### current research, educational resources and publications
 
-- [**material-aulas**](https://abav.lugaralgum.com/material-aulas) My introductory programming teaching support resources in Portuguese (Python + py5)
+- [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) One visual idea a day, using code
 
-- [**selected work**](selected-work/index-EN.md)
+- [**selected work**](selected-work/index-EN.md) A selection of art works published or exhibited.
+
+- [**material-aulas**](https://abav.lugaralgum.com/material-aulas) Introductory programming support resources in Portuguese (Python + py5)
 
 - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Updates on my computational art / creative coding and education work
-
-- [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) One visual idea a day, using code
 
 ### 2021 - 2022
 
