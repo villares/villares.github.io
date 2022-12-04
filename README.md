@@ -34,8 +34,8 @@ com Python em um contexto visual.
 - [**Escolas no Brasil**](https://revista.internetlab.org.br/escolas-no-brasil/), obra publicada na revista *Internet e Sociedade,* n.2, v.2, do InternetLab. Dezembro de 2021.
  
 - Zonas de Compensação 8.0
-      - Obra na galeria virtual: *Num apartamento perdido na cidade: colors*, com Hamsá Trio
-      - Apresentação *Programação Criativa:  abordagens educacionais, ferramentas e colaboração artística*
+      - Obra na galeria virtual: [*Num apartamento perdido na cidade: colors*](https://www.youtube.com/watch?v=pz2nTNICrkc), com Hamsá Trio
+      - Apresentação [*Programação Criativa:  abordagens educacionais, ferramentas e colaboração artística* (vídeo)](https://www.youtube.com/watch?v=kYSzygN1EV8)
 
 - [Near Grid / quase grade](https://emmeio13.medialab.unb.br/near-grid/) - Obra na web-exposição EmMeio#13: Contaminações do MediaLab UnB, 2021 
  
