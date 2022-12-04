@@ -24,11 +24,16 @@ Educator, visual artist and new media consultant. Researches computational art p
 
 ### 2021 - 2022
 
+- Processing Community Day Brasil 2022
+     - [**Grafos (v2022_09)**](https://abav.lugaralgum.com/selected-work/grafos-2022-09/), work exhibited at the [Processing Community Day Brasil 2022 virtual gallery](https://pcd2022.encontrosdigitais.com.br/galeria/)
+     - Workshop **Primeiros passos na programação criativa com Python** (first steps in creative coding with Python, an Object Orientation first experience)
+     
+- Video course for Homeostasis Lab [**Programação criativa: desenhando com py5**](https://homeostasislab.org/cursos/info/131) - Combinations and permutations with Processing and Python
+
 - [**Escolas no Brasil**](https://revista.internetlab.org.br/escolas-no-brasil/), work published at *Internet e Sociedade,* n.2, v.2, do InternetLab. Dezembro de 2021.
  
 - [Near Grid / quase grade](https://emmeio13.medialab.unb.br/near-grid/) - Work shown at web-exhibition EmMeio#13: Contaminações do MediaLab UnB, 2021 
 
-- [Sesc São Paulo](https://sescsp.org.br)
 - [Sesc São Paulo](https://sescsp.org.br)
      -  2D Physics simulation with Python course (py5 & pymunk) with João Antonio de F. P. e Ferreira - [pinball-paulista](https://github.com/villares/pymunk-pinball-paulista)
      -  A Kirigami generator with Python - [exemplos](https://gist.github.com/villares/76f574c4eb750c68fbbb360d7f1754bb)
