@@ -14,9 +14,9 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 ### apresentações, pesquisas, recursos educacionais e publicações
 
-- [**obras selecionadas**](selected-work/index.md) Seleção de produções publicadas ou expostas.
-
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) Uma ideia visual por dia, usando programação.
+
+- [**obras selecionadas**](selected-work/index.md) Seleção de produções publicadas ou expostas.
 
 - [**material-aulas**](https://abav.lugaralgum.com/material-aulas) Material didático aberto para introdução à programação
 com Python em um contexto visual.
@@ -24,6 +24,12 @@ com Python em um contexto visual.
 - [**sketch-mail**](http://villares.org/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
 
 #### 2021 - 2022
+
+- Processing Community Day Brasil 2022
+     - [**Grafos (v2022_09)**](https://abav.lugaralgum.com/selected-work/grafos-2022-09/), obra exposta na galeria virtual do [Processing Community Day Brasil 2022](https://pcd2022.encontrosdigitais.com.br/galeria/)
+     - Oficina **Primeiros passos na programação criativa com Python**
+     
+- Curso em vídeo no projeto *Impulso* do Homeostasis Lab [**Programação criativa: desenhando com py5**](https://homeostasislab.org/cursos/info/131) - Combinações e permutações com Processing e Python
 
 - [**Escolas no Brasil**](https://revista.internetlab.org.br/escolas-no-brasil/), obra publicada na revista *Internet e Sociedade,* n.2, v.2, do InternetLab. Dezembro de 2021.
  
