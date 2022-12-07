@@ -3,6 +3,8 @@
 
 ## Pôster para o Processing Community Day @ Coimbra 2022
 
+Mais informações sobre o evento em https://pcdcoimbra.dei.uc.pt/2022/
+
 ![image](https://user-images.githubusercontent.com/3694604/206052681-f21a5ee9-b523-4fb5-8ea8-2bc74d12881c.png)
 
 ```python
