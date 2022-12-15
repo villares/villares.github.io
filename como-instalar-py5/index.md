@@ -94,7 +94,7 @@ Se tiver problemas para executar, lembre-se de parar com o botão *stop* vermelh
 
 ## 5. Aprenda sobre a diferença entre o *imported mode* e o *module mode*
 
-### O que é a opç *imported mode for py5* fornecida pelo plug-in *thonny-py5mode*?
+### O que é a opção *imported mode for py5* fornecida pelo plug-in *thonny-py5mode*?
 
 Quando a opção do menu *py5 > Imported mode for py5* está ligada, você pode escrever os seus programas (que também são chamados de *sketches*) de uma maneira simplificada, é o [imported mode](https://py5coding.org/content/py5_modes.html#imported-mode). Neste "modo" o Thonny vai executar o seu código usando o *py5 sketch runner* (executor de sketches), uma ferramenta especial que pode também ser acionada a partir da linha de comando, caso você não esteja usando o Thonny.
 
@@ -137,6 +137,6 @@ Note que você vai precisar usar a linha `import py5` no começo do seu código,
 
 Agradecimentos muito especiais ao criador do *py5*, [Jim](https://twitter.com/py5coding), aos mantenedores do IDE [Thonny](https://twitter.com/thonnyIDE), e ao [tabreturn](https://twitter.com/tabreturn) que fez o plug-in *thonny-py5mode*, que facilita demais a instalação e uso do *py5*, as instruções em inglês dele são o ponto de partida destas instruções e fonte das imagens todas!
 
----
+--- 
 
 Alexandre B A Villares ([abav.lugaralgum.com](https://abav.lugaralgum.com)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
