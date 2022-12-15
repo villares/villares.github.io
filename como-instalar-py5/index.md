@@ -11,8 +11,9 @@
 
 ## O que é isso?
 
-[**py5**](https://github.com/py5coding) é uma 
-<ins title="bibliotecas são pacotes de funções complementares prontas, ou desenvolvidas por outras pessoas, para auxiliar o desenvolvimento de novos programas." style="text-decoration:underline; text-decoration-style: dotted;">biblioteca</ins> que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
+[**py5**](https://github.com/py5coding) é uma biblioteca<sup>⚹</sup> que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
+
+⚹ <sub>Bibliotecas são pacotinhos de código com funções complementares prontas, desenvolvidas previamente, para auxiliar o desenvolvimento de novos programas.</sub>
 
 [**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. Com ela é possível escrever softwares interativos com os mais diversos propósitos e interfaces visuais, assim como exportar imagens bitmap (PNG, JPG), animações ou arquivos vetoriais 2D e 3D (PDF e SVG entre outros). A comunidade desfruta de um rico ecossistema de pessoas que produzem recursos como exemplos didáticos e bibliotecas de código livremente compartilhadas.
 
@@ -36,7 +37,7 @@ A sugestão aqui é seguir os seguintes passos:
 4. Confira se tudo está funciando **execute um pequeno exemplo!**
 5. (Extra) Aprenda sobre a diferença entre o **imported mode** e o **module mode**.
 
-> Uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
+<sub>Caso isso não dê certo, uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.</sub>
 
 ## 1. Baixe e instale o Thonny IDE
 
@@ -69,14 +70,14 @@ Quando acionada pela primeira vez esta opção, o plug-in vai baixar, extrair e 
 Aparece este aviso quando terminou.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.03-download-jdk-done.png)
 
-Um ajuste opcional: O comando *Apply recommended py5 settings* faz alguns ajustes no seu IDE, incluindo ativar o tema azulzinho *Kianite*.
+## 4. Execute um pequeno exemplo
+
+Se quiser acione o comando opcional *Apply recommended py5 settings* que faz alguns ajustes no seu IDE, incluindo ativar o tema azulzinho *Kianite*.
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/05-apply-recommended-settings.png)
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
 
-## 4. Execute um pequeno exemplo
-
-Com a opção *imported mode* acionada no menu *py5*, é possível executar o código a seguir usando o botão com a seta verde ou CTRL+R (ou COMMAND+R no Mac) .
+Agora o principal: com a opção *imported mode* acionada no menu *py5*, é possível executar o código a seguir usando o botão com a seta verde ou CTRL+R (ou COMMAND+R no Mac) .
 
 ```python
 def setup():
