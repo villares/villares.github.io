@@ -2,11 +2,11 @@
 
 ## sketch_2022_12_21d
 
-> ![21](21.png)
-> `rnd_seed = 21`
+![21](21.png)
 
-This is a simplified version of the code that generates the `sketch_2022_12_21d` series, it produces the same compositions to the provided random seed numbers. 
+<sup><code>rnd_seed = 21</code></sup>
 
+Hi! This is a simplified version of the code that generates the `sketch_2022_12_21d` series, it produces the same compositions to the provided random seed numbers in the printed versions. 
 
 ```python
 import random 
@@ -72,4 +72,4 @@ def grow():
 py5.run_sketch()
 ```
 
-The actual code I used to generate the prints had a few tweaks: It had the `    unvisited_nodes[:] = grow()` inside a `while` loop in order to produce a finished composition in a single frame, it hade a `Py5Graphics` image buffer to provide a higher output resolution.
+The actual code I used to generate the prints has a few tweaks: It has the `unvisited_nodes[:] = grow()` line inside a `while` loop in order to produce a finished composition in a single frame, it has also  `Py5Graphics` image buffer to provide a higher resolution output.
