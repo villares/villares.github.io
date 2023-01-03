@@ -19,12 +19,14 @@ Alternatively one can donate with [this PayPal link](https://www.paypal.com/cgi-
 As of this writing I'd like to thank:
 <br><sub>Até agora, gostaria de agradecer:</sub>
 
+- André Pastore
 - Thomas Larrow*
 - Shumiski*
 - Stu Axon*
 - Erica Ide
 - Edu Bonini
 - Monica Rizzolli*
+- Clarissa Mendes
 
 ---
 \* Special thanks to them, because they set recurring contributions!!!
