@@ -3,7 +3,7 @@
 
 ## v344
 
-![output](https://user-images.githubusercontent.com/3694604/212589276-1d0f47b0-792c-4659-9349-c5c7603a0726.gif)
+![Output from py5, 2023 version](output.gif)
 
 Unicode is one of the contemporary era marvels, to try and encode all human made glyphs and allow collaboration between peoples is amazing. We benefit everyday from Free and Open Source software and fonts. This works tries to explore and reinterpret [GNU Unifont pixel font](https://unifoundry.com/unifont/) that aims to cover large parts of the Unicode Basic Multilingual Plane as a source of playful patterns.
 
@@ -11,3 +11,4 @@ This idea started in [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day) wo
 
 Code and images: [github.com/villares/villares.github.io/tree/master/selected-work/v344](https://github.com/villares/villares.github.io/tree/master/selected-work/v344)
 
+![Output from older version](s344.gif)
