@@ -1,18 +1,23 @@
-# Alexandre B A Villares - https://abav.lugaralgum.com/sketch-a-day
+"""
+(C) 2018-2023 Alexandre B A Villares - https://abav.lugaralgum.com
+
+Based on "s344" from 2018_12_08
+Now using py5 (py5coding.org) imported mode
+
+Move with arrows
+Press CAPS LOCK to navigate GNU Unifont glyph data
+Mode keys: 1 2 3 4 0 - 
+Save PNG: s
+"""
+
+from jpype import java
 from random import choice
-from cell import Cell
-SKETCH_NAME = "s344"  # 20181208
-OUTPUT = ".png"
+
 mode = 0
-
-caps_locked = True
-
 CELL_SIZE = 12
 
 xo, yo = 100, 100
 xio, yio = 0, 0
-s = 10
-
 
 def setup():
     size(800, 800)
@@ -20,17 +25,17 @@ def setup():
     img = load_image("data/unifont-11.0.02.png")
     grid_size = width / CELL_SIZE
     Cell.grid = dict()
-
+    init_grid()
 
 def init_grid(f=None):
     w, h = width // CELL_SIZE, height // CELL_SIZE
     for i in range(w):
         for j in range(h):
             if f is None:
-                def state(i, j): return choice((True, False))
+                state = p_ou_b
             else:
-                state = p_ou_b(i, j)
-            Cell.grid[(i, j)] = Cell((i, j), CELL_SIZE, state)
+                state = f
+            Cell.grid[(i, j)] = Cell((i, j), CELL_SIZE, state(i, j))
 
 
 def p_ou_b(i, j):
@@ -40,20 +45,20 @@ def p_ou_b(i, j):
     else:
         return False
 
-
 def draw():
+    global cell_count
     background(220)
     stroke_weight(1)
+    cell_count = 0
     # KeyEvent.VK_CAPS_LOCK is 20
-
-    if caps_locked:
+    is_caps_locked = java.awt.Toolkit.getDefaultToolkit().getLockingKeyState(20)    
+    if is_caps_locked:
         rect_mode(CORNER)
         image(img, xio, yio)
         no_fill()
         stroke_weight(3)
         stroke(200, 0, 0)
         rect(xio + xo, yio + yo, grid_size, grid_size)
-        init_grid(1)
     else:
         rect_mode(CENTER)
         for c in Cell.grid.values():
@@ -66,36 +71,35 @@ def key_pressed():
     global mode, caps_locked
     global xo, yo, xio, yio
     if key == CODED:
-
         if key_code == RIGHT and xo < img.width - 11:
             xo += 5
-        if key_code == LEFT and xo > 10:
+        elif key_code == LEFT and xo > 10:
             xo -= 5
-        if key_code == DOWN and yo < img.height - 11:
+        elif key_code == DOWN and yo < img.height - 11:
             yo += 5
-        if key_code == UP and yo > 10:
+        elif key_code == UP and yo > 10:
             yo -= 5
+        init_grid()
     else:
         if key == "s" or key == "S":
-            save_frame(SKETCH_NAME + "_###.png")
-        if key in "01234567789":
+            save_frame(f"{len(Cell.grid)}_{xo}_{yo}_{mode}.png")
+        elif str(key) in "01234567789":
             mode = int(key)
-        if key == "-":
+        elif key == "-":
             mode = -1
-        if key == " ":
-            init_grid(lambda i, j: False)
-        if key == "x":
-            init_grid(lambda i, j: (i + j) % 2 == 0)
-        if key == "r":
+        elif key == " ":
             init_grid()
-        if key == TAB:
-            caps_locked = not caps_locked
+        elif key == "c":
+            init_grid(lambda *args: False)
+        elif key == "x":
+            init_grid(lambda i, j: (i + j) % 2 == 0)
+        elif key == "r":
+            init_grid(lambda *args: choice((True, False)))
             
     if xo > width - grid_size:
         xio = width - grid_size - xo
     if yo > height - grid_size:
         yio = height - grid_size - yo
-
 
 
 class Cell():
@@ -139,7 +143,9 @@ class Cell():
         rect(self.pos.x, self.pos.y, self.size_, self.size_)
 
     def plot(self, mode):
+        global cell_count
         if self.state:
+            cell_count += 1
             stroke_weight(self.size_ / 5.)
             if mode == -1:
                 fill(0)
