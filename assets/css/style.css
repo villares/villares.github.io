@@ -545,3 +545,11 @@ template {
 [hidden] {
   display: none;
 }
+
+div.summary-style {
+    border: 1px solid black;
+    float: top right;
+    margin: 1em auto;
+    padding: 1em;
+    font-size: calc(8px + 0.25vw);
+}
