@@ -546,3 +546,26 @@ template {
 [hidden] {
   display: none;
 }
+
+div.summary-style {
+    border: 1px solid black;
+    float: right;
+    margin: 1em auto;
+    padding: 1em;
+    font-size: calc(8px + 0.25vw);
+}
+
+div.summary-style {
+    border: 1px solid black;
+    float: right;
+    margin: 1em auto;
+    padding: 1em;
+    font-size: calc(8px + 0.25vw);
+}
+
+#summary div.h1 { margin-left: 0 }
+#summary div.h2 { margin-left: 2em }
+#summary div.h3 { margin-left: 4em }
+#summary div.h4 { margin-left: 6em }
+#summary div.h5 { margin-left: 6em }
+#summary div.h6 { margin-left: 6em }
