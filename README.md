@@ -36,7 +36,7 @@ com Python em um contexto visual.
 
 - Processing Community Day Brasil 2022
      - [**Grafos (v2022_09)**](https://abav.lugaralgum.com/selected-work/grafos-2022-09/), obra exposta na galeria virtual do [Processing Community Day Brasil 2022](https://pcd2022.encontrosdigitais.com.br/galeria/)
-     - Oficina [**Primeiros passos na programação criativa com Python**](https://www.youtube.com/watch?v=1JOigKDODsg&list=PLCSyFEVJoho6xaic1oBtiwf8xZCAezIp1&index=11) (vídeo com traduç) ([exemplos](https://pad.education/p/r.c4fb59423df4215a19c28c50e06f4ff1))
+     - Oficina [**Primeiros passos na programação criativa com Python**](https://www.youtube.com/watch?v=1JOigKDODsg&list=PLCSyFEVJoho6xaic1oBtiwf8xZCAezIp1&index=11)(vídeo com tradução em Libras) ([exemplos](https://pad.education/p/r.c4fb59423df4215a19c28c50e06f4ff1))
      
 - Curso em vídeo no projeto *Impulso* do Homeostasis Lab [**Programação criativa: desenhando com py5**](https://homeostasislab.org/cursos/info/131) - Combinações e permutações com Processing e Python
 
