@@ -8,7 +8,7 @@
 
 ----
 
-Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). Co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. Ministra cursos na graduação e na pós-graduação de diversas instituições, desenvolve cursos e oficinas independentes ou como educador de tecnologias e artes no Sesc-SP. 
+Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FECFAU-Unicamp (2019). Co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. Ministra cursos na graduação e na pós-graduação de diversas instituições, desenvolve cursos e oficinas independentes ou como educador de tecnologias e artes no Sesc-SP. 
 
 ----
 
@@ -22,6 +22,15 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 com Python em um contexto visual.
 
 - [**sketch-mail**](http://villares.org/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
+
+#### 2023
+
+- Curso de programação criativa com py5 no **Domestika.org** [lançamento em breve!]
+
+- Processing Community Day Porto 2023
+   - v344: playing with GNU Unifont [link em breve!]
+
+- [Paper objects with Processing and Python](https://abav.lugaralgum.com/Paper-objects-with-Processing-and-Python/) agora com py5.
 
 #### 2021 - 2022
 
@@ -63,7 +72,6 @@ com Python em um contexto visual.
 - Curso [Programação para designers com Processing modo Python](https://plato.studio/Programacao-para-designers), de 19 de abril a 20 de maio de 2021 no [Platô](https://plato.studio)
 
 - [Processing Community Day @ Porto, Portugal, 2021](https://pcd.fba.up.pt/2021/) - Oficina de introdução ao Processing modo Python (online)
- 
  
 #### 2019 - 2020
 
@@ -111,13 +119,15 @@ com Python em um contexto visual.
 
 ### atividades educacionais
 
+- Professor na *École Intuit Lab*, práticas digitais e programação criativa, 2023
+
 - [Instrutor certificado](https://carpentries.org/instructors/) do projeto [The Carpentries](https://carpentries.org/)
 
 - Estágio docente durante o doutorado no programa ATC FEC-Unicamp, 2021
   
   - Disciplina eletiva de introdução à pogramação com Python na graduação do curso de arquitetura e urbanismo da FEC-Unicamp, primeiro semestre de 2021
 
-- Professor na Fábrica Escola de Humanidades, desde 2020
+- Professor na Fábrica Escola de Humanidades, 2020-2022
 
   - Eixo Ecologia (1⁰ ano), 2022  
   - Eixos Artes (2⁰ ano) e Filosofia (1⁰ ano), 2021
