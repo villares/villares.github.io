@@ -33,7 +33,8 @@ function htmlTableOfContents( documentRef ) {
     // toc_div.innerHTML = "<strong>Sumário</strong>"; // you could add a title...
     // Using headings inside <article> only (this avoids the page header heading)
     var headings = [].slice.call(documentRef.body.querySelectorAll(
-    'article h1, article h2, article h3, article h4, article h5, article h6'));
+    // 'article h1, article h2, article h3, article h4, article h5, article h6'));
+    'article h2, article h3, article h4, article h5, article h6')); // skipping h1!
     headings.forEach(function (heading, index) {
         var ref = "toc" + index;
         if ( heading.hasAttribute( "id" ) ) 
