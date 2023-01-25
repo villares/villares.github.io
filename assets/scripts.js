@@ -3,8 +3,9 @@
 Array.from(document.querySelectorAll('[id]')).forEach(e => {
    const a = document.createElement('a');
    a.href=`#${e.id}`;
-   e.parentNode.replaceChild(a, e);
-   a.appendChild(e);
+   a.innerText = e.innerText;
+   e.innerText = "";
+   e.appendChild(a);
 });
 
 // Based on htmlTableOfContents https://stackoverflow.com/a/41085566/19771 
