@@ -563,6 +563,7 @@ div.summary-style {
     margin: 1em auto;
     padding: 1em;
     font-size: calc(8px + 0.25vw);
+    background: white;
 }
 
 #summary div.h1 { margin-left: 0 }
