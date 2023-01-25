@@ -1,5 +1,3 @@
-----
-
 [[English Version](index-EN.md)]
 
 # Como instalar e começar a usar a biblioteca py5
