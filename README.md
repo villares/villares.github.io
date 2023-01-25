@@ -1,4 +1,3 @@
-----
 
  [English version](http://villares.github.io/README-EN)
  | [**contato**](http://abav.lugaralgum.com/contato)
