@@ -1,5 +1,3 @@
-----
-
 [[English version](index-EN.md)]
 
 # Como instalar o Processing modo Python
