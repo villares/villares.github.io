@@ -20,7 +20,7 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 - [**material-aulas**](https://abav.lugaralgum.com/material-aulas) Material didático aberto para introdução à programação
 com Python em um contexto visual.
 
-- [**sketch-mail**](http://villares.org/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
+- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
 
 #### 2023
 
