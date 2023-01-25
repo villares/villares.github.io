@@ -6,7 +6,7 @@
 
 ### TL:DR;
 
-- Para desenhar e experimentar programação criativa com Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide-vers%C3%A3o-337-alt)
+- Para desenhar e experimentar programação criativa com Python, <br> [siga as instruções abaixo](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide-vers%C3%A3o-337-alt);
 - Se você está no Windows, [baixe e deszipe este arquivo](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0) e pule para o passo 4 (*execute um pequeno exemplo*)!
 
 ## O que é isso?
