@@ -96,7 +96,6 @@ h6 {
   margin-bottom: 0.5rem;
   font-weight: 600;
   position: relative;
-  display: inline-block;  // reduces clicable area when headings are links!
 }
 
 h1 small,
