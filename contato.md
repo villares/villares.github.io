@@ -1,6 +1,3 @@
-
----
-
 ## contact / contato
 
 ---
