@@ -1,5 +1,4 @@
-
----
+# sketch-a-day
 
 ### a crowdfunding experiment / um experimento de financiamento coletivo
 
