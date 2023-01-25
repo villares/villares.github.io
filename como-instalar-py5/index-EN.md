@@ -1,5 +1,3 @@
-----
-
 [[versão em português](index.md)]
 
 # How to install and start using py5
