@@ -62,17 +62,23 @@ Você precisa __reiniciar o Thonny depois desta etapa!!!__
 ## 3. Permita que o plug-in baixe o JDK
 
 Uma vez reiniciado deve aparecer um novo menu *py5* na interface do Thonny, acione a opção  *py5 > Imported mode for py5* e depois clique em OK na janela de diálogo.
+
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
+
 Quando acionada pela primeira vez esta opção, o plug-in vai baixar, extrair e configurar o JDK para você (no diretório user-config do Thonny). Esse processo pode ser um tanto demorado, dependendo da sua conexão, mas só acontece da primeira vez que você aciona o menu.
 
 **A janela do Thonny pode parecer congelada** enquanto ele baixa e configura, não se desespere!
+
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.02-download-jdk.png)
+
 Aparece este aviso quando terminou.
+
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.03-download-jdk-done.png)
 
 ## 4. Execute um pequeno exemplo
 
 Se quiser acione o comando opcional *Apply recommended py5 settings* que faz alguns ajustes no seu IDE, incluindo ativar o tema azulzinho *Kianite*.
+
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/05-apply-recommended-settings.png)
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
@@ -127,11 +133,13 @@ Note que você vai precisar usar a linha `import py5` no começo do seu código,
 
 ## Referências úteis para usar o py5
 
-* [referência rápida do py5 (colinha)](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf)
-* [fórum do py5](https://github.com/py5coding/py5generator/discussions)
-* [documentação oficial do py5](http://py5coding.org/)
-* [exemplos de py5 em Jupyter Notebooks](https://github.com/py5coding/py5examples)
+* [Documentação oficial do py5](http://py5coding.org/)
+* [Sumário traduzido da referência do py5](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/sumario-referencia-py5.html)
+* [Referência rápida do py5 (colinha)](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf)
+* [Fórum do py5](https://github.com/py5coding/py5generator/discussions)
+* [Exemplos de py5 em Jupyter Notebooks](https://github.com/py5coding/py5examples)
 * [Fórum da Fundação Processing](https://discourse.processing.org/)
+* [Introdução à programação com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/)
 
 ### Agradecimentos
 
