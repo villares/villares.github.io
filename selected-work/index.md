@@ -2,7 +2,7 @@
 
 # obras selecionadas
 
-> [English version](index-EN.md)
+<sub>[English version](index-EN.md)</sub>
 
 ---
 
