@@ -4,6 +4,8 @@
 
 # Como instalar e começar a usar a biblioteca py5
 
+<h1 id="toc"></h1>
+
 ### TL:DR;
 
 - Para desenhar e experimentar programação criativa com Python [siga estas instruções abaixo.](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide-vers%C3%A3o-337-alt)
