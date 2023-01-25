@@ -1,4 +1,3 @@
-----
 
  [Versão em português](README.md)
  | [**contact**](http://abav.lugaralgum.com/contato)
