@@ -1,6 +1,6 @@
-----
+# toc
 
-## obras selecionadas
+# obras selecionadas
 
 > [English version](index-EN.md)
 
