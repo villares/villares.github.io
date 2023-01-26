@@ -92,6 +92,7 @@ h1 {
   margin-bottom: 0.5rem;
   font-weight: 600;
   position: relative;
+  display: flex;
 }
 
 h2 a,
