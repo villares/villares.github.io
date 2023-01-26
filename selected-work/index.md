@@ -1,8 +1,8 @@
 # obras selecionadas
 
-<sub>[English version](index-EN.md)</sub>
-
 <h1 id="toc"></h1>
+
+<sub>[English version](index-EN.md)</sub>
 
 ---
 
