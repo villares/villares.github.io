@@ -1,6 +1,3 @@
-
-----
-
 ## v344
 
 ![Output from py5, 2023 version](output.gif)
