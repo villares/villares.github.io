@@ -25,7 +25,7 @@ com Python em um contexto visual.
 #### 2023
 
 - Processing Community Day Porto 2023
-   - [v344: playing with GNU Unifont](abav.lugaralgum.com/selected-work/v344/) - obra selecionada para a exposição.
+   - [**v344**: playing with GNU Unifont](abav.lugaralgum.com/selected-work/v344/) - obra selecionada para a exposição.
 
 - [Paper objects with Processing and Python](https://abav.lugaralgum.com/Paper-objects-with-Processing-and-Python/) 
    - Exemplos reescritos para uso da biblioteca py5.
@@ -33,6 +33,9 @@ com Python em um contexto visual.
 - Curso de programação criativa com py5 no **Domestika.org** [em pós-produção para lançamento em 2023]
 
 #### 2021 - 2022
+
+- Processing Community Day Coimbra 2022
+    - **Webs of collaboration** - obra selecionada para a [exposição online](https://pcdcoimbra.dei.uc.pt/2022/).
 
 - Processing Community Day Brasil 2022
      - [**Grafos (v2022_09)**](https://abav.lugaralgum.com/selected-work/grafos-2022-09/), obra exposta na galeria virtual do [Processing Community Day Brasil 2022](https://pcd2022.encontrosdigitais.com.br/galeria/)
