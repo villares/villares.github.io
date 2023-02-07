@@ -24,12 +24,13 @@ com Python em um contexto visual.
 
 #### 2023
 
-- Curso de programação criativa com py5 no **Domestika.org** [lançamento em breve!]
+- Curso de programação criativa com py5 no **Domestika.org** [em pós-produção para lançamento em 2023]
 
 - Processing Community Day Porto 2023
-   - v344: playing with GNU Unifont [link em breve!]
+   - [v344: playing with GNU Unifont](abav.lugaralgum.com/selected-work/v344/) - obra selecionada para a exposição.
 
-- [Paper objects with Processing and Python](https://abav.lugaralgum.com/Paper-objects-with-Processing-and-Python/) agora com py5.
+- [Paper objects with Processing and Python](https://abav.lugaralgum.com/Paper-objects-with-Processing-and-Python/) 
+   - Exemplose reescritos para uso da biblioteca py5.
 
 #### 2021 - 2022
 
