@@ -21,7 +21,19 @@ Educator, visual artist and new media consultant. Researches computational art p
 
 - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Updates on my computational art / creative coding and education work
 
-### 2021 - 2022
+### 2023
+
+
+- Processing Community Day Porto 2023
+   - [**v344**: playing with GNU Unifont](abav.lugaralgum.com/selected-work/v344/) - selected work.
+
+- [Paper objects with Processing and Python](https://abav.lugaralgum.com/Paper-objects-with-Processing-and-Python/) 
+   - Rewriten for py5.
+
+#### 2021 - 2022
+
+- Processing Community Day Coimbra 2022
+    - **Webs of collaboration** - selected work that can be seen at [exhibition](https://pcdcoimbra.dei.uc.pt/2022/).
 
 - Processing Community Day Brasil 2022
      - [**Grafos (v2022_09)**](https://abav.lugaralgum.com/selected-work/grafos-2022-09/), work exhibited at the [Processing Community Day Brasil 2022 virtual gallery](https://pcd2022.encontrosdigitais.com.br/galeria/)
