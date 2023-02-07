@@ -35,7 +35,7 @@ com Python em um contexto visual.
 #### 2021 - 2022
 
 - Processing Community Day Coimbra 2022
-    - **Webs of collaboration** - obra selecionada para a [exposição online](https://pcdcoimbra.dei.uc.pt/2022/).
+    - **Webs of collaboration** - obra selecionada para a [exposição](https://pcdcoimbra.dei.uc.pt/2022/).
 
 - Processing Community Day Brasil 2022
      - [**Grafos (v2022_09)**](https://abav.lugaralgum.com/selected-work/grafos-2022-09/), obra exposta na galeria virtual do [Processing Community Day Brasil 2022](https://pcd2022.encontrosdigitais.com.br/galeria/)
