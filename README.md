@@ -7,7 +7,7 @@
 
 ----
 
-Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FECFAU-Unicamp (2019). Co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) em São Paulo. Ministra cursos na graduação e na pós-graduação de diversas instituições, desenvolve cursos e oficinas independentes ou como educador de tecnologias e artes no Sesc-SP. 
+Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FECFAU-Unicamp (2019). Co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing), encontro mensal sobre arte e programaçao que acontece desde 2016. Tem ministrado cursos na graduação e pós-graduação de diversas instituições. Desenvolve material didático aberto, colabora com projetos de software livre e atua como educador de tecnologias e artes no Sesc-SP. Desde 2018, experimenta fazer com código um desenho por dia.
 
 ----
 
