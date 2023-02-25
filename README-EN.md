@@ -7,7 +7,7 @@
  
 ----
 
-Educator, visual artist and new media consultant. Researches computational art procedures, generative design, creative coding and how to teach computer programming in a visual context. Architect (FAU-USP, 2000) with a master's degree from FEC-Unicamp (2019). Co-organizer of [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing) and Processing Community Day in São Paulo.
+Teacher, visual artist and consultant in design and new media projects.  Researches computational art procedures, generative design, creative coding and how to teach programming in visual contexts.  Graduated in architecture and urbanism from FAU-USP (2000) and has a master's degree from FECFAU-Unicamp (2019). Co-organizer of Noite de Processing, a monthly meeting about art and programming that happens since 2016. Has taught courses at undergraduate and graduate levels at several institutions. Develops open didactic materials, collaborates with free software projects and works as a technology and arts educator at Sesc-SP. Since 2018, he tries to make one drawing a day with code.
 
 ----
 
@@ -22,7 +22,6 @@ Educator, visual artist and new media consultant. Researches computational art p
 - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Updates on my computational art / creative coding and education work
 
 ### 2023
-
 
 - Processing Community Day Porto 2023
    - [**v344**: playing with GNU Unifont](abav.lugaralgum.com/selected-work/v344/) - selected work.
