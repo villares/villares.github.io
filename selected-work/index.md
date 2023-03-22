@@ -6,6 +6,26 @@
 
 ---
 
+### Grafos (v2022_09)
+
+Obra para a galeria virtual do Processing Community Day @ Brasil 2022.
+
+![image](https://user-images.githubusercontent.com/3694604/226963594-f51fd82c-cbf5-44c4-bf6f-f7f006f64113.png)
+
+Pode ser vista em execução em https://abav.lugaralgum.com/selected-work/grafos-2022-09/
+
+---
+
+### Webs of collaboration
+
+Um gerador de pôsteres para o Processing Community Day @ Coimbra 2022. Mais informações sobre o evento em https://pcdcoimbra.dei.uc.pt/2022/
+
+![image](https://user-images.githubusercontent.com/3694604/206052681-f21a5ee9-b523-4fb5-8ea8-2bc74d12881c.png)
+
+Código disponível em https://abav.lugaralgum.com/collaboration_web_v2022_08_01
+
+---
+
 ### Escolas no Brasil
 
 Obra foi publicada na revista *Internet e Sociedade,* n.2, v.2, dezembro de 2021, acessível em [**revista.internetlab.org/escolas-no-brasil**](https://revista.internetlab.org/escolas-no-brasil).
