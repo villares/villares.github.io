@@ -93,7 +93,25 @@ def setup():
 
 py5.run_sketch()
 ```
+---
 
+### Near Grid / quase grade, 2021
+
+[EmMeio#13: Contaminações MediaLab UnB, 2021](https://emmeio13.medialab.unb.br/near-grid/) 
+
+![captura de da obra](assets/captura-neargrid.png)
+
+-> [To see the fullscreen execution](https://abav.lugaralgum.com/selected-work/near_grid_v2021_05/)
+
+---
+
+### LCCRMY: A RECURSIVE RANDOM WALKER
+
+[Obra exposta em Homeostasis Lab](https://homeostasislab.org/)
+
+![captura de da obra](assets/LCCRMY.png)
+
+-> [To see the fullscreen execution](https://abav.lugaralgum.com/selected-work/LCCRMY_v2021_04_30/) 
 
 ---
 
