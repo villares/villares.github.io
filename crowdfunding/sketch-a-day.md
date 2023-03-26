@@ -19,9 +19,10 @@ Alternatively one can donate with [this PayPal link](https://www.paypal.com/cgi-
 As of this writing I'd like to thank:
 <br><sub>Até agora, gostaria de agradecer:</sub>
 
+- Marcelo Malheiros*
 - André Pastore
 - Thomas Larrow*
-- Shumiski*
+- Shumiski
 - Stu Axon*
 - Erica Ide
 - Edu Bonini
