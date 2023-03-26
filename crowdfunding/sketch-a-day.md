@@ -13,12 +13,13 @@ In November 26th, 2022 I [posted](https://mastodon.social/@villares/109410154364
 Alternatively one can donate with [this PayPal link](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HCGAKACDMVNV2) or even sending a Brazilian Pix (`46c37783-5edb-4f1c-b3a8-1309db11488c`).<br><sub>Você também pode doar com PayPal ou com pix.</sub>
 
 
-**I'll update this as the contributions come in!**
-<br><sub><b>Vou atualizando aqui conforme chegam as contribuições!</b></sub>
+**First goal of 10 donors achieved!**
+<br><sub><b>Primeira meta de 10 pessoas atingida!</b></sub>
 
 As of this writing I'd like to thank:
 <br><sub>Até agora, gostaria de agradecer:</sub>
 
+- Melissa Weber
 - Marcelo Malheiros*
 - André Pastore
 - Thomas Larrow*
