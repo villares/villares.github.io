@@ -47,7 +47,7 @@ A sugestão aqui é seguir os seguintes passos:
 
 - Para MacOS: instalador [thonny-4.0.2.pkg](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.pkg) 
 
-- Para Linux: [thonny-4.0.2-x86_64.tar.gz](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2-x86_64.tar.gz) ou um [script bash de instalação que baixa para a sua arquitetura e instala](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.bash)
+- Para Linux: [thonny-4.0.2-x86_64.tar.gz](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2-x86_64.tar.gz) ou um [script bash que baixa e instala](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.bash)
   
   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
