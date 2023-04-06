@@ -38,11 +38,11 @@ To get all these things, I suggest the following steps:
 - For Windows: 
 
     - **Try to [download and unzip this portanble](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0), and skip to step 4!**
-    - or [thonny-3.3.7-alt.exe](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.exe)
+    - or install with [thonny-4.0.2.exe](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.exe)
 
-- For MacOS: [thonny-3.3.7-alt.pkg](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-alt.pkg)
+- For MacOS: installer [thonny-4.0.2.pkg](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.pkg) 
 
-- For Linux: [thonny-3.3.7-x86_64- alt.tar.gz](https://github.com/thonny/thonny/releases/download/v3.3.7/thonny-3.3.7-x86_64-alt.tar.gz)
+- For Linux: [thonny-4.0.2-x86_64.tar.gz](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2-x86_64.tar.gz) or [bash script installer](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.bash)
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
