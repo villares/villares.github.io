@@ -11,7 +11,7 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 ----
 
-### apresentações, pesquisas, recursos educacionais e publicações
+### Apresentações, pesquisas, recursos educacionais e publicações
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) Uma ideia visual por dia, usando programação.
 
@@ -120,9 +120,9 @@ com Python em um contexto visual.
 
 - [BeerPaint: Tutorial básico de MIT App Inventor](https://gumroad.com/l/kXiHW)
 
-### atividades educacionais
+### Atividades didáticas
 
-- Professor na *École Intuit Lab*, práticas digitais e programação criativa, 2023
+- Professor na *École Intuit Lab*, linguagem digital e programação criativa, 2023
 
 - [Instrutor certificado](https://carpentries.org/instructors/) do projeto [The Carpentries](https://carpentries.org/)
 
@@ -145,6 +145,8 @@ com Python em um contexto visual.
   - Programação criativa para o curso Arte e Mídias Digitais
 
 - Educador de tecnologias e artes no Sesc Avenida Paulista, desde 2018
+  
+  - Atividades educativas diversas na intersecção das artes visuais e da tecnologia, especialmente usando Processing e Python: Ateliê aberto de fabricação digital para programação criativa; Gerador de Kirigami com programação; Curso de introdução à arte computacional / algorítmica Objetos de papel com corte laser Tipografia experimental com programação; Estêncil com programação; Estêncil com programação, aplicação em tecido e costura (com Pat Campos); Programação, fresadora CNC e estamparia de tecidos (com Pat Campos); Mandalas com corte laser; Caixinhas de MDF, programação e corte laser (com Maraiza Adami); Desenhos interativos usando Arduino e potenciômetros; 
 
 - Professor no Instituto Europeo di Design - São Paulo - IED-SP,  2016—2019
   
