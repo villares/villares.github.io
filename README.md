@@ -146,7 +146,7 @@ com Python em um contexto visual.
 
 - Educador de tecnologias e artes no Sesc Avenida Paulista, desde 2018
   
-  - Atividades educativas diversas na intersecção das artes visuais e da tecnologia, especialmente usando Processing e Python: Ateliê aberto de fabricação digital para programação criativa; Gerador de Kirigami com programação; Curso de introdução à arte computacional / algorítmica Objetos de papel com corte laser Tipografia experimental com programação; Estêncil com programação; Estêncil com programação, aplicação em tecido e costura (com Pat Campos); Programação, fresadora CNC e estamparia de tecidos (com Pat Campos); Mandalas com corte laser; Caixinhas de MDF, programação e corte laser (com Maraiza Adami); Desenhos interativos usando Arduino e potenciômetros; 
+  - Atividades educativas diversas na intersecção das artes visuais e da tecnologia, especialmente usando Processing e Python:  Curso de introdução à arte computacional / algorítmica; Objetos de papel com programação e corte laser; Tipografia experimental com programação; Estêncil com programação; Estêncil com programação, aplicação em tecido e costura (com Pat Campos); Programação, fresadora CNC e estamparia de tecidos (com Pat Campos); Desenhos interativos usando Arduino e potenciômetros; Mandalas com corte laser;  Gerador de Kirigami com programação; Caixinhas de MDF, programação e corte laser (com Maraiza Adami);  Ateliê aberto de fabricação digital para programação criativa.
 
 - Professor no Instituto Europeo di Design - São Paulo - IED-SP,  2016—2019
   
@@ -170,5 +170,7 @@ com Python em um contexto visual.
 - The Developers Conference 2016 (Oficina TDC4Kids, Processing + Python, com [Luciano Ramalho](https://github.com/ramalho))
 
 - IA-UNESP - Zonas de Compensação 2016 (Arduino e Processing + Python)
+
+- Sócio-diretor e professor em TI Lab/ProBooks (originalmente VectorEscola/VectorPro), 2000-2015
 
 <a rel="me" href="https://mastodon.social/@villares"> </a>
