@@ -55,7 +55,7 @@ Comece instalando o **Thonny IDE**.
 
 ## 2. Instale o plugin *thonny-py5mode*
 
-Note que ao instalar este *plug-in* a biblioteca **py5** será instalada conjuntamente, caso ainda n
+Note que neste passo, ao instalar o *plug-in*, a biblioteca **py5** será instalada conjuntamente, caso ainda não tenha ainda sido instalada.
 
 Uma vez aberto o Thonny, selecione no menu *Tools > Manage plug-ins...* ou, em português: *Ferramentas > Gerenciar pluguins...<u></u>*
 
