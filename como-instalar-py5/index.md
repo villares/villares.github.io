@@ -32,8 +32,8 @@ Para usar **py5** você vai precisar:
 A sugestão aqui é seguir os seguintes passos: 
 
 1. Baixar e instalar o **Thonny IDE** que vem com um Python 3.8 ou mais recente;
-2. Dentro do *Thonny* instalar a extensão (plug-in), **thonny-py5mode**;
-3. Deixar o plug-in *thonny-py5mode* instalar e configurar o **JDK** para você;
+2. Dentro do *Thonny* instalar a extensão (plug-in), **thonny-py5mode**, isso instala junto a biblioteca **py5**;
+3. Quando acionado pela primeira vez, o plug-in *thonny-py5mode* instala e configura o **JDK** para você;
 4. Confira se tudo está funciando **execute um pequeno exemplo!**
 5. (Extra) Aprenda sobre a diferença entre o **imported mode** e o **module mode**.
 
