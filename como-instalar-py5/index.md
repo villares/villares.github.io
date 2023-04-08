@@ -53,11 +53,15 @@ A sugestão aqui é seguir os seguintes passos:
 
 ## 2. Instale o plugin *thonny-py5mode*
 
-Uma vez aberto o Thonny, selecione no menu *Tools > Manage plug-ins...* ou, em português: *Ferramentas > Gerenciar pluguins...<u></u>*
+Esse passo vai instalar a biblioteca **py5** conjuntamente com o plug-in. Uma vez aberto o Thonny, selecione no menu *Tools > Manage plug-ins...* ou, em português: *Ferramentas > Gerenciar pluguins...<u></u>*
+
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.01-manage-plug-ins.png)
+
 Procure o plug-in __thonny-py5mode__ e peça para instalar.
+
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
 Você precisa __reiniciar o Thonny depois desta etapa!!!__ 
+
 
 ## 3. Permita que o plug-in baixe o JDK
 
