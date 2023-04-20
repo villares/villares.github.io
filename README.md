@@ -3,11 +3,10 @@
  | [**contato**](http://abav.lugaralgum.com/contato)
  | [github.com/villares](http://github.com/villares)
  | Mastodon <a rel="me" href="https://ciberlandia.pt/@villares">ciberlandia.pt/@villares</a>
- | Twitter [@villares](http://twitter.com/villares)
 
 ----
 
-Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FECFAU-Unicamp (2019). Co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing), encontro mensal sobre arte e programaçao que acontece desde 2016. Tem ministrado cursos na graduação e pós-graduação de diversas instituições. Desenvolve material didático aberto, colabora com projetos de software livre e atua como educador de tecnologias e artes no Sesc-SP. Desde 2018, tenta fazer um desenho por dia com código.
+Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FECFAU-Unicamp (2019). Co-organizador da [Noite de Processing](https://garoa.net.br/wiki/Noite_de_Processing), encontro mensal sobre arte e programaçao que acontece desde 2016. Tem ministrado cursos na graduação e pós-graduação de diversas instituições. Desenvolve material didático aberto, colabora com projetos de software livre e atua como educador de tecnologias e artes no Sesc-SP. Desde 2018, tenta fazer todo dia um desenho usando programação.
 
 ----
 
@@ -23,6 +22,10 @@ com Python em um contexto visual.
 - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
 
 #### 2023
+
+- Curso [desenhando com código: programação criativa](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/) no MAM-SP, março e abril de 2023
+
+- Ateliê aberto de programação criativa para fabricação digital, Sesc Av. Paulista, março e abril de 2023
 
 - Processing Community Day Porto 2023
    - [**v344**: playing with GNU Unifont](abav.lugaralgum.com/selected-work/v344/) - obra selecionada para a exposição.
@@ -41,7 +44,7 @@ com Python em um contexto visual.
      - [**Grafos (v2022_09)**](https://abav.lugaralgum.com/selected-work/grafos-2022-09/), obra exposta na galeria virtual do [Processing Community Day Brasil 2022](https://pcd2022.encontrosdigitais.com.br/galeria/)
      - Oficina [**Primeiros passos na programação criativa com Python**](https://www.youtube.com/watch?v=1JOigKDODsg&list=PLCSyFEVJoho6xaic1oBtiwf8xZCAezIp1&index=11) (vídeo com tradução em Libras) - [código dos exemplos](https://gist.github.com/villares/f2fddca034bce52c5cb0fccd7a505396)
      
-- Curso em vídeo no projeto *Impulso* do Homeostasis Lab [**Programação criativa: desenhando com py5**](https://homeostasislab.org/cursos/info/131) - Combinações e permutações com Processing e Python
+- Curso em vídeo para *Impulso* do Homeostasis Lab [**Programação criativa: desenhando com py5**](https://homeostasislab.org/cursos/info/131) - Combinações e permutações com Processing e Python
 
 - [**Escolas no Brasil**](https://revista.internetlab.org.br/escolas-no-brasil/), obra publicada na revista *Internet e Sociedade,* n.2, v.2, do InternetLab. Dezembro de 2021.
  
