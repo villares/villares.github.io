@@ -3,7 +3,6 @@
  | [**contact**](http://abav.lugaralgum.com/contato)
  | [github.com/villares](http://github.com/villares)
  | Mastodon <a rel="me" href="https://ciberlandia.pt/@villares">ciberlandia.pt/@villares</a>
- | Twitter [@villares](http://twitter.com/villares)
  
 ----
 
@@ -22,6 +21,8 @@ Teacher, visual artist and consultant in design and new media projects.  Researc
 - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Updates on my computational art / creative coding and education work
 
 ### 2023
+
+- MAM-SP, [*drawing with code: creative coding*](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/), March and April 2023.
 
 - Processing Community Day Porto 2023
    - [**v344**: playing with GNU Unifont](abav.lugaralgum.com/selected-work/v344/) - selected work.
