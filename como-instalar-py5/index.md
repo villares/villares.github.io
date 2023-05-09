@@ -27,7 +27,7 @@ Para usar **py5** você vai precisar:
 
 - Um **Java (JDK)**, que o py5 precisa para a infraestrutura de desenho, e o seu JPype precisa saber onde ele está, por meio da variável JAVA-HOME;
 
-- Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que facilita tamb executar os programas escritos por você.
+- Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que facilita também executar os programas escritos por você. Algumas pessoas preferem escrever Python em *Jupyter Notebooks*, é legal também mas não é o foco deste passo a passo.
 
 A sugestão aqui é seguir os seguintes passos: 
 
