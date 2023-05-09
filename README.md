@@ -30,8 +30,6 @@ com Python em um contexto visual.
 - [Paper objects with Processing and Python](https://abav.lugaralgum.com/Paper-objects-with-Processing-and-Python/) 
    - Exemplos reescritos para uso da biblioteca py5.
 
-- Curso de programação criativa com py5 no **Domestika.org** [em pós-produção para lançamento em 2023]
-
 #### 2021 - 2022
 
 - Processing Community Day Coimbra 2022
