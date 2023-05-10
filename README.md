@@ -129,7 +129,7 @@ com Python em um contexto visual.
 
 - Estágio docente durante o doutorado no programa ATC FEC-Unicamp, 2021
   
-  - Disciplina eletiva de introdução à pogramação com Python na graduação do curso de arquitetura e urbanismo da FEC-Unicamp, primeiro semestre de 2021
+  - Disciplina eletiva de introdução à programação com Python na graduação do curso de arquitetura e urbanismo da FEC-Unicamp, primeiro semestre de 2021
 
 - Professor na Fábrica Escola de Humanidades, 2020-2022
 
