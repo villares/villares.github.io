@@ -58,7 +58,7 @@ Search for **thonny-py5mode** and click on the install button.
 
 You need to __restart Thonny after this step!!!__
 
-### 3. Allow the *thonny-py5mode* plug-in to download the JDKF
+### 3. Allow the *thonny-py5mode* plug-in to download the Java JDK
 
 Once restarted, a new *py5* menu should appear in Thonny's interface, click on the *py5 > Imported mode for py5* menu option and then click OK in the dialog window that appears.
 
