@@ -25,7 +25,7 @@ com Python em um contexto visual.
 
 - Curso [desenhando com código: programação criativa](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/) no MAM-SP, março e abril de 2023
 
-- Ateliê aberto de programação criativa para fabricação digital, Sesc Av. Paulista, março e abril de 2023
+- [Ateliê aberto de programação criativa para fabricação digital](https://hackmd.io/@villares/sesc-atelie-fab-prog), Sesc Av. Paulista, quartas-feiras, 14h30, de março a junho de 2023
 
 - Processing Community Day Porto 2023
    - [**v344**: playing with GNU Unifont](abav.lugaralgum.com/selected-work/v344/) - obra selecionada para a exposição.
