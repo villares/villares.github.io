@@ -50,7 +50,7 @@ com Python em um contexto visual.
       - Obra na galeria virtual: [*Num apartamento perdido na cidade: colors*](https://www.youtube.com/watch?v=pz2nTNICrkc), com Hamsá Trio
       - Apresentação [*Programação Criativa:  abordagens educacionais, ferramentas e colaboração artística*)](https://www.youtube.com/watch?v=kYSzygN1EV8) (vídeo)
 
-- [Near Grid / quase grade](https://emmeio13.medialab.unb.br/near-grid/) - Obra na web-exposição EmMeio#13: Contaminações do MediaLab UnB, 2021 
+- [**Near Grid / quase grade**](https://emmeio13.medialab.unb.br/near-grid/) - Obra na web-exposição EmMeio#13: Contaminações do MediaLab UnB, 2021 
  
 - [Sesc São Paulo](https://sescsp.org.br)
      -  Curso simulações físicas 2D com Python (py5 e pymunk) com João Antonio de F. P. e Ferreira - [pinball-paulista](https://github.com/villares/pymunk-pinball-paulista)
