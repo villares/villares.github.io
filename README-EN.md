@@ -18,6 +18,8 @@ Teacher, visual artist and consultant in design and new media projects.  Researc
 
 - [**material-aulas**](https://abav.lugaralgum.com/material-aulas) Introductory programming support resources in Portuguese (Python + py5)
 
+- [**desenho()**](https://desenho.lugaralgum.com) desenho sem argumentos (drawing without arguments) is an independent publication that explores creative coding and the zine/poster space.
+
 - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Updates on my computational art / creative coding and education work
 
 ### 2023

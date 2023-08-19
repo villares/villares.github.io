@@ -19,6 +19,8 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 - [**material-aulas**](https://abav.lugaralgum.com/material-aulas) Material didático aberto para introdução à programação
 com Python em um contexto visual.
 
+- [**desenho()**](https://desenho.lugaralgum.com) desenho sem argumentos é uma publicação independente que explora a programação criativa e espaços dos zines/pôsters.
+
 - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
 
 #### 2023
