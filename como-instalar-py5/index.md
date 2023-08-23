@@ -64,8 +64,8 @@ Uma vez aberto o Thonny, selecione no menu *Tools > Manage plug-ins...* ou, em p
 Procure o plug-in __thonny-py5mode__ e peça para instalar.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
-Você precisa __reiniciar o Thonny depois desta etapa!!!__ 
 
+Você precisa __reiniciar o Thonny depois desta etapa!!!__ 
 
 ## 3. Permita que o plug-in baixe o JDK
 
@@ -114,7 +114,7 @@ Quando a opção do menu *py5 > Imported mode for py5* está ligada, você pode 
 
 **Atenção:** O *imported mode* não é apropriado para executar código Python que não faça uso da biblioteca *py5*.
 
-Neste "modo importado" o vocabulário da biblioteca *py5*, isto é, os nomes das funções, constantes e variáveis de sistema (como a posição do mouse), fica disponível sem o prefixo `py5.`, e o seu programa vai ser automaticamente executado por uma função "run_sketch" da biblioteca *py5*. 
+Neste "modo importado" o vocabulário da biblioteca *py5*, isto é, os nomes das funções, constantes e variáveis de sistema (como a posição do mouse), fica disponível sem o prefixo `py5.` (que é necessário no *module mode*, como veremos mais a seguir), e o seu programa vai ser automaticamente executado por uma função "run_sketch" da biblioteca *py5*. 
 
 Com o *imported mode* ativado, também podem ser executados sketches do tipo [static mode](https://py5coding.org/content/py5_modes.html#static-mode), isto é aqueles sem animação ou interatividade pois não tem uma função `draw()` declarada. Mas estes precisam ter `size()` logo no começo.
 
