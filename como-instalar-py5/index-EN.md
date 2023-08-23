@@ -24,7 +24,7 @@ To use *py5* you will need:
 
 To get all these things, I suggest the following steps:
 
-1. Download and install a version of the **Thonny IDE** with Python 3.8 or greater;
+1. Download and install a version of the **Thonny IDE** that comes with Python 3.10 or greater;
 2. Inside *Thonny*, install the **thonny-py5mode** plug-in (extension); 
 3. Let the *thonny-py5mode* plug-in download and configure the **JDK** for you;
 4. Check if everything is working, **run a small example!**
@@ -106,7 +106,7 @@ The *thonny-py5mode* plug-in creates a *py5* menu in the Thonny interface, insid
 
 **Important note:** The *imported mode* option is not appropriate for executing Python code that doesn't make use of the py5 library!
 
-In *imported mode* the vocabulary of *py5*, that is, the names of functions, constants and system variables (such as the mouse position), are available without the `py5.` prefix, and your program will be automatically executed by the `run_sketch` function from *py5*.
+In *imported mode* the vocabulary of *py5*, that is, the names of functions, constants and system variables (such as the mouse position), are available without the `py5.` prefix (needed on *module mode*, more about it later), and your program will be automatically executed by the `run_sketch` function from *py5*.
 
 With *imported mode* on, you can also run [static mode](https://py5coding.org/content/py5_modes.html#static-mode) sketches, that is, programs without animation or interactivity because they do not have a `draw()` function defined.
 
