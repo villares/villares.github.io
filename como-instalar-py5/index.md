@@ -44,7 +44,7 @@ A sugestão aqui é seguir os seguintes passos:
 Comece instalando o **Thonny IDE**.
 
 - Para Windows:
-    - Experimente [baixar e deszipar este arquivo](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0) e pode pular para o passo 4!
+    - Experimente [baixar e deszipar este arquivo](https://www.dropbox.com/scl/fi/ytyzpuyjmtmc5is6dwq3b/thonny-4-with-py5-091-windows-portable.zip?rlkey=ff5kxmyng4ebr1faglaej9zou&dl=0) e pode pular para o passo 4!
     - ou instale executando o instalador [thonny-4.0.2.exe](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.exe) e continue no passo 2.
 
 - Para MacOS: instalador [thonny-4.0.2.pkg](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.pkg) 
