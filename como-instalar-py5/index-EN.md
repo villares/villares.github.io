@@ -25,10 +25,11 @@ To use *py5* you will need:
 To get all these things, I suggest the following steps:
 
 1. Download and install a version of the **Thonny IDE** that comes with Python 3.10 or greater;
-2. Inside *Thonny*, install the **thonny-py5mode** plug-in (extension); 
-3. Let the *thonny-py5mode* plug-in download and configure the **JDK** for you;
-4. Check if everything is working, **run a small example!**
-5. (Extra) Learn about the difference betweeen **imported mode** and **module mode**. 
+2a. Inside *Thonny*, intall the **py5** library (package);
+2b. Inside *Thonny*, install the **thonny-py5mode** plug-in (extension); 
+4. Let the *thonny-py5mode* plug-in download and configure the **JDK** for you;
+5. Check if everything is working, **run a small example!**
+6. (Extra) Learn about the difference betweeen **imported mode** and **module mode**. 
 
 >  Another way to get everything you need, if these steps fail for any reason, is to follow the instructions at the [py5 documentation](https://py5coding.org/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK*).
 
@@ -46,7 +47,14 @@ To get all these things, I suggest the following steps:
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
-### 2. Install the *thonny-py5mode* plug-in
+
+### 2a. Install the *py5* library
+
+Open, select *Tools > Manage packages...* from the menu…
+
+Search for **py5** and click on the install button.
+
+### 2b. Install the *thonny-py5mode* plug-in
 
 Open, select *Tools > Manage plug-ins...* from the menu…
 
