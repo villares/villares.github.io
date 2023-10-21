@@ -8,7 +8,7 @@
 
 ### What's this?
 
-[**Processing**](http://processsing.org) is a Free and Open Source (FLOSS) programming platform started in 2001 by Casey Reas e Ben Fry, widely used by artists and to teach coding in a visual context. The Processing IDE is a text editor for code that can quickly execute your programs, called *sketches*.
+[**Processing**](http://processing.org) is a Free and Open Source (FLOSS) programming platform started in 2001 by Casey Reas e Ben Fry, widely used by artists and to teach coding in a visual context. The Processing IDE is a text editor for code that can quickly execute your programs, called *sketches*.
 
 With Processing you can not only generate raster and vector graphics, but interactive applications running on Linux, macOS or Windows. It's community benefits from a rich ecossystem of people creating and sharing educational resources and code libraries.
 
