@@ -2,6 +2,10 @@
 
 # How to install Processing Python Mode
 
+> **Warning**
+> I'd recommend you only use **Processing Python Mode** for legacy projects now.
+> If you are starting to learn Processing and Python, check out [How to install and use **py5**](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html)
+
 ### What's this?
 
 [**Processing**](http://processsing.org) is a Free and Open Source (FLOSS) programming platform started in 2001 by Casey Reas e Ben Fry, widely used by artists and to teach coding in a visual context. The Processing IDE is a text editor for code that can quickly execute your programs, called *sketches*.
