@@ -2,6 +2,11 @@
 
 # Como instalar o Processing modo Python
 
+
+> **Warning**
+> Recomendo não usar mais **Processing Python Mode**, a não ser que você precise executar projetos antigos
+> Se você está começando agora, considere ler sobre **py5** e [como instalar py5](https://abav.lugaralgum.com/como-instalar-py5/index.html)
+
 ### O que é isso?
 
 [**Processing**](http://processsing.org) é uma plataforma livre/aberta de programação criada em 2001 por Casey Reas e Ben Fry, largamente utilizada por artistas e designers, assim como para o ensino de programação num contexto visual. O Processing IDE (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que permite executar programas escritos por você, conhecidos como *sketches*.
