@@ -45,11 +45,11 @@ Comece instalando o **Thonny IDE**.
 
 - Para Windows:
     - Experimente [baixar e deszipar este arquivo](https://www.dropbox.com/scl/fi/ytyzpuyjmtmc5is6dwq3b/thonny-4-with-py5-091-windows-portable.zip?rlkey=ff5kxmyng4ebr1faglaej9zou&dl=0) e pode pular para o passo 4!
-    - ou instale executando o instalador [thonny-4.0.2.exe](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.exe) e continue no passo 2.
+    - ou instale executando o instalador [thonny-4.1.3.exe](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.exe) e continue no passo 2.
 
-- Para MacOS: instalador [thonny-4.0.2.pkg](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.pkg) 
+- Para MacOS: instalador [thonny-4.1.3.pkg](hhttps://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.pkg) 
 
-- Para Linux: [thonny-4.0.2-x86_64.tar.gz](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2-x86_64.tar.gz) ou um [script bash que baixa e instala](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.bash)
+- Para Linux: [script bash que baixa e instala o Thonny 4.1.3](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.bash)
   
   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
