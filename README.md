@@ -25,9 +25,9 @@ com Python em um contexto visual.
 
 #### 2023
 
-- Curso [desenhando com código: programação criativa](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/) no MAM-SP, março e abril de 2023
+- Oficina da Semana do design ESPM. [Design Gerativo](https://hackmd.io/@villares/design-gerativo-espm), março de 2023.
 
-- [Ateliê aberto de programação criativa para fabricação digital](https://hackmd.io/@villares/sesc-atelie-fab-prog), Sesc Av. Paulista, quartas-feiras, 14h30, de março a junho de 2023
+- Material do [Ateliê aberto de programação criativa para fabricação digital](https://hackmd.io/@villares/sesc-atelie-fab-prog), no Sesc Av. Paulista, quartas-feiras, 14h30, de março a junho de 2023
 
 - Processing Community Day Porto 2023
    - [**v344**: playing with GNU Unifont](abav.lugaralgum.com/selected-work/v344/) - obra selecionada para a exposição.
@@ -124,6 +124,11 @@ com Python em um contexto visual.
 - [BeerPaint: Tutorial básico de MIT App Inventor](https://gumroad.com/l/kXiHW)
 
 ### Atividades didáticas
+
+- Curso no Platô [Programação para designers](https://plato.studio/proc), outubro e bovembro de 2023. 
+
+- Curso no MAM-SP, [desenhando com código: programação criativa](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/), março e abril de 2023
+
 
 - Professor na *École Intuit Lab*, linguagem digital e programação criativa, 2023
 
