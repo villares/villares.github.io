@@ -1,5 +1,12 @@
 // This will add links to the headings, linking to anchors to the headings themselves.
 
+Array.from(document.querySelectorAll('[id]')).forEach(el => {
+    const a = document.createElement('a');
+    a.href = `#${el.id}`;
+    a.append(...el.childNodes);
+    el.append(a);
+});
+
 //Array.from(document.querySelectorAll('[id]')).forEach(e => {
 //   const a = document.createElement('a');
 //   a.href=`#${e.id}`;
