@@ -1,19 +1,12 @@
 // This will add links to the headings, linking to anchors to the headings themselves.
-
+// Working with formated headings, thanks to a 2023-11-27 fix by Vesa Piittinen @MerriNet@mastodon.social
+ 
 Array.from(document.querySelectorAll('[id]')).forEach(el => {
     const a = document.createElement('a');
     a.href = `#${el.id}`;
     a.append(...el.childNodes);
     el.append(a);
 });
-
-//Array.from(document.querySelectorAll('[id]')).forEach(e => {
-//   const a = document.createElement('a');
-//   a.href=`#${e.id}`;
-//   a.innerText = e.innerText;
-//   e.innerText = "";
-//   e.appendChild(a);
-//});
 
 // Based on htmlTableOfContents https://stackoverflow.com/a/41085566/19771 
 // If you add a heading named TOC to your markdown named TOC, using `# TOC`, GitHub Pages willl make the heading tag have an id="toc"
