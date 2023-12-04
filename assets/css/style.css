@@ -567,6 +567,12 @@ div.summary-style {
     background: white;
 }
 
+@media screen and (max-width: 600px) {
+  div.summary-style {
+    float: none;
+  }
+}
+
 #summary div.h1 { margin-left: 0 }
 #summary div.h2 { margin-left: 2em }
 #summary div.h3 { margin-left: 4em }
