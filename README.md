@@ -25,8 +25,7 @@ com Python em um contexto visual.
 
 #### 2024
 
-- Curso na Domestika: [**Design com Python: programação para um contexto visual**](
-https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares
+- Curso na Domestika: [**Design com Python: programação para um contexto visual**](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
    - Post no blog [Design com Python: um fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
 
 #### 2023
