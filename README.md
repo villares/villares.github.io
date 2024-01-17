@@ -23,6 +23,12 @@ com Python em um contexto visual.
 
 - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação.
 
+#### 2024
+
+- Curso na Domestika: [**Design com Python: programação para um contexto visual**](
+https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares
+   - Post no blog [Design com Python: um fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
+
 #### 2023
 
 - Oficina da Semana do design ESPM. [Design Gerativo](https://hackmd.io/@villares/design-gerativo-espm), março de 2023.
