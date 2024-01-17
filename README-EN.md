@@ -22,7 +22,7 @@ Teacher, visual artist and consultant in design and new media projects.  Researc
 
 - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Updates on my computational art / creative coding and education work
 
-#### 2024
+### 2024
 
 - My Domestika course: [**Designing with Python: Programming for a Visual Context**](https://www.domestika.org/en/courses/4307-designing-with-python-programming-for-a-visual-context/a_b_a_villares)
    - Blog post [Design with Python: A Fusion of Art and Technology](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
