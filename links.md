@@ -1,8 +1,8 @@
 
 - [**Curso na Domestika** Design com Python: programação para um contexto visual](
 https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
-  - [Design com Python: um fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
-  - [*Design with Python: A Fusion of Art and Technology*](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
+  - Post no blog em Português [Design com Python: uma fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
+  - Blog post in English [*Design with Python: A Fusion of Art and Technology*](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
   
 - [**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e experimentar programação criativa com Python.
 
