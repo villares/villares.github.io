@@ -141,13 +141,14 @@ Note que você vai precisar usar a linha `import py5` no começo do seu código,
 
 ## Referências úteis para usar o py5
 
-* [Documentação oficial do py5](http://py5coding.org/)
-* [Sumário traduzido da referência do py5](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/sumario-referencia-py5.html)
-* [Referência rápida do py5 (colinha)](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf)
+* [Sumário traduzido para o português da referência do py5](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/sumario-referencia-py5.html) e [documentação oficial completa do py5, em inglês](http://py5coding.org/) 
+* [Curso de Python para design com py5 na Domestika](
+https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
+* Material didático aberto [Introdução à programação com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/) (usando py5)
+* [Referência rápida do py5](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf) (versão traduzida da "colinha" do Tristan Bunn)
 * [Fórum do py5](https://github.com/py5coding/py5generator/discussions)
 * [Exemplos de py5 em Jupyter Notebooks](https://github.com/py5coding/py5examples)
 * [Fórum da Fundação Processing](https://discourse.processing.org/)
-* [Introdução à programação com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/)
 
 ### Agradecimentos
 
