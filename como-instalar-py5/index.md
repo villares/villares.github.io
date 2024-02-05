@@ -8,7 +8,7 @@
 
 - Para desenhar e experimentar programação criativa com Python, <br> [siga as instruções abaixo](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);
 - Se você está no Windows, [baixe e deszipe este arquivo](https://www.dropbox.com/scl/fi/ytyzpuyjmtmc5is6dwq3b/thonny-4-with-py5-091-windows-portable.zip?rlkey=ff5kxmyng4ebr1faglaej9zou&dl=0) e pule para o passo 4 (*execute um pequeno exemplo*)!
-- **Um problema conhecido no Windows**: <sub>Se o caminho para a pasta do Thonny e para o JDK Java contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111), e por consequência quebra o py5.</sub> 
+- <sub>**Um problema conhecido no Windows**: Se o caminho da pasta do Thonny e do JDK Java contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5.</sub> 
 
 ## O que é isso?
 
@@ -47,6 +47,7 @@ Comece instalando o **Thonny IDE**.
 - Para Windows:
     - Experimente [baixar e deszipar este arquivo](https://www.dropbox.com/scl/fi/ytyzpuyjmtmc5is6dwq3b/thonny-4-with-py5-091-windows-portable.zip?rlkey=ff5kxmyng4ebr1faglaej9zou&dl=0) e pode pular para o passo 4!
     - ou instale executando o instalador [thonny-4.1.3.exe](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.exe) e continue no passo 2.
+    - **Um problema conhecido**: Se o caminho da pasta do Thonny, e do JDK Java, contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5. Se, por exemplo, o seu nome de usuário tem acentos, experimente mover o Thonny para uma pasta direto em C:\.
 
 - Para MacOS: baixe e exeute o instalador [thonny-4.1.3.pkg](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.pkg) 
 
