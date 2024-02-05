@@ -6,6 +6,7 @@
 
 - To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).
 - If you are on Windows, try to [download and unzip this portanble](https://www.dropbox.com/s/3ue4cx3yf372teg/thonny-4-with-py5-windows-portable.zip?dl=0), and skip to step 4!
+- Known issue: If the path to the folder where you keep Thonny with the Java JDK contains non-ASCII chars, [it will break jpype](https://github.com/jpype-project/jpype/issues/1111) and so it will break py5.  
 
 ## What's this?
 
