@@ -8,6 +8,7 @@
 
 - Para desenhar e experimentar programação criativa com Python, <br> [siga as instruções abaixo](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);
 - Se você está no Windows, [baixe e deszipe este arquivo](https://www.dropbox.com/scl/fi/ytyzpuyjmtmc5is6dwq3b/thonny-4-with-py5-091-windows-portable.zip?rlkey=ff5kxmyng4ebr1faglaej9zou&dl=0) e pule para o passo 4 (*execute um pequeno exemplo*)!
+- **Um problema conhecido**: Se o caminho para pasta do Thonny, onde está o JDK Java, tiver nomes com acento, [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111), e por consequência, quebra o py5. 
 
 ## O que é isso?
 
