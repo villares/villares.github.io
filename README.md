@@ -137,13 +137,13 @@ com Python em um contexto visual.
 
 ### Atividades didáticas
 
-- Curso no Platô [Programação para designers](https://plato.studio/proc), outubro e bovembro de 2023. 
+- Curso no Platô [Programação para designers](https://plato.studio/proc), outubro e novembro de 2023. 
 
 - Curso no MAM-SP, [desenhando com código: programação criativa](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/), março e abril de 2023
 
 - Professor na *École Intuit Lab*, linguagem digital e programação criativa, 2023
 
-- [Instrutor certificado](https://carpentries.org/instructors/) do projeto [The Carpentries](https://carpentries.org/)
+- [Instrutor certificado](https://carpentries.org/instructors/) do projeto [The Carpentries](https://carpentries.org/), 2022
 
 - Estágio docente durante o doutorado no programa ATC FEC-Unicamp, 2021
   
