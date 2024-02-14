@@ -12,7 +12,7 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) - Uma ideia visual por dia, usando programação.
  
 - Material didático aberto [**Introdução à programação com Python em um contexto visual**](https://abav.lugaralgum.com/material-aulas/)
-  - **apoie** com [Liberapay](https://liberapay.com/villares], [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724), ou [Gumroad](https://gumroad.com/villares) 
+  - **apoie** com [Liberapay](https://liberapay.com/villares), [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724), ou [Gumroad](https://gumroad.com/villares) 
 
 - Para pedir as gravações dos encontros [ **Python para quem curte Processing** ...e programação criativa pra quem curte Python](https://form.jotform.com/233352075438658).
 
