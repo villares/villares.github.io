@@ -1,7 +1,7 @@
 
 - [**Curso na Domestika** Design com Python: programação para um contexto visual](
 https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
-  - Desconto de 15% com `A_B_A_VILLARES-15LAUNCH`
+  - Desconto de 10% com `A_B_A_VILLARES-10DESC `
   - Post no blog em Português [Design com Python: uma fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
   - Blog post in English [*Design with Python: A Fusion of Art and Technology*](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
 
