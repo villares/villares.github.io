@@ -25,10 +25,17 @@ com Python em um contexto visual.
 
 #### 2024
 
+- [EM BREVE sábado 17/2 15h][[link para inscrições](https://abav.lugaralgum.com/links)] Oficina [Pensando em 3D com Python: primeiros passos](https://www.youtube.com/watch?v=4ZQ4Af8eoZs), fevereiro de 2024. 
+
 - Curso na Domestika: [**Design com Python: programação para um contexto visual**](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
    - Post no blog [Design com Python: um fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
 
 #### 2023
+
+- Encontros **Python para quem curte Processing e vice-versa*** (*programação criativa pra quem curte Python). Dois encontros [**gravados**](https://form.jotform.com/233352075438658) em dezembro de 2023.
+
+- Processing Community Day Brasil 2023
+   - Palestra [**Python científico na programação criativa: o que eu aprendi até agora de numpy para usar nos meus desenhos**](https://www.youtube.com/watch?v=TuV9T6vTrIM&list=PLCSyFEVJoho5zQWiUd3tYRcXu6CsvcRBF&index=1) (gravação)
 
 - Oficina da Semana do design ESPM. [Design Gerativo](https://hackmd.io/@villares/design-gerativo-espm), março de 2023.
 
@@ -133,7 +140,6 @@ com Python em um contexto visual.
 - Curso no Platô [Programação para designers](https://plato.studio/proc), outubro e bovembro de 2023. 
 
 - Curso no MAM-SP, [desenhando com código: programação criativa](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/), março e abril de 2023
-
 
 - Professor na *École Intuit Lab*, linguagem digital e programação criativa, 2023
 
