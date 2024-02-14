@@ -29,7 +29,13 @@ Teacher, visual artist and consultant in design and new media projects.  Researc
 
 ### 2023
 
-- MAM-SP, [*drawing with code: creative coding*](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/), March and April 2023.
+
+- Processing Community Day Brasil 2023
+    - Palestra Python científico na programação criativa: o que eu aprendi até agora de numpy para usar nos meus desenhos
+
+- Oficina da Semana do design ESPM. Design Gerativo, março de 2023.
+
+- Material do Ateliê aberto de programação criativa para fabricação digital, no Sesc Av. Paulista, quartas-feiras, 14h30, de março a junho de 2023
 
 - Processing Community Day Porto 2023
    - [**v344**: playing with GNU Unifont](abav.lugaralgum.com/selected-work/v344/) - selected work.
@@ -98,9 +104,9 @@ Teacher, visual artist and consultant in design and new media projects.  Researc
 
 #### 2017 - 2018
 
-- Writing for [Esquina](http://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
+- [Writing for **Esquina**](https://web.archive.org/web/20201128041827/https://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
 
-- [Amarello](http://www.amarello.com.br) #27: Guest editor ([opening text](https://github.com/villares/villares.github.io/blob/master/assets/editorial_Amarello%2327.pdf))
+- **[Amarello](http://www.amarello.com.br) #27**: Guest editor ([opening text](https://github.com/villares/villares.github.io/blob/master/assets/editorial_Amarello%2327.pdf))
 
 - *[Python on the Landscape of Programming Tools for Design and Architectural Education](https://villares.github.io/mestrado/VILLARES_MOREIRA_SIGRADI_2017) presented at SIGRADI 2017, Concepcíon, Chile.* [with Daniel de Carvalho Moreira]
 
@@ -116,9 +122,17 @@ Teacher, visual artist and consultant in design and new media projects.  Researc
 
 ### teaching activities
 
+- Course at Platô [Programming for Designers](https://plato.studio/proc), Oct/Noc 2023
+
+- Course at the São Paulo Modern Art Museum (MAM-SP), [drawing with code: creative coding](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/), Mar/Apr 2023
+
+- Teacher at *École Intuit Lab*, creative coding and digital culture, since 2023
+
+- [Certified Carpentries Instructor](https://carpentries.org/instructors/) by [The Carpentries](https://carpentries.org/), 2022
+
 - As a PhD student at FEC-Unicamp, teaching with my supervisor (Daniel Moreira) an elective discipline for architecture undergraduates, 1st semester of 2021: AU262_2021 - Introduction to programming with Python
 
-- Teaching at Fábrica Escola de Humanidades (high school), since 2020
+- Teaching at Fábrica Escola de Humanidades (high school), 2020—2022
 
 - Teacher at Belas Artes, since 2019
   - Scripting culture (Processing Python Mode) for the Digital Architecture and Parametric Design course
