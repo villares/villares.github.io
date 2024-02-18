@@ -5,7 +5,7 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
   - Post no blog em Português [Design com Python: uma fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
   - Blog post in English [*Design with Python: A Fusion of Art and Technology*](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
 
-- [**Oficina Pensando em 3D com Python: primeiros passos**](https://www.youtube.com/watch?v=4ZQ4Af8eoZs) - Sábado 17 de fevereiro 15h (GMT-03) - [inscrições pelo Zoom](https://zoom.us/j/93655566518?pwd=UDR3RG5nL1JLeG01cTZwenpodzMyZz09)
+- Tutorial [**Pensando em 3D com Python: primeiros passos**](https://hackmd.io/@villares/pensando-3D-python)
   
 - [**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e experimentar programação criativa com Python.
 
