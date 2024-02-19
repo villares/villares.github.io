@@ -30,7 +30,7 @@ com Python em um contexto visual.
 
 - Tutorial online para DigitalFUTURES **Pensando em 3D com Python**: primeiros passos. ([gravação](https://www.youtube.com/watch?v=4ZQ4Af8eoZs), [material da apresentação](https://hackmd.io/@villares/pensando-3D-python)), fevereiro de 2024. 
 
-- Encontros **Python para quem curte Processing e vice-versa*** (*programação criativa pra quem curte Python). Dois encontros [**gravados**](https://form.jotform.com/233352075438658) em dezembro de 2023.
+- [**Gravações**](https://form.jotform.com/233352075438658) de **Python para quem curte Processing e vice-versa*** (*programação criativa pra quem curte Python). Dois encontros em dezembro de 2023.
 
 - Processing Community Day Brasil 2023
    - Palestra [**Python científico na programação criativa: o que eu aprendi até agora de numpy para usar nos meus desenhos**](https://www.youtube.com/watch?v=TuV9T6vTrIM&list=PLCSyFEVJoho5zQWiUd3tYRcXu6CsvcRBF&index=1) (gravação)
