@@ -8,7 +8,7 @@
 
 - Para desenhar e experimentar programação criativa com Python, <br> [siga as instruções abaixo](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);
 - Se você está no Windows, [baixe e deszipe este arquivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t&dl=0), abra o `thonny.exe` e pule para o passo 4 (*execute um pequeno exemplo*)!
-- <sub>**Um problema conhecido no Windows**: Se o caminho da pasta do Thonny e do JDK Java contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5 [[leia mais](#1-baixe-e-instale-o-thonny-ide)].</sub> 
+  <sub>**Um problema conhecido no Windows**: Se o caminho da pasta do Thonny e do JDK Java contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5.</sub> 
 
 ## O que é isso?
 
@@ -47,7 +47,7 @@ Comece instalando o **Thonny IDE**.
 - Para Windows:
     - Experimente [baixar e deszipar este arquivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t&dl=0), faça um clique duplo em `thonny.exe` e pode pular para o passo 4!
     - ou instale executando o instalador [thonny-4.1.3.exe](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.exe) e continue no passo 2.
-    - **Um problema conhecido**: Se o caminho da pasta do Thonny, e do JDK Java, contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5. Se, por exemplo, o seu nome de usuário tem acentos, experimente mover o Thonny para uma pasta direto em C:\.
+     - **Um problema conhecido no Windows**: Se o caminho da pasta do Thonny, e do JDK Java, contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5. Se, por exemplo, o seu nome de usuário tem acentos, experimente mover o Thonny para uma pasta direto em `C:\`.
 
 - Para MacOS: baixe e exeute o instalador [thonny-4.1.3.pkg](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.pkg) 
 
@@ -138,7 +138,6 @@ def draw():
 
 py5.run_sketch()
 ```
-
 Note que você vai precisar usar a linha `import py5` no começo do seu código, a linha `py5.run_sketch()` no final, assim como o prefixo `py5.` para todas as funções, constantes e variáveis oferecidas pela bibliota *py5*.
 
 ## Referências úteis para usar o py5
@@ -148,13 +147,13 @@ Note que você vai precisar usar a linha `import py5` no começo do seu código,
 https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
 * Material didático aberto [Introdução à programação com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/) (usando py5)
 * [Referência rápida do py5](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf) (versão traduzida da "colinha" do Tristan Bunn)
-* [Fórum do py5](https://github.com/py5coding/py5generator/discussions)
 * [Exemplos de py5 em Jupyter Notebooks](https://github.com/py5coding/py5examples)
+* [Fórum do py5](https://github.com/py5coding/py5generator/discussions)
 * [Fórum da Fundação Processing](https://discourse.processing.org/)
 
 ### Agradecimentos
 
-Agradecimentos muito especiais ao criador do *py5*, [Jim](https://twitter.com/py5coding), aos mantenedores do IDE [Thonny](https://twitter.com/thonnyIDE), e ao [tabreturn](https://twitter.com/tabreturn) que fez o plug-in *thonny-py5mode*, que facilita demais a instalação e uso do *py5*, as instruções em inglês dele são o ponto de partida destas instruções e fonte das imagens todas!
+Agradecimentos muito especiais ao criador do *py5*, [Jim](https://ixora.io/), aos mantenedores do IDE [Thonny](https://github.com/thonny/), e ao [tabreturn](https://portfolio.tabreturn.com/) que fez o plug-in *thonny-py5mode*, que facilita demais a instalação e uso do *py5*, as instruções em inglês dele são o ponto de partida destas instruções e fonte das imagens todas!
 
 --- 
 
