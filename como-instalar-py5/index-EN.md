@@ -141,22 +141,18 @@ py5.run_sketch()
 
 Note that you will need to use `import py5` at the beginning of your code, and `py5.run_sketch()` at the end, as well as the `py5.` prefix for all functions, constants and variables offered by the *py5* library.
 
-### Useful references for using py5
-
-- [tabreturn's py5 quick reference](https://github.com/tabreturn/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf)
-
-- [py5 forum](https://github.com/py5coding/py5generator/discussions)
+### Useful resources for using py5
 
 - [official py5 documentation py5](http://py5coding.org/)
-
 - [examples in Jupyter Notebooks](https://github.com/py5coding/py5examples)
-
-- [Processing Foundation Forum](https://discourse.processing.org/)
+- [tabreturn's py5 quick reference](https://github.com/tabreturn/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf)
+- The py5 [discussions](https://github.com/py5coding/py5generator/discussions) forum on GitHub
+- The py5 category at the [Processing Foundation Forum](https://discourse.processing.org/c/a-version-of-processing-for-python-38-to-work-with-other-popular-python-libraries-and-tools-such-as-jupyter-numpy-shapely-trimesh-matplotlib-and-pillow-built-to-work-with-popular-python-libraries-and-tools-such-as-jupyter-numpy-shapely-etc/28)
 
 ### Acknowledgments
 
-Very special thanks to [Jim](https://twitter.com/py5coding), creator of py5, the maintainers of [Thonny IDE](https://twitter.com/thonnyIDE), and [tabreturn](https://twitter.com/tabreturn) who made the *thonny-py5mode* plugin, which makes installing and using py5 much easier, most of the step-by-step part and all the images came from the installing intructions at his page, I just added some context and comments!
+Very special thanks to [Jim](https://ixora.io/), creator of py5, the maintainers of [Thonny IDE](https://github.com/thonny/), and [tabreturn](https://portfolio.tabreturn.com/) who made the *thonny-py5mode* plugin, which makes installing and using py5 much easier, most of the step-by-step part and all the images came from the installing intructions at his page, I just added some context and comments!
 
 ---
 
-Alexandre BA Villares ([abav.lugaralgum.com](https://abav.lugaralgum.com/)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Alexandre B A Villares ([abav.lugaralgum.com](https://abav.lugaralgum.com/)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
