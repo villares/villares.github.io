@@ -137,15 +137,29 @@ com Python em um contexto visual.
 
 - [BeerPaint: Tutorial básico de MIT App Inventor](https://gumroad.com/l/kXiHW)
 
-### Atividades didáticas
+### Atividades docentes
 
-- Professor na *École Intuit Lab*, linguagem digital e programação criativa, 2023
+- Professor na *École Intuit Lab*, linguagem digital e programação criativa, desde 2023
 
 - [Instrutor certificado](https://carpentries.org/instructors/) do projeto [The Carpentries](https://carpentries.org/), 2022
+
+- Professor no Centro Universitário Belas Artes de São Paulo, desde 2019
+  
+  - Cultura do Script (Python) - Pós-graduação Arquitetura Digital e Design Paramétrico
+
+- Educador de tecnologias e artes no Sesc Avenida Paulista, desde 2018
+  
+  - Atividades educativas diversas na intersecção das artes visuais e da tecnologia, especialmente usando Processing e Python:  Curso de introdução à arte computacional / algorítmica; Objetos de papel com programação e corte laser; Tipografia experimental com programação; Estêncil com programação; Estêncil com programação, aplicação em tecido e costura (com Pat Campos); Programação, fresadora CNC e estamparia de tecidos (com Pat Campos); Desenhos interativos usando Arduino e potenciômetros; Mandalas com corte laser;  Gerador de Kirigami com programação; Caixinhas de MDF, programação e corte laser (com Maraiza Adami);  Ateliê aberto de fabricação digital para programação criativa.
+
+#### anteriores
 
 - Estágio docente durante o doutorado no programa ATC FEC-Unicamp, 2021
   
   - Disciplina eletiva de introdução à programação com Python na graduação do curso de arquitetura e urbanismo da FEC-Unicamp, primeiro semestre de 2021
+
+- Professor na Escola da Cidade, de 2005 a 2022
+  
+  - Meios Digitais (Modelagem 3D, fabricação digital e temas diversos)
 
 - Professor na Fábrica Escola de Humanidades, 2020-2022
 
@@ -153,32 +167,20 @@ com Python em um contexto visual.
   - Eixos Artes (2⁰ ano) e Filosofia (1⁰ ano), 2021
   - Eixo Filosofia (1⁰ ano), 2020
 
-- Professor no Centro Universitário Belas Artes de São Paulo, desde 2019
-  
-  - Cultura do Script (Python) - Pós-graduação Arquitetura Digital e Design Paramétrico
-
 - Professor na Escola Britânica de Artes Criativas - EBAC, 2019
   
   - Programação criativa para o curso Arte e Mídias Digitais
-
-- Educador de tecnologias e artes no Sesc Avenida Paulista, desde 2018
-  
-  - Atividades educativas diversas na intersecção das artes visuais e da tecnologia, especialmente usando Processing e Python:  Curso de introdução à arte computacional / algorítmica; Objetos de papel com programação e corte laser; Tipografia experimental com programação; Estêncil com programação; Estêncil com programação, aplicação em tecido e costura (com Pat Campos); Programação, fresadora CNC e estamparia de tecidos (com Pat Campos); Desenhos interativos usando Arduino e potenciômetros; Mandalas com corte laser;  Gerador de Kirigami com programação; Caixinhas de MDF, programação e corte laser (com Maraiza Adami);  Ateliê aberto de fabricação digital para programação criativa.
 
 - Professor no Instituto Europeo di Design - São Paulo - IED-SP,  2016—2019
   
   - Programação Criativa - Pós-graduação em design de interação
   - Modelagem 3D, VR/AR - Tópicos especiais
 
-- Professor na Escola da Cidade, desde 2005
+- [arteprog](http://arteprog.space) arte e programação - cursos e atividades em colaboração com [Monica Rizzolli](https://github.com/monicarizzolli)
   
-  - Meios Digitais (Modelagem 3D, fabricação digital e temas diversos)
+  - [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa), SESC-SP (diversas unidades) 2016, 2017, 2018 e Casa Plana 2019.
 
-- [arteprog](http://arteprog.space) arte e programação
-  
-  - [Programação criativa e arte argorítmica](http://arteprog.space/programacao-criativa) com [Monica Rizzolli](https://github.com/monicarizzolli), SESC-SP (diversas unidades) 2016, 2017, 2018 e Casa Plana 2019.
-
-- [Estúdio Hacker](https://estudiohacker.io) Grupo multidisciplinar para atividades educacionais, tecnológicas e artísticas
+- [Estúdio Hacker](https://estudiohacker.io) - Grupo multidisciplinar para atividades educacionais, tecnológicas e artísticas
   
   - Inauguração do SESC 24 de maio
   - Estúdio Hacker Day 2017
