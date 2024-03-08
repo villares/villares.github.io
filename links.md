@@ -5,9 +5,12 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
   - Post no blog em Português [Design com Python: uma fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
   - Blog post in English [*Design with Python: A Fusion of Art and Technology*](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
 
-- Live de Python #260 [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI)  
+- Grátis **[Programação para Ilustradores: Criação de Retículas com Programação
+](https://www.sescsp.org.br/programacao/programacao-para-ilustradores-criacao-de-reticulas-com-programacao/)** curso de 4 encontros, quintas 14h30, no Sesc Av. Paulista, começando 14/3. 
 
-- Tutorial [**Pensando em 3D com Python: primeiros passos**](https://hackmd.io/@villares/pensando-3D-python)
+- Gravação da Live de Python #260 [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI)  
+
+- Material do Tutorial [**Pensando em 3D com Python: primeiros passos**](https://hackmd.io/@villares/pensando-3D-python) (tem link para a gravação!)
   
 - [**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e experimentar programação criativa com Python.
 
