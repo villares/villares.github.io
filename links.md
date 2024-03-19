@@ -6,12 +6,14 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
 
 - ***You can support my work with:*** [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724), [Liberapay](https://liberapay.com/villares), or [Gumroad](https://gumroad.com/villares) (**para apoiar o meu trabalho**)
 
-- Participação no [Podcast FreeCodeCamp em português #22](https://www.freecodecamp.org/portuguese/news/podcast-ep22/)
+- Participação no [**Podcast FreeCodeCamp em português #22**](https://www.freecodecamp.org/portuguese/news/podcast-ep22/)
 
 - Gravação da **Live de Python #260**: [Criando desenhos com py5: programação criativa](https://www.youtube.com/watch?v=dAnIWmJ-2NI)  
 
 - Material do Tutorial [**Pensando em 3D com Python: primeiros passos**](https://hackmd.io/@villares/pensando-3D-python) (tem link para a gravação!)
-  
+
+- [***How to install and start using py5***](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html), para desenhar e experimentar programação criativa com Python.
+
 - [**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e experimentar programação criativa com Python.
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) - Uma ideia visual por dia, usando programação.
@@ -20,6 +22,6 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
   
 - Para pedir as gravações dos encontros [ **Python para quem curte Processing** ...e programação criativa pra quem curte Python](https://form.jotform.com/233352075438658).
 
-- Me encontre no **Mastodon** em [ciberlandia.pt/@villares](https://ciberlandia.pt/@villares) e [pynews.com.br/@villares](https://pynews.com.br/@villares).
+- **Mastodon** [ciberlandia.pt/@villares](https://ciberlandia.pt/@villares) & [pynews.com.br/@villares](https://pynews.com.br/@villares).
 
-II/2024 [Alexandre B A Villares](https://abav.lugaralgum.com)
+III/2024 [Alexandre B A Villares](https://abav.lugaralgum.com)
