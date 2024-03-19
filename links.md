@@ -4,7 +4,7 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
   - Domestika Blog post in English [*Design with Python: A Fusion of Art and Technology*](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
   - ... e em Português [Design com Python: uma fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
 
-- ***You can support my work with***, me apoie com [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724), [Liberapay](https://liberapay.com/villares), or [Gumroad](https://gumroad.com/villares) 
+- ***You can support my work with:*** [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724), [Liberapay](https://liberapay.com/villares), or [Gumroad](https://gumroad.com/villares) (**para apoiar o meu trabalho**)
 
 - Participação no [Podcast FreeCodeCamp em português #22](https://www.freecodecamp.org/portuguese/news/podcast-ep22/)
 
