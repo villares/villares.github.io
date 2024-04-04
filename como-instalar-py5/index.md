@@ -1,6 +1,6 @@
 # Como instalar e começar a usar a biblioteca py5
 
-[[English Version](index-EN.md)]
+[[English Version](index-EN.md)] [[version en español ](index-ES.md)]
 
 <h1 id="toc"></h1>
 
