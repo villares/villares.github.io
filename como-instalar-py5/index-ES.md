@@ -57,7 +57,7 @@ Comienza instalando el IDE **de** Thonny.
 
 ## 2\. Instala la librería *py5*
 
-Una vez abierto Thonny, selecciona **Tools* (Herramientas) > *Manage packafes* (Gestionar paquetes) en el menú.
+Una vez abierto Thonny, selecciona *Tools* (Herramientas) > *Manage packages* (Gestionar paquetes) en el menú.
 
 Busca la librería **py5** y pide que se instale.
 
