@@ -18,13 +18,13 @@
 
 [**Processing**](https://processing.org) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para enseñar de la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
 
-Processing se basa originalmente en el lenguaje de programación Java, pero hoy en día existen varios proyectos que desarrollan las ideas de Processing con otros lenguajes, como *p5js* con Javascript, *pyp5js* (combinando Python en el navegador, pyodide, y *p5js*), y ahora **py5** con Python 3.
+Processing se basa originalmente en el lenguaje de programación Java, pero hoy en día existen varios proyectos que desarrollan las ideas de Processing con otros lenguajes, como *p5js* con Javascript, *pyp5js* (combinando Python en el navegador, pyodide, y *p5js*), y ahora *** con Python 3.
 
-Para usar **py5** necesitarás
+Para usar *** necesitarás
 
 - Tener un intérprete de **Python 3** (versión 3.8 o posterior);
 
-- Instalar la librería **py5** y sus dependencias (otras librerías que necesita para funcionar, como JPype);
+- Instalar la librería *** y sus dependencias (otras librerías que necesita para funcionar, como JPype);
 
 - Un **Java (JDK)**, que py5 necesita para la infraestructura de dibujo, y tu JPype necesita saber dónde está, a través de la variable JAVA-HOME;
 
@@ -33,12 +33,12 @@ Para usar **py5** necesitarás
 Se sugiere aquí es seguir los siguientes pasos:
 
 1. Descargar e instalar el **Thonny IDE** que viene con Python 3.10 o posterior;
-2. Instalar el paquete **py5** dentro de *Thonny*;
+2. Instalar el paquete *** dentro de *Thonny*;
 3. Instalar la extensión (plug-in), **thonny-py5mode**. Cuando se ejecuta por primera vez, el plug-in *thonny-py5mode* instala y configura el **JDK** por ti;
 4. Comprueba que todo funciona **ejecutando un pequeño ejemplo**.
 5. (Extra) Aprende la diferencia entre el **imported mode** y el **module mode**.
 
-Si eso no funciona, otra forma de conseguir todo lo que necesitas es seguir las instrucciones de la [documentación de py5](https://py5coding.org/content/install.html), empezando por instalar una distribución Anaconda o miniconda, que viene con un Python y el gestor de paquetes *conda*, para instalar *py5*, y luego instalar también el JDK.
+Si eso no funciona, otra forma de conseguir todo lo que necesitas es seguir las instrucciones de la [documentación de py5](https://py5coding.org/content/install.html), empezando por instalar una distribución Anaconda o miniconda, que viene con un Python y el gestor de paquetes *conda*, para instalar *, y luego instalar también el JDK.
 
 ## 1\. Descargar e instalar el Thonny IDE
 
@@ -55,11 +55,11 @@ Comienza instalando el IDE **de** Thonny.
 
   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
-## 2\. Instala la librería *py5*
+## 2\. Instala la librería *
 
 Una vez abierto Thonny, selecciona *Tools* (Herramientas) > *Manage packages* (Gestionar paquetes) en el menú.
 
-Busca la librería **py5** y pide que se instale.
+Busca la librería *** y pide que se instale.
 
 ## 3\. Instala el plugin *thonny-py5mode*
 
@@ -112,7 +112,7 @@ Si tienes problemas para ejecutarlo, recuerda detener cualquier otra ejecución 
 
 ### ¿Qué es el modo importado, *imported mode*, opción proporcionada por el plug-in *thonny-py5mode*?
 
-Cuando la opción de menú *py5 > *imported mode for py5* está activada, puedes escribir tus programas (que también se llaman *sketches*) de forma simplificada, esto es [imported mode](https://py5coding.org/content/py5\_modes.html#imported-mode). En este "modo" Thonny ejecutará tu código utilizando el py5 *sketch runner*, una herramienta especial que también puede ejecutarse desde la línea de comandos si no estás utilizando Thonny.
+Cuando la opción de menú *py5 > imported mode for py5* está activada, puedes escribir tus programas (que también se llaman *sketches*) de forma simplificada, esto es [imported mode](https://py5coding.org/content/py5\_modes.html#imported-mode). En este "modo" Thonny ejecutará tu código utilizando el py5 *sketch runner*, una herramienta especial que también puede ejecutarse desde la línea de comandos si no estás utilizando Thonny.
 
 **Advertencia:** El *imported mode* es adecuado para ejecutar código Python que no haga uso de la librería *py5*.
 
