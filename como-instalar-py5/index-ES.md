@@ -15,7 +15,7 @@
 
 ⚹<sub>Las librerías son paquetes de código con funciones complementarias ya hechas, desarrolladas de antemano, para ayudar al desarrollo de nuevos programas.</sub>
 
-[Processing.org">**Processing**](<http://\<glossary variable=>) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para enseñar de la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
+[**Processing**](https://processing.org) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para enseñar de la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
 
 Processing se basa originalmente en el lenguaje de programación Java, pero hoy en día existen varios proyectos que desarrollan las ideas de Processing con otros lenguajes, como *p5js* con Javascript, *pyp5js* (combinando Python en el navegador, pyodide, y *p5js*), y ahora **py5** con Python 3.
 
@@ -146,15 +146,16 @@ Ten en cuenta que necesitarás utilizar la línea `import py5` al principio de t
 - [Resumen traducido al portugués de la referencia de py5](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/sumario-referencia-py5.html)
 - [Curso de Python para diseño con py5 en Domestika](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
 - Open courseware en portugués [Introdução à programação com Python em um contexto visual](<https://abav.lugaralgum.com/material-aulas/\<glossary variable=>) (con py5)
-  [tabreturn's py5 quick reference](https://github.com/tabreturn/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf) (e [version en portugués](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf))
-- [ejemplos de py5 en Jupyter Notebooks](https://github.com/py5coding/py5examples)
-- [foro py5](https://github.com/py5coding/py5generator/discussions)
+  [Quick reference for py5 by tabreturn](https://github.com/tabreturn/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf) ([version en portugués](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf))
+- [Ejemplos de py5 en Jupyter Notebooks](https://github.com/py5coding/py5examples)
+- [Foro py5](https://github.com/py5coding/py5generator/discussions)
 - [Foro de la Fundación Processing](https://discourse.processing.org/c/a-version-of-processing-for-python-38-to-work-with-other-popular-python-libraries-and-tools-such-as-jupyter-numpy-shapely-trimesh-matplotlib-and-pillow-built-to-work-with-popular-python-libraries-and-tools-such-as-jupyter-numpy-shapely-etc/28)
 
 ### Agradecimientos
 
 Un agradecimiento especial al creador de *py5*, [Jim](https://ixora.io/), a los mantenedores del IDE [Thonny](https://github.com/thonny/), y a [tabreturn](https://portfolio.tabreturn.com/) que hizo el plug-in *thonny-py5mode*, que hace la instalación y el uso de *py5* mucho más fácil, ¡sus instrucciones en inglés son el punto de partida de estas instrucciones y la fuente de todas las imágenes!
 
-***
+- Gracias a [@ifrit](https://masto.ai/@ifrit) por corregir la traducción.
 
+---
 Alexandre B A Villares[(abav.lugaralgum.com](https://abav.lugaralgum.com)), [Licencia CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
