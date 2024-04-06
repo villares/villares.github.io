@@ -4,18 +4,18 @@
 
 <h1 id="toc"/>
 
-### Muy breve resumen
+### Resumen muy resumido
 
-- Para diseñar y experimentar con la programación creativa con Python,<br/>[siga las siguientes instrucciones](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);<br/>
-- Si estás en Windows, [descarga y descomprime este archivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t\&dl=0), abre `thonny.exe` y salta al paso 4*(ejecuta un pequeño ejemplo*)**¡Un problema conocido en Windows**: Si la ruta de la carpeta de Thonny y JDK Java contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5.
+- Para diseñar y experimentar con la programación creativa con Python,<br/>[sigue las siguientes instrucciones](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);<br/>
+- Si estás en Windows, [descarga y descomprime este archivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t\&dl=0), abre `thonny.exe` y salta al paso 4*(ejecuta un pequeño ejemplo*)**¡Un problema conocido en Windows**: Si la ruta de la carpeta de Thonny y de JDK Java contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5.
 
 ## ¿Qué es py5?
 
-[**py5**](https://github.com/py5coding) es una librería⚹ que permite utilizar el vocabulario y la infraestructura gráfica de **Processing** junto con la última versión del lenguaje **Python**.
+[**py5**](https://github.com/py5coding) es una librería⚹ que permite utilizar el vocabulario y la infraestructura gráfica de **Processing** con la última versión del lenguaje **Python**.
 
-Las bibliotecas son paquetes de código con funciones complementarias ya hechas, desarrolladas de antemano, para ayudar al desarrollo de nuevos programas.
+⚹<sub>Las librerías son paquetes de código con funciones complementarias ya hechas, desarrolladas de antemano, para ayudar al desarrollo de nuevos programas.</sub>
 
-[Processing.org">**Processing**](<http://\<glossary variable=>) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para la enseñanza de la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
+[Processing.org">**Processing**](<http://\<glossary variable=>) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para enseñar de la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
 
 Processing se basa originalmente en el lenguaje de programación Java, pero hoy en día existen varios proyectos que desarrollan las ideas de Processing con otros lenguajes, como *p5js* con Javascript, *pyp5js* (combinando Python en el navegador, pyodide, y *p5js*), y ahora **py5** con Python 3.
 
@@ -27,42 +27,42 @@ Para usar **py5** necesitarás
 
 - Un **Java (JDK)**, que py5 necesita para la infraestructura de dibujo, y tu JPype necesita saber dónde está, a través de la variable JAVA-HOME;
 
-- Un **IDE** (entorno de desarrollo integrado), en pocas palabras, un editor de texto adecuado para el código, que también facilita la ejecución de los programas que escribes. Algunas personas prefieren escribir Python en *Jupyter Notebooks*, eso también está bien pero no es el objetivo de este paso a paso.
+- Un **IDE** (de las siglas em inglés de entorno de desarrollo integrado), en pocas palabras, un editor de texto adecuado para código, que también facilita la ejecución de los programas que escribes. Algunas personas prefieren escribir Python en *Jupyter Notebooks*, que también está bien pero no es el objetivo de este paso a paso.
 
-La sugerencia aquí es seguir los siguientes pasos:
+Se sugiere aquí es seguir los siguientes pasos:
 
-1. Descargar e instalar el **IDE Thonny** que viene con Python 3.10 o posterior;
+1. Descargar e instalar el **Thonny IDE** que viene con Python 3.10 o posterior;
 2. Instalar el paquete **py5** dentro de *Thonny*;
 3. Instalar la extensión (plug-in), **thonny-py5mode**. Cuando se ejecuta por primera vez, el plug-in *thonny-py5mode* instala y configura el **JDK** por ti;
 4. Comprueba que todo funciona **ejecutando un pequeño ejemplo**.
-5. (Extra) Aprende la diferencia entre el **modo importado** y el **modo módulo**.
+5. (Extra) Aprende la diferencia entre el **imported mode** y el **module mode**.
 
-Si eso no funciona, otra forma de conseguir todo lo que necesitas es seguir las instrucciones de la [documentación de py5](https://py5coding.org/content/install.html), empezando por instalar una distribución Anaconda o miniconda, que viene con un gestor de paquetes Python y *conda*, para instalar *py5*, y luego instalar también el JDK.
+Si eso no funciona, otra forma de conseguir todo lo que necesitas es seguir las instrucciones de la [documentación de py5](https://py5coding.org/content/install.html), empezando por instalar una distribución Anaconda o miniconda, que viene con un Python y el gestor de paquetes *conda*, para instalar *py5*, y luego instalar también el JDK.
 
-## 1\. Descargar e instalar el IDE Thonny
+## 1\. Descargar e instalar el Thonny IDE
 
 Comienza instalando el IDE **de** Thonny.
 
 - Para Windows:
-  - ¡Intenta [descargar y descomprimir este archivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t\&dl=0), haz doble clic en thonny `.exe` y podrás saltar al paso 4!
-  - o instale ejecutando el instalador [thonny-4.1.3.exe](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.exe) y continúe con el paso 2.
-  - **Un problema conocido en Windows**: Si la ruta de la carpeta de Thonny, y del Java JDK, contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5. Si, por ejemplo, tu nombre de usuario tiene acentos, intenta mover Thonny a una carpeta directamente debajo de `C:\.`
+  - ¡Prueba [descargar y descomprimir este archivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t\&dl=0), haz doble clic en thonny `.exe` y podrás saltar al paso 4!
+  - o instálalo ejecutando el instalador [thonny-4.1.3.exe](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.exe) y continúe con el paso 2.
+  - **Un problema en Windows**: Si la ruta de la carpeta de Thonny, y del Java JDK, contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5. Si, por ejemplo, tu nombre de usuario tiene acentos, intenta mover Thonny a una carpeta directamente debajo de `C:\.`
 
 - Para MacOS: descarga y ejecuta el instalador [thonny-4.1.3.pkg](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.pkg)
 
-- Para Linux: ejecute este [script bash que descarga e instala Thonny 4.](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.bash)1.3
+- Para Linux: ejecute este [script bash que descarga e instala Thonny 4.1.3](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.bash)
 
   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
-## 2\. Instalar la librería *py5*
+## 2\. Instala la librería *py5*
 
-Una vez abierto Thonny, selecciona *Herramientas >* *Gestionar* *paquetes*... en el menú.****
+Una vez abierto Thonny, selecciona **Tools* (Herramientas) > *Manage packafes* (Gestionar paquetes) en el menú.
 
 Busca la librería **py5** y pide que se instale.
 
-## 3\. Instalar el plugin *thonny-py5mode*
+## 3\. Instala el plugin *thonny-py5mode*
 
-Todavía en Thonny, seleccione *Herramientas* > Administrar *plug-ins*... en el menú.****
+Todavía en Thonny, selecciona *Tools* (Herramientas) >*Manage plug-ins* (Administra plugins) en el menú.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.01-manage-plug-ins.png)
 
@@ -76,11 +76,11 @@ Una vez reiniciado, debería aparecer un nuevo menú *py5* en la interfaz de Tho
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
 
-Al pulsar esta opción por primera vez, el plug-in descargará, extraerá y configurará el JDK por usted (en el directorio user-config de Thonny). Este proceso puede tardar un poco, dependiendo de tu conexión, pero sólo ocurre la primera vez que activas el menú.
+Al pulsar esta opción por primera vez, el plug-in descargará, extraerá y configurará el JDK por usted (en el directorio user-config de Thonny). Este proceso puede tardar un poco, dependiendo de tu conexión, pero sólo es la primera vez que activas el menú.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.02-download-jdk.png)
 
-Verás este aviso cuando haya terminado.
+Verás este aviso cuando hayas terminado.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.03-download-jdk-done.png)
 
@@ -92,7 +92,7 @@ Si quieres, ejecuta el comando opcional *Apply recommended py5 settings*, que re
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.01-imported-activated.png)
 
-Ahora lo principal: con la opción de *modo importado* activada en el menú de *py5*, puedes ejecutar el siguiente código usando el botón de la flecha verde o CTRL+R (o COMANDO+R en Mac) .
+Ahora lo importante: con la opción de *imported mode* (modo importado) activada en el menú de *py5*, puedes ejecutar el siguiente código usando el botón de la flecha verde o CTRL+R (o COMANDO+R en Mac) .
 
 ```python
 def setup():
@@ -107,23 +107,23 @@ Si tienes problemas para ejecutarlo, recuerda detener cualquier otra ejecución 
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/06.02-running-sketch.png)
 
-## 5\. Conoce la diferencia entre modo *importado* y modo *módulo*
+## 5\. Conoce la diferencia entre *imported mode* y *module mode*
 
-### ¿Qué es el modo importado *para py5* opción proporcionada por el plug-in *thonny-py5mode*?
+### ¿Qué es el modo importado, *imported mode*, opción proporcionada por el plug-in *thonny-py5mode*?
 
-Cuando la opción de menú *py5 > Modo* [importado](https://py5coding.org/content/py5\_modes.html#imported-mode) *para py5* está activada, puedes escribir tus programas (que también se llaman *sketches*) de forma simplificada, esto es [modo importado](https://py5coding.org/content/py5\_modes.html#imported-mode). En este "modo" Thonny ejecutará tu código utilizando el py5 *sketch runner*, una herramienta especial que también puede ejecutarse desde la línea de comandos si no estás utilizando Thonny.
+Cuando la opción de menú *py5 > *imported mode for py5* está activada, puedes escribir tus programas (que también se llaman *sketches*) de forma simplificada, esto es [imported mode](https://py5coding.org/content/py5\_modes.html#imported-mode). En este "modo" Thonny ejecutará tu código utilizando el py5 *sketch runner*, una herramienta especial que también puede ejecutarse desde la línea de comandos si no estás utilizando Thonny.
 
-**Advertencia:** El modo *importado* no es adecuado para ejecutar código Python que no haga uso de la librería *py5*.
+**Advertencia:** El *imported mode* es adecuado para ejecutar código Python que no haga uso de la librería *py5*.
 
-En este "modo importado", el vocabulario de la biblioteca *py5*, es decir, los nombres de las funciones, constantes y variables del sistema (como la posición del ratón), está disponible sin el prefijo `py5` (que es necesario en el *modo módulo*, como veremos más adelante), y su programa se ejecutará automáticamente mediante una función "run_sketch" de la biblioteca *py5*.
+En este "modo importado", el vocabulario de la biblioteca *py5*, es decir, los nombres de las funciones, constantes y variables del sistema (como la posición del ratón), está disponible sin el prefijo `py5` (que es necesario en el *module mode*, como veremos más adelante), y su programa se ejecutará automáticamente mediante una función "run_sketch" de la biblioteca *py5*.
 
-Con el *modo importado* activado, también puedes ejecutar sketches [en modo estático](https://py5coding.org/content/py5\_modes.html#static-mode), es decir, los que no tienen animación ni interactividad porque no tienen declarada la función `draw` (). Pero estos necesitan tener `size` () al principio.
+Con el *imported mode* activado, también puedes ejecutar sketches [en modo estático](https://py5coding.org/content/py5\_modes.html#static-mode), es decir, los que no tienen animación ni interactividad porque no tienen declarada la función `draw()`. Pero necesitan tener `size()` al principio.
 
-### ¿Qué es el modo *módulo* y cómo podemos utilizarlo?
+### ¿Qué es el *module mode* y cómo podemos utilizarlo?
 
-Cuando desactivas la opción de modo *importado* en el menú *py5*, devuelves a Thonny al comportamiento normal para ejecutar cualquier código Python.
+Cuando desactivas la opción de *imported mode* en el menú *py5*, devuelves a Thonny al comportamiento normal para ejecutar cualquier código Python.
 
-En este caso, puedes usar la librería *py5* en [modo módulo](https://py5coding.org/content/py5\_modes.html#module-mode), que es como se manejan la mayoría de las librerías Python, es decir, `importando` la librería al principio con la sentencia `import`, y llamando a sus funciones con el nombre de la librería como prefijo.
+En este caso, puedes usar la librería *py5* en [module mode](https://py5coding.org/content/py5\_modes.html#module-mode), que es como se manejan la mayoría de las librerías Python, es decir, importando la librería al principio con la sentencia `import`, y llamando a sus funciones con el nombre de la librería como prefijo.
 
 ```python
 import py5
@@ -138,20 +138,18 @@ def draw():
 py5.run_sketch()
 ```
 
-Ten en cuenta que necesitarás utilizar la línea `import py5` al principio de tu código, la línea py5 `.run_sketch()` al final, así como el prefijo `py5.` para todas las funciones, constantes y variables que ofrece la librería *py5*.
+Ten en cuenta que necesitarás utilizar la línea `import py5` al principio de tu código, la línea py5 `py5.run_sketch()` al final, así como el prefijo `py5.` para todas las funciones, constantes y variables que ofrece la librería *py5*.
 
 ## Referencias útiles para utilizar py5
 
-- [Processing-Python-py5/sumario-referencia-py5.html">Resumen traducido al portugués de la referencia de py5](<https://abav.lugaralgum.com/material-aulas/\<glossary variable=>) y [documentación oficial completa de py5, en inglés](http://py5coding.org/)
-- \[Curso de Python para el diseño con py5 en Domestika]\(
-
-[https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
-
-- Open courseware [Processing-Python-py5/">Introducción a la programación con Python en un contexto visual](<https://abav.lugaralgum.com/material-aulas/\<glossary variable=>) (usando py5)
-- py5[Processing.py-cheat-sheet/blob/pt-br/py5/py5\_cc.pdf">quick reference](<https://github.com/villares/\<glossary variable=>) (traducido de "colinha" de Tristan Bunn)
+- [documentación oficial completa de py5, en inglés](http://py5coding.org/)
+- [Resumen traducido al portugués de la referencia de py5](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/sumario-referencia-py5.html)
+- [Curso de Python para diseño con py5 en Domestika](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
+- Open courseware en portugués [Introdução à programação com Python em um contexto visual](<https://abav.lugaralgum.com/material-aulas/\<glossary variable=>) (con py5)
+  [tabreturn's py5 quick reference](https://github.com/tabreturn/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf) (e [version en portugués](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf))
 - [ejemplos de py5 en Jupyter Notebooks](https://github.com/py5coding/py5examples)
 - [foro py5](https://github.com/py5coding/py5generator/discussions)
-- [Processing.org/">Foro de la Fundación Processing](<https://discourse.\<glossary variable=>)
+- [Foro de la Fundación Processing](https://discourse.processing.org/c/a-version-of-processing-for-python-38-to-work-with-other-popular-python-libraries-and-tools-such-as-jupyter-numpy-shapely-trimesh-matplotlib-and-pillow-built-to-work-with-popular-python-libraries-and-tools-such-as-jupyter-numpy-shapely-etc/28)
 
 ### Agradecimientos
 
