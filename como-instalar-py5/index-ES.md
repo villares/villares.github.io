@@ -146,7 +146,7 @@ Ten en cuenta que necesitarás utilizar la línea `import py5` al principio de t
 - [Documentación oficial completa de py5, en inglés](http://py5coding.org/)
 - [Resumen traducido al portugués de la referencia de py5](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/sumario-referencia-py5.html)
 - [Curso de Python para diseño con py5 en Domestika](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
-- Open courseware en portugués [Introdução à programação com Python em um contexto visual](<https://abav.lugaralgum.com/material-aulas/\<glossary variable=>) (con py5)
+- Open courseware en portugués [Introdução à programação com Python em um contexto visual](<https://abav.lugaralgum.com/material-aulas/>) (con py5)
 - [Quick reference for py5 by tabreturn](https://github.com/tabreturn/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf) ([version en portugués](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf))
 - [Ejemplos de py5 en Jupyter Notebooks](https://github.com/py5coding/py5examples)
 - [Foro py5](https://github.com/py5coding/py5generator/discussions)
