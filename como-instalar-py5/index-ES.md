@@ -6,9 +6,9 @@
 
 ### Resumen muy resumido
 
-- Para diseñar y experimentar con la programación creativa con Python,<br/>[sigue las siguientes instrucciones](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);<br/>
-- Si estás en Windows, [descarga y descomprime este archivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t\&dl=0), abre `thonny.exe` y salta al paso 4 (Ejecuta un pequeño ejemplo)
-  <sub>**¡Un problema conocido en Windows!**: Si la ruta de la carpeta de Thonny y de JDK Java contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5.</sub>
+- Antes de arrancar con sus diseños y experimentaciones en la programación creativa con Python, tendrás que instalar el **Thonny IDE**<br/>[encuentre la guía instalación aquí](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);<br/>
+- Si estás en Windows, [descarga y descomprime este archivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t\&dl=0), ejecute `thonny.exe` y vaya al paso 4, que ejecutará un pequeño ejemplo.
+  <sub>**¡Un problema conocido en Windows!**: Si la ruta de la carpeta de Thonny y de JDK Java contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5. **¡Evite usar carpetas con nombre acentuados!**</sub>
 
 ## ¿Qué es py5?
 
@@ -16,7 +16,7 @@
 
 ⚹<sub>Las librerías son paquetes de código con funciones complementarias ya hechas, desarrolladas de antemano, para ayudar al desarrollo de nuevos programas.</sub>
 
-[**Processing**](https://processing.org) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para enseñar de la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
+[**Processing**](https://processing.org) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para enseñar la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
 
 Processing se basa originalmente en el lenguaje de programación Java, pero hoy en día existen varios proyectos que desarrollan las ideas de Processing con otros lenguajes, como *p5js* con Javascript, *pyp5js* (combinando Python en el navegador, pyodide, y *p5js*), y ahora *** con Python 3.
 
@@ -118,7 +118,7 @@ Cuando la opción de menú *py5 > imported mode for py5* está activada, puedes 
 
 En este "modo importado", el vocabulario de la biblioteca *py5*, es decir, los nombres de las funciones, constantes y variables del sistema (como la posición del ratón), está disponible sin el prefijo `py5` (que es necesario en el *module mode*, como veremos más adelante), y su programa se ejecutará automáticamente mediante una función "run_sketch" de la biblioteca *py5*.
 
-Con el *imported mode* activado, también puedes ejecutar sketches [en modo estático](https://py5coding.org/content/py5\_modes.html#static-mode), es decir, los que no tienen animación ni interactividad porque no tienen declarada la función `draw()`. Pero necesitan tener `size()` al principio.
+Con el *imported mode* activado, también puedes ejecutar sketches [en modo estático](https://py5coding.org/content/py5\_modes.html#static-mode), es decir, los que no tienen animación ni interactividad porque no tienen declarada la función `draw()`. Pero necesitan tener `size()` al principio, en el `setup()`.
 
 ### ¿Qué es el *module mode* y cómo podemos utilizarlo?
 
