@@ -6,8 +6,8 @@
 
 ### Resumen muy resumido
 
-- Antes de arrancar con sus diseños y experimentaciones en la programación creativa con Python, tendrás que instalar el **Thonny IDE**<br/>[encuentre la guía instalación aquí](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);<br/>
-- Si estás en Windows, [descarga y descomprime este archivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t\&dl=0), ejecute `thonny.exe` y vaya al paso 4, que ejecutará un pequeño ejemplo.
+- Para diseñar y experimentar con la programación creativa con Python,<br/>[sigue las siguientes instrucciones](#1-descargar-e-instalar-el-thonny-ide);<br/>
+- Si estás en Windows, [descarga y descomprime este archivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t\&dl=0), abre `thonny.exe` y salta al paso 4 (Ejecuta un pequeño ejemplo)
   <sub>**¡Un problema conocido en Windows!**: Si la ruta de la carpeta de Thonny y de JDK Java contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5. **¡Evite usar carpetas con nombre acentuados!**</sub>
 
 ## ¿Qué es py5?

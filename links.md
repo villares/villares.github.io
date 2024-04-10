@@ -12,9 +12,7 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
 
 - Material do Tutorial [**Pensando em 3D com Python: primeiros passos**](https://hackmd.io/@villares/pensando-3D-python) (tem link para a gravação!)
 
-- [***How to install and start using py5***](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html), para desenhar e experimentar programação criativa com Python.
-
-- [**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e experimentar programação criativa com Python.
+- [***How to install and start using py5***](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html), *to draw and explore creative coding with Python.* ([**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e explorar programação criativa com Python.)
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) - Uma ideia visual por dia, usando programação.
 
@@ -24,4 +22,4 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
 
 - **Mastodon** [ciberlandia.pt/@villares](https://ciberlandia.pt/@villares) & [pynews.com.br/@villares](https://pynews.com.br/@villares).
 
-III/2024 [Alexandre B A Villares](https://abav.lugaralgum.com)
+IIII/2024 [Alexandre B A Villares](https://abav.lugaralgum.com)
