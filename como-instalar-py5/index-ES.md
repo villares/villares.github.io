@@ -12,9 +12,9 @@
 
 ## ¿Qué es py5?
 
-[**py5**](https://github.com/py5coding) es una librería⚹ que permite utilizar el vocabulario y la infraestructura gráfica de **Processing** con la última versión del lenguaje **Python**.
+[**py5**](https://github.com/py5coding) es una librería<sup>⚹</sup> que permite utilizar el vocabulario y la infraestructura gráfica de **Processing** con la última versión del lenguaje **Python**.
 
-⚹<sub>Las librerías son paquetes de código con funciones complementarias ya hechas, desarrolladas de antemano, para ayudar al desarrollo de nuevos programas.</sub>
+<sub>⚹ Las librerías son paquetes de código con funciones complementarias ya hechas, desarrolladas de antemano, para ayudar al desarrollo de nuevos programas.</sub>
 
 [**Processing**](https://processing.org) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para enseñar la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
 
@@ -42,7 +42,7 @@ Si eso no funciona, otra forma de conseguir todo lo que necesitas es seguir las 
 
 ## 1\. Descargar e instalar el Thonny IDE
 
-Comienza instalando el IDE **de** Thonny.
+Comienza instalando el Thonny IDE 
 
 - Para Windows:
   - ¡Prueba [descargar y descomprimir este archivo](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t\&dl=0), haz doble clic en thonny `.exe` y podrás saltar al paso 4!
@@ -55,7 +55,7 @@ Comienza instalando el IDE **de** Thonny.
 
   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
-## 2\. Instala la librería *
+## 2\. Instala la librería *py5*
 
 Una vez abierto Thonny, selecciona *Tools* (Herramientas) > *Manage packages* (Gestionar paquetes) en el menú.
 
@@ -146,7 +146,7 @@ Ten en cuenta que necesitarás utilizar la línea `import py5` al principio de t
 - [Documentación oficial completa de py5, en inglés](http://py5coding.org/)
 - [Resumen traducido al portugués de la referencia de py5](https://abav.lugaralgum.com/material-aulas/Processing-Python-py5/sumario-referencia-py5.html)
 - [Curso de Python para diseño con py5 en Domestika](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares)
-- Open courseware en portugués [Introdução à programação com Python em um contexto visual](<https://abav.lugaralgum.com/material-aulas/>) (con py5)
+- Open courseware en portugués [Introdução à programação com Python em um contexto visual](https://abav.lugaralgum.com/material-aulas/) (con py5)
 - [Quick reference for py5 by tabreturn](https://github.com/tabreturn/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf) ([version en portugués](https://github.com/villares/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf))
 - [Ejemplos de py5 en Jupyter Notebooks](https://github.com/py5coding/py5examples)
 - [Foro py5](https://github.com/py5coding/py5generator/discussions)
