@@ -2,9 +2,8 @@
 
 # How to install Processing Python Mode
 
-> **Warning**
-> I'd recommend you only use **Processing Python Mode** for legacy projects now.
-> If you are starting to learn Processing and Python, check out [How to install and use **py5**](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html)
+> **Warning:**
+> Only use **Processing Python Mode** if you need to run legacy projects that depend on it. Also, it is incompatible with Processing 4.x. If you are starting to learn Processing and Python, check out "[How to install and use **py5**](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html)" instead.
 
 ### What's this?
 
@@ -15,13 +14,13 @@ With Processing you can not only generate raster and vector graphics, but intera
 Standard Processing is based on the **Java** programming language but there are two other projects supported by the Processing Foundation that you might want to try:
 
 -   [P5\*JS](https://p5js.org/) (a **JavaScript** library );
--   [Processing Python Mode](https://py.processing.org/) (based on Jython, a **Python** implementation running on the JVM).
+-   [Processing Python Mode](https://py.processing.org/) (based on Jython, a **Python 2.7** implementation running on the JVM).
 
 Both can be added to the traditional Processing IDE. So let's see **how to install Processing Python Mode** (which hopefully is the reason you are reading this).
 
 ### Installation steps
 
-#### 1. Visit downloads at the Processing site (<http://www.processing.org/download>), and choose your OS.
+#### 1. Visit the releases at the Processing site (<http://www.processing.org/releases>), select Processing 3.5.4 for your OS.
 
 ![step1](images/passo1.png)
 
