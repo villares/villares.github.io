@@ -3,9 +3,10 @@
 # Como instalar o Processing modo Python
 
 
-> **Warning**
-> Recomendo não usar mais **Processing Python Mode**, a não ser que você precise executar projetos antigos
-> Se você está começando agora, considere ler sobre **py5** e [como instalar py5](https://abav.lugaralgum.com/como-instalar-py5/index.html)
+> **Atenção**
+> O **Processing modo Python** não é compatível com as versões mais novas do Processing IDE 4.X., por issso,
+> a menos que você precise executar projetos desenvolvidos nele (`.pyde`) a recomendação é de que novos projetos
+> sejam iniciados com a bibilioteca **py5**, sobre a qual você pode ler em: [como instalar py5](https://abav.lugaralgum.com/como-instalar-py5/index.html)
 
 ### O que é isso?
 
@@ -16,17 +17,17 @@ Processing permite não só criar programas que produzem imagens e eventualmente
 A versão ‘standard’ do Processing é baseada na linguagem de programação **Java**, mas hoje existem dois outros projetos importantes da [Fundação Processing](https://processing.org) que você pode querer conhecer:
 
 - [P5\*JS](https://p5js.org/) (baseado na linguagem **JavaScript)**;
-- [Processing Python Mode](https://py.processing.org/) (baseado em Jython, implementação da linguagem **Python** na JVM).
+- [Processing Python Mode](https://py.processing.org/) (baseado em Jython, implementação da linguagem **Python 2.7** na JVM).
 
 Ambos podem ser adicionados ao Processing IDE tradicional. Vejamos a seguir **como instalar o Processing Modo Python**, que é o assunto desta página.
 
 ### Passos para instalar
 
-#### 1. Download do Processing IDE
+#### 1. Download do Processing IDE 3.5.4
 
-Entre na parte de downloads do site do Processing (<http://www.processing.org/download>), escolha o seu sistema operacional e baixe.
+Entre na parte de downloads de versões anteriores do site do Processing (<http://www.processing.org/releases>), escolha o seu sistema operacional e baixe a versão 3.5.4.
 
-# Evite ainda o Processing 4 que está em testes, use por enquanto o Processing 3.5.4!
+***Atenção:*** **O Processing 4.X não é compatível com o modo Python, é preciso usar o Processing 3.5.4 IDE**
 
 ![passo1](images/passo1.png)
 
