@@ -1,9 +1,13 @@
 # sketch-mail
 
-*Updates on my computational art / creative coding and education works.*
+*Updates on my artistic and educational creative coding work*
 
-Mensagens sobre o meu trabalho em arte computacional / programação criativa e educação 
+Mensagens sobre a minha produção artística e educacional com programação criativa
 
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://villares.gumroad.com/l/sketch-mail">subscribe with / assine com</a>
+
+<!--
 ---
 
 ## *subscribe* / assine
@@ -11,6 +15,7 @@ Mensagens sobre o meu trabalho em arte computacional / programação criativa e 
 
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed"><a href="https://villares.gumroad.com/l/sketch-mail">Loading...</a></div>
+-->
 
 ---
 
