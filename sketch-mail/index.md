@@ -1,25 +1,30 @@
 # sketch-mail
 
-*Updates on my artistic and educational creative coding work*
+## *Support my newsletter!*
 
-Mensagens sobre a minha produção artística e educacional com programação criativa
+*You will receive updates (not very frequent) on my artistic and educational creative coding work.*
+
+*You can subscribe for free, just fill the form with a zero...
+...but you can also support me with monthly recurrent payments!*
+
+*(Thanks if you already support me with other recurrent payments, no need to pay to receive the newsletter)*
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://villares.gumroad.com/l/sketch-mail">subscribe with / assine com</a>
+<a class="gumroad-button" href="https://villares.gumroad.com/l/sketch-mail" data-gumroad-overlay-checkout="true">subscribe sketch-mail at</a>
 
-<!--
----
+## Apoie o meu boletim!
 
-## *subscribe* / assine
+Você vai receber mensagens, não muito frequentes, sobre a minha produção artística e educacional com programação criativa.
 
+Você pode assinar de graça, é só preencher o formulário com um zero... 
+...mas você também pode se tornar uma pessoa apoiadora com pagamentos recorrentes!
 
-<script src="https://gumroad.com/js/gumroad-embed.js"></script>
-<div class="gumroad-product-embed"><a href="https://villares.gumroad.com/l/sketch-mail">Loading...</a></div>
--->
+(Obrigado se você já me apoia com outro pagamento recorrente, não precisa pagar para receber o boletim)
 
----
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://villares.gumroad.com/l/sketch-mail" data-gumroad-overlay-checkout="true">assine sketch-mail em</a>
 
-### *previous issues* / números anteriores
+## *previous issues* / números anteriores
 
 - [2020-06](https://abav.lugaralgum.com/sketch-mail/2020-06)
 
