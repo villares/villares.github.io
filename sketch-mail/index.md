@@ -2,15 +2,15 @@
 
 ## *Support my newsletter!*
 
-*You will receive updates (not very frequent) on my artistic and educational creative coding work.*
+*You will receive updates (not very frequent) about my artistic and educational creative coding work.*
 
 *You can subscribe for free, just fill the form with a zero...
 ...but you can also support me with monthly recurrent payments!*
 
-*(Thanks if you already support me with other recurrent payments, no need to pay to receive the newsletter)*
+*(Thank you if you already support me with other recurrent payments, no need to pay to receive the newsletter)*
 
 <script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://villares.gumroad.com/l/sketch-mail" data-gumroad-overlay-checkout="true">subscribe sketch-mail at</a>
+<a class="gumroad-button" href="https://villares.gumroad.com/l/sketch-mail" data-gumroad-overlay-checkout="true">subscribe to sketch-mail at</a>
 
 ## Apoie o meu boletim!
 
