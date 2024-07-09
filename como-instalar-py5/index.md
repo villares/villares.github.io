@@ -35,7 +35,7 @@ A sugestão aqui é seguir os seguintes passos:
 1. Baixar e instalar o **Thonny IDE** que vem com um Python 3.10 ou mais recente;
 2. Dentro do *Thonny* instalar a biblioteca (package) **py5**; 
 3. Instalar a extensão (plug-in), **thonny-py5mode**. Quando acionado pela primeira vez, o plug-in *thonny-py5mode* instala e configura o **JDK** para você;
-4. Confira se tudo está funciando **execute um pequeno exemplo!**
+4. Confira se tudo está funcioando **execute um pequeno exemplo!**
 5. (Extra) Aprenda sobre a diferença entre o **imported mode** e o **module mode**.
 
 <sub>Caso isso não dê certo, uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.</sub>
