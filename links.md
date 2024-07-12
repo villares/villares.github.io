@@ -8,7 +8,7 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
 
 - [**sketch-mail**](https://villares.gumroad.com/l/sketch-mail)  - *get my newsletter about creative coding, design and education* (receba meu meu boletim sobre programação criativa, design e ensino de programação)
 
-- [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) - Uma ideia visual por dia, usando programação.
+- [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) -**Coding a visual idea a day*** (uma ideia visual por dia, usando programação).
 
 - [***How to install and start using py5***](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html), *to draw and explore creative coding with Python.* ([**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e explorar programação criativa com Python.)
 
