@@ -22,19 +22,22 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - [**curso Domestika**](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) Design com Python: programação para um contexto visual
 
-- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) A newsletter about my artistic and educational creative coding work. 
+- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Boletim sobre  arte computacional, programação criativa e educação.
 
-#### 2023 - 2024
+#### 2024
 
 - **Pycon US 2044**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/)
 
 - Live de Python #260 [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI). In Portuguese.
 
--A blog post for Domestika [**Design with Python: a fusion of art and tech**](https://www.domestika.org/en/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
+- Tutorial online para DigitalFUTURES **Pensando em 3D com Python**: primeiros passos. ([gravação](https://www.youtube.com/watch?v=4ZQ4Af8eoZs), [material da apresentação](https://hackmd.io/@villares/pensando-3D-python)), fevereiro de 2024. 
 
-- Online tutorial for DigitalFUTURES **Pensando em 3D com Python**: primeiros passos. ([gravação](https://www.youtube.com/watch?v=4ZQ4Af8eoZs), [material da apresentação](https://hackmd.io/@villares/pensando-3D-python)), fevereiro de 2024. In Portuguese.
+- Post no blog da Domestika [**Design com Python: um fusão de arte e tecnologia**](https://www.domestika.org/en/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
 
-- [**Recordings**](https://form.jotform.com/233352075438658) de **Python para quem curte Processing e vice-versa*** (*programação criativa pra quem curte Python). In Portuguese.
+#### 2023
+
+- [**Gravações**](https://form.jotform.com/233352075438658) de **Python para quem curte Processing e vice-versa*** (*programação criativa pra quem curte Python). In Portuguese.
+
 
 - Processing Community Day Brasil 2023
    - Palestra [**Python científico na programação criativa: o que eu aprendi até agora de numpy para usar nos meus desenhos**](https://www.youtube.com/watch?v=TuV9T6vTrIM&list=PLCSyFEVJoho5zQWiUd3tYRcXu6CsvcRBF&index=1) (gravação)
