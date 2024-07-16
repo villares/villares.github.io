@@ -22,9 +22,11 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - [**curso Domestika**](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) Design com Python: programação para um contexto visual
 
-<!-- - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação. -->
+- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail)  Boletim sobre  arte computacional, programação criativa e educação. 
 
 #### 2023 - 2024
+
+- **Pycon US 2044**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/)
 
 - Live de Python #260 [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI)  
 
