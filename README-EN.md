@@ -24,11 +24,18 @@ Teacher, visual artist and consultant in design and new media projects.  Researc
 
 ### 2024
 
-- My Domestika course: [**Designing with Python: Programming for a Visual Context**](https://www.domestika.org/en/courses/4307-designing-with-python-programming-for-a-visual-context/a_b_a_villares)
+- **Pycon US 2044**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/)
+
+- Appearence at Eduardo Mendes' *Live de Python #260* [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI)  
+
+- Online tutorial for DigitalFUTURES **Pensando em 3D com Python**: primeiros passos. ([gravação](https://www.youtube.com/watch?v=4ZQ4Af8eoZs), [material da apresentação](https://hackmd.io/@villares/pensando-3D-python)), fevereiro de 2024. 
+
+- Launch of my Domestika course: [**Designing with Python: Programming for a Visual Context**](https://www.domestika.org/en/courses/4307-designing-with-python-programming-for-a-visual-context/a_b_a_villares)
    - Blog post [Design with Python: A Fusion of Art and Technology](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
 
 ### 2023
 
+- [**Recordings**](https://form.jotform.com/233352075438658) de **Python para quem curte Processing e vice-versa*** (*programação criativa pra quem curte Python). 
 
 - Processing Community Day Brasil 2023
     - Palestra Python científico na programação criativa: o que eu aprendi até agora de numpy para usar nos meus desenhos
