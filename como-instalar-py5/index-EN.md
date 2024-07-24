@@ -5,7 +5,7 @@
 ### TL:DR;
 
 - To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).
-- If you are on Windows, try to [download and unzip this portanble](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t&dl=0), double-click `thonny.exe` and skip to step 4!
+- If you are on Windows, try to [download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-07-13/thonny-414-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!
   <sub>**Known Windows issue**: If the path to the folder where you keep Thonny with the Java JDK contains non-ASCII characters, [this will break jpype](https://github.com/jpype-project/jpype/issues/1111) and so it will break py5. Try moving Thonny to C:\.</sub>  
 
 ## What's this?
@@ -40,7 +40,7 @@ To get all these things, this is an overview of the steps I propose and will des
 
 - For Windows: 
 
-    - **Try to [download and unzip this portanble](https://www.dropbox.com/scl/fi/2mnhk1k1yj6ab55p02z6q/thonny-4-with-py5-100-windows-portable.zip?rlkey=0du7vkd2nn2etlwftqw69hq1t&dl=0), double-click `thonny.exe` and skip to step 4!**
+    - **Try to [download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-07-13/thonny-414-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!**
     - or install Thonny with [thonny-4.0.2.exe](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.exe)
 
 - For MacOS: installer [thonny-4.0.2.pkg](https://github.com/thonny/thonny/releases/download/v4.0.2/thonny-4.0.2.pkg) 
