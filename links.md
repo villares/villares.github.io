@@ -1,6 +1,4 @@
-- **Mastodon** [ciberlandia.pt/@villares](https://ciberlandia.pt/@villares) & [pynews.com.br/@villares](https://pynews.com.br/@villares).
-
-- **Curso PUC-SP** Python para Artistas e Designers: uma Introdução à Programação Criativa [mais informaçõess](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/python-para-artistas-e-designers-uma-introducao-programacao)
+- **Curso PUC-SP** Python para Artistas e Designers: uma Introdução à Programação Criativa [mais informações](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/python-para-artistas-e-designers-uma-introducao-programacao)
 
 - [***My Domestika course*** Design com Python: programação para um contexto visual](
 https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) (*Portuguese with subtitles in English, Spanish and a few other languages*)
@@ -27,6 +25,6 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
 
 - Para pedir as gravações dos encontros [ **Python para quem curte Processing** ...e programação criativa pra quem curte Python](https://form.jotform.com/233352075438658).
 
-
+- **Mastodon** [ciberlandia.pt/@villares](https://ciberlandia.pt/@villares) & [pynews.com.br/@villares](https://pynews.com.br/@villares).
 
 VII/2024 [Alexandre B A Villares](https://abav.lugaralgum.com)
