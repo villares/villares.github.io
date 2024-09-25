@@ -1,4 +1,4 @@
-- **Curso PUC-SP** Python para Artistas e Designers: uma Introdução à Programação Criativa [mais informações](https://www.pucsp.br/pos-graduacao/especializacao-e-mba/python-para-artistas-e-designers-uma-introducao-programacao)
+- **Curso no MAM-SP** desenhando com código: programação criativa - 14 de outubro, 6 encontros online, segundas-feiras 19h - [mais informações]([https://www.pucsp.br/pos-graduacao/especializacao-e-mba/python-para-artistas-e-designers-uma-introducao-programacao](https://mam.org.br/curso/desenhando-com-codigo-programacao-criativa/))
 
 - [***My Domestika course*** Design com Python: programação para um contexto visual](
 https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) (*Portuguese with subtitles in English, Spanish and a few other languages*)
