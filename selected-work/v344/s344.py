@@ -1,5 +1,6 @@
 """
 (C) 2018-2023 Alexandre B A Villares - https://abav.lugaralgum.com
+Licensed under GPL v3 - see v344_LICENSE.md
 
 Based on "s344" from 2018_12_08
 Now using py5 (py5coding.org) imported mode
