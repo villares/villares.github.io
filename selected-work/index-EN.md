@@ -8,7 +8,7 @@
 
 ### v344, 2023
 
-Trabalho selecionado para a [RECODE Online Exhibition . PCD23@Porto ](https://pcd.fba.up.pt/2023/exhibition/recode.html). Disponível na [página da exposição](https://pcd.fba.up.pt/2023/exhibition/alexandre-villares.htm), proposta e código em [abav.lugaralgum.com/selected-work/v344/](https://abav.lugaralgum.com/selected-work/v344/).
+Selected for [RECODE Online Exhibition . PCD23@Porto ](https://pcd.fba.up.pt/2023/exhibition/recode.html). Available at [the exhibition page](https://pcd.fba.up.pt/2023/exhibition/alexandre-villares.htm), with code and initial proposal at [abav.lugaralgum.com/selected-work/v344/](https://abav.lugaralgum.com/selected-work/v344/).
 
 ![](https://github.com/villares/villares.github.io/raw/master/selected-work/v344/output.gif)
 
