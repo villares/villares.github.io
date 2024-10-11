@@ -26,6 +26,10 @@ Você pode assinar de graça, é só preencher o formulário com um zero...
 
 ## *previous issues* / números anteriores
 
+- [2024-02](https://abav.lugaralgum.com/sketch-mail/2024-02)
+
+- [2024-01](https://abav.lugaralgum.com/sketch-mail/2024-01)
+
 - [2020-06](https://abav.lugaralgum.com/sketch-mail/2020-06)
 
 - [2020-05](https://abav.lugaralgum.com/sketch-mail/2020-05)
