@@ -7,7 +7,7 @@
 ### Resumo muito resumido
 
 - Para desenhar e experimentar programação criativa com Python, <br> [siga as instruções abaixo](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);
-- Se você está no Windows, [baixe e deszipe este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-07-13/thonny-414-with-py5-windows-portable.zip), abra o `thonny.exe` e pule para o passo 4 (*execute um pequeno exemplo*)!<br/>
+- Se você está no Windows, [baixe e deszipe este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-11-17/thonny-416-with-py5-windows-portable.zip), abra o `thonny.exe` e pule para o passo 4 (*execute um pequeno exemplo*)!<br/>
   <sub>**Um problema conhecido no Windows**: Se o caminho da pasta do Thonny e do JDK Java contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5.</sub> 
 
 ## O que é isso?
@@ -45,13 +45,13 @@ A sugestão aqui é seguir os seguintes passos:
 Comece instalando o **Thonny IDE**.
 
 - Para Windows:
-    - Experimente [baixar e deszipar este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-07-13/thonny-414-with-py5-windows-portable.zip), faça um clique duplo em `thonny.exe` e pode pular para o passo 4!
-    - ou instale executando o instalador [thonny-4.1.3.exe](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.exe) e continue no passo 2.
+    - Experimente [baixar e deszipar este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-11-17/thonny-416-with-py5-windows-portable.zip), faça um clique duplo em `thonny.exe` e pode pular para o passo 4!
+    - ou instale executando o instalador [thonny-4.1.6.exe](https://github.com/thonny/thonny/releases/download/v4.1.6/thonny-4.1.6.exe) e continue no passo 2.
      - **Um problema conhecido no Windows**: Se o caminho da pasta do Thonny, e do JDK Java, contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5. Se, por exemplo, o seu nome de usuário tem acentos, experimente mover o Thonny para uma pasta direto em `C:\`.
 
-- Para MacOS: baixe e exeute o instalador [thonny-4.1.3.pkg](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.pkg) 
+- Para MacOS: baixe e exeute o instalador [thonny-4.1.6.pkg](https://github.com/thonny/thonny/releases/download/v4.1.6/thonny-4.1.6.pkg) 
 
-- Para Linux: execute este [script bash que baixa e instala o Thonny 4.1.3](https://github.com/thonny/thonny/releases/download/v4.1.3/thonny-4.1.3.bash)
+- Para Linux: execute este [script bash que baixa e instala o Thonny 4.1.6](https://github.com/thonny/thonny/releases/download/v4.1.6/thonny-4.1.6.bash)
   
   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
