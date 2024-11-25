@@ -20,12 +20,15 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - [**desenho()**](https://desenho.lugaralgum.com) desenho sem argumentos é uma publicação independente que explora a programação criativa e espaços dos zines/pôsters.
 
-- [**curso Domestika**](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) Design com Python: programação para um contexto visual
-
 - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Boletim sobre  arte computacional, programação criativa e educação.
 
 #### 2024
 
+- [**Curso na Domestika**](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) Design com Python: programação para um contexto visual
+
+- **Python Cerrado 2024 | Plone Conference 2024** - Brasília
+   - Tutorial- [Programação criativa com Python: primeiros passos com py5](https://2024.ploneconf.org/en/schedule/training/programacao-criativa-com-python-primeiros-passos-com-py5)
+ 
 - **Pycon US 2044**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/)
 
 - Live de Python #260 [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI). In Portuguese.
@@ -37,7 +40,6 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 #### 2023
 
 - [**Gravações**](https://form.jotform.com/233352075438658) de **Python para quem curte Processing e vice-versa*** (*programação criativa pra quem curte Python). In Portuguese.
-
 
 - Processing Community Day Brasil 2023
    - Palestra [**Python científico na programação criativa: o que eu aprendi até agora de numpy para usar nos meus desenhos**](https://www.youtube.com/watch?v=TuV9T6vTrIM&list=PLCSyFEVJoho5zQWiUd3tYRcXu6CsvcRBF&index=1) (gravação)
