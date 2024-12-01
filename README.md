@@ -29,9 +29,9 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 - **Python Cerrado 2024 | Plone Conference 2024** - Brasília
    - Tutorial- [Programação criativa com Python: primeiros passos com py5](https://2024.ploneconf.org/en/schedule/training/programacao-criativa-com-python-primeiros-passos-com-py5)
  
-- **Pycon US 2044**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/)
+- **Pycon US 2024**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/), [gravação, em inglês](https://www.youtube.com/watch?v=h5t522FnAMc)
 
-- Live de Python #260 [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI). In Portuguese.
+- Live de Python #260 [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI).
 
 - Tutorial online para DigitalFUTURES **Pensando em 3D com Python**: primeiros passos. ([gravação](https://www.youtube.com/watch?v=4ZQ4Af8eoZs), [material da apresentação](https://hackmd.io/@villares/pensando-3D-python)), fevereiro de 2024. 
 
