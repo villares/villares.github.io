@@ -28,6 +28,8 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - **Python Cerrado 2024 | Plone Conference 2024** - Brasília
    - Tutorial- [Programação criativa com Python: primeiros passos com py5](https://2024.ploneconf.org/en/schedule/training/programacao-criativa-com-python-primeiros-passos-com-py5)
+
+- Curso no MAM-SP - [desenhando com código: programação criativa, 6 encontros em outubro e novembro](https://mam.org.br/curso/desenhando-com-codigo-programacao-criativa/), 6 encontros em outubro e novembro de 2024.
  
 - **Pycon US 2024**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/) ([gravação, em inglês](https://www.youtube.com/watch?v=h5t522FnAMc)).
 
@@ -54,7 +56,7 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 - [Paper objects with Processing and Python](https://abav.lugaralgum.com/Paper-objects-with-Processing-and-Python/) 
    - Exemplos reescritos para uso da biblioteca py5.
 
-- Curso no MAM-SP, [desenhando com código: programação criativa](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/), março e abril de 2023
+- Curso no MAM-SP, [desenhando com código: programação criativa](https://mam.org.br/curso/curso-online-desenhando-com-codigo-programacao-criativa-com-alexandre-villares/), 6 encontros em março e abril de 2023.
 
 - Oficina da Semana do design ESPM. [Design Gerativo](https://hackmd.io/@villares/design-gerativo-espm), março de 2023.
 
