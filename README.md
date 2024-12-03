@@ -26,7 +26,7 @@ Professor, artista visual e consultor em projetos de design e novas mídias. Pes
 
 - [**Curso na Domestika**](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) Design com Python: programação para um contexto visual
 
-- **Python Cerrado 2024 | Plone Conference 2024** - Brasília
+- **Python Cerrado 2024 \| Plone Conference 2024** - Brasília
    - Tutorial- [Programação criativa com Python: primeiros passos com py5](https://2024.ploneconf.org/en/schedule/training/programacao-criativa-com-python-primeiros-passos-com-py5)
 
 - Curso no MAM-SP - [desenhando com código: programação criativa, 6 encontros em outubro e novembro](https://mam.org.br/curso/desenhando-com-codigo-programacao-criativa/), 6 encontros em outubro e novembro de 2024.
