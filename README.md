@@ -6,7 +6,7 @@
 
 ----
 
-Professor, artista visual e consultor em projetos de design e novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FECFAU-Unicamp (2019). Foi coorganizador da Noite de Processing, encontro mensal sobre arte e programação que aconteceu entre 2016 e o início de 2024. Ministra cursos na graduação e pós-graduação de diversas instituições. Desenvolve material didático aberto, colabora com projetos de software livre e atua como educador de tecnologias e artes no Sesc-SP. 
+Professor, artista visual e consultor em projetos de novas mídias, pesquisa práticas artísticas e de design que se valem de meios computacionais, programação criativa e o ensino de programação em contextos visuais. Graduado em arquitetura e urbanismo pela FAU-USP (2000) e mestre pela FECFAU-Unicamp (2019). Foi coorganizador da Noite de Processing, encontro mensal sobre arte e programação que aconteceu ininterruptamente entre 2016 e o início de 2024. Ministra cursos na graduação e pós-graduação de diversas instituições e atua como educador de tecnologias e artes no Sesc-SP. Desenvolve material didático aberto, colabora com projetos de software livre e, desde 2018, tenta produzir todo dia um desenho a partir da programação.
 
 ----
 
