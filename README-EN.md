@@ -6,7 +6,7 @@
  
 ----
 
-A teacher, visual artist and design consultant specializing im new media projects, exploring computational art procedures, generative design, creative coding and how to teach programming in visual contexts. Having graduated in architecture and urbanism from FAU-USP (2000), also holds a master's degree from FECFAU-Unicamp (2019). He co-founded and co-organized Noite de Processing, a monthly event about art and programming that took place uninterrupted from 2016 to early 2024. He has been teaching at both undergraduate and graduate levels across various institutions, as well as working as a technology and arts educator at Sesc-SP. He develops open didactic materials, collaborates with free software projects, and, since 2018, tries to make one drawing a day with code.
+A teacher, visual artist and design consultant specializing in new media projects, exploring computational art procedures, generative design, creative coding and how to teach programming in visual contexts. Having graduated in architecture and urbanism from FAU-USP (2000), also holds a master's degree from FECFAU-Unicamp (2019). He co-founded and co-organized Noite de Processing, a monthly event about art and programming that took place uninterrupted from 2016 to early 2024. He has been teaching at both undergraduate and graduate levels across various institutions, as well as working as a technology and arts educator at Sesc-SP. He develops open didactic materials, collaborates with free software projects, and, since 2018, tries to make one drawing a day with code.
 
 ----
 
