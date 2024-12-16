@@ -8,6 +8,8 @@
 - If you are on Windows, try to [download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-11-17/thonny-416-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!
   <sub>**Known Windows issue**: If the path to the folder where you keep Thonny with the Java JDK contains non-ASCII characters, [this will break jpype](https://github.com/jpype-project/jpype/issues/1111) and so it will break py5. Try moving Thonny to C:\.</sub>  
 
+<strong>Warning: Package manager search is broken on Thonny 4.1.6 and earlier due to changes in PyPI. Thonny 4.1.7 will fix it, I'll update my bundle soon!</strong>
+
 ## What's this?
 
 [py5](https://github.com/py5coding) is a <ins title="Libraries are packages of complementary software functions made by other people to help you develop your own programs" style="text-decoration:underline; text-decoration-style: dotted;">library</ins> that allows us to use the vocabulary and graphical infrastructure of Processing with the Python programming language (Python 3).
