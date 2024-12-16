@@ -10,6 +10,8 @@
 - Se você está no Windows, [baixe e deszipe este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-11-17/thonny-416-with-py5-windows-portable.zip), abra o `thonny.exe` e pule para o passo 4 (*execute um pequeno exemplo*)!<br/>
   <sub>**Um problema conhecido no Windows**: Se o caminho da pasta do Thonny e do JDK Java contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5.</sub> 
 
+<strong>Antenção: A busca de pacotes e plugins está quebrada no Thonny 4.1.6 e anterior por conta de mudanças no PyPI. Thonny 4.1.7 resolve isso e eu vou atualizar o portable com py5 em breve!</strong>
+
 ## O que é isso?
 
 [**py5**](https://github.com/py5coding) é uma biblioteca<sup>⚹</sup> que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
