@@ -4,11 +4,11 @@
 
 ### TL:DR;
 
-- To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).
-- If you are on Windows, try to [download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-11-17/thonny-416-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!
+- To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).<br/>
+  <sub>**Known Thonny issue**: Package manager and plug-in manager panels are broken on Thonny 4.1.6 and earlier versions due to PyPI recent changes. Thonny 4.1.7 fixes them.</sub>
+- If you are on Windows, try to [download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!<br/>
   <sub>**Known Windows issue**: If the path to the folder where you keep Thonny with the Java JDK contains non-ASCII characters, [this will break jpype](https://github.com/jpype-project/jpype/issues/1111) and so it will break py5. Try moving Thonny to C:\.</sub>  
 
-<strong>Warning: Package manager search is broken on Thonny 4.1.6 and earlier due to changes in PyPI. Thonny 4.1.7 will fix it, I'll update my bundle soon!</strong>
 
 ## What's this?
 
@@ -42,7 +42,7 @@ To get all these things, this is an overview of the steps I propose and will des
 
 - For Windows: 
 
-    - **Try to [download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-11-17/thonny-416-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!**
+    - **Try to [download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!**
     - or a Thonny installer from [the repository releases](https://github.com/thonny/thonny/releases/)
 
 - For MacOS: also get an installer from [the repository releases](https://github.com/thonny/thonny/releases/)
