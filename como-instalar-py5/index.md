@@ -48,12 +48,12 @@ Comece instalando o **Thonny IDE**.
 
 - Para Windows:
     - Experimente [baixar e deszipar este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-11-17/thonny-416-with-py5-windows-portable.zip), faça um clique duplo em `thonny.exe` e pode pular para o passo 4!
-    - ou instale executando o instalador [thonny-4.1.6.exe](https://github.com/thonny/thonny/releases/download/v4.1.6/thonny-4.1.6.exe) e continue no passo 2.
+    - ou instale executando o instalador [thonny-4.1.7.exe](https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.exe) e continue no passo 2.
      - **Um problema conhecido no Windows**: Se o caminho da pasta do Thonny, e do JDK Java, contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5. Se, por exemplo, o seu nome de usuário tem acentos, experimente mover o Thonny para uma pasta direto em `C:\`.
 
-- Para MacOS: baixe e exeute o instalador [thonny-4.1.6.pkg](https://github.com/thonny/thonny/releases/download/v4.1.6/thonny-4.1.6.pkg) 
+- Para MacOS: baixe e exeute o instalador [thonny-4.1.7.pkg](https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.pkg) 
 
-- Para Linux: execute este [script bash que baixa e instala o Thonny 4.1.6](https://github.com/thonny/thonny/releases/download/v4.1.6/thonny-4.1.6.bash)
+- Para Linux: execute este [script bash que baixa e instala o Thonny 4.1.7](https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.bash)
   
   ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
