@@ -7,7 +7,9 @@
 ### Resumen muy resumido
 
 - Para diseñar y experimentar con la programación creativa con Python,<br/>[sigue las siguientes instrucciones](#1-descargar-e-instalar-el-thonny-ide);<br/>
-- Si estás en Windows, [descarga y descomprime este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-11-17/thonny-416-with-py5-windows-portable.zip), abre `thonny.exe` y salta al paso 4 (Ejecuta un pequeño ejemplo)<br/><sub>**¡Un problema conocido en Windows!**: Si la ruta de la carpeta de Thonny y de JDK Java contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5. **¡Evite usar carpetas con nombre acentuados!**</sub>
+  <sub>**¡Un problema conocido en Thonny!**: El gestor de paquetes y gestores de plug-in están rotos en Thonny 4.1.6 y versiones anteriores debido a los cambios recientes de PyPI. Thonny 4.1.7 los fija.</sub>
+- Si estás en Windows, [descarga y descomprime este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), abre `thonny.exe` y salta al paso 4 (Ejecuta un pequeño ejemplo)<br/>
+  <sub>**¡Un problema conocido en Windows!**: Si la ruta de la carpeta de Thonny y de JDK Java contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5. **¡Evite usar carpetas con nombre acentuados!**</sub>
 
 ## ¿Qué es py5?
 
@@ -44,7 +46,7 @@ Si eso no funciona, otra forma de conseguir todo lo que necesitas es seguir las 
 Comienza instalando el Thonny IDE 
 
 - Para Windows:
-  - ¡Prueba [descargar y descomprimir este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-11-17/thonny-416-with-py5-windows-portable.zip), haz doble clic en thonny `.exe` y podrás saltar al paso 4!
+  - ¡Prueba [descargar y descomprimir este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), haz doble clic en thonny `.exe` y podrás saltar al paso 4!
   - o instálalo ejecutando el instalador [thonny-4.1.7.exe](https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.exe) y continúe con el paso 2.
   - **Un problema en Windows**: Si la ruta de la carpeta de Thonny, y del Java JDK, contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5. Si, por ejemplo, tu nombre de usuario tiene acentos, intenta mover Thonny a una carpeta directamente debajo de `C:\.`
 
