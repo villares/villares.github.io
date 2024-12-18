@@ -43,7 +43,7 @@ To get all these things, this is an overview of the steps I propose and will des
 - For Windows: 
 
     - Try to **[download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip)**, double-click `thonny.exe` and skip to step 4!
-    - or a Thonny installer from [the repository releases](https://github.com/thonny/thonny/releases/)
+    - or get a Thonny installer from [the repository releases](https://github.com/thonny/thonny/releases/)
 
 - For MacOS: get an installer from [the repository releases](https://github.com/thonny/thonny/releases/)
 
