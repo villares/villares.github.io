@@ -42,12 +42,12 @@ To get all these things, this is an overview of the steps I propose and will des
 
 - For Windows: 
 
-    - **Try to [download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!**
+    - Try to **[download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip)**, double-click `thonny.exe` and skip to step 4!
     - or a Thonny installer from [the repository releases](https://github.com/thonny/thonny/releases/)
 
-- For MacOS: also get an installer from [the repository releases](https://github.com/thonny/thonny/releases/)
+- For MacOS: get an installer from [the repository releases](https://github.com/thonny/thonny/releases/)
 
-- For Linux: find a package from [the repository releases](https://github.com/thonny/thonny/releases/) or run the [bash script installer](https://thonny.org/installer-for-linux)
+- For Linux: get the latest package from [the repository releases](https://github.com/thonny/thonny/releases/) or run the [Thonny bash script installer](https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.bash)
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
