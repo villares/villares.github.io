@@ -12,7 +12,7 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
   - *Domestika Blog post in English* [*Design with Python: A Fusion of Art and Technology*](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
   - ... e em Português [Design com Python: uma fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
 
-- [**sketch-mail**](https://villares.gumroad.com/l/sketch-mail)  - *get my newsletter about creative coding, design and education* (receba meu meu boletim sobre programação criativa, design e ensino de programação)
+- [**sketch-mail**](https://villares.gumroad.com/l/sketch-mail)  - *get my newsletter about creative coding, design and education* (receba meu boletim sobre programação criativa, design e ensino de programação)
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) - ***Coding a visual idea a day*** (uma ideia visual por dia, usando programação).
 
