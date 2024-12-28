@@ -1,7 +1,10 @@
 - ***You can support my work with:*** [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724), [Liberapay](https://liberapay.com/villares), or [Gumroad](https://gumroad.com/villares) (**para apoiar o meu trabalho**)
 
+- Would you like some private classes with me? Quer aulas particulares comigo? [email](https://abav.lugaralgum.com/contato)
+
 - [***My Domestika course*** Design com Python: programação para um contexto visual](
 https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) (*Portuguese with subtitles in English, Spanish and a few other languages*)
+  - 15% discount up to 25th January! `A_B_A_VILLARES-JAN25`
   - *Domestika Blog post in English* [*Design with Python: A Fusion of Art and Technology*](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
   - ... e em Português [Design com Python: uma fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
 
