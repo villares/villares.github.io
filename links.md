@@ -3,7 +3,7 @@
 
 - [***How to install and start using py5***](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html), *to draw and explore creative coding with Python.* ([**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e explorar programação criativa com Python.)
   - **Get the latest updated Thonny! Baixe o Thonny mais recente!** Version 4.1.7 fixes the PyPI search issues.
-  -  
+     
 - [***My Domestika course*** Design com Python: programação para um contexto visual](
 https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) (*Portuguese with subtitles in English, Spanish and a few other languages*)
   - 15% discount up to 25th January! `A_B_A_VILLARES-JAN25`
