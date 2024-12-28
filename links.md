@@ -1,6 +1,8 @@
 - ***You can support my work with:*** [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724), [Liberapay](https://liberapay.com/villares), or [Gumroad](https://gumroad.com/villares) (**para apoiar o meu trabalho**)
+  - Would you like some private classes with me? Quer aulas particulares comigo? [email](https://abav.lugaralgum.com/contato)
 
-- Would you like some private classes with me? Quer aulas particulares comigo? [email](https://abav.lugaralgum.com/contato)
+- [***How to install and start using py5***](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html), *to draw and explore creative coding with Python.* ([**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e explorar programação criativa com Python.)
+  - **Warning/Aviso**! Thonny 4.1.7 fixes some recent PyPI search issues, get the latest updated portable!
 
 - [***My Domestika course*** Design com Python: programação para um contexto visual](
 https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) (*Portuguese with subtitles in English, Spanish and a few other languages*)
@@ -11,8 +13,6 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
 - [**sketch-mail**](https://villares.gumroad.com/l/sketch-mail)  - *get my newsletter about creative coding, design and education* (receba meu meu boletim sobre programação criativa, design e ensino de programação)
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) - ***Coding a visual idea a day*** (uma ideia visual por dia, usando programação).
-
-- [***How to install and start using py5***](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html), *to draw and explore creative coding with Python.* ([**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e explorar programação criativa com Python.)
 
 - Material didático aberto [**Introdução à programação com Python em um contexto visual**](https://abav.lugaralgum.com/material-aulas/)
 
