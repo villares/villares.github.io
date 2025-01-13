@@ -3,7 +3,7 @@
 
 
 - [***How to install and start using py5***](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html), *to draw and explore creative coding with Python.* ([**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e explorar programação criativa com Python.)
-  - **Get the latest updated Thonny! Baixe o Thonny mais recente!** Version 4.1.7 fixes the PyPI search issues.
+  - Get the latest updated Thonny with py5! v4.1.7 fixes the PyPI search issues. (Baixe o Thonny mais recente já com py5! v4.1.7 corrige problema na busca de bibliotecas.)
 
 
 - [***My Domestika course*** Design com Python: programação para um contexto visual](
@@ -22,11 +22,8 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
 
 - Participação no [**Podcast FreeCodeCamp em português #22**](https://www.freecodecamp.org/portuguese/news/podcast-ep22/)
 
-- Gravação da **Live de Python #260**: [Criando desenhos com py5: programação criativa](https://www.youtube.com/watch?v=dAnIWmJ-2NI)  
-- Material do Tutorial [**Pensando em 3D com Python: primeiros passos**](https://hackmd.io/@villares/pensando-3D-python) (tem link para a gravação!)
-
-- Para pedir as gravações dos encontros [ **Python para quem curte Processing** ...e programação criativa pra quem curte Python](https://form.jotform.com/233352075438658).
+- Gravação da **Live de Python #260**: [Criando desenhos com py5: programação criativa](https://www.youtube.com/watch?v=dAnIWmJ-2NI)
 
 - **Mastodon** [ciberlandia.pt/@villares](https://ciberlandia.pt/@villares) & [pynews.com.br/@villares](https://pynews.com.br/@villares).
 
-VII/2024 [Alexandre B A Villares](https://abav.lugaralgum.com)
+I/2025 [Alexandre B A Villares](https://abav.lugaralgum.com)
