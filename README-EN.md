@@ -24,9 +24,15 @@ A teacher, visual artist and design consultant specializing in new media project
 
 ### 2024
 
+
+- **Python Cerrado 2024 \| Plone Conference 2024** - Brasília, tutorial [Creative Coding with Python: first steps with py5](https://2024.ploneconf.org/en/schedule/training/programacao-criativa-com-python-primeiros-passos-com-py5)
+
+- **MAM-SP** course - [drawing with code](https://mam.org.br/curso/desenhando-com-codigo-programacao-criativa/), 6 classes.
+
+
 - **Pycon US 2044**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/)
 
-- Appearence at Eduardo Mendes' *Live de Python #260* [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI)  
+- Appearence at Eduardo Mendes' **Live de Python #260** [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI)  
 
 - Online tutorial for DigitalFUTURES **Pensando em 3D com Python**: primeiros passos. ([gravação](https://www.youtube.com/watch?v=4ZQ4Af8eoZs), [material da apresentação](https://hackmd.io/@villares/pensando-3D-python)), fevereiro de 2024. 
 
