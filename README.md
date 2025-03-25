@@ -27,13 +27,13 @@ Professor, artista visual e consultor em projetos de novas mídias, pesquisa pr�
 - [**Curso na Domestika**](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) Design com Python: programação para um contexto visual
 
 - **Python Cerrado 2024 \| Plone Conference 2024** - Brasília
-   - Tutorial- [Programação criativa com Python: primeiros passos com py5](https://2024.ploneconf.org/en/schedule/training/programacao-criativa-com-python-primeiros-passos-com-py5)
+   - Tutorial [Programação criativa com Python: primeiros passos com py5](https://2024.ploneconf.org/en/schedule/training/programacao-criativa-com-python-primeiros-passos-com-py5)
 
-- Curso no MAM-SP - [desenhando com código: programação criativa, 6 encontros em outubro e novembro](https://mam.org.br/curso/desenhando-com-codigo-programacao-criativa/), 6 encontros em outubro e novembro de 2024.
+- **Curso no MAM-SP** - [desenhando com código: programação criativa, 6 encontros em outubro e novembro](https://mam.org.br/curso/desenhando-com-codigo-programacao-criativa/), 6 encontros em outubro e novembro de 2024.
  
 - **Pycon US 2024**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/) ([gravação, em inglês](https://www.youtube.com/watch?v=h5t522FnAMc)).
 
-- Live de Python #260 [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI) (gravação).
+- **Live de Python #260** [Criando desenhos com py5: programação criativa](https://www.youtube.com/watch?v=dAnIWmJ-2NI) (gravação).
 
 - Tutorial online para DigitalFUTURES **Pensando em 3D com Python**: primeiros passos. ([gravação](https://www.youtube.com/watch?v=4ZQ4Af8eoZs), [material da apresentação](https://hackmd.io/@villares/pensando-3D-python)), fevereiro de 2024. 
 
