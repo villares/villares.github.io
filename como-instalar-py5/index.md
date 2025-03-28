@@ -7,7 +7,7 @@
 ### Resumo muito resumido
 
 - Para desenhar e experimentar programação criativa com Python, <br> [siga as instruções abaixo](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);<br>
-  <sub>>**Um problema conhecido no Thonny**: Os gerenciadores de pacotes e de plug-in estão quebrados no Thonny 4.1.6, e em versões anteriores, devido a mudanças recentes no PyPI. O Thonny 4.1.7 corrige esses problemas.</sub>
+  <sub>**Um problema conhecido no Thonny**: Os gerenciadores de pacotes e de plug-in estão quebrados no Thonny 4.1.6, e em versões anteriores, devido a mudanças recentes no PyPI. O Thonny 4.1.7 corrige esses problemas.</sub>
 - Se você está no Windows, [baixe e deszipe este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), abra o `thonny.exe` e pule para o passo 4 (*execute um pequeno exemplo*)!<br/>
   <sub>**Um problema conhecido no Windows**: Se o caminho da pasta do Thonny e do JDK Java contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5.</sub> 
 
