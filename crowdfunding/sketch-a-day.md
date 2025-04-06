@@ -7,10 +7,10 @@
 
 ---
 
-In November 26th, 2022 I [posted](https://mastodon.social/@villares/109410154364261178/) that if 10 people contributed at [villares.gumroad.com](https://villares.gumroad.com) I would record a live coding session discussing some work from [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day/) project!
+In November 26th, 2022 I [posted](https://mastodon.social/@villares/109410154364261178/) that if 10 people made donations I would record a live coding session discussing some work from [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day/) project!
 <br><sub>[Postei](https://mastodon.social/@villares/109410154364261178/) dia 26 de novembro que se 10 pessoas contribuissem no Gumroad eu iria gravar uma sessão de live coding explicando um trabalho do meu projeto sketch-a-day.</sub>
 
-Alternatively one can donate with [this PayPal link](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724) or even sending a Brazilian Pix (`46c37783-5edb-4f1c-b3a8-1309db11488c`).<br><sub>Você também pode doar com PayPal ou com pix.</sub>
+One can donate with [this PayPal link](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724) or sending a Brazilian Pix (`46c37783-5edb-4f1c-b3a8-1309db11488c`).<br><sub>Você pode doar com PayPal ou com pix.</sub>
 
 
 **First goal of 10 donors achieved!**
