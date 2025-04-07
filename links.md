@@ -1,4 +1,4 @@
-- ***You can support my work with:*** [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724), [Liberapay](https://liberapay.com/villares), or [Gumroad](https://gumroad.com/villares) (**para apoiar o meu trabalho**)
+- ***You can support my work with:*** [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724), [Liberapay](https://liberapay.com/villares), or [Wise](https://wise.com/pay/me/alexandrev562) (**para apoiar o meu trabalho**)
   - Would you like some **private classes** with me? Quer **aulas particulares** comigo? [email me / me escreva](https://abav.lugaralgum.com/contato)
 
 
@@ -12,7 +12,7 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
   - *Domestika Blog post in English* [*Design with Python: A Fusion of Art and Technology*](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
   - ... e em Português [Design com Python: uma fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
 
-- [**sketch-mail**](https://villares.gumroad.com/l/sketch-mail)  - *get my newsletter about creative coding, design and education* (receba meu boletim sobre programação criativa, design e ensino de programação)
+- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail)  - *get my newsletter about creative coding, design and education* (receba meu boletim sobre programação criativa, design e ensino de programação)
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) - ***Coding a visual idea a day*** (uma ideia visual por dia, usando programação).
 
