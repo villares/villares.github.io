@@ -8,11 +8,10 @@
 
 - [***My Domestika course*** Design com Python: programação para um contexto visual](
 https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) (*Portuguese with subtitles in English, Spanish and a few other languages*)
-  - **10% discount** in February! `A_B_A_VILLARES-MINUS10`
   - *Domestika Blog post in English* [*Design with Python: A Fusion of Art and Technology*](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
   - ... e em Português [Design com Python: uma fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
 
-- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail)  - *get my newsletter about creative coding, design and education* (receba meu boletim sobre programação criativa, design e ensino de programação)
+<!-- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail)  - *get my newsletter about creative coding, design and education* (receba meu boletim sobre programação criativa, design e ensino de programação) -->
 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) - ***Coding a visual idea a day*** (uma ideia visual por dia, usando programação).
 
@@ -26,4 +25,4 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
 
 - **Mastodon** [ciberlandia.pt/@villares](https://ciberlandia.pt/@villares) & [pynews.com.br/@villares](https://pynews.com.br/@villares).
 
-I/2025 [Alexandre B A Villares](https://abav.lugaralgum.com)
+IV/2025 [Alexandre B A Villares](https://abav.lugaralgum.com)
