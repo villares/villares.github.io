@@ -3,8 +3,6 @@
 [[English Version](index-EN.md)] [[version en español ](index-ES.md)]
 
 <h1 id="toc"></h1>
-
-<!-- ![thonny-logo](https://github.com/user-attachments/assets/67ac6c56-e199-4481-82c2-bb6c65afc87b) -->
 <!-- 
 ![thonny-logo](https://raw.githubusercontent.com/villares/villares.github.io/main/como-instalar-py5/thonny-logo.png) 
 -->
