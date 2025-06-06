@@ -5,9 +5,10 @@
 ### TL:DR;
 
 - To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).<br/>
-  <sub>**Known Thonny issue**: Package manager and plug-in manager panels are broken on Thonny 4.1.6 and earlier versions due to PyPI recent changes. Thonny 4.1.7 fixes them.</sub>
 - If you are on Windows, try to [download and unzip this "portable Thonny" package](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-05-28/thonny-417-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!<br/>
 
+  <sub>**Known (solved!) Thonny issue**: Package manager and plug-in manager panels are broken on Thonny 4.1.6, and earlier versions, due to PyPI recent changes. Thonny 4.1.7 fixes it.</sub>
+  
 ## What's this?
 
 [py5](https://github.com/py5coding) is a <ins title="Libraries are packages of complementary software functions made by other people to help you develop your own programs" style="text-decoration:underline; text-decoration-style: dotted;">library</ins> that allows us to use the vocabulary and graphical infrastructure of Processing with the Python programming language (Python 3).
@@ -18,7 +19,7 @@ Processing is originally based on the Java programming language, but today there
 
 To use *py5* you will need:
 
-- A **Python 3** interpreter (version 3.8 or later);
+- A **Python 3** interpreter (version 3.9 or later);
 - The **py5 library package** and its dependencies (other libraries it needs to work, such as JPype);
 - A **Java** (**JDK**), which *py5* needs for the Processing drawing infrastructure (JPype might look at the JAVA-HOME environment variable to find it);
 - Optionally, an **IDE** (Integrated Development Environment), a code-appropriate text editor that helps you write and run programs. Some people prefer to use *py5* on *Jupyter Notebooks* instead.
@@ -62,7 +63,7 @@ Open, select *Tools > Manage plug-ins...* from the menu…
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.01-manage-plug-ins.png)
 
-Search for **thonny-py5mode** and click on the install button.
+Search for **thonny-py5mode** (it needs to be typed exactly like this) and click on the install button.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
 
