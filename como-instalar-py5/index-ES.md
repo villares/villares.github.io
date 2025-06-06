@@ -7,8 +7,9 @@
 ### Resumen muy resumido
 
 - Para diseñar y experimentar con la programación creativa con Python,<br/>[sigue las siguientes instrucciones](#1-descargar-e-instalar-el-thonny-ide);<br/>
-  <sub>**¡Un problema conocido en Thonny!**: El gestor de paquetes y gestores de plug-in están rotos en Thonny 4.1.6 y versiones anteriores debido a los cambios recientes de PyPI. Thonny 4.1.7 los fija.</sub>
 - Si estás en Windows, [descarga y descomprime este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-05-28/thonny-417-with-py5-windows-portable.zip), abre `thonny.exe` y salta al paso 4 (Ejecuta un pequeño ejemplo)<br/>
+
+<sub>**¡Un problema conocido en Thonny!**: El gestor de paquetes y gestores de plug-in están rotos en Thonny 4.1.6 y versiones anteriores debido a los cambios recientes de PyPI. Thonny 4.1.7 los fija.</sub>
 
 ## ¿Qué es py5?
 
@@ -22,7 +23,7 @@ Processing se basa originalmente en el lenguaje de programación Java, pero hoy 
 
 Para usar **py5** necesitarás
 
-- Tener un intérprete de **Python 3** (versión 3.8 o posterior);
+- Tener un intérprete de **Python 3** (versión 3.9 o posterior);
 
 - Instalar la librería **py5** y sus dependencias (otras librerías que necesita para funcionar, como JPype);
 
