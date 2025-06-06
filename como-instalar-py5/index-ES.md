@@ -8,8 +8,7 @@
 
 - Para diseñar y experimentar con la programación creativa con Python,<br/>[sigue las siguientes instrucciones](#1-descargar-e-instalar-el-thonny-ide);<br/>
   <sub>**¡Un problema conocido en Thonny!**: El gestor de paquetes y gestores de plug-in están rotos en Thonny 4.1.6 y versiones anteriores debido a los cambios recientes de PyPI. Thonny 4.1.7 los fija.</sub>
-- Si estás en Windows, [descarga y descomprime este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), abre `thonny.exe` y salta al paso 4 (Ejecuta un pequeño ejemplo)<br/>
-  <sub>**¡Un problema conocido en Windows!**: Si la ruta de la carpeta de Thonny y de JDK Java contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5. **¡Evite usar carpetas con nombre acentuados!**</sub>
+- Si estás en Windows, [descarga y descomprime este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-05-28/thonny-417-with-py5-windows-portable.zip), abre `thonny.exe` y salta al paso 4 (Ejecuta un pequeño ejemplo)<br/>
 
 ## ¿Qué es py5?
 
