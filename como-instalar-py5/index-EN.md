@@ -11,7 +11,9 @@
   
 ## What's this?
 
-[py5](https://github.com/py5coding) is a <ins title="Libraries are packages of complementary software functions made by other people to help you develop your own programs" style="text-decoration:underline; text-decoration-style: dotted;">library</ins> that allows us to use the vocabulary and graphical infrastructure of Processing with the Python programming language (Python 3).
+[py5](https://github.com/py5coding) is a library<sup>⚹</sup> that allows us to use the vocabulary and graphical infrastructure of Processing with the Python programming language (Python 3).
+
+⚹ <sub>Libraries are packages of complementary software functions made by other people to help you develop your own programs.</sub>
 
 [Processing](http://processing.org/) is a Free and Open Source (FLOSS) programming platform started in 2001 by Casey Reas and Ben Fry, widely used by artists and designers, as well as for teaching programming in a visual context. It allows you to generate interactive software with the most diverse purposes and visual interfaces, as well as exporting bitmap/raster images (like PNG and JPG), animations or 2D and 3D vector files (like PDF and SVG, among others). The community enjoys a rich ecosystem of people who produce resources such as teaching examples and freely shared code libraries.
 
