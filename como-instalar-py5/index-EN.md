@@ -7,7 +7,7 @@
 - To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).<br/>
   <sub>**Known Thonny issue**: Package manager and plug-in manager panels are broken on Thonny 4.1.6 and earlier versions due to PyPI recent changes. Thonny 4.1.7 fixes them.</sub>
 - If you are on Windows, try to [download and unzip this "portable Thonny" package](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!<br/>
-  <sub>**Known Windows issue**: If the path to the folder where you keep Thonny with the Java JDK contains non-ASCII characters, [this will break jpype](https://github.com/jpype-project/jpype/issues/1111) and so it will break py5. Try moving Thonny to C:\.</sub>  
+  <sub>**Known Windows issue**: If the path to the folder where you keep Thonny with the Java JDK contains non-ASCII characters, [this will break jpype](https://github.com/jpype-project/jpype/issues/1111) and so it will break py5. Try moving Thonny to C:\.</sub>
 
 
 ## What's this?
@@ -31,7 +31,7 @@ To get all these things, this is an overview of the steps I propose and will des
 2. Inside *Thonny*...
     - a. Install the **py5** library (using the package manager);
     - b. Install the **thonny-py5mode** plug-in (using the extension manager); 
-3. Let the *thonny-py5mode* plug-in download and configure the **JDK** for you;
+3. Restart Thonny, activate *imported mode for py5* and let the plug-in download and configure the **JDK** for you;
 4. Check if everything is working, **run a small example!**
 5. (Extra) Learn about the difference betweeen **imported mode** and **module mode**. 
 
@@ -146,15 +146,19 @@ Note that you will need to use `import py5` at the beginning of your code, and `
 ### Useful resources for using py5
 
 - [official py5 documentation py5](http://py5coding.org/)
-- [examples in Jupyter Notebooks](https://github.com/py5coding/py5examples)
-- [tabreturn's py5 quick reference](https://github.com/tabreturn/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf)
 - The py5 [discussions](https://github.com/py5coding/py5generator/discussions) forum on GitHub
 - The py5 category at the [Processing Foundation Forum](https://discourse.processing.org/c/a-version-of-processing-for-python-38-to-work-with-other-popular-python-libraries-and-tools-such-as-jupyter-numpy-shapely-trimesh-matplotlib-and-pillow-built-to-work-with-popular-python-libraries-and-tools-such-as-jupyter-numpy-shapely-etc/28)
+- [examples in Jupyter Notebooks](https://github.com/py5coding/py5examples)
+- [tabreturn's py5 quick reference](https://github.com/tabreturn/processing.py-cheat-sheet/blob/pt-br/py5/py5_cc.pdf)
+- [sketch-a-day](https://abav.lugaralgum.com/sketch-a-day), my daily drawings with code, mostly with py5!
 
 ### Acknowledgments
 
-Very special thanks to [Jim](https://ixora.io/), creator of py5, the maintainers of [Thonny IDE](https://github.com/thonny/), and [tabreturn](https://portfolio.tabreturn.com/) who made the *thonny-py5mode* plugin, which makes installing and using py5 much easier, most of the step-by-step part and all the images came from the installing intructions at his page, I just added some context and comments!
+Very special thanks to [Jim](https://ixora.io/), creator of py5, the maintainers of [Thonny IDE](https://github.com/thonny/), and [tabreturn](https://portfolio.tabreturn.com/) who made the *thonny-py5mode* plugin, which makes installing and using py5 much easier, the inspiration and images came from the installing intructions at his page.
 
+### Please support my work
+
+You can support my artistic work, research and open educational resources I publish on-line with [Liberapay](https://liberapay.com/villares), [Wise](https://wise.com/pay/me/alexandrev562) (preferred) or [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724).
 ---
 
 Alexandre B A Villares ([abav.lugaralgum.com](https://abav.lugaralgum.com/)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
