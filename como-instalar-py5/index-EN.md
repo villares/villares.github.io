@@ -5,22 +5,24 @@
 ### TL:DR;
 
 - To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).<br/>
-  <sub>**Known Thonny issue**: Package manager and plug-in manager panels are broken on Thonny 4.1.6 and earlier versions due to PyPI recent changes. Thonny 4.1.7 fixes them.</sub>
-- If you are on Windows, try to [download and unzip this "portable Thonny" package](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!<br/>
-  <sub>**Known Windows issue**: If the path to the folder where you keep Thonny with the Java JDK contains non-ASCII characters, [this will break jpype](https://github.com/jpype-project/jpype/issues/1111) and so it will break py5. Try moving Thonny to C:\.</sub>
 
+- If you are on Windows, try to [download and unzip this "portable Thonny" package](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-05-28/thonny-417-with-py5-windows-portable.zip), double-click `thonny.exe` and skip to step 4!<br/>
 
+ <sub>**Known solved issues**: Package manager and plug-in manager panels are broken on Thonny 4.1.6, and earlier versions, due to PyPI recent changes. Thonny 4.1.7 fixes it, and py5 0.10.6 (with jpype 1.5.2) should solve non-ASCII path issues!</sub>
+  
 ## What's this?
 
-[py5](https://github.com/py5coding) is a <ins title="Libraries are packages of complementary software functions made by other people to help you develop your own programs" style="text-decoration:underline; text-decoration-style: dotted;">library</ins> that allows us to use the vocabulary and graphical infrastructure of Processing with the Python programming language (Python 3).
+[py5](https://github.com/py5coding) is a library<sup>⚹</sup> that allows us to use the vocabulary and graphical infrastructure of Processing with the Python programming language (Python 3).
+
+⚹ <sub>Libraries are packages of complementary software functions made by other people to help you develop your own programs.</sub>
 
 [Processing](http://processing.org/) is a Free and Open Source (FLOSS) programming platform started in 2001 by Casey Reas and Ben Fry, widely used by artists and designers, as well as for teaching programming in a visual context. It allows you to generate interactive software with the most diverse purposes and visual interfaces, as well as exporting bitmap/raster images (like PNG and JPG), animations or 2D and 3D vector files (like PDF and SVG, among others). The community enjoys a rich ecosystem of people who produce resources such as teaching examples and freely shared code libraries.
 
-Processing is originally based on the Java programming language, but today there are several projects that develop Processing ideas with other languages, such as *p5js* with Javascript, *Processing Python mode* (inside the Processing IDE) using Python 2.7 (Jython), *pyp5js* using pyodide (a Python in your browser that can talk to *p5js*), and now *py5* with Python 3 (CPython).
+Processing is originally based on the Java programming language, but today there are several projects that develop Processing ideas with other languages, such as *p5js* with Javascript, legacy *Processing Python mode* (inside the Processing IDE) using Python 2.7 (Jython), *pyp5js* using pyodide (a Python in your browser that can talk to *p5js*), and *py5* with Python 3 (CPython).
 
 To use *py5* you will need:
 
-- A **Python 3** interpreter (version 3.8 or later);
+- A **Python 3** interpreter (version 3.9 or later);
 - The **py5 library package** and its dependencies (other libraries it needs to work, such as JPype);
 - A **Java** (**JDK**), which *py5* needs for the Processing drawing infrastructure (JPype might look at the JAVA-HOME environment variable to find it);
 - Optionally, an **IDE** (Integrated Development Environment), a code-appropriate text editor that helps you write and run programs. Some people prefer to use *py5* on *Jupyter Notebooks* instead.
@@ -64,7 +66,7 @@ Open, select *Tools > Manage plug-ins...* from the menu…
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.01-manage-plug-ins.png)
 
-Search for **thonny-py5mode** and click on the install button.
+Search for **thonny-py5mode** (it needs to be typed exactly like this) and click on the install button.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
 
