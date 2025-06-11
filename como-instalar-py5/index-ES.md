@@ -7,7 +7,7 @@
 ### Resumen muy resumido
 
 - Para diseñar y experimentar con la programación creativa con Python,<br/>[sigue las siguientes instrucciones](#1-descargar-e-instalar-el-thonny-ide);<br/>
-- Si estás en Windows, [descarga y descomprime este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r2.zip), abre `thonny.exe` y salta al paso 4 (Ejecuta un pequeño ejemplo)<br/>
+- Si estás en Windows, [descarga y descomprime este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip), abre `thonny.exe` y salta al paso 4 (Ejecuta un pequeño ejemplo)<br/>
 
 <sub>**¡Un problema conocido en Thonny!**: El gestor de paquetes y gestores de plug-in están rotos en Thonny 4.1.6 y versiones anteriores debido a los cambios recientes de PyPI. Thonny 4.1.7 los fija.</sub>
 
