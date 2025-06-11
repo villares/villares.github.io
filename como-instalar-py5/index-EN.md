@@ -6,7 +6,7 @@
 
 - To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).<br/>
 
-- If you are on Windows, try to [download and unzip this "portable Thonny" package](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r2.zip), double-click `thonny.exe` and skip to step 4!<br/>
+- If you are on Windows, try to [download and unzip this "portable Thonny" package](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip), double-click `thonny.exe` and skip to step 4!<br/>
 
  <sub>**Known solved issues**: Package manager and plug-in manager panels are broken on Thonny 4.1.6, and earlier versions, due to PyPI recent changes. Thonny 4.1.7 fixes it, and py5 0.10.6 (with jpype 1.5.2) should solve non-ASCII path issues!</sub>
   
