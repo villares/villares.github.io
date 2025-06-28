@@ -25,25 +25,23 @@
 
 Processing é baseada originalmente na linguagem de programação Java, mas hoje existem diversos projetos que desenvolvem as ideias do Processing com outras linguagens, como é o caso do *p5js* com Javascript,  *pyp5js* (combinando o Python no browser, pyodide, e *p5js*), e agora o **py5** com Python 3. 
 
-Para usar **py5** você vai precisar:
+Abaixo você encontra as instruções passo a passo para instalar um ambiente de trabalho com **Python** e o **py5** em um editor de código (IDE) chamado **Thonny**.
 
-- Ter um interpretador **Python 3** (versão 3.9 ou mais recente);
-
-- Instalar a biblioteca **py5** e suas dependências (outras bibliotecas das quais ela precisa para funcionar, como o JPype);
-
-- Um **Java (JDK)**, que o py5 precisa para a infraestrutura de desenho, e o seu JPype precisa saber onde ele está, por meio da variável JAVA-HOME;
-
-- Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que facilita também executar os programas escritos por você. Algumas pessoas preferem escrever Python em *Jupyter Notebooks*, é legal também mas não é o foco deste passo a passo.
-
-A sugestão aqui é seguir os seguintes passos: 
-
-1. Baixar e instalar o **Thonny IDE** que vem com um Python 3.10 ou mais recente;
-2. Dentro do *Thonny* instalar a biblioteca (package) **py5**; 
-3. Instalar a extensão (plug-in), **thonny-py5mode**. Quando acionado pela primeira vez, o plug-in *thonny-py5mode* instala e configura o **JDK** para você;
-4. Confira se tudo está funcioando **execute um pequeno exemplo!**
-5. (Extra) Aprenda sobre a diferença entre o **imported mode** e o **module mode**.
-
-<sub>Caso isso não dê certo, uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.</sub>
+> **Caso você tenha curiosidade**, estes são os detalhes do que você vai precisar **pode pular esta parte se quiser**:
+>
+> - Ter um interpretador **Python 3** (versão 3.9 ou mais recente);
+> - Instalar a biblioteca **py5** e suas dependências (outras bibliotecas das quais ela precisa para funcionar, como o JPype);
+> - Um **Java (JDK)**, que o py5 precisa para a infraestrutura de desenho, e o seu JPype precisa saber onde ele está, por meio da variável JAVA-HOME;
+> - Um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que facilita também executar os programas escritos por você. Algumas pessoas preferem escrever Python em *Jupyter Notebooks*, é legal também mas não é o foco deste passo a passo.
+>
+> A sugestão aqui é seguir os seguintes passos: 
+> 1. Baixar e instalar o **Thonny IDE** que vem com um Python 3.10 ou mais recente;
+> 2. Dentro do *Thonny* instalar a biblioteca (package) **py5**; 
+> 3. Instalar a extensão (plug-in), **thonny-py5mode**. Quando acionado pela primeira vez, o plug-in *thonny-py5mode* instala e configura o **JDK** para você;
+> 4. Confira se tudo está funcioando **execute um pequeno exemplo!**
+> 5. (Extra) Aprenda sobre a diferença entre o **imported mode** e o **module mode**.
+> 
+> **Caso a instalçaõ proposta aqui não dê certo*, uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
 
 ## 1. Baixe e instale o Thonny IDE
 
