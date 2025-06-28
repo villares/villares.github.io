@@ -159,7 +159,12 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
 
 ### Agradecimentos
 
-Agradecimentos muito especiais ao criador do *py5*, [Jim](https://ixora.io/), aos mantenedores do IDE [Thonny](https://github.com/thonny/), e ao [tabreturn](https://portfolio.tabreturn.com/) que fez o plug-in *thonny-py5mode*, que facilita demais a instalação e uso do *py5*, as instruções em inglês dele são o ponto de partida destas instruções e fonte das imagens todas!
+Agradecimentos muito especiais ao criador do *py5*, [Jim](https://ixora.io/), aos mantenedores do IDE [Thonny](https://github.com/thonny/), e ao [tabreturn](https://portfolio.tabreturn.com/) que fez o plug-in *thonny-py5mode*, que facilita demais a instalação e uso do *py5*, as instruções em inglês dele são o ponto de partida destas instruções e fonte de algumas das imagens todas!
+
+### Por favor, apoie o meu trabalho
+
+Você pode apoiar minhas pesquisas, as contribuições para o py5 e materiais didáticos abertos que eu produzo, fazendo uma doação via [Liberapay](https://liberapay.com/villares), [Wise](https://wise.com/pay/me/alexandrev562), [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724) ou *PIX*: `46c37783-5edb-4f1c-b3a8-1309db11488c`
+
 
 --- 
 
