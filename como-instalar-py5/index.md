@@ -12,9 +12,6 @@
 - Para desenhar e experimentar programação criativa com Python, <br> [siga as instruções abaixo](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);<br>
 - Se você está no Windows, [baixe e deszipe este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip), abra o `thonny.exe` e pule para o passo 4 (*execute um pequeno exemplo*)!<br/>
 
-  <sub>**Um problema conhecido no Thonny que foi resolvido**: Os gerenciadores de pacotes e de plug-in quebraram em versões anteriores (4.1.6 para trás) do Thonny, devido a mudanças no PyPI. O Thonny 4.1.7 corrige esses problemas.</sub>
-  <sub>**Um problema conhecido do py5 no Windows que também parece ter sido resolvido**: Se o caminho da pasta do Thonny contivesse pastas com nomes com acento isso quebrava o py5.</sub> 
-
 ## O que é isso?
 
 [**py5**](https://github.com/py5coding) é uma biblioteca<sup>⚹</sup> que permite o uso do vocabulário e da infraestrutura gráfica do **Processing** em conjunto com a mais recente versão da linguagem **Python**.
@@ -42,6 +39,8 @@ Caso você tenha curiosidade, abaixo tem os detalhes técnicos, mas **pode pular
 > 5. (Extra) Aprenda sobre a diferença entre o **imported mode** e o **module mode**.
 > 
 > **Caso os passos de instalação propostos aqui não funcionem**, uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
+>  **Um problema conhecido no Thonny que foi resolvido**: Os gerenciadores de pacotes e de plug-in quebraram em versões anteriores (4.1.6 para trás) do Thonny, devido a mudanças no PyPI. O Thonny 4.1.7 corrige esses problemas.
+> **Um problema conhecido do py5 no Windows que também parece ter sido resolvido**: Se o caminho da pasta do Thonny contivesse pastas com nomes com acento isso quebrava o py5.
 
 ## 1. Baixe e instale o Thonny IDE
 
@@ -72,9 +71,13 @@ Ainda no Thonny, selecione no menu *Tools > Manage plug-ins...* ou, em portuguê
 
 Procure o plug-in __thonny-py5mode__ e peça para instalar.
 
-![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
+![2025-06-28_11-26](https://github.com/user-attachments/assets/8281fe0d-b2c7-4512-af6b-14ff0fcbd906)
 
-Você precisa __reiniciar o Thonny depois deste epasso__, e em seguida, __permitir que o plug-in baixe o JDK__.
+Clique no primeiro link em azul <ins>thonny-py5mode</ins>.
+
+![2025-06-28_11-27](https://github.com/user-attachments/assets/65f56a52-391e-4486-8ce8-c669524c7c9c)
+
+Clique no botão "Install", quando terminar, você vai precisar __reiniciar o Thonny depois deste epasso__, e em seguida, __permitir que o plug-in baixe o JDK__.
 
 Uma vez reiniciado deve aparecer um novo menu *py5* na interface do Thonny, acione a opção  *py5 > Imported mode for py5* e depois clique em OK na janela de diálogo.
 
@@ -84,7 +87,7 @@ Quando acionada pela primeira vez esta opção, o plug-in vai baixar, extrair e 
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.02-download-jdk.png)
 
-Aparece este aviso quando terminou.
+Deve aparecer este aviso quando terminou.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.03-download-jdk-done.png)
 
