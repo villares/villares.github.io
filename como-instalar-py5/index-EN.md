@@ -161,6 +161,7 @@ Very special thanks to [Jim](https://ixora.io/), creator of py5, the maintainers
 ### Please support my work
 
 You can support my artistic work, research and open educational resources I publish on-line with [Liberapay](https://liberapay.com/villares), [Wise](https://wise.com/pay/me/alexandrev562) (preferred) or [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724).
+
 ---
 
 Alexandre B A Villares ([abav.lugaralgum.com](https://abav.lugaralgum.com/)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
