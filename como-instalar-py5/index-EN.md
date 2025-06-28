@@ -156,11 +156,11 @@ Note that you will need to use `import py5` at the beginning of your code, and `
 
 ### Acknowledgments
 
-Very special thanks to [Jim](https://ixora.io/), creator of py5, the maintainers of [Thonny IDE](https://github.com/thonny/), and [tabreturn](https://portfolio.tabreturn.com/) who made the *thonny-py5mode* plugin, which makes installing and using py5 much easier, the inspiration and images came from the installing intructions at his page.
+Very special thanks to [Jim](https://ixora.io/), creator of py5, the maintainers of [Thonny IDE](https://github.com/thonny/), and [tabreturn](https://portfolio.tabreturn.com/) who made the *thonny-py5mode* plugin, which makes installing and using py5 much easier, the inspiration and some images came from the installing intructions at his page.
 
 ### Please support my work
 
-You can support my artistic work, research and open educational resources I publish on-line with [Liberapay](https://liberapay.com/villares), [Wise](https://wise.com/pay/me/alexandrev562) (preferred) or [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724).
+You can support my artistic work, research, py5 contributions, and open educational resources I publish on-line with [Liberapay](https://liberapay.com/villares), [Wise](https://wise.com/pay/me/alexandrev562) (preferred) or [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724).
 
 ---
 
