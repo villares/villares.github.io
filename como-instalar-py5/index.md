@@ -27,8 +27,8 @@ Processing é baseada originalmente na linguagem de programação Java, mas hoje
 
 Abaixo você encontra as instruções passo a passo para instalar um ambiente de trabalho com **Python** e o **py5** em um editor de código (IDE) chamado **Thonny**.
 
-> **Caso você tenha curiosidade**, estes são os detalhes do que você vai precisar **pode pular esta parte se quiser**:
->
+Caso você tenha curiosidade, abaixo tem os detalhes técnicos, mas **pode pular esta parte se quiser**:
+> Você vai precisar:
 > - Ter um interpretador **Python 3** (versão 3.9 ou mais recente);
 > - Instalar a biblioteca **py5** e suas dependências (outras bibliotecas das quais ela precisa para funcionar, como o JPype);
 > - Um **Java (JDK)**, que o py5 precisa para a infraestrutura de desenho, e o seu JPype precisa saber onde ele está, por meio da variável JAVA-HOME;
@@ -41,7 +41,7 @@ Abaixo você encontra as instruções passo a passo para instalar um ambiente de
 > 4. Confira se tudo está funcioando **execute um pequeno exemplo!**
 > 5. (Extra) Aprenda sobre a diferença entre o **imported mode** e o **module mode**.
 > 
-> **Caso a instalçaõ proposta aqui não dê certo*, uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
+> **Caso os passos de instalação propostos aqui não funcionem**, uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
 
 ## 1. Baixe e instale o Thonny IDE
 
