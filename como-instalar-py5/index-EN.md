@@ -16,9 +16,9 @@
 
 [Processing](http://processing.org/) is a Free and Open Source (FLOSS) programming platform started in 2001 by Casey Reas and Ben Fry, widely used by artists and designers, as well as for teaching programming in a visual context. It allows you to generate interactive software with the most diverse purposes and visual interfaces, as well as exporting bitmap/raster images (like PNG and JPG), animations or 2D and 3D vector files (like PDF and SVG, among others). The community enjoys a rich ecosystem of people who produce resources such as teaching examples and freely shared code libraries.
 
-Processing is originally based on the Java programming language, but today there are several projects that develop Processing ideas with other languages, such as *p5js* with Javascript, legacy *Processing Python mode* (inside the Processing IDE) using Python 2.7 (Jython), *pyp5js* using pyodide (a Python in your browser that can talk to *p5js*), and *py5* with Python 3 (CPython).
+Processing is originally based on the Java programming language, but today there are several projects that develop Processing ideas with other languages, such as *P5.js* with the Javascript language in the browser. The *py5* project uses Python 3 (*CPython*) and the complete Processing graphics infrastructure on the desktop. There is also the *pyp5js* project using a Python in the browser called *pyodide* and *P5.js* for the graphics.
 
-**If you are curious**, below you'll find the technical details of what you'll need, **otherwise you can safely skip reading**:
+**If you are curious**, below you'll find the technical details of what you'll need, **otherwise you can safely skip reading this part**:
 > - You'll need a **Python 3** interpreter (version 3.9 or later);
 > - Install the **py5 library package** and its dependencies (other libraries it needs to work, such as JPype);
 > - Provide a **Java** (**JDK**), which *py5* needs for the Processing drawing infrastructure (JPype might look at the JAVA-HOME environment variable to find it);
