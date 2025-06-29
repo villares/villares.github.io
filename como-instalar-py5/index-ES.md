@@ -9,7 +9,6 @@
 - Para diseñar y experimentar con la programación creativa con Python,<br/>[sigue las siguientes instrucciones](#1-descargar-e-instalar-el-thonny-ide);<br/>
 - Si estás en Windows, [descarga y descomprime este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip), abre `thonny.exe` y salta al paso 4 (Ejecuta un pequeño ejemplo)<br/>
 
-<sub>**¡Un problema conocido en Thonny!**: El gestor de paquetes y gestores de plug-in están rotos en Thonny 4.1.6 y versiones anteriores debido a los cambios recientes de PyPI. Thonny 4.1.7 los fija.</sub>
 
 ## ¿Qué es py5?
 
@@ -19,27 +18,23 @@
 
 [**Processing**](https://processing.org) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para enseñar la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
 
-Processing se basa originalmente en el lenguaje de programación Java, pero hoy en día existen varios proyectos que desarrollan las ideas de Processing con otros lenguajes, como *p5js* con Javascript, *pyp5js* (combinando Python en el navegador, pyodide, y *p5js*), y ahora **py5** con Python 3.
+Processing se basa originalmente en el lenguaje de programación Java, pero hoy en día existen varios proyectos que desarrollan las ideas de Processing con otros lenguajes, como *P5.js* con Javascript, y ahora **py5** con Python 3 (*CPython). Tanbién hay *pyp5js* combinando Python en el navegador, *pyodide*, y *P5.js*.
 
-Para usar **py5** necesitarás
-
-- Tener un intérprete de **Python 3** (versión 3.9 o posterior);
-
-- Instalar la librería **py5** y sus dependencias (otras librerías que necesita para funcionar, como JPype);
-
-- Un **Java (JDK)**, que py5 necesita para la infraestructura de dibujo, y tu JPype necesita saber dónde está, a través de la variable JAVA-HOME;
-
-- Un **IDE** (de las siglas em inglés de entorno de desarrollo integrado), en pocas palabras, un editor de texto adecuado para código, que también facilita la ejecución de los programas que escribes. Algunas personas prefieren escribir Python en *Jupyter Notebooks*, que también está bien pero no es el objetivo de este paso a paso.
+Detalles técnicos por si tienes curiosidad:
+> - Necesitarás tener un intérprete de **Python 3** (versión 3.9 o posterior);
+> - Instalar la librería **py5** y sus dependencias (otras librerías que necesita para funcionar, como JPype);
+> - Tener un **Java (JDK)**, que py5 necesita para la infraestructura de dibujo, y tu JPype necesita saber dónde está, a través de la variable JAVA-HOME;
+> - Elija un **IDE** (de las siglas em inglés de Entorno de Desarrollo Integrado), en pocas palabras, un editor de texto adecuado para código, que también facilita la ejecución de los programas que escribes. Algunas personas prefieren escribir Python en *Jupyter Notebooks*, que también está bien pero no es el objetivo de este paso a paso.
+>>
+>  **Si eso no funciona**, otra forma de conseguir todo lo que necesitas es seguir las instrucciones de la [documentación de py5](https://py5coding.org/content/install.html), empezando por instalar una distribución Anaconda o miniconda, que viene con un Python y el gestor de paquetes *conda*, para instalar *, y luego instalar también el JDK.
+> **Problemas conocidos fijados**: El gestor de paquetes y gestores de plug-in están rotos en Thonny 4.1.6 y versiones anteriores debido a los cambios recientes de PyPI. Thonny 4.1.7 los fija. Tener Thonny en carpetas con nombres acentuados ya no daña py5.
 
 Se sugiere aquí es seguir los siguientes pasos:
-
 1. Descargar e instalar el **Thonny IDE** que viene con Python 3.10 o posterior;
 2. Instalar el paquete **py5** dentro de *Thonny*;
 3. Instalar la extensión (plug-in), **thonny-py5mode**. Cuando se ejecuta por primera vez, el plug-in *thonny-py5mode* instala y configura el **JDK** por ti;
 4. Comprueba que todo funciona **ejecutando un pequeño ejemplo**.
 5. (Extra) Aprende la diferencia entre el **imported mode** y el **module mode**.
-
-Si eso no funciona, otra forma de conseguir todo lo que necesitas es seguir las instrucciones de la [documentación de py5](https://py5coding.org/content/install.html), empezando por instalar una distribución Anaconda o miniconda, que viene con un Python y el gestor de paquetes *conda*, para instalar *, y luego instalar también el JDK.
 
 ## 1\. Descargar e instalar el Thonny IDE
 
@@ -48,7 +43,6 @@ Comienza instalando el Thonny IDE
 - Para Windows:
   - ¡Prueba [descargar y descomprimir este archivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), haz doble clic en thonny `.exe` y podrás saltar al paso 4!
   - o instálalo ejecutando el instalador [thonny-4.1.7.exe](https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.exe) y continúe con el paso 2.
-  - **Un problema en Windows**: Si la ruta de la carpeta de Thonny, y del Java JDK, contiene carpetas con nombres acentuados [esto rompe jpype](https://github.com/jpype-project/jpype/issues/1111) y por lo tanto rompe py5. Si, por ejemplo, tu nombre de usuario tiene acentos, intenta mover Thonny a una carpeta directamente debajo de `C:\.`
 
 - Para MacOS: descarga y ejecuta el instalador [thonny-4.1.7.pkg](https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.pkg)
 
@@ -58,19 +52,26 @@ Comienza instalando el Thonny IDE
 
 ## 2\. Instala la librería *py5*
 
-Una vez abierto Thonny, selecciona *Tools* (Herramientas) > *Manage packages* (Gestionar paquetes) en el menú.
+Una vez abierto Thonny, selecciona **Tools** (Herramientas) > **Manage packages...** (Gestionar paquetes) en el menú.
+
+![2025-06-29_10-11](https://github.com/user-attachments/assets/6b1a5732-5abf-4d5b-9c13-c1a94eef1d15)
 
 Busca la librería **py5** y pide que se instale.
 
+![2025-06-29_11-33](https://github.com/user-attachments/assets/be90df82-0b58-4912-932e-83b4953158ee)
+
+
 ## 3\. Instala el plugin *thonny-py5mode*
 
-Todavía en Thonny, selecciona *Tools* (Herramientas) >*Manage plug-ins* (Administra plugins) en el menú.
+Todavía en Thonny, selecciona **Tools** (Herramientas) > **Manage plug-ins...** (Administra plugins) en el menú.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.01-manage-plug-ins.png)
 
+![2025-06-28_11-26](https://github.com/user-attachments/assets/e0e08207-dca8-42af-add7-53d1d73cad65)
+
 Busque el plugin **thonny-py5mode** y pida que se instale.
 
-![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.02-install-plug-in.png)
+![2025-06-28_11-27](https://github.com/user-attachments/assets/c9a5c12b-3dba-4d5c-aa4b-a6057ae21104)
 
 Es necesario **reiniciar Thonny después de este paso**, y luego **permitir que el plugin descargue el JDK**.
 
