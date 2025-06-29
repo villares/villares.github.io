@@ -25,7 +25,7 @@ Detalles técnicos por si tienes curiosidad:
 > - Instalar la librería **py5** y sus dependencias (otras librerías que necesita para funcionar, como JPype);
 > - Tener un **Java (JDK)**, que py5 necesita para la infraestructura de dibujo, y tu JPype necesita saber dónde está, a través de la variable JAVA-HOME;
 > - Elija un **IDE** (de las siglas em inglés de Entorno de Desarrollo Integrado), en pocas palabras, un editor de texto adecuado para código, que también facilita la ejecución de los programas que escribes. Algunas personas prefieren escribir Python en *Jupyter Notebooks*, que también está bien pero no es el objetivo de este paso a paso.
->>
+>
 >  **Si eso no funciona**, otra forma de conseguir todo lo que necesitas es seguir las instrucciones de la [documentación de py5](https://py5coding.org/content/install.html), empezando por instalar una distribución Anaconda o miniconda, que viene con un Python y el gestor de paquetes *conda*, para instalar *, y luego instalar también el JDK.
 > **Problemas conocidos fijados**: El gestor de paquetes y gestores de plug-in están rotos en Thonny 4.1.6 y versiones anteriores debido a los cambios recientes de PyPI. Thonny 4.1.7 los fija. Tener Thonny en carpetas con nombres acentuados ya no daña py5.
 
