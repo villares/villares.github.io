@@ -50,17 +50,17 @@ To get all these things, this is an overview of the steps described in detail be
 
 ### 2. Install the *py5* library
 
-Open, select *Tools > Manage packages...* from the menu…
+Launch Thonny, and to install the *py5* library, select **Tools > Manage packages...** on the menu, and search for **py5**.
 
 ![2025-06-29_10-11](https://github.com/user-attachments/assets/6b1a5732-5abf-4d5b-9c13-c1a94eef1d15)
 
-Search for **py5** and click on the install button.
+Click on the <strong><ins>py5<ins></strong> blue link, and then on the **Install** button.
 
 ![2025-06-29_11-33](https://github.com/user-attachments/assets/be90df82-0b58-4912-932e-83b4953158ee)
 
 ### 3. Install the *thonny-py5mode* plug-in
 
-Open, select *Tools > Manage plug-ins...* from the menu…
+Now on **a different panel** you get from the **Tools > Manage plug-ins...** menu item. 
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/03.01-manage-plug-ins.png)
 
@@ -68,19 +68,19 @@ Search for **thonny-py5mode** it needs to be typed exactly like this.
 
 ![2025-06-28_11-26](https://github.com/user-attachments/assets/8281fe0d-b2c7-4512-af6b-14ff0fcbd906)
 
-Click on the blue <ins>thonny-py5mode</ins> link.
+Click on the blue <strong><ins>thonny-py5mode</ins></strong> link.
 
 ![2025-06-28_11-27](https://github.com/user-attachments/assets/65f56a52-391e-4486-8ce8-c669524c7c9c)
 
-Click on the install button, you'll need to __restart Thonny after this!!!__
+Click on the **Install** button. When the installation is complete, you'll need to __restart Thonny__.
 
-Once restarted, a new *py5* menu should appear in Thonny's interface, click on the **py5 > Imported mode for py5** menu option and then click OK in the dialog window that appears.
+Once restarted, a new ***py5* menu** should appear in Thonny's interface, click on the **py5 > Imported mode for py5** menu option. 
+
+When you first select this, the plug-in will download, extract and configure the JDK for you (in Thonny's user-config directory). 
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
 
-When you first select this, the plug-in will download, extract and configure the JDK for you (in Thonny's user-config directory). This process can be quite lengthy depending on your connection, but it only happens the first time you select the menu option.
-
-**Thonny's window may appear frozen** as it downloads and configures the JDK, don't despair!**
+Allow it to proceed, and be patient as this process can be lengthy depending on your connection, but it only happens the first time you select the menu option.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.02-download-jdk.png)
 
