@@ -18,7 +18,7 @@
 
 [**Processing**](https://processing.org) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para enseñar la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
 
-Processing se basa originalmente en el lenguaje de programación Java, pero hoy en día existen varios proyectos que desarrollan las ideas de Processing con otros lenguajes, como *P5.js* con Javascript, y ahora **py5** con Python 3 (*CPython). Tanbién hay *pyp5js* combinando Python en el navegador, *pyodide*, y *P5.js*.
+Processing se basa originalmente en el lenguaje de programación Java, pero hoy en día existen varios proyectos que desarrollan las ideas de Processing con otros lenguajes, como *P5.js* con Javascript, y ahora **py5** con Python 3 (*CPython*). Tanbién hay *pyp5js* combinando Python en el navegador, *pyodide*, y *P5.js*.
 
 Detalles técnicos por si tienes curiosidad:
 > - Necesitarás tener un intérprete de **Python 3** (versión 3.9 o posterior);
