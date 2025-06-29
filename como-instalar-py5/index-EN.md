@@ -6,7 +6,7 @@
 
 - To draw and experiment some creative coding with Python [follow the instructions below](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html#1-download-and-install-the-thonny-ide).<br/>
 
-- If you are on Windows, try to [download and unzip this "portable Thonny" package](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip), double-click `thonny.exe` and skip to step 4!<br/>
+- If you are on Windows, try to [download and unzip this "portable Thonny" package](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip), double-click `thonny.exe` and [skip to step 4](#4-run-a-small-example-to-check-everything-is-working)!<br/>
   
 ## What's this?
 
@@ -23,24 +23,22 @@ Processing is originally based on the Java programming language, but today there
 > - Install the **py5 library package** and its dependencies (other libraries it needs to work, such as JPype);
 > - Provide a **Java** (**JDK**), which *py5* needs for the Processing drawing infrastructure (JPype might look at the JAVA-HOME environment variable to find it);
 > - Pick an **IDE** (Integrated Development Environment), a code-appropriate text editor that helps you write and run programs. Some people prefer to use *py5* on *Jupyter Notebooks* instead.
->
-> To get all these things, this is an overview of the steps I propose and will describe in detail below:
-> 1. Download and install a version of the **Thonny IDE** that comes with Python 3.10 or greater;
-> 2. Inside *Thonny*...
->    - a. Install the **py5** library (using the package manager);
->    - b. Install the **thonny-py5mode** plug-in (using the extension manager); 
-> 3. Restart Thonny, activate *imported mode for py5* and let the plug-in download and configure the **JDK** for you;
-> 4. Check if everything is working, **run a small example!**
-> 5. (Extra) Learn about the difference betweeen **imported mode** and **module mode**. 
-> 
+>> 
 > **If these steps fail for any reason**, another way to get everything you need is to follow the instructions at the [py5 documentation](https://py5coding.org/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK*).
 > **Known solved issues**: The Thonny package manager and plug-in manager panels are broken on Thonny 4.1.6 and earlier versions, due to PyPI recent changes. Thonny 4.1.7 fixes it, and py5 0.10.6 (with jpype 1.5.2) should also solve non-ASCII path issues!
+
+To get all these things, this is an overview of the steps described in detail below:
+1. Download and install a version of the **Thonny IDE** that comes with Python 3.10 or greater;
+2. Install the **py5** library using the **Tools > Package manager...** panel;
+3. Install the **thonny-py5mode** plug-in using the **Tools > Manage plug-ins...** panel, **restart Thonny**, and then activate **py5 > Imported mode for py5** so it will download the **JDK** for you;
+4. Check if everything is working, **run a small example!**
+5. (Extra) Learn about the difference betweeen **imported mode** and **module mode**. 
 
 ### 1. Download and install the Thonny IDE
 
 - For Windows: 
 
-    - Try to **[download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip)**, double-click `thonny.exe` and skip to step 4!
+    - Try to **[download and unzip this portanble](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip)**, double-click `thonny.exe` and [skip to step 4](#4-run-a-small-example-to-check-everything-is-working)!
     - or get a Thonny installer from [the repository releases](https://github.com/thonny/thonny/releases/)
 
 - For MacOS: get an installer from [the repository releases](https://github.com/thonny/thonny/releases/)
@@ -50,13 +48,17 @@ Processing is originally based on the Java programming language, but today there
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/02-start-splash.png)
 
 
-### 2a. Install the *py5* library
+### 2. Install the *py5* library
 
 Open, select *Tools > Manage packages...* from the menu…
 
+![2025-06-29_10-11](https://github.com/user-attachments/assets/6b1a5732-5abf-4d5b-9c13-c1a94eef1d15)
+
 Search for **py5** and click on the install button.
 
-### 2b. Install the *thonny-py5mode* plug-in
+![2025-06-29_11-33](https://github.com/user-attachments/assets/be90df82-0b58-4912-932e-83b4953158ee)
+
+### 3. Install the *thonny-py5mode* plug-in
 
 Open, select *Tools > Manage plug-ins...* from the menu…
 
@@ -70,11 +72,9 @@ Click on the blue <ins>thonny-py5mode</ins> link.
 
 ![2025-06-28_11-27](https://github.com/user-attachments/assets/65f56a52-391e-4486-8ce8-c669524c7c9c)
 
-Click on the install button, you'll need to __restart Thonny after this step!!!__
+Click on the install button, you'll need to __restart Thonny after this!!!__
 
-### 3. Allow the *thonny-py5mode* plug-in to download the Java JDK
-
-Once restarted, a new *py5* menu should appear in Thonny's interface, click on the *py5 > Imported mode for py5* menu option and then click OK in the dialog window that appears.
+Once restarted, a new *py5* menu should appear in Thonny's interface, click on the **py5 > Imported mode for py5** menu option and then click OK in the dialog window that appears.
 
 ![](https://raw.githubusercontent.com/tabreturn/thonny-py5mode/main/screenshots/04.01-activate-imported-mode.png)
 
