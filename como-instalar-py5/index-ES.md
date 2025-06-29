@@ -160,5 +160,9 @@ Un agradecimiento especial al creador de *py5*, [Jim](https://ixora.io/), a los 
 
 - Gracias a [@ifrit](https://masto.ai/@ifrit) por corregir la traducción.
 
+### Por favor apoya mi trabajo
+
+Puedes apoyar mi trabajo artístico, mi investigación, mis contribuciones a py5 y los recursos educativos abiertos que publico con [Liberapay](https://liberapay.com/villares), [Wise](https://wise.com/pay/me/alexandrev562) y [PayPal](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724).
+
 ---
 Alexandre B A Villares[(abav.lugaralgum.com](https://abav.lugaralgum.com)), [Licencia CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
