@@ -10,7 +10,7 @@
 ### Resumo muito resumido
 
 - Para desenhar e experimentar programação criativa com Python, <br> [siga as instruções abaixo](https://abav.lugaralgum.com/como-instalar-py5/#1-baixe-e-instale-o-thonny-ide);<br>
-- Se você está no Windows, [baixe e deszipe este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip), abra o `thonny.exe` e pule para o passo 4 (*execute um pequeno exemplo*)!<br/>
+- Se você está no Windows, [baixe e deszipe este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip), abra o `thonny.exe` e pule para o passo [*4. Execute um pequeno exemplo*](#4-execute-um-pequeno-exemplo)!<br/>
 
 ## O que é isso?
 
@@ -30,23 +30,23 @@ Caso você tenha curiosidade, abaixo tem os detalhes técnicos do que você vai 
 > - Ter um **Java (JDK)**, que o py5 precisa para a infraestrutura de desenho, e o seu JPype precisa saber onde ele está, por meio da variável JAVA-HOME;
 > - Escolher um **IDE** (da sigla em inglês para ambiente integrado de desenvolvimento), simplificando, é um editor de texto apropriado para código, que facilita também executar os programas escritos por você. Algumas pessoas preferem escrever Python em *Jupyter Notebooks*, é legal também mas não é o foco deste passo a passo.
 >
-> A sugestão aqui é seguir os seguintes passos: 
-> 1. Baixar e instalar o **Thonny IDE** que vem com um Python 3.10 ou mais recente;
-> 2. Dentro do *Thonny* instalar a biblioteca (package) **py5**; 
-> 3. Instalar a extensão (plug-in), **thonny-py5mode**. Quando acionado pela primeira vez, o plug-in *thonny-py5mode* instala e configura o **JDK** para você;
-> 4. Confira se tudo está funcioando **execute um pequeno exemplo!**
-> 5. (Extra) Aprenda sobre a diferença entre o **imported mode** e o **module mode**.
-> 
 > **Caso os passos de instalação propostos aqui não funcionem**, uma outra maneira de obter tudo que precisa é seguir as instruções em [py5 documentation](https://py5coding.org/content/install.html), começando por instalar uma distribuição Anaconda ou miniconda, que vem com um Python e o gerenciador de pacotes *conda*, para instalar *py5*, e depois instalar o JDK também.
 >  **Um problema conhecido no Thonny que foi resolvido**: Os gerenciadores de pacotes e de plug-in quebraram em versões anteriores (4.1.6 para trás) do Thonny, devido a mudanças no PyPI. O Thonny 4.1.7 corrige esses problemas.
 > **Um problema conhecido do py5 no Windows que também parece ter sido resolvido**: Se o caminho da pasta do Thonny contivesse pastas com nomes com acento isso quebrava o py5.
 
+A sugestão aqui é seguir os seguintes passos detalhados mais abaixo: 
+1. Baixar e instalar o **Thonny IDE** que vem com um Python 3.10 ou mais recente;
+2. Dentro do *Thonny* instalar a biblioteca (package) **py5**; 
+3. Instalar a extensão (plug-in), **thonny-py5mode**. Quando acionado pela primeira vez, o menu **py5 > imported mode for py5** instala e configura o **JDK** para você;
+4. Confira se tudo está funcioando **execute um pequeno exemplo!**
+5. (Extra) Aprenda sobre a diferença entre o **imported mode** e o **module mode**.
+ 
 ## 1. Baixe e instale o Thonny IDE
 
 Comece instalando o **Thonny IDE**.
 
 - Para Windows:
-    - Experimente [baixar e deszipar este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-12-17/thonny-417-with-py5-windows-portable.zip), faça um clique duplo em `thonny.exe` e pode pular para o passo 4!
+    - Experimente [baixar e deszipar este arquivo](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip), faça um clique duplo em `thonny.exe` e pode pular para o passo [4. Execute um pequeno exemplo](#4-execute-um-pequeno-exemplo)!
     - ou instale executando o instalador [thonny-4.1.7.exe](https://github.com/thonny/thonny/releases/download/v4.1.7/thonny-4.1.7.exe) e continue no passo 2.
      - **Um problema conhecido no Windows**: Se o caminho da pasta do Thonny, e do JDK Java, contiver pastas com nomes com acento [isso quebra o jpype](https://github.com/jpype-project/jpype/issues/1111) e por isso quebra o py5. Se, por exemplo, o seu nome de usuário tem acentos, experimente mover o Thonny para uma pasta direto em `C:\`.
 
