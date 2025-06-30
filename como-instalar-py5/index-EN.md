@@ -23,7 +23,7 @@ Processing is originally based on the Java programming language, but today there
 > - Install the **py5 library package** and its dependencies (other libraries it needs to work, such as JPype);
 > - Provide a **Java** (**JDK**), which *py5* needs for the Processing drawing infrastructure (JPype might look at the JAVA-HOME environment variable to find it);
 > - Pick an **IDE** (Integrated Development Environment), a code-appropriate text editor that helps you write and run programs. Some people prefer to use *py5* on *Jupyter Notebooks* instead.
->> 
+>
 > **If these steps fail for any reason**, another way to get everything you need is to follow the instructions at the [py5 documentation](https://py5coding.org/content/install.html), starting with installing *miniconda*, which comes with Python and the *conda* package manager, to install *py5*, and then following the instructions for installing and setting up *Java* (*JDK*).
 > **Known solved issues**: The Thonny package manager and plug-in manager panels are broken on Thonny 4.1.6 and earlier versions, due to PyPI recent changes. Thonny 4.1.7 fixes it, and py5 0.10.6 (with jpype 1.5.2) should also solve non-ASCII path issues!
 
