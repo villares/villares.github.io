@@ -2,11 +2,8 @@
 
 # Como instalar o Processing modo Python
 
-
-> **Atenção**
-> O **Processing modo Python** não é compatível com as versões mais novas do Processing IDE 4.X., por issso,
-> a menos que você precise executar projetos desenvolvidos nele (`.pyde`) a recomendação é de que novos projetos
-> sejam iniciados com a bibilioteca **py5**, sobre a qual você pode ler em: [como instalar py5](https://abav.lugaralgum.com/como-instalar-py5/index.html)
+> [!WARNING]
+> **Atenção**, o **Processing modo Python** não é compatível com as versões mais novas do Processing IDE 4.X., por issso, a menos que você precise executar projetos desenvolvidos nele (`.pyde`) a recomendação é de que novos projetos sejam iniciados com a bibilioteca **py5**. Saiba mais em: [como instalar e usar py5](https://abav.lugaralgum.com/como-instalar-py5/index.html)
 
 ### O que é isso?
 
