@@ -2,7 +2,8 @@
 
 # How to install Processing Python Mode
 
-> **Warning:**
+> [!WARNING]
+> 
 > Only use **Processing Python Mode** if you need to run legacy projects that depend on it. Also, it is incompatible with Processing 4.x. If you are starting to learn Processing and Python, check out "[How to install and use **py5**](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html)" instead.
 
 ### What's this?
@@ -13,8 +14,8 @@ With Processing you can not only generate raster and vector graphics, but intera
 
 Standard Processing is based on the **Java** programming language but there are two other projects supported by the Processing Foundation that you might want to try:
 
--   [P5\*JS](https://p5js.org/) (a **JavaScript** library );
--   [Processing Python Mode](https://py.processing.org/) (based on Jython, a **Python 2.7** implementation running on the JVM).
+- [P5\*JS](https://p5js.org/) (a **JavaScript** library );
+- [Processing Python Mode](https://py.processing.org/) (based on Jython, a **Python 2.7** implementation running on the JVM).
 
 Both can be added to the traditional Processing IDE. So let's see **how to install Processing Python Mode** (which hopefully is the reason you are reading this).
 
@@ -34,9 +35,10 @@ On macOS it's almost the same, and on Linux, you can open a Terminal window, poi
 
 ![step3](images/passo3.png)
 
-#### 4. Select the Python Mode on the list and click *Install* to get it. 
+#### 4. Select the Python Mode on the list and click *Install* to get it.
 
 ![step4](images/passo4.png)
+
 > \[If this fails, see more instructions down below].
 
 #### 5. Check if installation has finished with a green mark and select "Python" at the modes menu!
@@ -46,6 +48,7 @@ You might need to close and open again the Processing IDE. A *Processing* folder
 ![step5](images/passo5.png)
 
 **Notes:**
+
 - If you are under some restrictive proxy our without Internet acess you can download [PyhtonMode.zip](http://py.processing.org/3/PythonMode.zip) and manualy copy it (on Windows & Mac OS) under *Documentos &gt; Processing &gt; modes &gt;* PythonMode. On Linux, under your *sketchbook* folder/material-aulas. 
 - Firewalls may disturb Python Mode as there is a helper process that tries to connect online. 
 - Another known issue is working with non-ASCII OS usernames & paths.
