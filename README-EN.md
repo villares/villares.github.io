@@ -20,7 +20,7 @@ A teacher, visual artist and design consultant specializing in new media project
 
 - [**desenho()**](https://desenho.lugaralgum.com) desenho sem argumentos (drawing without arguments) is an independent publication that explores creative coding and the zine/poster space.
 
-- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Updates on my computational art / creative coding and education work
+<!-- - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Updates on my computational art / creative coding and education work -->
 
 ### 2024
 

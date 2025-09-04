@@ -4,4 +4,4 @@ If you appreciate the things I have been doing, artistic work, research, free an
 - [PayPal donation link](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724);
 - [Wise](https://wise.com/pay/me/alexandrev562) 
 - Brazilan PIX key `46c37783-5edb-4f1c-b3a8-1309db11488c`.
-You can also subscribe to my [[sketch-mail](https://abav.lugaralgum.com/sketch-mail)] newsletter);
+

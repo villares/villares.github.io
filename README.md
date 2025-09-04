@@ -20,7 +20,7 @@ Professor, artista visual e consultor em projetos de novas mídias, pesquisa pr�
 
 - [**desenho()**](https://desenho.lugaralgum.com) desenho sem argumentos é uma publicação independente que explora a programação criativa e espaços dos zines/pôsters.
 
-- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Boletim sobre  arte computacional, programação criativa e educação.
+<!-- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Boletim sobre  arte computacional, programação criativa e educação. -->
 
 #### 2024
 
