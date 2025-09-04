@@ -2,9 +2,12 @@
 
 Extract font contours and make 3D meshes out of them with py5 [py5coding.org](https://py5coding.org) and friends!
 
+You can suppor my work with a [donation](https://abav.lugaralgum.com/support-me/) or buying something from, like a T-Shirt or sticker with this image! Check out;
+
+- Redbubble: https://www.redbubble.com/people/villares/shop
+- Uma Penca: https://umapenca.com/villares/
 
 ![](result.png)
-
 
 ```python
 """
