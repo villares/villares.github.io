@@ -1,9 +1,10 @@
 # Fab four Python libraries
 
-![](py5band-Allerta-AltSpcFalse.png)
+Extract font contours and make 3D meshes out of them with py5 [py5coding.org](https://py5coding.org) and friends!
 
-Extract font contours and make 3D meshes out of them with py5 <py5coding.org>
-and friends!
+
+![](result.png)
+
 
 ```python
 """
