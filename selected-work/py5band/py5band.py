@@ -77,7 +77,8 @@ def polys_from_text(
         if glyph_polys:  # there are still empty glyphs at this point
             glyph_shapes = process_glyphs(glyph_polys)
             results.append(glyph_shapes)
-    return shapely.GeometryCollection(results)
+    # return GeometryCollection, .buffer(0) helps remove some artifacts
+    return shapely.GeometryCollection(results).buffer(0)
 
 def process_glyphs(polys: list[shapely.Polygon]) -> shapely.MultiPolygon:
     """

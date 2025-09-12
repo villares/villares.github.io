@@ -31,6 +31,7 @@ import numpy as np
 import shapely
 import trimesh
 
+
 def polys_from_text(
     words: str,
     font: py5.Py5Font,
@@ -89,7 +90,9 @@ def polys_from_text(
         if glyph_polys:  # there are still empty glyphs at this point
             glyph_shapes = process_glyphs(glyph_polys)
             results.append(glyph_shapes)
-    return shapely.GeometryCollection(results)
+    # return GeometryCollection, .buffer(0) helps remove some artifacts
+    return shapely.GeometryCollection(results).buffer(0)
+
 
 def process_glyphs(polys: list[shapely.Polygon]) -> shapely.MultiPolygon:
     """
@@ -108,6 +111,7 @@ def process_glyphs(polys: list[shapely.Polygon]) -> shapely.MultiPolygon:
             results.append(p)
     return shapely.MultiPolygon(results).buffer(0.15)
 
+
 def extrude_polys(
     polys: shapely.Polygon | shapely.MultiPolygon | shapely.GeometryCollection,
     depth: float) -> trimesh.Trimesh:
@@ -122,6 +126,7 @@ def extrude_polys(
             if isinstance(geom, (shapely.MultiPolygon, shapely.Polygon))
             ])
 
+
 def draw_mesh(m):
     """Desenha malha trimesh reduzindo arestas coplanares."""
     vs = m.vertices
@@ -135,6 +140,7 @@ def draw_mesh(m):
     # desenha apenas as linhas dos limites das facetas
     a, b = np.vstack(bs).T
     py5.lines(np.column_stack((vs[a], vs[b])))
+    
 
 if __name__ == '__main__':
     
