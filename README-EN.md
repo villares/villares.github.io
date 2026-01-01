@@ -22,15 +22,32 @@ Teacher, visual artist, and new media project consultant, he researches artistic
 
 <!-- - [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Updates on my computational art / creative coding and education work -->
 
-### 2024
+### 2026
 
+- **MAM-SP** courses
+    - [Arte computacional: produzindo imagens reticuladas](https://mam.org.br/curso/arte-computacional-produzindo-imagens-reticuladas/)
+    - Desenhando com código: programação criativa 
+
+
+#### 2025
+
+- **Compoética 2025** Brazilian creative coding meet up
+    - Workshop: Desenhando plantas e outras formas intrincadas com L-System [gravação](https://www.youtube.com/watch?v=T_DjJQuLlmc)
+
+- **Python Brasil 2025** 
+    - Tutorial *Exploring 2D and 3D geometry libraries in Python*, with Jim Schmitz
+    
+- **Estratégias visuais no ensino introdutório de programação** (*Visual strategies in the introductory teaching of programming*(
+    - PhD defense at FECFAU-Unicamp, October 10th 2025
+
+#### 2024
 
 - **Python Cerrado 2024 \| Plone Conference 2024** - Brasília, tutorial [Creative Coding with Python: first steps with py5](https://2024.ploneconf.org/en/schedule/training/programacao-criativa-com-python-primeiros-passos-com-py5)
 
 - **MAM-SP** course - [drawing with code](https://mam.org.br/curso/desenhando-com-codigo-programacao-criativa/), 6 classes.
 
 
-- **Pycon US 2044**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/)
+- **Pycon US 2024**, tutorial [First steps in Creative Coding, learning Python while making drawings and animations](https://us.pycon.org/2024/schedule/presentation/116/)
 
 - Appearence at Eduardo Mendes' **Live de Python #260** [**Criando desenhos com py5: programação criativa**](https://www.youtube.com/watch?v=dAnIWmJ-2NI)  
 
@@ -39,7 +56,7 @@ Teacher, visual artist, and new media project consultant, he researches artistic
 - Launch of my Domestika course: [**Designing with Python: Programming for a Visual Context**](https://www.domestika.org/en/courses/4307-designing-with-python-programming-for-a-visual-context/a_b_a_villares)
    - Blog post [Design with Python: A Fusion of Art and Technology](https://www.domestika.org/pt/blog/12310-design-with-python-a-fusion-of-art-and-technology?ttag=a_b_a_villares)
 
-### 2023
+#### 2023
 
 - [**Recordings**](https://form.jotform.com/233352075438658) de **Python para quem curte Processing e vice-versa*** (*programação criativa pra quem curte Python). 
 
@@ -56,7 +73,7 @@ Teacher, visual artist, and new media project consultant, he researches artistic
 - [Paper objects with Processing and Python](https://abav.lugaralgum.com/Paper-objects-with-Processing-and-Python/) 
    - Rewriten for py5.
 
-#### 2021 - 2022
+##### 2021 - 2022
 
 - Processing Community Day Coimbra 2022
     - **Webs of collaboration** - selected work that can be seen at [exhibition](https://pcdcoimbra.dei.uc.pt/2022/).
@@ -97,7 +114,7 @@ Teacher, visual artist, and new media project consultant, he researches artistic
 
 - [Processing Community Day @ Porto, Portugal, 2021](https://pcd.fba.up.pt/2021/) - Online Processing Python mode introductory workshop (PT).
  
-#### 2019 - 2020
+##### 2019 - 2020
 
 - Python Brasil 2019 - Ribeirão Preto (Brazilian PyCon)
 
@@ -115,7 +132,7 @@ Teacher, visual artist, and new media project consultant, he researches artistic
 - [Creative Coding Course Open Resources](http://arteprog.space/programacao-criativa), [Processando Processing](http://arteprog.space/Processando-Processing) project and related projects with Monica Rizzolli
 
 
-#### 2017 - 2018
+##### 2017 - 2018
 
 - [Writing for **Esquina**](https://web.archive.org/web/20201128041827/https://www.esquina.net.br/author/alexandre-vilares/) [with Monica Rizzolli]
 
@@ -127,7 +144,7 @@ Teacher, visual artist, and new media project consultant, he researches artistic
 
 - [Ensino de programação em um contexto de exploração gráfica com Processing modo Python](https://villares.github.io/mestrado/VILLARES_MOREIRA_GOMES_GRAPHICA_2017) GRAPHICA 2017: XII International Conference on Graphics Engineering for Arts and Design. 2017 [with Daniel de Carvalho Moreira e Monica Rizzolli]
 
-#### 2015 - 2016
+##### 2015 - 2016
 
 - *[Resources for teaching programming for artists, designers and architects](https://github.com/villares/Resources-for-teaching-programming)*
 

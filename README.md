@@ -22,6 +22,27 @@ Professor, artista visual e consultor em projetos de novas mídias, pesquisa pr�
 
 <!-- [**sketch-mail**](https://abav.lugaralgum.com/sketch-mail) Boletim sobre  arte computacional, programação criativa e educação. -->
 
+
+#### 2026
+
+- Cursos no **MAM-SP**
+    - [Arte computacional: produzindo imagens reticuladas](https://mam.org.br/curso/arte-computacional-produzindo-imagens-reticuladas/) (dias 14, 21, 28 de janeiro de 2026)
+
+    - Desenhando com código: programação criativa (dias 10, 17, 24 e 31 de março e 07 e 14 de abril de 2026)
+
+
+#### 2025
+
+- **Compoética 2025** encontro brasileiro de programação criativa
+    - Oficina: Desenhando plantas e outras formas intrincadas com L-System [gravação](https://www.youtube.com/watch?v=T_DjJQuLlmc)
+
+- **Python Brasil 2025** 
+    - Tutorial *Exploring 2D and 3D geometry libraries in Python*, com Jim Schmitz
+    
+- **Estratégias visuais no ensino introdutório de programação**
+    - Tese de doutorado defendida na FECFAU-Unicamp em 10 de outubro de 2025
+    
+
 #### 2024
 
 - [**Curso na Domestika**](https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-contexto-visual/a_b_a_villares) Design com Python: programação para um contexto visual
@@ -149,6 +170,10 @@ Professor, artista visual e consultor em projetos de novas mídias, pesquisa pr�
 - [BeerPaint: Tutorial básico de MIT App Inventor](https://gumroad.com/l/kXiHW)
 
 ### Atividades docentes
+
+
+- Professor na Unversidade Presbiteriana Mackenzie, desde 2024
+    - Introdução à programação textual (com Python) - Pós-graduação
 
 - Professor na *École Intuit Lab*, linguagem digital e programação criativa, desde 2023
 
