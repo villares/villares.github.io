@@ -1,4 +1,4 @@
-
+- **Cursos no MAM-SP: [mam.org.br/cursos](https://mam.org.br/cursos)** 
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) ***Coding a visual idea a day*** (uma ideia visual por dia, usando programação).
 - [***How to install and start using py5***](https://abav.lugaralgum.com/como-instalar-py5/index-EN.html), *to draw and explore creative coding with Python.*<br>
 ([**Como instalar e começar a usar a biblioteca py5**](https://abav.lugaralgum.com/como-instalar-py5/), para desenhar e explorar programação criativa com Python.)
