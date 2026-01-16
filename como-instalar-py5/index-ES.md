@@ -12,9 +12,9 @@
 
 ## ¿Qué es py5?
 
-[**py5**](https://github.com/py5coding) es una librería<sup>⚹</sup> que permite utilizar el vocabulario y la infraestructura gráfica de **Processing** con la última versión del lenguaje **Python**.
+[**py5**](https://github.com/py5coding) es una librería<sup>✳</sup> que permite utilizar el vocabulario y la infraestructura gráfica de **Processing** con la última versión del lenguaje **Python**.
 
-<sub>⚹ Las librerías son paquetes de código con funciones complementarias ya hechas, desarrolladas de antemano, para ayudar al desarrollo de nuevos programas.</sub>
+<sub>✳ Las librerías son paquetes de código con funciones complementarias ya hechas, desarrolladas de antemano, para ayudar al desarrollo de nuevos programas.</sub>
 
 [**Processing**](https://processing.org) es una plataforma de programación libre/abierta muy utilizada por artistas y diseñadores, así como para enseñar la programación en un contexto visual. Con ella se puede escribir software interactivo con los más diversos propósitos e interfaces visuales, así como exportar imágenes de mapa de bits (PNG, JPG), animaciones o archivos vectoriales 2D y 3D (PDF y SVG entre otros). La comunidad disfruta de un rico ecosistema de personas que producen recursos como ejemplos didácticos y bibliotecas de código compartidas libremente.
 
