@@ -25,6 +25,8 @@ Professor, artista visual e consultor em projetos de novas mídias, pesquisa pr�
 
 #### 2026
 
+- Ateliê aberto de desenho e programação do Sesc Av. Paulista (fevereiro, março e abril)
+
 - Cursos no **MAM-SP**
     - [Arte computacional: produzindo imagens reticuladas](https://mam.org.br/curso/arte-computacional-produzindo-imagens-reticuladas/) (dias 14, 21, 28 de janeiro de 2026)
 
