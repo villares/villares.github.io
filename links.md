@@ -1,4 +1,5 @@
-- **Curso no MAM-SP** em março: **[desenhando com código:: programação criativa](https://mam.org.br/curso/desenhando-com-codigo-programacao-criativa-2/)** 
+- **Curso no MAM-SP** em março **[desenhando com código: programação criativa](https://mam.org.br/curso/desenhando-com-codigo-programacao-criativa-2/)** 
+    - últimos dias para se inscrever!
 - *Would you like some **private classes** with me?* Quer **aulas particulares** comigo? [email me / me escreva](https://abav.lugaralgum.com/contato)
 - [**sketch-a-day**](https://abav.lugaralgum.com/sketch-a-day) ***Coding a visual idea a day*** (uma ideia visual por dia, usando programação).
 - Material didático aberto [**Introdução à programação com Python em um contexto visual**](https://abav.lugaralgum.com/material-aulas/)
@@ -16,4 +17,4 @@ https://www.domestika.org/pt/courses/4307-design-com-python-programacao-para-um-
   - ... e em Português [Design com Python: uma fusão de arte e tecnologia](https://www.domestika.org/pt/blog/12306-design-com-python-um-fusao-de-arte-e-tecnologia?ttag=a_b_a_villares)
 - **Mastodon** [ciberlandia.pt/@villares](https://ciberlandia.pt/@villares) & [pynews.com.br/@villares](https://pynews.com.br/@villares).
 
-2/III/2026 [Alexandre B A Villares](https://abav.lugaralgum.com) <- *more about me!*
+4/III/2026 [Alexandre B A Villares](https://abav.lugaralgum.com) <- *more about me!*
